@@ -1,0 +1,109 @@
+# 每日安全资讯（2022-10-16）
+
+- SecWiki News
+  - [ ] [SecWiki News 2022-10-15 Review](http://www.sec-wiki.com/?2022-10-15)
+- unSafe.sh - 不安全
+  - [ ] [31个！Golang常用工具来啦（建议收藏）](https://buaq.net/go-131029.html)
+  - [ ] [【 电工实训仿真教学软件 】适合从事电工的朋友！！！！](https://buaq.net/go-131039.html)
+  - [ ] [Red Team C2 Log Visualization](https://buaq.net/go-131014.html)
+  - [ ] [GodGenesis - A Python3 Based C2 Server To Make Life Of Red Teamer A Bit Easier. The Payload Is Capable To Bypass All The Known Antiviruses And Endpoints](https://buaq.net/go-131013.html)
+  - [ ] [How Meltdown and Spectre haunt Anti-Cheat: DVRT details](https://buaq.net/go-131011.html)
+  - [ ] [中汽数据助力2022 SDC，携手共建安全新生态](https://buaq.net/go-131025.html)
+  - [ ] [2022 SDC 倒计时8天！圆桌会谈：供应链安全](https://buaq.net/go-131023.html)
+  - [ ] [小小做题家之——musl 1.2.2的利用手法](https://buaq.net/go-131024.html)
+  - [ ] [Unicorn 高级逆向与反混淆](https://buaq.net/go-131022.html)
+  - [ ] [给本子安装 manjaro 出现无法关机的解决办法 - 糖醋鱼的小破站](https://buaq.net/go-130991.html)
+  - [ ] [从配色选择到系统功能妙用：这些技巧让 iPhone 更有个性](https://buaq.net/go-131003.html)
+  - [ ] [前瞻：也许没有发布会的十月，我们还能期待哪些 Apple 新品？](https://buaq.net/go-130990.html)
+  - [ ] [终于等到你，订阅软件时隔 1 年 3 个月再次限免](https://buaq.net/go-131038.html)
+  - [ ] [GoodSync 12 首次限免，跨平台文件同步工具](https://buaq.net/go-130983.html)
+- Twitter @Nicolas Krassas
+  - [ ] [HTB: Perspective](https://twitter.com/Dinosn/status/1581361024267014146)
+  - [ ] [New PHP Version of Ducktail info-stealer hijacks Facebook Business accounts](https://twitter.com/Dinosn/status/1581360892306128897)
+  - [ ] [GodGenesis - A Python3 Based C2 Server To Make Life Of Red Teamer A Bit Easier. The Payload Is Capable To Bypass All The Known Antiviruses And Endpoin...](https://twitter.com/Dinosn/status/1581297111920168960)
+  - [ ] [Events Ripper](https://twitter.com/Dinosn/status/1581297031691522048)
+  - [ ] [Palo Alto Networks fixed a high-severity auth bypass flaw in PAN-OS](https://twitter.com/Dinosn/status/1581296769488412672)
+  - [ ] [RT Ali Beydoun | 19: CLI C2 That I Developed With The Help Of @RET2_pwn & Can Do The Following: ✅Http Listeners ✅Generate Payloads ✅SQLITE Database...](https://twitter.com/itscyberali/status/1581274778610307074)
+  - [ ] [Student jailed for hacking female classmates’ email, Snapchat accounts](https://twitter.com/Dinosn/status/1581173801928491010)
+  - [ ] [Store credit card numbers in a debug log, lose millions of accounts. Cost? $1.9m](https://twitter.com/Dinosn/status/1581173690150309888)
+  - [ ] ['Baby Al Capone' to pay $22m to SIM-swap crypto-heist victim](https://twitter.com/Dinosn/status/1581171539524755456)
+  - [ ] [Indian Energy Company Tata Power's IT Infrastructure Hit By Cyber Attack](https://twitter.com/Dinosn/status/1581171476891586561)
+  - [ ] [Experts disclose technical details of now-patched CVE-2022-37969 Windows Zero-Day](https://twitter.com/Dinosn/status/1581171412563152897)
+  - [ ] [RT ϻг_ϻε: Now you see why we still cover Phar deserialization in Full Stack Web Attack!](https://twitter.com/steventseeley/status/1581129940707074049)
+  - [ ] [RT blueblue: GitHub - Warxim/CVE-2022-41852: CVE-2022-41852 Proof of Concept (unofficial) -](https://twitter.com/piedpiper1616/status/1581097770882326529)
+- CXSECURITY Database RSS Feed - CXSecurity.com
+  - [ ] [WordPress Zephyr Project Manager 3.2.42 SQL Injection](https://cxsecurity.com/issue/WLB-2022100038)
+- 嘶吼 RoarTalk – 回归最本质的信息安全,互联网安全新媒体,4hou.com
+  - [ ] [研究人员从西门子PLC中提取主加密密钥](https://www.4hou.com/posts/zlz7)
+  - [ ] [攻击者如何在攻击中滥用原生 Linux 工具](https://www.4hou.com/posts/PJln)
+- Security Boulevard
+  - [ ] [What is Threatening Your Data?](https://securityboulevard.com/2022/10/what-is-threatening-your-data/)
+  - [ ] [BSidesLV 2022 Lucky13 Hire Ground – Steve Winterfeld’s ‘Find Your North Star’](https://securityboulevard.com/2022/10/bsideslv-2022-lucky13-hire-ground-steve-winterfelds-find-your-north-star/)
+  - [ ] [Anti-Money Laundering Service AMLBot Cleans House](https://securityboulevard.com/2022/10/anti-money-laundering-service-amlbot-cleans-house/)
+- Sploitus.com Exploits RSS Feed
+  - [ ] [Exploit for Injection in Atlassian Confluence Data Center exploit](https://sploitus.com/exploit?id=252F889F-2BFB-5D8D-B1CD-63075FB7EC34&utm_source=rss&utm_medium=rss)
+  - [ ] [Exploit for Injection in Sophos Firewall exploit](https://sploitus.com/exploit?id=FA1424FC-DEEC-59EB-A204-0082D635BE7E&utm_source=rss&utm_medium=rss)
+  - [ ] [Exploit for CVE-2022-40684 exploit](https://sploitus.com/exploit?id=84344B5F-D0D1-5F17-B938-9A8849618A51&utm_source=rss&utm_medium=rss)
+- Recent Commits to cve:main
+  - [ ] [Update Sat Oct 15 10:15:49 UTC 2022](https://github.com/trickest/cve/commit/04c9a6ccf2676bcb357a454849a053b6ed771509)
+- SAP Blogs
+  - [ ] [Change Record in S4HANA – A New Look to ECR/ECO in S4HANA](https://blogs.sap.com/2022/10/15/change-record-in-s4hana-a-new-look-to-ecr-eco-in-s4hana/)
+  - [ ] [AWS EC2 OS patching automation for SAP Landscape](https://blogs.sap.com/2022/10/15/aws-ec2-os-patching-automation-for-sap-landscape/)
+  - [ ] [Experience SAP Inside Track Bangalore 2022 with Visual Impressions](https://blogs.sap.com/2022/10/15/experience-sap-inside-track-bangalore-2022-with-visual-impressions/)
+- Malwarebytes Labs
+  - [ ] [FBI, CISA warn of disinformation ahead of midterms](https://www.malwarebytes.com/blog/news/2022/10/fbi-and-cisa-urge-americans-to-be-critical-of-information-in-light-of-midterm-election)
+- Reverse Engineering
+  - [ ] [How Meltdown and Spectre haunt Anti-Cheat: DVRT details](https://www.reddit.com/r/ReverseEngineering/comments/y4l5y1/how_meltdown_and_spectre_haunt_anticheat_dvrt/)
+- Malware-Traffic-Analysis.net - Blog Entries
+  - [ ] [2022-10-14 - bb02 Qakbot (Qbot) infection](https://www.malware-traffic-analysis.net/2022/10/14/index.html)
+- 博客园 - nice_0e3
+  - [ ] [解读 Permission 注解权限认证流程 - nice_0e3](https://www.cnblogs.com/nice0e3/p/16794557.html)
+- 博客园 - admin-神风
+  - [ ] [Apache Commons Text远程代码执行漏洞(CVE-2022-42889)分析 - admin-神风](https://www.cnblogs.com/wh4am1/p/16795499.html)
+- Twitter @Octagon Networks
+  - [ ] [RT GreyNoise: Tag is out for CVE-2022-22241, a pre-authentication Phar deserialization vulnerability in Juniper JunOS, discovered by @PaulosYibelo and...](https://twitter.com/GreyNoiseIO/status/1581111245695918080)
+- 奇客Solidot–传递最新科技情报
+  - [ ] [马斯克要求五角大楼支付 Starlink 费用](https://www.solidot.org/story?sid=73068)
+  - [ ] [Crew Dragon 过去两年运送的宇航员数量超过其他国家](https://www.solidot.org/story?sid=73067)
+  - [ ] [墨西哥毒枭与华人地下钱庄合作洗钱](https://www.solidot.org/story?sid=73066)
+  - [ ] [英伟达取消发布 RTX 4080 12GB 显卡](https://www.solidot.org/story?sid=73065)
+- 杨龙
+  - [ ] [PHP交换两个int变量的值（$a ^ $b	Xor（按位异或）	将把 $a 和 $b 中一个为 1 另一个为 0 的位设为 1。）](https://www.yanglong.pro/php%e4%ba%a4%e6%8d%a2%e4%b8%a4%e4%b8%aaint%e5%8f%98%e9%87%8f%e7%9a%84%e5%80%bc%ef%bc%88a-bxor%ef%bc%88%e6%8c%89%e4%bd%8d%e5%bc%82%e6%88%96%ef%bc%89%e5%b0%86%e6%8a%8a-a-%e5%92%8c-b-%e4%b8%ad/)
+- KitPloit - PenTest & Hacking Tools
+  - [ ] [GodGenesis - A Python3 Based C2 Server To Make Life Of Red Teamer A Bit Easier. The Payload Is Capable To Bypass All The Known Antiviruses And Endpoints](http://www.kitploit.com/2022/10/godgenesis-python3-based-c2-server-to.html)
+- Over Security - Cybersecurity news aggregator
+  - [ ] [Almost 900 servers hacked using Zimbra zero-day flaw](https://www.bleepingcomputer.com/news/security/almost-900-servers-hacked-using-zimbra-zero-day-flaw/)
+  - [ ] [Fortinet urges admins to patch bug with public exploit immediately](https://www.bleepingcomputer.com/news/security/fortinet-urges-admins-to-patch-bug-with-public-exploit-immediately/)
+  - [ ] [Over 45,000 VMware ESXi servers just reached end-of-life](https://www.bleepingcomputer.com/news/security/over-45-000-vmware-esxi-servers-just-reached-end-of-life/)
+  - [ ] [Anti-Money Laundering Service AMLBot Cleans House](https://krebsonsecurity.com/2022/10/anti-money-laundering-service-amlbot-cleans-house/)
+  - [ ] [Matteo G.P. Flora on Twitter](https://twitter.com/lastknight/status/1581213514571476992?s=12&t=11QY2crc3emReYafuOePDQ)
+- Il Disinformatico
+  - [ ] [Bentornata Samantha! Prima conferenza stampa il 18/10, diretta streaming](http://attivissimo.blogspot.com/2022/10/bentornata-samantha-prima-conferenza.html)
+- SANS Internet Storm Center, InfoCON: green
+  - [ ] [Malware - Covid Vaccination Supplier Declaration, (Sat, Oct 15th)](https://isc.sans.edu/diary/rss/29150)
+- Arturo Di Corinto
+  - [ ] [Cybersecurity: cosa spaventa gli addetti ai lavori](https://dicorinto.it/temi/cybersecurity-temi/cybersecurity-cosa-spaventa-gli-addetti-ai-lavori/)
+- Security Affairs
+  - [ ] [New PHP Version of Ducktail info-stealer hijacks Facebook Business accounts](https://securityaffairs.co/wordpress/137145/malware/ducktail-php-targets-facebook.html)
+  - [ ] [Palo Alto Networks fixed a high-severity auth bypass flaw in PAN-OS](https://securityaffairs.co/wordpress/137138/security/palo-alto-networks-pan-os-flaw-3.html)
+  - [ ] [Indian power generation giant Tata Power hit by a cyber attack](https://securityaffairs.co/wordpress/137130/hacking/tata-power-cyber-attack.html)
+- Krebs on Security
+  - [ ] [Anti-Money Laundering Service AMLBot Cleans House](https://krebsonsecurity.com/2022/10/anti-money-laundering-service-amlbot-cleans-house/)
+- KitPloit - PenTest Tools!
+  - [ ] [GodGenesis - A Python3 Based C2 Server To Make Life Of Red Teamer A Bit Easier. The Payload Is Capable To Bypass All The Known Antiviruses And Endpoints](http://www.kitploit.com/2022/10/godgenesis-python3-based-c2-server-to.html)
+- Computer Forensics
+  - [ ] [Rfparty - a new way to see BLE](https://www.reddit.com/r/computerforensics/comments/y4wz4v/rfparty_a_new_way_to_see_ble/)
+  - [ ] [Forensic Images for Class Work?](https://www.reddit.com/r/computerforensics/comments/y4ljej/forensic_images_for_class_work/)
+  - [ ] [Majoring Question](https://www.reddit.com/r/computerforensics/comments/y4dlhg/majoring_question/)
+- Blackhat Library: Hacking techniques and research
+  - [ ] [KnowBe4 Multi-Factor Authentication Bypass (evilgophish)](https://www.reddit.com/r/blackhat/comments/y4j14q/knowbe4_multifactor_authentication_bypass/)
+- TorrentFreak
+  - [ ] [Pirate Sites That Rip-Off Other Pirate Sites’ Branding Are About to Regret It](https://torrentfreak.com/pirate-sites-that-rip-off-other-pirate-sites-branding-are-about-to-regret-it-221015/)
+  - [ ] [Filmmakers’ Repeat Infringer Lawsuit Against ISP RCN Can Move Forward](https://torrentfreak.com/filmmakers-repeat-infringer-lawsuit-against-isp-rcn-can-move-forward-221015/)
+- The Hacker News
+  - [ ] [Indian Energy Company Tata Power's IT Infrastructure Hit By Cyber Attack](https://thehackernews.com/2022/10/indian-energy-company-tata-powers-it.html)
+- netsecstudents: Subreddit for students studying Network Security and its related subjects
+  - [ ] [Good tradecraft for mapping network and assessing midpoint devices?](https://www.reddit.com/r/netsecstudents/comments/y51osd/good_tradecraft_for_mapping_network_and_assessing/)
+- The Register - Security
+  - [ ] [Infosec still (mostly) a boys club](https://go.theregister.com/feed/www.theregister.com/2022/10/15/infosec_boys_club/)
+  - [ ] ['Baby Al Capone' to pay $22m to SIM-swap crypto-heist victim](https://go.theregister.com/feed/www.theregister.com/2022/10/15/pinsky_terpin_sim_swap/)

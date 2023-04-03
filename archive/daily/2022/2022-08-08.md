@@ -1,0 +1,77 @@
+# 每日安全资讯（2022-08-08）
+
+- CXSECURITY Database RSS Feed - CXSecurity.com
+  - [VMware Workspace ONE Access Privilege Escalation](https://cxsecurity.com/issue/WLB-2022080035)
+- Security Boulevard
+  - [Red Team Tools](https://securityboulevard.com/2022/08/red-team-tools/)
+  - [Aspen Security Forum 2022 – Moderator: Dafna Linzer – ‘A New, Stronger NATO?’](https://securityboulevard.com/2022/08/aspen-security-forum-2022-moderator-dafna-linzer-a-new-stronger-nato/)
+  - [XKCD ‘Asking Scientists Questions’](https://securityboulevard.com/2022/08/xkcd-asking-scientists-questions/)
+  - [Security Risk by Accepting Policy Exceptions](https://securityboulevard.com/2022/08/security-risk-by-accepting-policy-exceptions/)
+  - [Aspen Security Forum 2022 – Moderator: Jim Sciutto – Fireside Chat With Richard Moore](https://securityboulevard.com/2022/08/aspen-security-forum-2022-moderator-jim-sciutto-fireside-chat-with-richard-moore/)
+  - [Is Your Government Organization Cyber Resilient?](https://securityboulevard.com/2022/08/is-your-government-organization-cyber-resilient/)
+- HackerOne Hacker Activity
+  - [HTTP PUT method is enabled downloader.ratelimited.me](https://hackerone.com/reports/545136)
+  - [Anonymous access control - Payments Status](https://hackerone.com/reports/1546726)
+- Twitter @Nicolas Krassas
+  - [BlackStone - Pentesting Reporting Tool](https://twitter.com/Dinosn/status/1556292828598353921)
+  - [Re @PortSwigger Thanks I did already.](https://twitter.com/Dinosn/status/1556275615954636801)
+  - [RT pikpikcu: Logsensor A Powerful Sensor Tool to discover login panels, and POST Form SQLi Scanning. @Mr_Robert20 #bugbountytips](https://twitter.com/sec715/status/1556232140412846081)
+  - [Greek intelligence service used surveillance malware to spy on a journalist, Reuters reports](https://twitter.com/Dinosn/status/1556221362674581504)
+  - [New IoT RapperBot Malware Targeting Linux Servers via SSH Brute-Forcing Attack](https://twitter.com/Dinosn/status/1556221235650076674)
+- 嘶吼 RoarTalk – 回归最本质的信息安全,互联网安全新媒体,4hou.com
+  - [GootkitLoader的更新策略和CobaltStrike的无文件传播](https://www.4hou.com/posts/LB5X)
+  - [Okta平台出现认证漏洞](https://www.4hou.com/posts/AO83)
+- Recent Commits to cve:main
+  - [Update Sun Aug  7 17:23:44 UTC 2022](https://github.com/trickest/cve/commit/3d23c6bacee2f4bdc7730d14abc9431d8120e465)
+- unSafe.sh - 不安全
+  - [Using AVRDUDE with USBASP to flash firmware on Arduino Atmega328P chip](https://buaq.net/go-121116.html)
+  - [iTerm2 拖文件和目录上传到服务器，不知有没有人感兴趣？ - V2EX](https://buaq.net/go-121104.html)
+  - [数据合规中的身份和适用范围的简介 - 挖洞的土拨鼠](https://buaq.net/go-121117.html)
+  - [BlackStone - Pentesting Reporting Tool](https://buaq.net/go-121100.html)
+  - [Patch now! Cisco VPN routers are vulnerable to remote control](https://buaq.net/go-121096.html)
+  - [Phishy calls and emails play on energy cost increase fears](https://buaq.net/go-121094.html)
+- Sec-News 安全文摘
+  - [如何让 JS 代码不可断点](https://wiki.ioin.in/url/q0Xn)
+  - [2022UIUCTF-Spoink(Pebble最新模板注入)](https://wiki.ioin.in/url/r02k)
+- Sploitus.com Exploits RSS Feed
+  - [Zimbra UnRAR Path Traversal Exploit exploit](https://sploitus.com/exploit?id=1337DAY-ID-37894&utm_source=rss&utm_medium=rss)
+  - [WordPress Testimonial Slider And Showcase 2.2.6 Cross Site Scripting Vulnerability exploit](https://sploitus.com/exploit?id=1337DAY-ID-37893&utm_source=rss&utm_medium=rss)
+  - [Online Admission System 1.0 SQL Injection Vulnerability exploit](https://sploitus.com/exploit?id=1337DAY-ID-37892&utm_source=rss&utm_medium=rss)
+  - [Exploit for SQL Injection in Glpi-Project Glpi exploit](https://sploitus.com/exploit?id=B9EE9EA6-7592-5D21-B162-6EC71CA332FB&utm_source=rss&utm_medium=rss)
+- SecWiki News
+  - [SecWiki News 2022-08-07 Review](http://www.sec-wiki.com/?2022-08-07)
+- scriptkidd1e
+  - [Hacking Kioptrix Series (All) Vulnerable Machines – Completed Walkthrough](https://scriptkidd1e.wordpress.com/2022/08/07/hacking-kioptrix-series-all-vulnerable-machines-completed-walkthrough/)
+- Bug Bounty in InfoSec Write-ups on Medium
+  - [Enterprise: Active Directory Room From TryHackMe By Hashar Mujahid](https://infosecwriteups.com/enterprise-active-directory-room-from-tryhackme-87f8738efc96?source=rss----7b722bfd1b8d--bug_bounty)
+- SAP Blogs
+  - [How I migrated my on-prem xsa cds3+hana solution to cds6+sqlite and deployed it on cheap linux hosting](https://blogs.sap.com/2022/08/07/how-i-migrated-my-on-prem-xsa-cds3hana-solution-to-cds6sqlite-and-deployed-it-on-cheap-linux-hosting/)
+  - [Customer Engagement for Lot Size of One (MTO scenario) with Advanced Variant Configuration | Scope Item ’55E’](https://blogs.sap.com/2022/08/07/customer-engagement-for-lot-size-of-one-mto-scenario-with-advanced-variant-configuration-scope-item-55e/)
+  - [A new way to perform the SAP Homogeneous System Migration on Linux/HP-UX](https://blogs.sap.com/2022/08/07/a-new-way-to-perform-the-sap-homogeneous-system-migration-on-linux-hp-ux/)
+  - [A Step into the Virtual World](https://blogs.sap.com/2022/08/07/a-step-into-the-virtual-world/)
+  - [Fast entry of purchase orders in SAP Business ByDesign](https://blogs.sap.com/2022/08/07/fast-entry-of-purchase-orders-in-sap-business-bydesign/)
+  - [Enhancements to SMIGR_CREATE_DDL for Range Partitioning and User Defined LOB Inline Sizes](https://blogs.sap.com/2022/08/07/enhancements-to-smigr_create_ddl-for-range-partitioning-and-user-defined-lob-inline-sizes/)
+  - [Run Node.js Applications with Authentication Locally – SAP BTP Security](https://blogs.sap.com/2022/08/07/run-node.js-applications-with-authentication-locally-sap-btp-security/)
+  - [Sending Project “Piper” log data to the  SAP Alert Notification service for SAP BTP](https://blogs.sap.com/2022/08/07/sending-project-piper-log-data-to-the-sap-alert-notification-service-for-sap-btp/)
+  - [SAP Readiness Check for SAP S/4HANA – Functional Review](https://blogs.sap.com/2022/08/07/sap-readiness-check-for-sap-s-4hana-functional-review/)
+- Malwarebytes Labs
+  - [Patch now! Cisco VPN routers are vulnerable to remote control](https://blog.malwarebytes.com/exploits-and-vulnerabilities/2022/08/patch-now-cisco-vpn-routers-are-vulnerable-to-remote-control/)
+  - [Phishy calls and emails play on energy cost increase fears](https://blog.malwarebytes.com/cybercrime/2022/08/phishy-calls-and-emails-play-on-energy-cost-increase-fears/)
+- 博客园 - 挖洞的土拨鼠
+  - [数据合规中的身份和适用范围的简介 - 挖洞的土拨鼠](https://www.cnblogs.com/KevinGeorge/p/16560025.html)
+- Hacking Articles
+  - [Containers Vulnerability Scanner: Trivy](https://www.hackingarticles.in/containers-vulnerability-scanner-trivy/)
+- Twitter @hakivvi
+  - [Re @ryotkak Well deserved, congratulations!](https://twitter.com/hakivvi/status/1556264165962137601)
+- KitPloit - PenTest & Hacking Tools
+  - [BlackStone - Pentesting Reporting Tool](http://www.kitploit.com/2022/08/blackstone-pentesting-reporting-tool.html)
+- HAHWUL
+  - [Hex? Imhex and Hexyl](https://www.hahwul.com/2022/08/07/imhex-and-hexyl/)
+- 丁爸情报分析师的工具箱
+  - [【资料】股神佩罗西近十年财务报告](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651131084&idx=1&sn=bb805f9419b20e4d2dcee625a3793f44&chksm=f1af7bf6c6d8f2e03cfa091cb46532a16fde5f0fbcf18a7cf2169d304c7bce9d41b4c19904c3&scene=58&subscene=0#rd)
+- 极客公园
+  - [在硅谷最大独角兽 Stripe，我学到了哪些管理经验？](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2652963517&idx=1&sn=79f91da9cdfd4aca1dc68c833c18745b&chksm=7e547f0b4923f61dc2afe39bcbf895cdee872bb6f1676d5ccaf1b0397a9d0b7da15511cd55bd&scene=58&subscene=0#rd)
+  - [马斯克：特斯拉年底产能突破 200 万；苹果手表首个中文表盘上线；上海举办虚拟体育公开赛｜极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2652963516&idx=1&sn=85af8235e13d52b97f919ecf985ba2ac&chksm=7e547f0a4923f61c4e1ff98a13e1247402edc350606d6fb3295bfa7c7ae4b10b8ab76100a5a3&scene=58&subscene=0#rd)
+- 情报分析师
+  - [台积电：2025年推出2nm芯片（附美国2022年芯片与科学法案1034页）](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650513432&idx=1&sn=37d54c64914495bd599b5888be315be1&chksm=87168e53b061074578a83c1a5238b604306ae0ca30cd40f60e16194a6033cc33b5452f793562&scene=58&subscene=0#rd)
+  - [什么是星链 Starlink？ 成千上万颗低轨卫星布局的背后](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650513432&idx=2&sn=bc5f540de72f2e5209867925f64b3ba3&chksm=87168e53b0610745033c29c4e2302c6d41b967c71b4cf6435c0a46410f2dbf04a95f8ab4b759&scene=58&subscene=0#rd)

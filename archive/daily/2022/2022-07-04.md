@@ -1,0 +1,90 @@
+# 每日安全资讯（2022-07-04）
+
+- Security Boulevard
+  - [DS620slim tiny home server](https://securityboulevard.com/2022/07/ds620slim-tiny-home-server/)
+  - [Security BSides Athens 2022 – Nikolaos Vourdas’ ‘Talk 4 – COM HIJACKING VOODOO’](https://securityboulevard.com/2022/07/security-bsides-athens-2022-nikolaos-vourdas-talk-4-com-hijacking-voodoo/)
+  - [Fredo & Pid’jin™ ‘Don’t Install That’](https://securityboulevard.com/2022/07/fredo-pidjin-dont-install-that/)
+  - [Security BSides Athens 2022 – Kiriaki Solomidou’s, John Torakis’ And George Tsigourakos’ ‘Talk 3 – Tales From The DevSecOps World. SIEM Completely “As Code”‘](https://securityboulevard.com/2022/07/security-bsides-athens-2022-kiriaki-solomidous-john-torakis-and-george-tsigourakos-talk-3-tales-from-the-devsecops-world-siem-completely-as-code/)
+  - [Where Next for Quantum Computing and Cybersecurity?](https://securityboulevard.com/2022/07/where-next-for-quantum-computing-and-cybersecurity/)
+  - [How to Change Mac Address in Linux – HackerNet](https://securityboulevard.com/2022/07/how-to-change-mac-address-in-linux-hackernet/)
+- 嘶吼 RoarTalk – 回归最本质的信息安全,互联网安全新媒体,4hou.com
+  - [缩小应用程序安全性和可观察性之间的差距](https://www.4hou.com/posts/NWQm)
+  - [可修补和可预防的安全漏洞成为第一季度攻击的主要原因](https://www.4hou.com/posts/EQ0W)
+- cloud world
+  - [OpenKruise 源码分析之 ContainerRecreateRequest](https://cloudsjhan.github.io/2022/07/03/OpenKruise-%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90%E4%B9%8B-ContainerRecreateRequest/)
+- 2019's blog
+  - [Google CTF 2022 d8: From V8 Bytecode to Code Execution](https://mem2019.github.io/jekyll/update/2022/07/03/Google-CTF.html)
+- Bug Bounty in InfoSec Write-ups on Medium
+  - [A swag for a Open Redirect — Google Dork — Bug Bounty](https://infosecwriteups.com/a-swag-for-a-open-redirect-google-dork-bug-bounty-2143b943f34e?source=rss----7b722bfd1b8d--bug_bounty)
+- Hacking and security
+  - [Automate registry email add](https://hackingandsecurity.blogspot.com/2022/07/automate-registry-email-add.html)
+  - [SBD : Backtrack 5: Maintaining Access: OS Backdoors: SBD](https://hackingandsecurity.blogspot.com/2022/07/sbd-backtrack-5-maintaining-access-os.html)
+  - [Methodology for Penetration Testing with Kali Linux: Part 2](https://hackingandsecurity.blogspot.com/2022/07/methodology-for-penetration-testing_3.html)
+  - [Methodology for Penetration Testing with Kali Linux: Part 1](https://hackingandsecurity.blogspot.com/2022/07/methodology-for-penetration-testing.html)
+  - [Metasploit cheatsheet - more attack vectors](https://hackingandsecurity.blogspot.com/2022/07/metasploit-cheatsheet-more-attack.html)
+  - [Metasploit vs. Adobe PDFs exploitation and hacking](https://hackingandsecurity.blogspot.com/2022/07/metasploit-vs-adobe-pdfs-exploitation.html)
+  - [Mici afaceri 2022](https://hackingandsecurity.blogspot.com/2022/07/mici-afaceri-2022.html)
+  - [Don’t Get Married Yet If Your Partner Does These 9 Things](https://hackingandsecurity.blogspot.com/2022/07/dont-get-married-yet-if-your-partner.html)
+  - [5 Steps to Help Employees Deal with Stress by Julie Winkle Giulioni](https://hackingandsecurity.blogspot.com/2022/07/5-steps-to-help-employees-deal-with.html)
+- 奇客Solidot–传递最新科技情报
+  - [第一款面向开发者的 RISC-V 笔电](https://www.solidot.org/story?sid=72014)
+  - [作家倪匡去世](https://www.solidot.org/story?sid=72013)
+  - [darktable 4.0.0 发布](https://www.solidot.org/story?sid=72012)
+- 黑海洋 - WIKI
+  - [漫画二次元客户端Jasmine Comic](https://blog.upx8.com/2863)
+- Have I Been Pwned latest breaches
+  - [Bookchor - 498,297 breached accounts](https://haveibeenpwned.com/PwnedWebsites#Bookchor)
+  - [Bourse des Vols - 1,460,130 breached accounts](https://haveibeenpwned.com/PwnedWebsites#BourseDesVols)
+- KitPloit - PenTest & Hacking Tools
+  - [Aiodnsbrute - DNS Asynchronous Brute Force Utility](http://www.kitploit.com/2022/07/aiodnsbrute-dns-asynchronous-brute.html)
+- Hacking and security
+  - [Automate registry email add](https://hackingandsecurity.blogspot.com/2022/07/automate-registry-email-add.html)
+  - [SBD : Backtrack 5: Maintaining Access: OS Backdoors: SBD](https://hackingandsecurity.blogspot.com/2022/07/sbd-backtrack-5-maintaining-access-os.html)
+  - [Methodology for Penetration Testing with Kali Linux: Part 2](https://hackingandsecurity.blogspot.com/2022/07/methodology-for-penetration-testing_3.html)
+  - [Methodology for Penetration Testing with Kali Linux: Part 1](https://hackingandsecurity.blogspot.com/2022/07/methodology-for-penetration-testing.html)
+  - [Metasploit cheatsheet - more attack vectors](https://hackingandsecurity.blogspot.com/2022/07/metasploit-cheatsheet-more-attack.html)
+  - [Metasploit vs. Adobe PDFs exploitation and hacking](https://hackingandsecurity.blogspot.com/2022/07/metasploit-vs-adobe-pdfs-exploitation.html)
+  - [Mici afaceri 2022](https://hackingandsecurity.blogspot.com/2022/07/mici-afaceri-2022.html)
+  - [Don’t Get Married Yet If Your Partner Does These 9 Things](https://hackingandsecurity.blogspot.com/2022/07/dont-get-married-yet-if-your-partner.html)
+  - [5 Steps to Help Employees Deal with Stress by Julie Winkle Giulioni](https://hackingandsecurity.blogspot.com/2022/07/5-steps-to-help-employees-deal-with.html)
+- Il Disinformatico
+  - [Ufologia, rispondo su Tio.ch a Candida Mammoliti (Centro Ufologico Svizzera Italiana)](http://attivissimo.blogspot.com/2022/07/ufologia-rispondo-su-tioch-candida.html)
+- SANS Internet Storm Center, InfoCON: green
+  - [7-Zip &#x26; MoW, (Sun, Jul 3rd)](https://isc.sans.edu/diary/rss/28810)
+- Security Affairs
+  - [Tens of Jenkins plugins are affected by zero-day vulnerabilities](https://securityaffairs.co/wordpress/132836/security/jenkins-plugins-zero-day-flaws.html)
+  - [Microsoft: Raspberry Robin worm already infected hundreds of networks](https://securityaffairs.co/wordpress/132826/malware/microsoft-raspberry-robin-spreading.html)
+  - [Security Affairs newsletter Round 372 by Pierluigi Paganini](https://securityaffairs.co/wordpress/132822/breaking-news/security-affairs-newsletter-round-372-by-pierluigi-paganini.html)
+  - [Half of actively exploited zero-day issues in H1 2022 are variants of previous flaws](https://securityaffairs.co/wordpress/132813/security/h1-2022-zero-day-variants-previous-flaws.html)
+- KitPloit - PenTest Tools!
+  - [Aiodnsbrute - DNS Asynchronous Brute Force Utility](http://www.kitploit.com/2022/07/aiodnsbrute-dns-asynchronous-brute.html)
+- Deep Web
+  - [Darkweb Currency](https://www.reddit.com/r/deepweb/comments/vqdesc/darkweb_currency/)
+- The Register - Security
+  - [What to do about inherent security flaws in critical infrastructure?](https://go.theregister.com/feed/www.theregister.com/2022/07/03/inherent_security_flaws_ics/)
+- TorrentFreak
+  - [‘Bungie Wants PayPal’s Help to Expose Cheaters’](https://torrentfreak.com/bungie-wants-paypals-help-to-expose-cheaters-220703/)
+- Errata Security
+  - [DS620slim tiny home server](https://blog.erratasec.com/2022/07/ds620slim-tiny-home-server.html)
+- Your Hacking Tutorial by Zempirians
+  - [How can I create a file full of 0s?](https://www.reddit.com/r/HowToHack/comments/vqdvku/how_can_i_create_a_file_full_of_0s/)
+  - [Having issues with gobuster, unable to locate wordlist, even though I have verified that this is the correct file directory (I am running ubuntu via docker)](https://www.reddit.com/r/HowToHack/comments/vqmmf6/having_issues_with_gobuster_unable_to_locate/)
+- Social Engineering
+  - [Is it possible to effectively resume my Facebook conversation with a friend whom i haven't seen for a long while?](https://www.reddit.com/r/SocialEngineering/comments/vqqn95/is_it_possible_to_effectively_resume_my_facebook/)
+- /r/netsec - Information Security News & Discussion
+  - [Bypassing Firefox's HTML Sanitizer API](https://www.reddit.com/r/netsec/comments/vqo7xq/bypassing_firefoxs_html_sanitizer_api/)
+  - [nday exploit: netgear orbi unauthenticated command injection (CVE-2020-27861)](https://www.reddit.com/r/netsec/comments/vqpway/nday_exploit_netgear_orbi_unauthenticated_command/)
+  - [Code replay attack on the myGovID Scheme](https://www.reddit.com/r/netsec/comments/vqhzbu/code_replay_attack_on_the_mygovid_scheme/)
+- Computer Forensics
+  - [What do you think is lacking in the industry nowadays?](https://www.reddit.com/r/computerforensics/comments/vq736h/what_do_you_think_is_lacking_in_the_industry/)
+- 情报分析师
+  - [【实战技法】如何使用创造力和太阳计算器进行图像地理定位](https://mp.weixin.qq.com/s/enNK2~rhuqnW0h-sXO4z2w)
+  - [刚刚发布！北约2022战略概念](https://mp.weixin.qq.com/s/ERIWvGSC5pgpOa2DLEXRTA)
+- 白帽100安全攻防实验室
+  - [WMCTF|一个“正经”的官宣](https://mp.weixin.qq.com/s?__biz=MzIxMDYyNTk3Nw==&mid=2247489946&idx=1&sn=fa3b4f8db881ded7835307aec4bec819&chksm=9760ed4ca017645a2d199e76fff80d803fe8b854ecc3bad32e6999ae7a1b8a1beb9d37384c31&scene=58&subscene=0#rd)
+- 看雪学院
+  - [公开课直播预告 | Frida特征检测之高维对抗-今晚8点](https://mp.weixin.qq.com/s/njA5sxpGJqPpmkuvpXdoag)
+  - [SVC的TraceHook沙箱的实现&无痕Hook实现思路](https://mp.weixin.qq.com/s/V7tlgg6mxY5fTvrYR7Y36A)
+  - [LLVM与代码混淆技术，详解3种经典代码混淆方式+2种变体](https://mp.weixin.qq.com/s/480UYEe~u404ymjcRIuifQ)
+- Dark Space Blogspot
+  - [Migliori "Move To Earn" Su Blockchain (Top Ten)](http://darkwhite666.blogspot.com/2022/07/migliori-move-to-earn-su-blockchain-top.html)

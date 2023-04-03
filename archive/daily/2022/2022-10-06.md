@@ -1,0 +1,164 @@
+# 每日安全资讯（2022-10-06）
+
+- CXSECURITY Database RSS Feed - CXSecurity.com
+  - [Joomla JUX Charity Hub 1.0.4 SQL Injection](https://cxsecurity.com/issue/WLB-2022100021)
+  - [Ubuntu 22.04.1 X64 Desktop Enlightenment 0.25.3-1 Privilege Escalation](https://cxsecurity.com/issue/WLB-2022100020)
+  - [Remote Mouse 4.110 Remote Code Execution](https://cxsecurity.com/issue/WLB-2022100019)
+  - [Canteen Management 1.0-2022 Cross Site Scripting](https://cxsecurity.com/issue/WLB-2022100018)
+- Sploitus.com Exploits RSS Feed
+  - [Remote Mouse 4.110 Remote Code Execution exploit](https://sploitus.com/exploit?id=PACKETSTORM:168635&utm_source=rss&utm_medium=rss)
+  - [Joomla Solidres 2.12.9 Cross Site Scripting Vulnerability exploit](https://sploitus.com/exploit?id=1337DAY-ID-38025&utm_source=rss&utm_medium=rss)
+  - [Canteen Management 1.0 2022 SQL Injection Vulnerability exploit](https://sploitus.com/exploit?id=1337DAY-ID-38023&utm_source=rss&utm_medium=rss)
+  - [Ubuntu 22.04.1 X64 Desktop Enlightenment 0.25.3-1 Privilege Escalation exploit](https://sploitus.com/exploit?id=PACKETSTORM:168634&utm_source=rss&utm_medium=rss)
+  - [WordPress WPvivid Backup Path Traversal Vulnerability exploit](https://sploitus.com/exploit?id=1337DAY-ID-38026&utm_source=rss&utm_medium=rss)
+  - [Remote Mouse 4.110 Remote Code Execution Exploit exploit](https://sploitus.com/exploit?id=1337DAY-ID-38028&utm_source=rss&utm_medium=rss)
+  - [Joomla RAXO All-Mode PRO 2.01 Cross Site Scripting Vulnerability exploit](https://sploitus.com/exploit?id=1337DAY-ID-38024&utm_source=rss&utm_medium=rss)
+  - [WordPress Elementor 3.6.2 Shell Upload Exploit exploit](https://sploitus.com/exploit?id=1337DAY-ID-38027&utm_source=rss&utm_medium=rss)
+  - [Canteen Management 1.0-2022 Cross Site Scripting exploit](https://sploitus.com/exploit?id=PACKETSTORM:168618&utm_source=rss&utm_medium=rss)
+  - [Exploit for Command Injection in Atlassian Bitbucket exploit](https://sploitus.com/exploit?id=B875D929-E22E-55B9-B81B-D82D9EE19A68&utm_source=rss&utm_medium=rss)
+- Microsoft Security Blog
+  - [Detecting and preventing LSASS credential dumping attacks](https://www.microsoft.com/security/blog/2022/10/05/detecting-and-preventing-lsass-credential-dumping-attacks/)
+- Files ≈ Packet Storm
+  - [Remote Mouse 4.110 Remote Code Execution](https://packetstormsecurity.com/files/168635/remote_mouse_rce.rb.txt)
+  - [Ubuntu 22.04.1 X64 Desktop Enlightenment 0.25.3-1 Privilege Escalation](https://packetstormsecurity.com/files/168634/ubuntu_enlightenment_mount_priv_esc.rb.txt)
+  - [Wireshark Analyzer 4.0.0](https://packetstormsecurity.com/files/168633/wireshark-4.0.0.tar.xz)
+  - [Ubuntu Security Notice USN-5656-1](https://packetstormsecurity.com/files/168632/USN-5656-1.txt)
+  - [Red Hat Security Advisory 2022-6782-01](https://packetstormsecurity.com/files/168631/RHSA-2022-6782-01.txt)
+  - [Red Hat Security Advisory 2022-6777-01](https://packetstormsecurity.com/files/168630/RHSA-2022-6777-01.txt)
+  - [Red Hat Security Advisory 2022-6780-01](https://packetstormsecurity.com/files/168629/RHSA-2022-6780-01.txt)
+  - [Red Hat Security Advisory 2022-6779-01](https://packetstormsecurity.com/files/168628/RHSA-2022-6779-01.txt)
+  - [Red Hat Security Advisory 2022-6778-01](https://packetstormsecurity.com/files/168627/RHSA-2022-6778-01.txt)
+  - [Red Hat Security Advisory 2022-6776-01](https://packetstormsecurity.com/files/168626/RHSA-2022-6776-01.txt)
+  - [Red Hat Security Advisory 2022-6774-01](https://packetstormsecurity.com/files/168625/RHSA-2022-6774-01.txt)
+  - [Red Hat Security Advisory 2022-6775-01](https://packetstormsecurity.com/files/168624/RHSA-2022-6775-01.txt)
+  - [Red Hat Security Advisory 2022-6781-01](https://packetstormsecurity.com/files/168623/RHSA-2022-6781-01.txt)
+  - [Red Hat Security Advisory 2022-6787-01](https://packetstormsecurity.com/files/168622/RHSA-2022-6787-01.txt)
+  - [Red Hat Security Advisory 2022-6783-01](https://packetstormsecurity.com/files/168621/RHSA-2022-6783-01.txt)
+  - [Ubuntu Security Notice USN-5655-1](https://packetstormsecurity.com/files/168620/USN-5655-1.txt)
+  - [Ubuntu Security Notice USN-5654-1](https://packetstormsecurity.com/files/168619/USN-5654-1.txt)
+  - [Canteen Management 1.0-2022 Cross Site Scripting](https://packetstormsecurity.com/files/168618/canteenmgmt102022-xss.txt)
+- Twitter @Nicolas Krassas
+  - [New TrollStore Tool Permanently Installs Apps on Non-Jailbroken iOS Devices](https://twitter.com/Dinosn/status/1577747250293489682)
+  - [Modified Version Of Tor Browser Spies On Chinese Users](https://twitter.com/Dinosn/status/1577747084559761432)
+  - [Russian Hacker Arrested In India For Helping Students Cheat In Exam](https://twitter.com/Dinosn/status/1577746077683433472)
+  - [Fuzzing Trackmania Nations Forever for RCE](https://twitter.com/Dinosn/status/1577743864290590720)
+  - [Hundreds of Microsoft SQL servers backdoored with new malware](https://twitter.com/Dinosn/status/1577743645817688064)
+  - [Detecting and preventing LSASS credential dumping attacks](https://twitter.com/Dinosn/status/1577743283572424715)
+  - [City of Tucson discloses data breach affecting over 125,000 people](https://twitter.com/Dinosn/status/1577743240069103624)
+  - [Chase UK's app-only bank hit with 24-hour ongoing outage](https://twitter.com/Dinosn/status/1577743188181368832)
+  - [Telstra Telecom discloses data breach impacting former and current employees](https://twitter.com/Dinosn/status/1577743055330983954)
+  - [RT CantHide: We are Live! 🦊 CantHide finds previous locations by looking at a given social media account. #OSINT #CyberSecurity #geolocation #infos...](https://twitter.com/canthideme/status/1577724748926259209)
+  - [RT ap: We have just released a new version of our #JuicyPotatoNG tool to help red teamers/pentesters. Now you can bruteforce clsid's, find open ports ...](https://twitter.com/decoder_it/status/1577715436682100738)
+  - [SteaLinG: open-source penetration testing framework designed for social engineering](https://twitter.com/Dinosn/status/1577612642998693888)
+  - [Pixel 6 bootloader: Emulation, ROP](https://twitter.com/Dinosn/status/1577586561780252672)
+  - [Dissect: An incident response game-changer](https://twitter.com/Dinosn/status/1577540185465802753)
+  - [US Govt: Hackers stole data from US defense org using new malware](https://twitter.com/Dinosn/status/1577540118956724225)
+  - [No Shangri-La for you: Top hotel chain confirms data leak](https://twitter.com/Dinosn/status/1577540089084870664)
+  - [TikTok's "secret operation" tracks you even if you don't use it](https://twitter.com/Dinosn/status/1577539903092572160)
+  - [On this page you’ll find tools which you can help do your OSINT research.](https://twitter.com/Dinosn/status/1577517408708861953)
+- SecWiki News
+  - [SecWiki News 2022-10-05 Review](http://www.sec-wiki.com/?2022-10-05)
+- Security Boulevard
+  - [Glut of Fake LinkedIn Profiles Pits HR Against the Bots](https://securityboulevard.com/2022/10/glut-of-fake-linkedin-profiles-pits-hr-against-the-bots/)
+  - [SlashNext Extends Award-Winning Enterprise Mobile for Home and Personal Use](https://securityboulevard.com/2022/10/slashnext-extends-award-winning-enterprise-mobile-for-home-and-personal-use/)
+  - [Frontline VM Datasheet](https://securityboulevard.com/2022/10/frontline-vm-datasheet/)
+  - [SafeBreach Coverage for US-CERT Alert (AA22-277A) – Use of Impacket and CovalentStealer to Steal Sensitive Data](https://securityboulevard.com/2022/10/safebreach-coverage-for-us-cert-alert-aa22-277a-use-of-impacket-and-covalentstealer-to-steal-sensitive-data/)
+  - [BSidesLV 2022 Lucky13 GroundFloor – Uriel Kosayev’s ‘Malware Analysis – Red Team Edition’](https://securityboulevard.com/2022/10/bsideslv-2022-lucky13-groundfloor-uriel-kosayevs-malware-analysis-red-team-edition/)
+  - [Memory-safe #RustLang shines with its day in the sun](https://securityboulevard.com/2022/10/memory-safe-rustlang-shines-with-its-day-in-the-sun/)
+  - [The latest update to the ReversingLabs Malware Analysis Workbench](https://securityboulevard.com/2022/10/the-latest-update-to-the-reversinglabs-malware-analysis-workbench/)
+  - [Frontline Cyber Threat Monitoring™ Datasheet](https://securityboulevard.com/2022/10/frontline-cyber-threat-monitoring-datasheet/)
+  - [XKCD ‘Wing Lift’](https://securityboulevard.com/2022/10/xkcd-wing-lift/)
+  - [Do You Know What to Look for in a Cloud Security Platform?](https://securityboulevard.com/2022/10/do-you-know-what-to-look-for-in-a-cloud-security-platform/)
+- Recent Commits to cve:main
+  - [Update Wed Oct  5 10:18:55 UTC 2022](https://github.com/trickest/cve/commit/0595db4f1c0cbf894a4cf1666bdd3805eab613df)
+- 嘶吼 RoarTalk – 回归最本质的信息安全,互联网安全新媒体,4hou.com
+  - [谷歌和微软可通过Web浏览器的拼写检查功能获取你的密码](https://www.4hou.com/posts/q8X3)
+- C0reFast记事本
+  - [在移动硬盘盒上启用SSD的Trim功能](https://www.ichenfu.com/2022/10/05/enable-trim-on-usb-attached-scsi-ssds/)
+- Sucuri Blog
+  - [How to Secure & Harden Your Joomla! Website in 12 Steps](https://blog.sucuri.net/2022/10/how-to-secure-harden-your-joomla-website-in-12-steps.html)
+- unSafe.sh - 不安全
+  - [Bogus job offers hide trojanised open-source software](https://buaq.net/go-129380.html)
+  - [MobaXterm密码获取 - Yangsir34 - 博客园](https://buaq.net/go-129357.html)
+  - [HyperSine/how-does-MobaXterm-encrypt-password: This repo offers a tool to reveal password encrypted by MobaXterm.](https://buaq.net/go-129356.html)
+  - [批量下载公众号文章内容/音频/视频，还支持公众号话题](https://buaq.net/go-129406.html)
+  - [API Monitor32 - Detecting Windows API hooking and modification for analysis purposes](https://buaq.net/go-129355.html)
+  - [Top 8 Defenses MSPs Can Take Against Cyberattacks](https://buaq.net/go-129359.html)
+  - [Defending digital freedom in times of cyberwar](https://buaq.net/go-129358.html)
+  - [Working on blockchains as a Trail of Bits intern](https://buaq.net/go-129341.html)
+  - [Public Report – IOV Labs powHSM Security Assessment](https://buaq.net/go-129339.html)
+  - [Ghauri – advanced cross-platform tool](https://buaq.net/go-129347.html)
+  - [SekaiCTF 2022 - safelist writeup](https://buaq.net/go-129350.html)
+  - [CyRC Vulnerability Advisory: CVE-2022-39064 IKEA TRÅDFRI smart lighting](https://buaq.net/go-129342.html)
+  - [CyRC Vulnerability Advisory: CVE-2022-39065 IKEA TRÅDFRI smart lighting gateway](https://buaq.net/go-129343.html)
+  - [phra's blog ~ Technical posts about InfoSec](https://buaq.net/go-129331.html)
+  - [Deliver a Strike by Reversing a Badger: Brute Ratel Detection and Analysis](https://buaq.net/go-129340.html)
+  - [Kim Kardashian gets huge fine for crypto ad](https://buaq.net/go-129381.html)
+  - [Erlik 2 - Vulnerable-Flask-App](https://buaq.net/go-129346.html)
+  - [完美解码PureCodec20221001官方版&绿色版](https://buaq.net/go-129408.html)
+- Trail of Bits Blog
+  - [Working on blockchains as a Trail of Bits intern](https://blog.trailofbits.com/2022/10/05/trail-of-bits-internship-blockchain-tealer/)
+- SpiderLabs Blog from Trustwave
+  - [Post-Exploitation Persistent Email Forwarder in Outlook Desktop](https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/post-exploitation-persistent-email-forwarder-in-outlook-desktop/)
+- SAP Blogs
+  - [Printer Resident Fonts using SAP Adobe Forms](https://blogs.sap.com/2022/10/05/printer-resident-fonts-using-sap-adobe-forms/)
+  - [SAP Integration Suite Sessions auf dem DSAG Jahreskongress 2022 (German)](https://blogs.sap.com/2022/10/05/sap-integration-suite-sessions-auf-dem-dsag-jahreskongress-2022-german/)
+  - [Deloitte strengthens offerings to help customers achieve their ESG goals with SAP technology](https://blogs.sap.com/2022/10/05/deloitte-strengthens-offerings-to-help-customers-achieve-their-esg-goals-with-sap-technology./)
+  - [Creator Spotlight:  Bringing teachers’ activities straight to families with Zuzmó](https://blogs.sap.com/2022/10/05/creator-spotlight-bringing-teachers-activities-straight-to-families-with-zuzmo/)
+  - [Timesheet Accounting and Billing on S/4HANA Cloud for Professional Services](https://blogs.sap.com/2022/10/05/timesheet-accounting-and-billing-on-s-4hana-cloud-for-professional-services/)
+  - [Engineering in the Cloud – Why SAP is the Best Choice](https://blogs.sap.com/2022/10/05/engineering-in-the-cloud-why-sap-is-the-best-choice/)
+  - [How to comply with embargo, sanctioned party lists and export control in SAP](https://blogs.sap.com/2022/10/05/how-to-comply-with-embargo-sanctioned-party-lists-and-export-control-in-sap/)
+  - [Event-Based Revenue Recognition for Universal Parallel Accounting in SAP S/4HANA 2022](https://blogs.sap.com/2022/10/05/event-based-revenue-recognition-for-universal-parallel-accounting-in-sap-s-4hana-2022/)
+  - [How to Learn Through Teaching  | Johann Fößleitner SAP Champion Spotlight](https://blogs.sap.com/2022/10/05/how-to-learn-through-teaching-johann-fosleitner-sap-champion-spotlight/)
+  - [HCM Nómina España: Cómo ejecutar el Mensaje FIE para un empleado](https://blogs.sap.com/2022/10/05/hcm-nomina-espana-como-ejecutar-el-mensaje-fie-para-un-empleado/)
+- 博客园 - luoyesiqiu
+  - [Android类加载流程 - luoyesiqiu](https://www.cnblogs.com/luoyesiqiu/p/classload.html)
+- Securelist
+  - [Uncommon infection and malware propagation methods](https://securelist.com/uncommon-infection-and-malware-propagation-methods/107640/)
+- Sucuri Blog
+  - [How to Secure & Harden Your Joomla! Website in 12 Steps](https://blog.sucuri.net/2022/10/how-to-secure-harden-your-joomla-website-in-12-steps.html)
+- SentinelOne
+  - [Top 8 Defenses MSPs Can Take Against Cyberattacks](https://www.sentinelone.com/blog/top-8-defenses-msps-can-take-against-cyberattacks/)
+- Reverse Engineering
+  - [API Monitor32 - Detecting Windows API hooking and modification for analysis purposes](https://www.reddit.com/r/ReverseEngineering/comments/xwbrr3/api_monitor32_detecting_windows_api_hooking_and/)
+  - [Deliver a Strike by Reversing a Badger: Brute Ratel Detection and Analysis](https://www.reddit.com/r/ReverseEngineering/comments/xw89a5/deliver_a_strike_by_reversing_a_badger_brute/)
+- Malware-Traffic-Analysis.net - Blog Entries
+  - [2022-10-04 - HTML smuggling --> IcedID (Bokbot) --> Cobalt Strike](https://www.malware-traffic-analysis.net/2022/10/04/index.html)
+- blog.avast.com EN
+  - [Defending digital freedom in times of cyberwar](https://blog.avast.com/digital-freedom-cyberwar)
+- Application Security Blog
+  - [CyRC Vulnerability Advisory: CVE-2022-39064 IKEA TRÅDFRI smart lighting](https://www.synopsys.com/blogs/software-security/cyrc-advisory-ikea-tradfri-smart-lighting/)
+  - [CyRC Vulnerability Advisory: CVE-2022-39065 IKEA TRÅDFRI smart lighting gateway](https://www.synopsys.com/blogs/software-security/cyrc-advisory-ikea-tradfri-smart-lighting-gateway/)
+- The Daily Swig | Cybersecurity news and views
+  - [PHP package manager component Packagist vulnerable to compromise](https://portswigger.net/daily-swig/php-package-manager-component-packagist-vulnerable-to-compromise)
+- Malwarebytes Labs
+  - [Admin from hell facing 10 years for sabotaging ex-employer's network](https://www.malwarebytes.com/blog/news/2022/10/ex-employee-faces-10-years-in-prison-for-misusing-login-details)
+  - [Bogus job offers hide trojanised open-source software](https://www.malwarebytes.com/blog/news/2022/10/bogus-job-offers-lead-to-weaponised-open-source-software)
+  - [Kim Kardashian gets huge fine for crypto ad](https://www.malwarebytes.com/blog/news/2022/10/kim-kardashian-violates-1933-law-after-posting-emex-crypto-security-ad)
+- KitPloit - PenTest & Hacking Tools
+  - [Erlik 2 - Vulnerable-Flask-App](http://www.kitploit.com/2022/10/erlik-2-vulnerable-flask-app.html)
+- rtl-sdr.com
+  - [TechMinds: A Look at the TRX DUO Red Pitaya Clone](https://www.rtl-sdr.com/techminds-a-look-at-the-trx-duo-red-pitaya-clone/)
+  - [HackRF Opera Cake Released: A Rapid RF Switching Board](https://www.rtl-sdr.com/hackrf-opera-cake-released-a-rapid-rf-switching-board/)
+- Black Hills Information Security
+  - [Talkin’ About Infosec News – 10/5/2022](https://www.blackhillsinfosec.com/talkin-about-infosec-news-10-5-2022/)
+- Intigriti
+  - [Bug Bytes #176 – Deepfake dangers, @rhynorater’s SSRF magic, recon techniques everyone misses & more!](https://blog.intigriti.com/2022/10/05/bug-bytes-176/)
+- 奇客Solidot–传递最新科技情报
+  - [卡巴斯基发现通过 YouTube 频道传播的恶意 Tor 浏览器](https://www.solidot.org/story?sid=72968)
+  - [美国政府发布 AI 指导方针](https://www.solidot.org/story?sid=72966)
+  - [VideoLAN 威胁起诉印度政府](https://www.solidot.org/story?sid=72965)
+  - [三位化学家获诺贝尔化学奖，其中一位第二次获奖](https://www.solidot.org/story?sid=72964)
+  - [马斯克提议按原提议收购 Twitter](https://www.solidot.org/story?sid=72963)
+- Checkmarx.com
+  - [API Security: Exposed API Endpoint Leaks Over 11 Million Telco Customers’ Data](https://checkmarx.com/blog/api-security-exposed-api-endpoint-leaks-over-11-million-telco-customers-data/)
+- PeiQi文库
+  - [GLPI htmLawedTest.php 远程命令执行漏洞 CVE-2022-35914](https://mp.weixin.qq.com/s?__biz=Mzg3NDU2MTg0Ng==&mid=2247493588&idx=1&sn=99c7a429bb57cb121f8c871814cea3d5&chksm=cecc4f8df9bbc69b5f5234417c06e2379a38490660699f9c5e6b9eabec241d3f8ec711b64556&scene=58&subscene=0#rd)
+- 极客公园
+  - [马斯克提议按原价收购推特；欧盟批准强制苹果使用 USB-C 接口；AI 激光灭蟑设备问世 | 极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2652969521&idx=1&sn=9dadeef31dc3059f43698d18233efd02&chksm=7e5467874923ee91c76bb76153a9668ddec2c3cb1c7d8f75b7b9f64a0547c20b0615c67b3471&scene=58&subscene=0#rd)
+- 嘶吼专业版
+  - [谷歌和微软可通过Web浏览器的拼写检查功能获取你的密码](https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247551721&idx=1&sn=e355eb542764eed56ff6db3dfad30ca9&chksm=e915dad3de6253c5e63f2f5f63980f4bd4a01bb29fe8220704a309c9f7a3e15ef76c7dcd78e8&scene=58&subscene=0#rd)
+  - [通过第三方软件收集用户凭据](https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247551721&idx=2&sn=214eef1a9aaa7318715e01c6c1af1059&chksm=e915dad3de6253c5c0f506ceaadea65e886fdda04a7c4a4439683977c6460b4d35a9ced9413a&scene=58&subscene=0#rd)
+- 情报分析师
+  - [国土安全部2022-2026年参与和信息共享战略](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650517864&idx=1&sn=dea8c650d654465af35123333cae6103&chksm=87169f23b0611635dd3de06814927a523292ec8bfaf89e8ca5f9e061422d9af51657339456da&scene=58&subscene=0#rd)
+  - [【情报课堂】乌克兰马里乌波尔的士兵地理定位](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650517864&idx=2&sn=ac6ae85d87fe89ad58ea2c7a5dccac73&chksm=87169f23b0611635f2bd25a9860ca3b970267f947d9b9bea4e3c19fdce0f715a6197bb4da3e6&scene=58&subscene=0#rd)

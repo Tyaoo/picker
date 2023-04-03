@@ -1,0 +1,77 @@
+# 每日安全资讯（2022-04-17）
+
+- HackerOne Hacker Activity
+  - [[https://shipit-sox-staging.shopifycloud.com] Presence of multiple vulnerabilities present in Ruby On Rails](https://hackerone.com/reports/1400309)
+  - [Account takeover leading to PII chained with stored XSS](https://hackerone.com/reports/1483201)
+- Sec-News 安全文摘
+  - [Go template 遇上 yaml 反序列化 CVE-2022-21701 分析](https://wiki.ioin.in/url/k4BN)
+- Security Boulevard
+  - [Keeping Those SSH Keys Safe](https://securityboulevard.com/2022/04/keeping-those-ssh-keys-safe/)
+  - [BSides Budapest 2021: Piotr Glaska’s ‘DNS in Offensive Techniques’](https://securityboulevard.com/2022/04/bsides-budapest-2021-piotr-glaskas-dns-in-offensive-techniques/)
+  - [XKCD ‘Geiger Counter’](https://securityboulevard.com/2022/04/xkcd-geiger-counter/)
+  - [BSides Budapest 2021: Daniel Nussko’s ‘Large-scale Security Analysis of IoT Firmware’](https://securityboulevard.com/2022/04/bsides-budapest-2021-daniel-nusskos-large-scale-security-analysis-of-iot-firmware/)
+  - [What is Image Spoofing and How to Prevent It?](https://securityboulevard.com/2022/04/what-is-image-spoofing-and-how-to-prevent-it/)
+  - [1964 Introduction to Distributed Communications Networks](https://securityboulevard.com/2022/04/1964-introduction-to-distributed-communications-networks/)
+  - [Meta Digs in Heels on Encryption](https://securityboulevard.com/2022/04/meta-digs-in-heels-on-encryption/)
+- Sploitus.com Exploits RSS Feed
+  - [Exploit for CVE-2022-26809 exploit](https://sploitus.com/exploit?id=2A45AC5C-3583-5B97-96FD-54EDC121AE8B&utm_source=rss&utm_medium=rss)
+  - [Exploit for Vulnerability in Facade Ignition exploit](https://sploitus.com/exploit?id=35896337-DA85-5D42-B9FC-4DF2E3EC881E&utm_source=rss&utm_medium=rss)
+  - [Exploit for Vulnerability in Microsoft exploit](https://sploitus.com/exploit?id=321A07F5-08A6-5CD6-8C0E-1C2F04B37061&utm_source=rss&utm_medium=rss)
+  - [Exploit for Injection in Exiftool Project Exiftool exploit](https://sploitus.com/exploit?id=D1EFC5A3-3F5B-5A00-9A45-80777934AC77&utm_source=rss&utm_medium=rss)
+- Hexacorn
+  - [The Anti-VM trick that is kinda… personal](https://www.hexacorn.com/blog/2022/04/16/the-anti-vm-trick-that-is-kinda-personal/)
+- Reverse Engineering
+  - [The Thread Context Explained (OALABS Tutorial)](https://www.reddit.com/r/ReverseEngineering/comments/u54ict/the_thread_context_explained_oalabs_tutorial/)
+- Didier Stevens
+  - [Update: cut-bytes.py Version 0.0.14](https://blog.didierstevens.com/2022/04/16/update-cut-bytes-py-version-0-0-14/)
+- SAUCERMAN
+  - [obection常见用法](https://saucer-man.com/information_security/911.html)
+- KitPloit - PenTest & Hacking Tools
+  - [Kraken - A Multi-Platform Distributed Brute-Force Password Cracking System](http://www.kitploit.com/2022/04/kraken-multi-platform-distributed-brute.html)
+  - [EDRSandblast - Tool That Weaponize A Vulnerable Signed Driver To Bypass EDR Detections And LSASS Protections](http://www.kitploit.com/2022/04/edrsandblast-tool-that-weaponize.html)
+- HAHWUL
+  - [Kiterunner](https://www.hahwul.com/cullinan/kiterunner/)
+- panda | 热爱安全的理想少年
+  - [从零开始，分析Spring Framework RCE](https://www.cnpanda.net/sec/1196.html)
+- panda | 热爱安全的理想少年
+  - [从零开始，分析Spring Framework RCE](https://blog.cnpanda.net/sec/1196.html)
+- Luca Mercatanti
+  - [Copia forense informatica](https://luca-mercatanti.com/2022/04/16/copia-forense-informatica/?utm_source=rss&utm_medium=rss&utm_campaign=copia-forense-informatica)
+- 0x00sec - The Home of the Hacker - Top topics
+  - [Writing a simple rootkit for linux](https://0x00sec.org/t/writing-a-simple-rootkit-for-linux/29034)
+  - [TCP server and TCP client in Python](https://0x00sec.org/t/tcp-server-and-tcp-client-in-python/29042)
+- SANS Internet Storm Center, InfoCON: green
+  - [Office Protects You From Malicious ISO Files, (Sat, Apr 16th)](https://isc.sans.edu/diary/rss/28554)
+- 黑海洋 - WIKI
+  - [最新版：Windows 11、Windows 7 精简系统](https://blog.upx8.com/2696)
+- Rasta Mouse
+  - [Why Tool-Restricted Exams (Sometimes) Matter](https://rastamouse.me/why-tool-restricted-exams-sometimes-matter/)
+- LockBoxx
+  - [The Newcomers of Shmoocon 2022](http://lockboxx.blogspot.com/2022/04/the-newcomers-of-shmoocon-2022.html)
+- KitPloit - PenTest Tools!
+  - [Kraken - A Multi-Platform Distributed Brute-Force Password Cracking System](http://www.kitploit.com/2022/04/kraken-multi-platform-distributed-brute.html)
+  - [EDRSandblast - Tool That Weaponize A Vulnerable Signed Driver To Bypass EDR Detections And LSASS Protections](http://www.kitploit.com/2022/04/edrsandblast-tool-that-weaponize.html)
+- /r/netsec - Information Security News & Discussion
+  - [Industroyer2: The Worst Sequel](https://www.reddit.com/r/netsec/comments/u4wzc3/industroyer2_the_worst_sequel/)
+  - [GitHub: Security alert - Attack campaign involving stolen OAuth user tokens issued to two third-party integrators (Heroku and Travis CI)](https://www.reddit.com/r/netsec/comments/u4mosv/github_security_alert_attack_campaign_involving/)
+- Security Affairs
+  - [U.S. Gov believes North Korea-linked Lazarus APT is behind Ronin Validator cyber heist](https://securityaffairs.co/wordpress/130260/apt/lazarus-ronin-validator-cyber-heist.html)
+  - [The unceasing action of Anonymous against Russia](https://securityaffairs.co/wordpress/130262/hacktivism/anonymous-targets-russian-entities.html)
+  - [Threat actors target the Ukrainian gov with IcedID malware](https://securityaffairs.co/wordpress/130250/cyber-warfare-2/icedid-against-ukraine-gov-agencies.html)
+- Dark Reading
+  - [Upgrades for Spring Framework Have Stalled](https://www.darkreading.com/edge-threat-monitor/upgrades-for-spring-framework-have-stalled)
+- Social Engineering
+  - [How do you find our someone's fears without asking them directly?](https://www.reddit.com/r/SocialEngineering/comments/u4uib8/how_do_you_find_our_someones_fears_without_asking/)
+  - [Social engineering of the nuclear family](https://www.reddit.com/r/SocialEngineering/comments/u59ed9/social_engineering_of_the_nuclear_family/)
+  - [What skills does it take to be good at playing “mind games” with people?](https://www.reddit.com/r/SocialEngineering/comments/u4rr9h/what_skills_does_it_take_to_be_good_at_playing/)
+- TorrentFreak
+  - [MPA/ACE Pounce on New Lookmovie Domain Plus Streaming & IPTV Sites](https://torrentfreak.com/mpa-ace-pounce-on-new-lookmovie-domain-plus-streaming-iptv-sites-220416/)
+- Computer Forensics
+  - [Any ideas what college students would love to see from a guest speaker?](https://www.reddit.com/r/computerforensics/comments/u52g05/any_ideas_what_college_students_would_love_to_see/)
+- netsecstudents: Subreddit for students studying Network Security and its related subjects
+  - [I want to learn hyperjacking. Can you guys provide sources to learn about the low level side of CS and hacking enough to understand hyperjacking](https://www.reddit.com/r/netsecstudents/comments/u4waoy/i_want_to_learn_hyperjacking_can_you_guys_provide/)
+- Your Hacking Tutorial by Zempirians
+  - [RTL8812au monitor mode, poor results](https://www.reddit.com/r/HowToHack/comments/u574cc/rtl8812au_monitor_mode_poor_results/)
+  - [Can TryHackMe be a starting point to a legitimate career?](https://www.reddit.com/r/HowToHack/comments/u4qncl/can_tryhackme_be_a_starting_point_to_a_legitimate/)
+  - [Tool to search inside deleted or overwritten data](https://www.reddit.com/r/HowToHack/comments/u4v1dd/tool_to_search_inside_deleted_or_overwritten_data/)
+  - [Help on how to get remote access to a file on another person’s computer](https://www.reddit.com/r/HowToHack/comments/u4psoe/help_on_how_to_get_remote_access_to_a_file_on/)

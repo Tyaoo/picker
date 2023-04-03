@@ -1,0 +1,228 @@
+# 每日安全资讯（2022-09-28）
+
+- Tenable Blog
+  - [The shift to integrated cybersecurity platforms: a growing trend among CISOs](https://www.tenable.com/blog/the-shift-to-integrated-cybersecurity-platforms-a-growing-trend-among-cisos)
+- CXSECURITY Database RSS Feed - CXSecurity.com
+  - [Backdoor.Win32.Psychward.b / Weak Hardcoded Credentials](https://cxsecurity.com/issue/WLB-2022090077)
+  - [COVESA 2.18.8 NULL Pointer Dereference / Heap Buffer Over-Read](https://cxsecurity.com/issue/WLB-2022090076)
+  - [Online Birth Certificate Management System 1.0 Insecure Direct Object Reference](https://cxsecurity.com/issue/WLB-2022090075)
+  - [Online Birth Certificate Management System 1.0 Cross Site Request Forgery](https://cxsecurity.com/issue/WLB-2022090074)
+  - [Food Ordering Management System 1.0 SQL Injection](https://cxsecurity.com/issue/WLB-2022090073)
+- SecWiki News
+  - [SecWiki News 2022-09-27 Review](http://www.sec-wiki.com/?2022-09-27)
+- Twitter @Nicolas Krassas
+  - [A collection of JavaScript engine CVEs with PoCs](https://twitter.com/Dinosn/status/1574875867301421067)
+  - [Dumping LSASS by Unhooking MiniDumpWriteDump by getting a fresh DbgHelp.dll copy from the disk , plus functions and strings obfuscation , it contains ...](https://twitter.com/Dinosn/status/1574875646211268632)
+  - [Freeze is a payload toolkit for bypassing EDRs using suspended processes, direct syscalls, and alternative execution methods](https://twitter.com/Dinosn/status/1574874665566216210)
+  - [New NullMixer dropper infects your PC with a dozen malware families](https://twitter.com/Dinosn/status/1574874035070050312)
+  - [FBI Helping Australian Authorities Investigate Massive Optus Data Breach: Reports](https://twitter.com/Dinosn/status/1574868545384636419)
+  - [Complete take-over of Cisco Unified Communications Manager due consecutively misconfigurations](https://twitter.com/Dinosn/status/1574863466732593165)
+  - [Whitepaper – Project Triforce: Run AFL On Everything (2017)](https://twitter.com/Dinosn/status/1574855627779805196)
+  - [Defense firm Elbit Systems of America discloses data breach](https://twitter.com/Dinosn/status/1574798060160434180)
+  - [Sandbox Scryer: open source tool for producing threat hunting and intelligence data](https://twitter.com/Dinosn/status/1574783496475795456)
+  - [Skidaddle Skideldi - I just pwnd your PKI](https://twitter.com/Dinosn/status/1574783404834430977)
+  - [A technical analysis of Pegasus for Android – Part 2](https://twitter.com/Dinosn/status/1574783267521417216)
+  - [Pass-the-Hash Attacks and How to Prevent them in Windows Domains](https://twitter.com/Dinosn/status/1574783221719568384)
+  - [Optus hacker apologizes and allegedly deletes all stolen data](https://twitter.com/Dinosn/status/1574783162881916929)
+  - [Microsoft bets on hardware/software duo for Win11 security](https://twitter.com/Dinosn/status/1574769819915886594)
+  - [North Korea's Lazarus Hackers Targeting macOS Users Interested in Crypto Jobs](https://twitter.com/Dinosn/status/1574756050653306885)
+  - [Microsoft announces passwordless auth, SSO for Azure Virtual Desktop](https://twitter.com/Dinosn/status/1574756001496154112)
+  - [Experts Uncover 85 Apps with 13 Million Downloads Involved in Ad Fraud Scheme](https://twitter.com/Dinosn/status/1574755934500519939)
+  - [How Quantum Physics Leads to Decrypting Common Algorithms](https://twitter.com/Dinosn/status/1574755443104260096)
+  - [RT 78ResearchLab: The analysis report is uploaded!](https://twitter.com/78_lab/status/1574564300462559232)
+- Files ≈ Packet Storm
+  - [Red Hat Security Advisory 2022-6696-01](https://packetstormsecurity.com/files/168538/RHSA-2022-6696-01.txt)
+  - [Ubuntu Security Notice USN-5643-1](https://packetstormsecurity.com/files/168539/USN-5643-1.txt)
+  - [Suricata IDPE 6.0.7](https://packetstormsecurity.com/files/168537/suricata-6.0.7.tar.gz)
+  - [Ubuntu Security Notice USN-5642-1](https://packetstormsecurity.com/files/168536/USN-5642-1.txt)
+  - [COVESA 2.18.8 NULL Pointer Dereference / Heap Buffer Over-Read](https://packetstormsecurity.com/files/168535/SA-20220923-0.txt)
+  - [Ubuntu Security Notice USN-5641-1](https://packetstormsecurity.com/files/168534/USN-5641-1.txt)
+  - [Online Birth Certificate Management System 1.0 Cross Site Scripting](https://packetstormsecurity.com/files/168529/obcms10persistent-xss.txt)
+  - [Red Hat Security Advisory 2022-6700-01](https://packetstormsecurity.com/files/168532/RHSA-2022-6700-01.txt)
+  - [Red Hat Security Advisory 2022-6701-01](https://packetstormsecurity.com/files/168531/RHSA-2022-6701-01.txt)
+  - [Ubuntu Security Notice USN-5640-1](https://packetstormsecurity.com/files/168530/USN-5640-1.txt)
+  - [Red Hat Security Advisory 2022-6702-01](https://packetstormsecurity.com/files/168528/RHSA-2022-6702-01.txt)
+  - [Red Hat Security Advisory 2022-6703-01](https://packetstormsecurity.com/files/168527/RHSA-2022-6703-01.txt)
+  - [Red Hat Security Advisory 2022-6707-01](https://packetstormsecurity.com/files/168526/RHSA-2022-6707-01.txt)
+  - [Red Hat Security Advisory 2022-6708-01](https://packetstormsecurity.com/files/168525/RHSA-2022-6708-01.txt)
+  - [Online Birth Certificate Management System 1.0 Insecure Direct Object Reference](https://packetstormsecurity.com/files/168524/obcms10-idor.txt)
+  - [Ubuntu Security Notice USN-5639-1](https://packetstormsecurity.com/files/168523/USN-5639-1.txt)
+  - [Online Birth Certificate Management System 1.0 Cross Site Request Forgery](https://packetstormsecurity.com/files/168522/obcms10-xsrf.txt)
+  - [Ubuntu Security Notice USN-5638-1](https://packetstormsecurity.com/files/168521/USN-5638-1.txt)
+  - [Red Hat Security Advisory 2022-6710-01](https://packetstormsecurity.com/files/168520/RHSA-2022-6710-01.txt)
+  - [Red Hat Security Advisory 2022-6711-01](https://packetstormsecurity.com/files/168519/RHSA-2022-6711-01.txt)
+  - [Red Hat Security Advisory 2022-6713-01](https://packetstormsecurity.com/files/168518/RHSA-2022-6713-01.txt)
+  - [Food Ordering Management System 1.0 SQL Injection](https://packetstormsecurity.com/files/168517/foms10-sql.txt)
+  - [Red Hat Security Advisory 2022-6714-01](https://packetstormsecurity.com/files/168516/RHSA-2022-6714-01.txt)
+  - [Red Hat Security Advisory 2022-6715-01](https://packetstormsecurity.com/files/168515/RHSA-2022-6715-01.txt)
+- Security Boulevard
+  - [Ransomware and the Severe Impact on K-12 Public Schools](https://securityboulevard.com/2022/09/ransomware-and-the-severe-impact-on-k-12-public-schools/)
+  - [Hitchens on US-Putin relations: “If you’re faith-based you get a KGB weasel as your partner”](https://securityboulevard.com/2022/09/hitchens-on-us-putin-relations-if-youre-faith-based-you-get-a-kgb-weasel-as-your-partner/)
+  - [How a Common API Vulnerability Might Have Cost Telco Optus $1 Million](https://securityboulevard.com/2022/09/how-a-common-api-vulnerability-might-have-cost-telco-optus-1-million/)
+  - [How to Run Mayhem from a Docker Image](https://securityboulevard.com/2022/09/how-to-run-mayhem-from-a-docker-image/)
+  - [The Why, What and How of Vulnerability Risk Acceptance](https://securityboulevard.com/2022/09/the-why-what-and-how-of-vulnerability-risk-acceptance/)
+  - [Research Shows Extent of Organizational SBOM Readiness – Techstrong TV](https://securityboulevard.com/2022/09/research-shows-extent-of-organizational-sbom-readiness-techstrong-tv/)
+  - [BSidesLV 2022 Lucky13 CommonGround – Nimrod Stoler’s & Nethanel Coppenhagen’s ‘Trust Me, I’m A Robot: Can We Trust RPA With Our Most Guarded Secrets?’](https://securityboulevard.com/2022/09/bsideslv-2022-lucky13-commonground-nimrod-stolers-nethanel-coppenhagens-trust-me-im-a-robot-can-we-trust-rpa-with-our-most-guarded-secrets/)
+  - [Power Utilization Percentage and ServiceNow CMDB Sync Integration](https://securityboulevard.com/2022/09/power-utilization-percentage-and-servicenow-cmdb-sync-integration/)
+  - [Frontline PCI-Pro™ Datasheet](https://securityboulevard.com/2022/09/frontline-pci-pro-datasheet-2/)
+- 先知安全技术社区
+  - [某json 1.2.80 漏洞分析](https://xz.aliyun.com/t/11727)
+  - [关于HTTP Request Smuggling（HTTP请求夹带）的二三事](https://xz.aliyun.com/t/11728)
+- Sploitus.com Exploits RSS Feed
+  - [Online Birth Certificate Management System 1.0 Cross Site Scripting exploit](https://sploitus.com/exploit?id=PACKETSTORM:168533&utm_source=rss&utm_medium=rss)
+  - [Food Ordering Management System 1.0 SQL Injection exploit](https://sploitus.com/exploit?id=PACKETSTORM:168517&utm_source=rss&utm_medium=rss)
+  - [Online Birth Certificate Management System 1.0 Insecure Direct Object Reference exploit](https://sploitus.com/exploit?id=PACKETSTORM:168524&utm_source=rss&utm_medium=rss)
+  - [Online Birth Certificate Management System 1.0 Cross Site Request Forgery exploit](https://sploitus.com/exploit?id=PACKETSTORM:168522&utm_source=rss&utm_medium=rss)
+  - [COVESA 2.18.8 NULL Pointer Dereference / Heap Buffer Over-Read exploit](https://sploitus.com/exploit?id=PACKETSTORM:168535&utm_source=rss&utm_medium=rss)
+  - [Exploit for Improper Input Validation in Cisco Rv160 Firmware exploit](https://sploitus.com/exploit?id=B69B0D79-4B1C-5E72-9D58-1F835E023023&utm_source=rss&utm_medium=rss)
+  - [Exploit for Deserialization of Untrusted Data in Alibaba Fastjson exploit](https://sploitus.com/exploit?id=28AFA2F1-D4AE-5810-BB8D-23EDEADE7794&utm_source=rss&utm_medium=rss)
+  - [Exploit for Classic Buffer Overflow in Draytek Vigor3910 Firmware exploit](https://sploitus.com/exploit?id=D171CB59-DCE0-586B-ADA8-ECE9FE1754FA&utm_source=rss&utm_medium=rss)
+  - [Exploit for Out-of-bounds Write in Asus Rt-Ax56U Firmware exploit](https://sploitus.com/exploit?id=9E04420F-F991-57E5-952F-7EA72FBE2340&utm_source=rss&utm_medium=rss)
+- 先知安全技术社区
+  - [某json 1.2.80 漏洞分析](https://xz.aliyun.com/t/11727)
+  - [关于HTTP Request Smuggling（HTTP请求夹带）的二三事](https://xz.aliyun.com/t/11728)
+- paper - Last paper
+  - [CVE-2022-26135 Atlassian Jira Mobile Plugin SSRF漏洞分析](https://paper.seebug.org/1981/)
+- 嘶吼 RoarTalk – 回归最本质的信息安全,互联网安全新媒体,4hou.com
+  - [360发布NSA网络攻击后续报告 周鸿祎：城市和基础设施已成网络战目标](https://www.4hou.com/posts/N1RL)
+  - [嘶吼专访 | 威努特技术总监郭洋：三分技术，七分管理，是做好工控安全的箴言](https://www.4hou.com/posts/q85r)
+  - [利用泄露的 APP_KEY 和队列利用基于 Laravel 的应用程序](https://www.4hou.com/posts/VZk5)
+  - [BAZARLOADER的主加载程序分析](https://www.4hou.com/posts/xj73)
+  - [奇安信连续四年登榜“北京民营企业百强”](https://www.4hou.com/posts/MB6Q)
+  - [“三重提升”保护数据安全 揭秘南阳二院数据交互安全之路](https://www.4hou.com/posts/LBRg)
+  - [安华金和助力徽商银行完善数据安全风险评估能力建设](https://www.4hou.com/posts/KERr)
+- 跳跳糖 - 安全与分享社区
+  - [php免杀合集](https://tttang.com/archive/1740/)
+- 安全脉搏
+  - [Adobe Reader栈溢出漏洞复现及检测](https://www.secpulse.com/archives/187832.html)
+  - [BGP劫持原理及如何防御](https://www.secpulse.com/archives/187787.html)
+  - [TCTF/0CTF 2022-Polaris  Writeup](https://www.secpulse.com/archives/187829.html)
+- Planet Classpath
+  - [Gary Benson: Container debugging minihint](https://gbenson.net/container-debugging-minihint/)
+- 安全客-有思想的安全新媒体
+  - [欧盟启动开放 Web 搜索项目，希望替代 Google](https://www.anquanke.com/post/id/280774)
+  - [中国支付清算协会发布《非银行支付机构数字化转型研究报告》](https://www.anquanke.com/post/id/280770)
+  - [安全威胁日益复杂 主动网络安全成为必然](https://www.anquanke.com/post/id/280766)
+  - [APT28借PowerPoint文件投递Graphite恶意软件](https://www.anquanke.com/post/id/280909)
+  - [Erbium新型密码窃取恶意软件，捆绑游戏破解、作弊程序分发](https://www.anquanke.com/post/id/280905)
+  - [执法部门获取加密数据的法律改革可能性](https://www.anquanke.com/post/id/280761)
+  - [乌克兰宣称俄罗斯计划升级对乌网络攻击](https://www.anquanke.com/post/id/280888)
+  - [Google Mandiant称证据显示黑客与俄罗斯协同攻击](https://www.anquanke.com/post/id/280883)
+  - [数字安全观察每周简报【行业动态篇】2022.09.14-2022.09.20](https://www.anquanke.com/post/id/280838)
+  - [西北工业大学遭受美国NSA网络攻击调查报告（之二）](https://www.anquanke.com/post/id/280894)
+  - [美智库发布《软件定义战争》专题报告，聚焦未来军事装备架构设计](https://www.anquanke.com/post/id/280753)
+  - [以色列国防巨头埃尔比特美国分公司遭黑客攻击](https://www.anquanke.com/post/id/280859)
+  - [勒索不成 黑客公开患者资料](https://www.anquanke.com/post/id/280855)
+- Forcepoint
+  - [Veterans Transforming Cybersecurity at Forcepoint](https://www.forcepoint.com/blog/insights/veterans-transforming-cybersecurity-forcepoint)
+  - [Expanded FedRAMP Services Help Agencies Kick-Start Zero Trust Migration](https://www.forcepoint.com/blog/insights/expanded-forcepoint-one-fedramp-authorization)
+- GuidePoint Security
+  - [Considerations for merging your IT and OT environments into ICS](https://www.guidepointsecurity.com/blog/considerations-for-merging-your-it-and-ot-environments-into-ics/)
+- Recent Commits to cve:main
+  - [Update Tue Sep 27 10:04:10 UTC 2022](https://github.com/trickest/cve/commit/08e11ca205de4592e20412a3449aeba730595fec)
+- Twitter @bytehx
+  - [RT Nicolas Krassas: A collection of JavaScript engine CVEs with PoCs](https://twitter.com/Dinosn/status/1574875867301421067)
+- Vulnerabilities and Threat Research – Qualys Security Blog
+  - [Prepare Your Organization for Compliance with the NYDFS Cybersecurity Regulation](https://blog.qualys.com/category/vulnerabilities-threat-research)
+- Hack Inn
+  - [XCon 2022](https://www.hackinn.com/index.php/archives/807/)
+- Sucuri Blog
+  - [New Malware Variants Serve Bogus CloudFlare DDoS Captcha](https://blog.sucuri.net/2022/09/new-malware-variants-serve-bogus-cloudflare-ddos-captcha.html)
+- Bug Bounty in InfoSec Write-ups on Medium
+  - [Multi-Factor Authentication Vulnerabilities](https://infosecwriteups.com/multi-factor-authentication-vulnerabilities-7a4b647a7b09?source=rss----7b722bfd1b8d--bug_bounty)
+- Horizon3.ai
+  - [Horizon3.ai Drives Global Partner-First Approach with Expansion of Partner Program](https://www.businesswire.com/news/home/20220927005772/en/Horizon3.ai-Drives-Global-Partner-First-Approach-with-Expansion-of-Partner-Program#new_tab)
+- Sucuri Blog
+  - [New Malware Variants Serve Bogus CloudFlare DDoS Captcha](https://blog.sucuri.net/2022/09/new-malware-variants-serve-bogus-cloudflare-ddos-captcha.html)
+- Malwarebytes Labs
+  - [Facebook users sue Meta for allegedly building "secret workaround" to Apple privacy safeguards](https://www.malwarebytes.com/blog/news/2022/09/facebook-users-sue-meta-for-attempting-to-bypass-apple-privacy-safeguards)
+  - [TikTok faces $28m fine for failing to protect children's privacy](https://www.malwarebytes.com/blog/news/2022/09/tiktok-faces-28m-fine-for-failing-to-protect-childrens-privacy)
+  - [Flaw in some ManageEngine apps is being actively exploited, says CISA](https://www.malwarebytes.com/blog/news/2022/09/cisa-reveals-flaw-in-some-manageengine-apps-is-actively-exploited)
+  - [Exchange servers abused for spam through malicious OAuth applications](https://www.malwarebytes.com/blog/news/2022/09/exchange-servers-abused-for-spam-through-malicious-oauth-applications)
+- Application Security Blog
+  - [Secure cloud-native apps and APIs at the speed your business demands](https://www.synopsys.com/blogs/software-security/gartner-critical-capabilities-appsec-cloud-native-apps/)
+- SAP Blogs
+  - [3 things to do when starting an S/4 program – Part 1](https://blogs.sap.com/2022/09/27/3-things-to-do-when-starting-an-s-4-program-part-1/)
+  - [JETZT VERFÜGBAR: SAP Signavio September 2022 Release – schnellere Einblicke, schnelleres Handeln](https://blogs.sap.com/2022/09/27/jetzt-verfugbar-sap-signavio-september-2022-release-schnellere-einblicke-schnelleres-handeln/)
+  - [OUT NOW: SAP Signavio September 2022 release – Faster time to insight, faster time to act](https://blogs.sap.com/2022/09/27/out-now-sap-signavio-september-2022-release-faster-time-to-insight-faster-time-to-act/)
+  - [Key Considerations to build an agile Subscription Management Solution](https://blogs.sap.com/2022/09/27/key-considerations-to-build-an-agile-subscription-management-solution/)
+  - [Sprint1 Hack4Green – Des apps innovantes pour un monde durable with French SAP user group USF](https://blogs.sap.com/2022/09/27/sprint1-hack4green-des-apps-innovantes-pour-un-monde-durable-with-french-sap-user-group-usf/)
+  - [SAP PaPM Cloud: What’s New as of 2022-09-26?](https://blogs.sap.com/2022/09/27/sap-papm-cloud-whats-new-as-of-2022-09-26/)
+  - [Get Ready for the 2022 Edition of the SAP Conference on Financial Close and Reporting!](https://blogs.sap.com/2022/09/27/get-ready-for-the-2022-edition-of-the-sap-conference-on-financial-close-and-reporting/)
+  - [User experience and application development sessions at SAP TechEd 2022](https://blogs.sap.com/2022/09/27/user-experience-and-application-development-sessions-at-sap-teched-2022/)
+  - [Smartform with Arabic and English Together in a single smartform](https://blogs.sap.com/2022/09/27/smartform-with-arabic-and-english-together-in-a-single-smartform/)
+- Intigriti
+  - [6 reasons to join Intigriti’s product team](https://blog.intigriti.com/2022/09/27/six-reasons-join-intigritis-product-team/)
+- Reverse Engineering
+  - [A technical analysis of Pegasus for Android – Part 2](https://www.reddit.com/r/ReverseEngineering/comments/xpg7lt/a_technical_analysis_of_pegasus_for_android_part_2/)
+  - [Tips and tricks for reversing foreign architecture games](https://www.reddit.com/r/ReverseEngineering/comments/xp7uu6/tips_and_tricks_for_reversing_foreign/)
+  - [What’s In A Bit – Designing, Using And Reverse-engineering Binary File Formats - Peter Bindels](https://www.reddit.com/r/ReverseEngineering/comments/xp3z8z/whats_in_a_bit_designing_using_and/)
+- KitPloit - PenTest & Hacking Tools
+  - [pyFlipper - Unoffical Flipper Zero Cli Wrapper Written In Python](http://www.kitploit.com/2022/09/pyflipper-unoffical-flipper-zero-cli.html)
+- Black Hills Information Security
+  - [Constrained Language Mode Bypass When __PSLockDownPolicy Is Used](https://www.blackhillsinfosec.com/constrained-language-mode-bypass-when-pslockdownpolicy-is-used/)
+- text/plain
+  - [Badware Techniques: Notification Spam](https://textslashplain.com/2022/09/27/badware-techniques-notification-spam/)
+- Twitter @hakivvi
+  - [RT Skay: CVE-2022-39197 Cobalt Strike < 4.7.1 RCE Analyze](https://twitter.com/Skay_00/status/1574659437054525442)
+- Blog - Praetorian
+  - [Fingerprintx Tool: An Internship Project for the Real World](https://www.praetorian.com/blog/fingerprintx/)
+- 安全牛
+  - [保障Linux 系统应用安全的常用开源工具盘点](https://www.aqniu.com/hometop/89634.html)
+  - [专家观点 | 关键信息基础设施保护工作思考](https://www.aqniu.com/homenews/89583.html)
+  - [产业观察丨派拉软件研究发布《银行零信任安全白皮书》](https://www.aqniu.com/homenews/89584.html)
+  - [用统一微隔离做零信任可以多便宜](https://www.aqniu.com/vendor/89635.html)
+  - [唯一！Fortinet连续两年跻身Gartner SD-WAN最佳执行力榜首](https://www.aqniu.com/vendor/89582.html)
+  - [冰蝎4.0特征分析及流量检测思路](https://www.aqniu.com/industry/89580.html)
+  - [VNSTech 2022北京站|安博通安全可视化前沿产品，创造网络安全业务新体验](https://www.aqniu.com/vendor/89581.html)
+  - [【聚焦运维安全】全流程管控 还原真实运维场景](https://www.aqniu.com/industry/89571.html)
+  - [安华金和助力徽商银行完善数据安全风险评估能力建设](https://www.aqniu.com/industry/89572.html)
+- webs3c - Latest posts
+  - [From None to AWS credentials read](https://webs3c.com/t/from-none-to-aws-credentials-read/220#post_1)
+- 奇客Solidot–传递最新科技情报
+  - [《自然》撤回备受争议的室温超导论文](https://www.solidot.org/story?sid=72899)
+  - [Windows 11 22H2 导致部分英特尔设备蓝屏死机](https://www.solidot.org/story?sid=72898)
+  - [苹果开始在印度组装 iPhone 14](https://www.solidot.org/story?sid=72897)
+  - [达斯·维德的声音未来将用 AI 合成](https://www.solidot.org/story?sid=72896)
+  - [iPhone 14 在华销量不及预期](https://www.solidot.org/story?sid=72895)
+  - [NSA 在美国时间对西北工业大学发动攻击](https://www.solidot.org/story?sid=72894)
+  - [开源古战争策略游戏 0 A.D 发布庄子版](https://www.solidot.org/story?sid=72893)
+  - [我国拥有大学文化程度的人口超过 2.18 亿](https://www.solidot.org/story?sid=72892)
+  - [细胞漫游者探索细胞内部世界](https://www.solidot.org/story?sid=72891)
+  - [中国电动汽车今年销量预计将超五分之一](https://www.solidot.org/story?sid=72890)
+  - [TikTok 准备与美国政府达成继续在美运营的协议](https://www.solidot.org/story?sid=72889)
+  - [NASA DART 飞船成功撞击小行星](https://www.solidot.org/story?sid=72888)
+  - [普京授予斯诺登俄罗斯公民身份](https://www.solidot.org/story?sid=72887)
+- 杨龙
+  - [笔记10：桥接模式](https://www.yanglong.pro/%e7%ac%94%e8%ae%b010/)
+  - [php+RabbitMQ 3.8.16+简单延时队列实现](https://www.yanglong.pro/rabbitmq-3-8-16%e7%ae%80%e5%8d%95%e5%bb%b6%e6%97%b6%e9%98%9f%e5%88%97%e5%ae%9e%e7%8e%b0/)
+  - [escript: exception error: undefined function rabbitmqctl_escript:main/1](https://www.yanglong.pro/escript-exception-error-undefined-function-rabbitmqctl_escriptmain-1/)
+- 腾讯玄武实验室
+  - [每日安全动态推送(09-27)](https://mp.weixin.qq.com/s?__biz=MzA5NDYyNDI0MA==&mid=2651958727&idx=1&sn=47241767b49e3fda4af73db79beddda3&chksm=8baecd58bcd9444ea752e21bb071d2092234aadf7bfcfab35408a7ad59e3ee7add36ebc415ae&scene=58&subscene=0#rd)
+- HackerNews
+  - [鼠标悬停也能中招！带毒 PPT 正用来传播 Graphite 恶意软件](https://hackernews.cc/archives/41739)
+  - [匿名者向伊朗政府宣战，发起 OpIran 运动攻击政府网站](https://hackernews.cc/archives/41731)
+  - [俄罗斯宣布：将对乌克兰及其盟国的关键基础设施进行大规模网络攻击](https://hackernews.cc/archives/41725)
+  - [研究人员发现 3 个支持俄罗斯利益的黑客组织](https://hackernews.cc/archives/41719)
+  - [印度一医疗公司毫无责任心：新冠抗原检测数据公网暴露无人处理](https://hackernews.cc/archives/41715)
+  - [澳大利亚在发生大规模数据泄露后将全面修订隐私法](https://hackernews.cc/archives/41710)
+  - [以色列国防巨头埃尔比特系统的美国分公司遭黑客攻击](https://hackernews.cc/archives/41707)
+- 代码卫士
+  - [Java模板框架 Pebble易受命令注入攻击](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247514082&idx=1&sn=e5f47cf95f861ab419805a85f2b77ddb&chksm=ea948688dde30f9e7dab3fe0e015db7f59b41f26ab34b0e762da365423999e608fd0d9a4e9f9&scene=58&subscene=0#rd)
+  - [CISA提醒修复Zoho ManageEngine RCE漏洞](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247514082&idx=2&sn=a353a69d6d2c5a3f065ae133b67f4256&chksm=ea948688dde30f9e50183652d6391b23fd17af36c96c1ebcf3a7f40b0034288e9a22f16cbcd8&scene=58&subscene=0#rd)
+- 安全圈
+  - [【安全圈】男子自学黑客技术，入侵企业网站植入色情服务信息，以此牟利！](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652018861&idx=1&sn=51e35a6d6ecf6c6c137300bcac3c80c3&chksm=f36fb4edc4183dfba4d51d029ccb134057e4ff948578de2e55e9e67c4c7f6eceb270b4a4c632&scene=58&subscene=0#rd)
+  - [【安全圈】美国渗透控制中国基础设施核心设备，窃取中国敏感用户隐私数据](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652018861&idx=2&sn=75d8fb49c378114cf1c7d0685d652146&chksm=f36fb4edc4183dfbef68ce821785cf962410063237ff94bfe23f71c31f68816edbbb8a110836&scene=58&subscene=0#rd)
+  - [【安全圈】“匿名者”组织声称黑进了俄罗斯国防部网站!](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652018861&idx=3&sn=2a6e9b8aa1029545f2ff4f46bd00c607&chksm=f36fb4edc4183dfb946b65cfe52d2518f8c73a15437fe8d759b3c5c38266b7710730f8826b5a&scene=58&subscene=0#rd)
+  - [【安全圈】黑客勒索不成竟然直接公开个人私密资料！](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652018861&idx=4&sn=5c7be981206f8265997e14e3d54b3d54&chksm=f36fb4edc4183dfb48bfb709e00668ab6da79311e879df3ec9fb85d1dee8dd35dbe09c7b3c20&scene=58&subscene=0#rd)
+  - [【安全圈】以色列国防巨头遭黑客攻击，员工个人信息遭泄露！](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652018861&idx=5&sn=2884f0519e875b7bf5c2d3a345132ebc&chksm=f36fb4edc4183dfb27bfb8666a5f8a0bbdb48a689e568867f220b0fbe1df53bacab85a34b0e6&scene=58&subscene=0#rd)
+  - [【安全圈】ASEC警告FARGO勒索软件再次盯上了脆弱的MS SQL服务器](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652018861&idx=6&sn=13004113a678d14cfa1484c918bdf106&chksm=f36fb4edc4183dfbad3e791459be067eda12da3395496ecc464daba46347179038db28d6a75e&scene=58&subscene=0#rd)
+- SecPulse安全脉搏
+  - [【文末福利】新书推荐｜国内首部身份安全专业书籍《身份攻击向量》正式发布](https://mp.weixin.qq.com/s?__biz=MzAxNDM3NTM0NQ==&mid=2657044817&idx=1&sn=ebe0aab49015cb424dab60c920fef138&chksm=803fa98fb74820999479b00c8a9830505a6735bf6d21e90dca7719e3438d3ffbfbd18981548b&scene=58&subscene=0#rd)
+- FreeBuf网络安全行业门户
+  - [WitAwards 2022中国网络安全行业年度评选正式启动！](https://www.freebuf.com/fevents/345774.html)
+  - [FreeBuf早报 | 澳大利亚将全面修订隐私法；欧盟 ENISA 发布网络安全技能框架](https://www.freebuf.com/news/345706.html)
+  - [匿名者向伊朗政府宣战，发起OpIran运动攻击政府网站](https://www.freebuf.com/news/345701.html)
+  - [普京正式授予斯诺登俄罗斯国籍](https://www.freebuf.com/news/345699.html)
+  - [乌克兰当局警告盟国，俄罗斯正在计划升级网络攻击](https://www.freebuf.com/news/345694.html)
+  - [鼠标悬停也能中招！带毒PPT正用来传播Graphite恶意软件](https://www.freebuf.com/news/345682.html)

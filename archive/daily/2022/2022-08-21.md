@@ -1,0 +1,67 @@
+# 每日安全资讯（2022-08-21）
+
+- CXSECURITY Database RSS Feed - CXSecurity.com
+  - [FLIX AX8 1.46.16 Remote Command Execution](https://cxsecurity.com/issue/WLB-2022080063)
+  - [Advantech iView NetworkServlet Command Injection](https://cxsecurity.com/issue/WLB-2022080062)
+  - [Polar Flow Android 5.7.1 Secret Disclosure](https://cxsecurity.com/issue/WLB-2022080061)
+  - [Transposh WordPress Translation 1.0.8.1 Incorrect Authorization](https://cxsecurity.com/issue/WLB-2022080060)
+  - [FLIR AX8 1.46.16 Traversal / Access Control / Command Injection / XSS](https://cxsecurity.com/issue/WLB-2022080059)
+  - [Foodiee 1.0.1 unauthorized administrative access Vulnerability](https://cxsecurity.com/issue/WLB-2022080058)
+- Twitter @Nicolas Krassas
+  - [Automated All-in-One OS Command Injection Exploitation Tool.](https://twitter.com/Dinosn/status/1560894040924737538)
+  - [RT j j: Had fun writing an exploit for CVE-2022-1802 @thezdi](https://twitter.com/mistymntncop/status/1560842583563444224)
+- SecWiki News
+  - [SecWiki News 2022-08-20 Review](http://www.sec-wiki.com/?2022-08-20)
+- Sec-News 安全文摘
+  - [论如何优雅的注入 Java Agent 内存马](https://wiki.ioin.in/url/YDX0)
+  - [Celer Network cBridge 跨链桥事故真相：BGP 劫持](https://wiki.ioin.in/url/bkyq)
+- Security Boulevard
+  - [BSidesTLV 2022 – Gal Bitensky’s ‘SS-Oh No!’](https://securityboulevard.com/2022/08/bsidestlv-2022-gal-bitenskys-ss-oh-no/)
+  - [BSidesTLV 2022 – Asaf Eitani’s & Itamar Maouda Kochavi’s ‘Hunting Kernel Rootkits With eBPF’](https://securityboulevard.com/2022/08/bsidestlv-2022-asaf-eitanis-itamar-maouda-kochavis-hunting-kernel-rootkits-with-ebpf/)
+  - [ohq2quarto — Rust-Based CLI For Turning Observable Notebooks Into Quarto Projects](https://securityboulevard.com/2022/08/ohq2quarto-rust-based-cli-for-turning-observable-notebooks-into-quarto-projects/)
+- unSafe.sh - 不安全
+  - [Cybersecurity Attack and Defense Strategies eBook](https://buaq.net/go-123003.html)
+  - [论如何优雅的注入 Java Agent 内存马](https://buaq.net/go-122995.html)
+  - [Celer Network cBridge 跨链桥事故真相：BGP 劫持](https://buaq.net/go-122996.html)
+  - [dnsReaper - Subdomain Takeover Tool For Attackers, Bug Bounty Hunters And The Blue Team!](https://buaq.net/go-122997.html)
+  - [aFreeRDP – 远程桌面协议（RDP）客户端 FreeRDP 的 Android 版本](https://buaq.net/go-122992.html)
+  - [Noptcha – 鉴于越来越离谱的人机验证（Captcha），是时候用机器人反击了](https://buaq.net/go-122986.html)
+  - [任意键｜蜘蛛侠登陆 PC；141 特遣队再次出击；海绵宝宝多元宇宙及其他](https://buaq.net/go-122983.html)
+  - [ÆPIC Leak漏洞影响Intel CPU](https://buaq.net/go-122976.html)
+  - [云容器是裹着糖衣的威胁吗？](https://buaq.net/go-122977.html)
+  - [重新认识拼音与发音：聊聊汉语拼音与注音符号方案的差异](https://buaq.net/go-122980.html)
+  - [What to know, what to learn? What are useful skills for cyber in 2022?](https://buaq.net/go-122949.html)
+  - [Network Security Trends: Recent Exploits Observed in the Wild Include Remote Code Execution, Cross-Site Scripting and More](https://buaq.net/go-122950.html)
+  - [Password as a (Yara) Service](https://buaq.net/go-122937.html)
+  - [Tech support scammers target Microsoft users with fake Office 365 USB sticks](https://buaq.net/go-122964.html)
+  - [The four most important aspects of software due diligence audits](https://buaq.net/go-122934.html)
+  - [赵老哥](https://buaq.net/go-122932.html)
+  - [闻少（上）](https://buaq.net/go-122931.html)
+- 安全客-有思想的安全新媒体
+  - [从GDPR和个保法看，为什么要做数据合规？](https://www.anquanke.com/post/id/277203)
+- Recent Commits to cve:main
+  - [Update Sat Aug 20 05:30:19 UTC 2022](https://github.com/trickest/cve/commit/cd8fd06753d2091bbe7af3393b17d9fcd353b9e7)
+- 嘶吼 RoarTalk – 回归最本质的信息安全,互联网安全新媒体,4hou.com
+  - [ÆPIC Leak漏洞影响Intel CPU](https://www.4hou.com/posts/O96L)
+  - [云容器是裹着糖衣的威胁吗？](https://www.4hou.com/posts/oJ83)
+- No Headback
+  - [aws 上 kafka 服务更新导致断连一例](http://xargin.com/aws-produce-hang-case/)
+- SAP Blogs
+  - [Day in the life of a Material Buyer – 3- Purchasing](https://blogs.sap.com/2022/08/20/day-in-the-life-of-a-material-buyer-3-purchasing/)
+  - [SLT Réplication Server for Central Finance (cFIN) scenarios – Replication Content Update](https://blogs.sap.com/2022/08/20/slt-replication-server-for-central-finance-cfin-scenarios-replication-content-update/)
+  - [Version Bill of Material creation ´(SAP PEO)](https://blogs.sap.com/2022/08/20/version-bill-of-material-creation-sap-peo/)
+- 看雪学院
+  - [议题征集中！10.23上海，2022 SDC 期待相见](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458464923&idx=1&sn=b6d32cf2cf22d9434581f377593ac7c3&chksm=b18e021186f98b079b2fa45ed750fbb97853b669dc8654a654bb61c7c2c66c58c2082d544ba0&scene=58&subscene=0#rd)
+  - [[安全运维向]模拟搭建小型企业内网](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458464923&idx=2&sn=23855cc68fcc93c5ad43c41656efe14f&chksm=b18e021186f98b0793796c961a042f090bc6adba0b9b8b751ee18b48227e923836303f8fae5d&scene=58&subscene=0#rd)
+  - [反勒索软件开发实战篇](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458464923&idx=3&sn=33665ecd064d94977d8c2150e0072fca&chksm=b18e021186f98b071531f7c71b93a22cd76578ad55f850ae9c8c9dfb10bff382fd981d709b5c&scene=58&subscene=0#rd)
+- Dhole Moments
+  - [Cryptographic Agility and Superior Alternatives](https://soatok.blog/2022/08/20/cryptographic-agility-and-superior-alternatives/)
+- 数世咨询
+  - [中国网络安全股权投资50强（2021）](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247494760&idx=1&sn=2a1a3046fecc026e90b880f33f66c09e&chksm=c1449ed5f63317c364634648b624481a30238d8b418d30c0455310b5e7a527ed1c8dea8fc772&scene=58&subscene=0#rd)
+- 网安国际
+  - [网络安全实践教学与高水平人才培养研讨会在山东大学（青岛）成功召开](https://mp.weixin.qq.com/s?__biz=MzA4ODYzMjU0NQ==&mid=2652311512&idx=1&sn=c120c60e4989885e0080c05c8cf82634&chksm=8bc49256bcb31b408c386f96c5d9f30de6e37a5afc7c69dbe7a0fb07d62038d0a313641a1494&scene=58&subscene=0#rd)
+- 极客公园
+  - [扎克伯格 100 亿美元烧出来的元宇宙，被欧美网友群嘲](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2652965322&idx=1&sn=2fbbe7970801615171889f9ad51d49cd&chksm=7e54747c4923fd6a19f486b6bd0299fe20f6903f276c274ad2a9f0aefccb0ef6814f114b94fa&scene=58&subscene=0#rd)
+  - [川渝「高温限电」特斯拉、蔚来受影响；扎克伯格 VR 社交虚拟人自拍遭群嘲；世界最大蚊子工厂每周生产 3000 万只｜极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2652965299&idx=1&sn=d9acb92a513a4965b948022c99b514c9&chksm=7e5474054923fd1319643cda489dea26be85f9727b78584094e91b5c97d2efd6e5f254959848&scene=58&subscene=0#rd)
+- KitPloit - PenTest & Hacking Tools
+  - [dnsReaper - Subdomain Takeover Tool For Attackers, Bug Bounty Hunters And The Blue Team!](http://www.kitploit.com/2022/08/dnsreaper-subdomain-takeover-tool-for.html)

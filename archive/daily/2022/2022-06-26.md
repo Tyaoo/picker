@@ -1,0 +1,72 @@
+# 每日安全资讯（2022-06-26）
+
+- Security Boulevard
+  - [USENIX Enigma 2022 – Ram Shankar Siva Kumar’s ‘Why Has Your Toaster Been Through More Security Testing Than The AI System’](https://securityboulevard.com/2022/06/usenix-enigma-2022-ram-shankar-siva-kumars-why-has-your-toaster-been-through-more-security-testing-than-the-ai-system/)
+  - [XKCD ‘Roman Numerals’](https://securityboulevard.com/2022/06/xkcd-roman-numerals/)
+  - [USENIX Enigma 2022 – Chris Krebs’ ‘#Protect2020: An After Action Report’](https://securityboulevard.com/2022/06/usenix-enigma-2022-chris-krebs-protect2020-an-after-action-report/)
+- No Headback
+  - [怎样降低沟通成本(1)](http://xargin.com/zen-yang-jiang-di-gou-tong-cheng-ben-1/)
+- Sploitus.com Exploits RSS Feed
+  - [Exploit for Vulnerability in Microsoft exploit](https://sploitus.com/exploit?id=37F78533-E96A-5433-B558-90DB82C0BB27&utm_source=rss&utm_medium=rss)
+  - [Exploit for Incorrect Authorization in Dell Dbutil 2 3.Sys exploit](https://sploitus.com/exploit?id=E25C0F33-3564-5568-A04D-46877E5964AF&utm_source=rss&utm_medium=rss)
+- Hacking and security
+  - [More hax.tor.hu solutions - old russian website](https://hackingandsecurity.blogspot.com/2022/06/more-haxtorhu-solutions-old-russian.html)
+  - [Hax.tor.hu solutions - old answers](https://hackingandsecurity.blogspot.com/2022/06/haxtorhu-solutions-old-answers.html)
+- Microsoft Security Response Center
+  - [A Man of Action: Meet Callum Carney](https://msrc-blog.microsoft.com/2022/06/24/a-man-of-action-meet-callum-carney/)
+- Malwarebytes Labs
+  - [5 ways to avoid being catfished](https://blog.malwarebytes.com/personal/2022/06/5-ways-to-avoid-being-catfished/)
+- KitPloit - PenTest & Hacking Tools
+  - [DFSCoerce - PoC For MS-DFSNM Coerce Authentication Using NetrDfsRemoveStdRoot Method](http://www.kitploit.com/2022/06/dfscoerce-poc-for-ms-dfsnm-coerce.html)
+  - [Nim-Loader - WIP Shellcode Loader In Nim With EDR Evasion Techniques](http://www.kitploit.com/2022/06/nim-loader-wip-shellcode-loader-in-nim.html)
+- 黑海洋 - WIKI
+  - [电报桌面版_Telegram_for_Windows_v4.0.2](https://blog.upx8.com/2820)
+- 奇客Solidot–传递最新科技情报
+  - [网信办对知网启动络安全审查](https://www.solidot.org/story?sid=71941)
+  - [ESA 准备升级火星快车上的软件](https://www.solidot.org/story?sid=71940)
+  - [NASA 探测器发现了坠毁在月球上的火箭位置](https://www.solidot.org/story?sid=71939)
+  - [中国网络分水岭](https://www.solidot.org/story?sid=71938)
+- 90Sec - 最新话题
+  - [实战未公开细节的漏洞 T00ls-2022-00159](https://forum.90sec.com/t/topic/2140)
+- IT Service Management News
+  - [Rete indisponibile per Clouflare](http://blog.cesaregallotti.it/2022/06/rete-indisponibile-per-clouflare.html)
+- SANS Internet Storm Center, InfoCON: green
+  - [Malicious Code Passed to PowerShell via the Clipboard, (Sat, Jun 25th)](https://isc.sans.edu/diary/rss/28784)
+- Troy Hunt's Blog
+  - [Weekly Update 301](https://www.troyhunt.com/weekly-update-301/)
+- Computer Forensics
+  - [What do you think about this workstation I built.](https://www.reddit.com/r/computerforensics/comments/vkhgtn/what_do_you_think_about_this_workstation_i_built/)
+  - [Jump starting an investigation ( school assignment)](https://www.reddit.com/r/computerforensics/comments/vko6x7/jump_starting_an_investigation_school_assignment/)
+- The Register - Security
+  - [We're now truly in the era of ransomware as pure extortion without the encryption](https://go.theregister.com/feed/www.theregister.com/2022/06/25/ransomware_gangs_extortion_feature/)
+- TorrentFreak
+  - [Movie & TV Pirates Increase in Italy But They Are Pirating Less Than Ever](https://torrentfreak.com/movie-tv-pirates-increase-in-italy-but-they-are-pirating-less-than-ever-220625/)
+- 看雪学院
+  - [[Rev赛题复现]DASCTF Apr X FATE 2022](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458454448&idx=1&sn=3555e70fdfeb7a4107c476199caa8d7c&chksm=b18e393a86f9b02c71f02972dd13db2c3c8623b6db04e13785ffee36db716f73c948e78678b9&scene=58&subscene=0#rd)
+  - [视频资讯|德国指控俄罗斯黑客对北约智库进行网络间谍攻击](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458454448&idx=2&sn=e917f02ba07e602d75ff9e9a1e113fed&chksm=b18e393a86f9b02c47791221cbf49cd8c585ad53e247e2137160db7aaa93f32014ee0fb7ea41&scene=58&subscene=0#rd)
+  - [『就业班预售9折』零基础红蓝对抗攻防研修班](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458454448&idx=3&sn=5613fd31999ffd531dc4ace7ed22ba79&chksm=b18e393a86f9b02cee9109a5f6b2324eb382e6b107889942a218ed3b0c67ed9fe57acee031c2&scene=58&subscene=0#rd)
+- 安全牛
+  - [牛聘|2021年度岗位招聘第16期](https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651115291&idx=1&sn=46c7e838a69e834d6abb7e54a72bde99&chksm=bd147fc88a63f6de2a065e82b2188f6173287768719b669f9a8f428dc4a2a75586026d6ef655&scene=58&subscene=0#rd)
+- Your Hacking Tutorial by Zempirians
+  - [How to track someone’s location from just a phone call?](https://www.reddit.com/r/HowToHack/comments/vkp3pn/how_to_track_someones_location_from_just_a_phone/)
+  - [DNS Vulnerabilities](https://www.reddit.com/r/HowToHack/comments/vka6vd/dns_vulnerabilities/)
+  - [Tools recommendations for android apps reverse engineering](https://www.reddit.com/r/HowToHack/comments/vkq3fw/tools_recommendations_for_android_apps_reverse/)
+  - [How the hacker did it?](https://www.reddit.com/r/HowToHack/comments/vkmgrx/how_the_hacker_did_it/)
+  - [Can someone point me in the right direction on AV evasion](https://www.reddit.com/r/HowToHack/comments/vkdp5l/can_someone_point_me_in_the_right_direction_on_av/)
+- KitPloit - PenTest Tools!
+  - [DFSCoerce - PoC For MS-DFSNM Coerce Authentication Using NetrDfsRemoveStdRoot Method](http://www.kitploit.com/2022/06/dfscoerce-poc-for-ms-dfsnm-coerce.html)
+  - [Nim-Loader - WIP Shellcode Loader In Nim With EDR Evasion Techniques](http://www.kitploit.com/2022/06/nim-loader-wip-shellcode-loader-in-nim.html)
+- Blackhat Library: Hacking techniques and research
+  - [Explaining Enumeration and Its Types](https://www.reddit.com/r/blackhat/comments/vk9f1i/explaining_enumeration_and_its_types/)
+- Security Affairs
+  - [Oracle spent 6 months to fix ‘Mega’ flaws in the Fusion Middleware](https://securityaffairs.co/wordpress/132603/breaking-news/oracle-mega-flaw-cve-202221445.html)
+  - [Multiple malicious packages in PyPI repository found stealing AWS secrets](https://securityaffairs.co/wordpress/132598/hacking/pypi-malicious-packages-2.html)
+  - [Attackers exploited a zero-day in Mitel VOIP devices to compromise a network](https://securityaffairs.co/wordpress/132588/hacking/mitel-voip-ransomware-attack.html)
+- /r/netsec - Information Security News & Discussion
+  - [Basic WebAssembly buffer overflow exploitation](https://www.reddit.com/r/netsec/comments/vkn5mn/basic_webassembly_buffer_overflow_exploitation/)
+- Social Engineering
+  - [In social gatherings or parties, how do you get "clout" the right way so that it doesn't look like you're a smoocher?](https://www.reddit.com/r/SocialEngineering/comments/vkjtus/in_social_gatherings_or_parties_how_do_you_get/)
+  - [DEF CON Groups VR Event](https://www.reddit.com/r/SocialEngineering/comments/vk58pp/def_con_groups_vr_event/)
+- Hacking and security
+  - [More hax.tor.hu solutions - old russian website](https://hackingandsecurity.blogspot.com/2022/06/more-haxtorhu-solutions-old-russian.html)
+  - [Hax.tor.hu solutions - old answers](https://hackingandsecurity.blogspot.com/2022/06/haxtorhu-solutions-old-answers.html)

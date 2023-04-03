@@ -1,0 +1,143 @@
+# 每日安全资讯（2022-07-29）
+
+- Microsoft Security Blog
+  - [Industrial systems: What it takes to secure and staff them](https://www.microsoft.com/security/blog/2022/07/28/industrial-systems-what-it-takes-to-secure-and-staff-them/)
+- HackerOne Hacker Activity
+  - [HTML Injection via TikTok Ads Email Share](https://hackerone.com/reports/1376990)
+  - [Twitter Account hijack through broken link in https://runpanther.io](https://hackerone.com/reports/1607429)
+  - [Hijack all emails sent to any domain that uses Cloudflare Email Forwarding](https://hackerone.com/reports/1419341)
+  - [Acronis True Image Local Privilege Escalation Due To Race Condition In Application Verification](https://hackerone.com/reports/1251464)
+  - [Off-by-slash vulnerability in nodejs.org and iojs.org](https://hackerone.com/reports/1650273)
+- unSafe.sh - 不安全
+  - [实战登录框漏洞测试](https://buaq.net/go-119707.html)
+  - [The SMB Guide to Cyber Resilience | Avast](https://buaq.net/go-119712.html)
+  - [Enough's enough: 7 signs to put down your phone and walk away](https://buaq.net/go-119713.html)
+- Sploitus.com Exploits RSS Feed
+  - [Loan Management System 1.0 Cross Site Scripting exploit](https://sploitus.com/exploit?id=PACKETSTORM:167861&utm_source=rss&utm_medium=rss)
+  - [Loan Management System 1.0 SQL Injection exploit](https://sploitus.com/exploit?id=PACKETSTORM:167860&utm_source=rss&utm_medium=rss)
+  - [Exploit for Path Traversal in Apache Http Server exploit](https://sploitus.com/exploit?id=4051D2EF-1C43-576D-ADB2-B519B31F93A0&utm_source=rss&utm_medium=rss)
+  - [Exploit for CVE-2022-26138 exploit](https://sploitus.com/exploit?id=E443E98A-3304-54B8-97FD-0FEF9DA283B3&utm_source=rss&utm_medium=rss)
+  - [Exploit for SQL Injection in Wordpress exploit](https://sploitus.com/exploit?id=1FF81FE4-266E-5D63-AB0D-0AC9FF830BF8&utm_source=rss&utm_medium=rss)
+  - [Exploit for CVE-2022-11111 exploit](https://sploitus.com/exploit?id=2B1A3155-78FF-581C-B7F9-10DA96F13F28&utm_source=rss&utm_medium=rss)
+- Tenable Blog
+  - [The Ransomware Ecosystem: In Pursuit of Fame and Fortune](https://www.tenable.com/blog/the-ransomware-ecosystem-in-pursuit-of-fame-and-fortune)
+- 跳跳糖 - 安全与分享社区
+  - [windows内存管理详解](https://tttang.com/archive/1590/)
+- Files ≈ Packet Storm
+  - [Wireshark Analyzer 3.6.7](https://packetstormsecurity.com/files/167863/wireshark-3.6.7.tar.xz)
+  - [Ubuntu Security Notice USN-5535-1](https://packetstormsecurity.com/files/167862/USN-5535-1.txt)
+  - [Loan Management System 1.0 Cross Site Scripting](https://packetstormsecurity.com/files/167861/loanms10-xss.txt)
+  - [Loan Management System 1.0 SQL Injection](https://packetstormsecurity.com/files/167860/loanmgmtsys10-sql.txt)
+- Twitter @Nicolas Krassas
+  - [TerraformGoat - "Vulnerable By Design" Multi Cloud Deployment Tool](https://twitter.com/Dinosn/status/1552751781196750850)
+  - [FileWave Fixes Bugs That Left 1,000+ Orgs Open To Ransomware](https://twitter.com/Dinosn/status/1552751526627647488)
+  - [US Puts $10 Million Bounty On North Korean Cyber Crews](https://twitter.com/Dinosn/status/1552731877131395072)
+  - [RT 0xdf: Support will be the fourth box I've had the honor to have go live on @hackthebox_eu! It's based on a real life PenTest story, and I had a lot...](https://twitter.com/0xdf_/status/1552722393730359301)
+  - [MS-SQL servers hacked to steal bandwidth with proxyware](https://twitter.com/Dinosn/status/1552713768651706368)
+  - [Microsoft 365 outage knocks down admin center in North America](https://twitter.com/Dinosn/status/1552713628608073732)
+  - [Spain arrests suspected hackers who sabotaged radiation alert system](https://twitter.com/Dinosn/status/1552713564460392449)
+  - [1,000s of Phishing Attacks Blast Off From InterPlanetary File System](https://twitter.com/Dinosn/status/1552690528860442625)
+  - [SharpTongue Deploys Clever Mail-Stealing Browser Extension “SHARPEXT”](https://twitter.com/Dinosn/status/1552689703249403904)
+  - [Malicious npm packages steal Discord users’ payment card info](https://twitter.com/Dinosn/status/1552689571711811585)
+  - [“Orwellian in the extreme” food store installs facial recognition cameras to stop crime, faces backlash](https://twitter.com/Dinosn/status/1552688706989035520)
+  - [ENISA provides data related to major telecom security incidents in 2021](https://twitter.com/Dinosn/status/1552685443963035652)
+  - [Google brings Street View back to India following 2016 ban](https://twitter.com/Dinosn/status/1552685143596404739)
+  - [RT PT SWARM: 🚨 New article by our researcher Aleksey Solovev: "Researching Open Source apps for XSS to RCE flaws". Read the article:](https://twitter.com/ptswarm/status/1552656845231177737)
+  - [RT Ange: I updated my hash collision repo with more info about DetectColl and safe hashes](https://twitter.com/angealbertini/status/1552620742495375361)
+- Security Boulevard
+  - [What are NS Records and Why Are They Important to DNS?](https://securityboulevard.com/2022/07/what-are-ns-records-and-why-are-they-important-to-dns/)
+  - [Cybersecurity Vendor Consolidation on the Horizon](https://securityboulevard.com/2022/07/cybersecurity-vendor-consolidation-on-the-horizon/)
+  - [Deep Dive into Google’s AlloyDB Architecture for PostgreSQL](https://securityboulevard.com/2022/07/deep-dive-into-googles-alloydb-architecture-for-postgresql/)
+  - [Deepfence at Black Hat 2022](https://securityboulevard.com/2022/07/deepfence-at-black-hat-2022/)
+  - [Builders and Breakers](https://securityboulevard.com/2022/07/builders-and-breakers/)
+  - [Yet Another Uefi Bootkit Discovered: Meet CosmicStrand](https://securityboulevard.com/2022/07/yet-another-uefi-bootkit-discovered-meet-cosmicstrand/)
+  - [The Week in Cybersecurity: Austrian hackers-for-hire KNOTWEED serve up Subzero malware](https://securityboulevard.com/2022/07/the-week-in-cybersecurity-austrian-hackers-for-hire-knotweed-serve-up-subzero-malware/)
+  - [Teleport Embraces FIDO to Eliminate IT Infrastructure Passwords](https://securityboulevard.com/2022/07/teleport-embraces-fido-to-eliminate-it-infrastructure-passwords/)
+  - [BSidesSF 2022 – Jean-Baptiste Aviat’s And Vladimir de Turckheim’s ‘XSS Mitigation: The State Of The Art’](https://securityboulevard.com/2022/07/bsidessf-2022-jean-baptiste-aviats-and-vladimir-de-turckheims-xss-mitigation-the-state-of-the-art/)
+  - [ESG Technical Review of the Gurucul Security Analytics and Operations Platform](https://securityboulevard.com/2022/07/esg-technical-review-of-the-gurucul-security-analytics-and-operations-platform/)
+- 安全客-有思想的安全新媒体
+  - [抖音电商百日漏洞赏金活动上线！](https://www.anquanke.com/post/id/277130)
+  - [Frida与Android CTF](https://www.anquanke.com/post/id/276895)
+  - [CVE-2022-33891 Apache Spark shell命令注入漏洞分析](https://www.anquanke.com/post/id/277003)
+  - [美国政府再次加码提供朝鲜黑客情报的赏金](https://www.anquanke.com/post/id/277107)
+- 嘶吼 RoarTalk – 回归最本质的信息安全,互联网安全新媒体,4hou.com
+  - [奇安信成为首家获得中国信通院全系列数据安全认证企业](https://www.4hou.com/posts/zlqZ)
+  - [“无文件”恶意软件的最新藏匿处](https://www.4hou.com/posts/QLJM)
+  - [Chrome 0 day漏洞被用于监控活动](https://www.4hou.com/posts/8YX3)
+- Recent Commits to cve:main
+  - [Update Thu Jul 28 11:33:13 UTC 2022](https://github.com/trickest/cve/commit/10efab3e46dc5e3e14570893d695999a129685a8)
+- 安全脉搏
+  - [一次踩坑无数的栈溢出实验 | 技术精选0139](https://www.secpulse.com/archives/184402.html)
+  - [云沙箱流量识别技术剖析 | 高级攻防11](https://www.secpulse.com/archives/184387.html)
+  - [什么？你还不会webshell免杀？（三）](https://www.secpulse.com/archives/184357.html)
+  - [关于栈迁移的那些事儿](https://www.secpulse.com/archives/184339.html)
+- 先知安全技术社区
+  - [实战登录框漏洞测试](https://xz.aliyun.com/t/11577)
+- bunnie's blog
+  - [The Plausibly Deniable DataBase (PDDB): It’s Real Now!](https://www.bunniestudios.com/blog/?p=6449)
+- Sec-News 安全文摘
+  - [Researching Open Source apps for XSS to RCE flaws](https://wiki.ioin.in/url/7KBQ)
+- ElcomSoft blog
+  - [checkm8 Extraction: iPhone 7](https://blog.elcomsoft.com/2022/07/checkm8-extraction-iphone-7/)
+- Jiajun的编程随想
+  - [三种git流程以及发版模型](https://jiajunhuang.com/articles/2022_07_28-git_flows.md.html)
+- SecWiki News
+  - [SecWiki News 2022-07-28 Review](http://www.sec-wiki.com/?2022-07-28)
+- 先知安全技术社区
+  - [实战登录框漏洞测试](https://xz.aliyun.com/t/11577)
+- Forcepoint
+  - [Malware evolves constantly. Your security should too.](https://www.forcepoint.com/blog/insights/malware-detection-evolved)
+- Bug Bounty in InfoSec Write-ups on Medium
+  - [Why this SIMPLE mistake earned a $5000 bug bounty from Reddit](https://infosecwriteups.com/why-this-simple-mistake-earned-a-5000-bug-bounty-from-reddit-d906cb46c60e?source=rss----7b722bfd1b8d--bug_bounty)
+- SAP Blogs
+  - [Integration between SAP Commerce and Customer Data Cloud](https://blogs.sap.com/2022/07/28/integration-between-sap-commerce-and-customer-data-cloud/)
+  - [New Learning Environments for Conversions from SAP ERP to SAP S/4HANA 2021](https://blogs.sap.com/2022/07/28/new-learning-environments-for-conversions-from-sap-erp-to-sap-s-4hana-2021/)
+  - [SAP BTP Security: How to use mTLS with Destinations](https://blogs.sap.com/2022/07/28/sap-btp-security-how-to-use-mtls-with-destinations/)
+  - [Web application health check monitoring: SAP Alert Notification Service & SAP Automation Pilot rock again](https://blogs.sap.com/2022/07/28/web-application-health-check-monitoring-sap-alert-notification-service-sap-automation-pilot-rock-again/)
+  - [Support Spotlight: Using DI API connections](https://blogs.sap.com/2022/07/28/support-spotlight-using-di-api-connections/)
+  - [What’s New in SAP Analytics Cloud Release 2022.16](https://blogs.sap.com/2022/07/28/whats-new-in-sap-analytics-cloud-release-2022.16/)
+  - [Project Manufacturing Management and Optimization: Subcontracting](https://blogs.sap.com/2022/07/28/project-manufacturing-management-and-optimization-subcontracting/)
+  - [What is SAP Experience and how to gain it through SAP training?](https://blogs.sap.com/2022/07/28/what-is-sap-experience-and-how-to-gain-it-through-sap-training/)
+  - [Guided Answers for Multitarget Applications for Cloud Foundry](https://blogs.sap.com/2022/07/28/guided-answers-for-multitarget-applications-for-cloud-foundry/)
+  - [SAP Cloud Integration: Bloomberg API Integration using JWT OAuth Authentication.](https://blogs.sap.com/2022/07/28/sap-cloud-integration-bloomberg-api-integration-using-jwt-oauth-authentication./)
+- SpiderLabs Blog from Trustwave
+  - [IPFS: The New Hotbed of Phishing](https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/ipfs-the-new-hotbed-of-phishing/)
+- Securelist
+  - [LofyLife: malicious npm packages steal Discord tokens and bank card data](https://securelist.com/lofylife-malicious-npm-packages/107014/)
+  - [APT trends report Q2 2022](https://securelist.com/apt-trends-report-q2-2022/106995/)
+- Trail of Bits Blog
+  - [Shedding smart contract storage with Slither](https://blog.trailofbits.com/2022/07/28/shedding-smart-contract-storage-with-slither/)
+- Malware-Traffic-Analysis.net - Blog Entries
+  - [2022-07-27 - IcedID (Bokbot) activity: two infection runs](https://www.malware-traffic-analysis.net/2022/07/27/index.html)
+- SentinelOne
+  - [Living Off Windows Defender | LockBit Ransomware Sideloads Cobalt Strike Through Microsoft Security Tool](https://www.sentinelone.com/blog/living-off-windows-defender-lockbit-ransomware-sideloads-cobalt-strike-through-microsoft-security-tool/)
+- IMQ Minded Security Blog
+  - [UN ECE 155 Threats in the real world: Wireless Networking Attacks and Mitigations. A case study](https://blog.mindedsecurity.com/2022/07/un-ece-155-threats-in-real-world.html)
+- Reverse Engineering
+  - [Extracting Ghidra Decompiler Output with Python](https://www.reddit.com/r/ReverseEngineering/comments/wabmjd/extracting_ghidra_decompiler_output_with_python/)
+- Sandfly Security Blog RSS Feed
+  - [Sandfly 4.0 - SSH Credential Auditing and eBPF Rootkit Detection](https://www.sandflysecurity.com/blog/sandfly-4-0-new-ssh-credential-and-key-auditing)
+- Malwarebytes Labs
+  - [Radioactivity monitoring and warning system hacked, disabled by attackers](https://blog.malwarebytes.com/reports/2022/07/radioactivity-monitoring-and-warning-system-hacked-disabled-by-attackers/)
+  - [TikTok owner ByteDance pushed a pro-China agenda to Americans, say former employees](https://blog.malwarebytes.com/privacy-2/2022/07/tiktok-owner-bytedance-pushed-a-pro-china-agenda-to-americans-say-former-employees/)
+  - [“Orwellian in the extreme” food store installs facial recognition cameras to stop crime, faces backlash](https://blog.malwarebytes.com/privacy-2/2022/07/orwellian-in-the-extreme-food-store-installs-facial-recognition-cameras-to-stop-crime-faces-backlash/)
+- Current Posts - Red Team Journal
+  - [Getting Ready for What’s Next](https://www.redteamjournal.com/blog/getting-ready-whats-next)
+- Microsoft Security Response Center
+  - [Anatomy of a Cloud-Service Security Update](https://msrc-blog.microsoft.com/2022/07/28/anatomy-of-a-cloud-service-security-update/)
+- blog.avast.com EN
+  - [The SMB Guide to Cyber Resilience | Avast](https://blog.avast.com/smb-guide-cyber-resilience)
+  - [Enough's enough: 7 signs to put down your phone and walk away](https://blog.avast.com/enoughs-enough-7-signs-to-put-down-your-phone-and-walk-away)
+  - [Candiru: Attack targeting journalists in the Middle East](https://blog.avast.com/candiru-targeting-journalists-middle-east)
+- IMQ Minded Security Blog
+  - [UN ECE 155 Threats in the real world: Wireless Networking Attacks and Mitigations. A case study](https://blog.mindedsecurity.com/2022/07/un-ece-155-threats-in-real-world.html)
+- KitPloit - PenTest & Hacking Tools
+  - [TerraformGoat - "Vulnerable By Design" Multi Cloud Deployment Tool](http://www.kitploit.com/2022/07/terraformgoat-vulnerable-by-design.html)
+- Twitter @hakivvi
+  - [RT Chromium Disclosed Security Bugs: Security: Browser-side origin confusion for javascript/data URLs opened in a new window/tab by cross-origin ifram...](https://twitter.com/BugsChromium/status/1552718535402610688)
+  - [RT reverseame: How to stop Firefox from spamming your proxy tools like Burp/Fiddler with “](https://twitter.com/reverseame/status/1552568950717911041)
+- The Daily Swig | Cybersecurity news and views
+  - [GitHub enhances 2FA for npm, improves security and manageability](https://portswigger.net/daily-swig/github-enhances-2fa-for-npm-improves-security-and-manageability)
+  - [Onfido bug bounty program launched to help shore up ID verification defenses](https://portswigger.net/daily-swig/onfido-bug-bounty-program-launched-to-help-shore-up-id-verification-defenses)
+- Wallarm
+  - [API Vulnerabilities Jump Up 3.7x in Q2-2022](https://lab.wallarm.com/api-vulnerabilities-jump-up-3-7x-in-q2-2022/)

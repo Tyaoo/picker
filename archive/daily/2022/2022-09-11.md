@@ -1,0 +1,72 @@
+# 每日安全资讯（2022-09-11）
+
+- 嘶吼 RoarTalk – 回归最本质的信息安全,互联网安全新媒体,4hou.com
+  - [黑客通过詹姆斯•韦伯太空望远镜拍摄的图像传播恶意软件](https://www.4hou.com/posts/DExn)
+  - [微软Defender将Chrome、Edge等错误标记](https://www.4hou.com/posts/ZXy6)
+- Security Boulevard
+  - [Discrete Mathematics & Graph Theory Lecture Notes PDF – JNTUA](https://securityboulevard.com/2022/09/discrete-mathematics-graph-theory-lecture-notes-pdf-jntua/)
+  - [BSides Vancouver 2022 – Chris Timmons’ ‘Cracking Passwords For Fun And Profit’](https://securityboulevard.com/2022/09/bsides-vancouver-2022-chris-timmons-cracking-passwords-for-fun-and-profit/)
+  - [Fall Foliage: JavaScript/OJS Edition](https://securityboulevard.com/2022/09/fall-foliage-javascript-ojs-edition/)
+- SecWiki News
+  - [SecWiki News 2022-09-10 Review](http://www.sec-wiki.com/?2022-09-10)
+- Recent Commits to cve:main
+  - [Update Sat Sep 10 10:01:47 UTC 2022](https://github.com/trickest/cve/commit/62f99f235cba1471b8213f23c2ee8249805a33b0)
+- unSafe.sh - 不安全
+  - [NuttX Binary to Test Particle Photon board](https://buaq.net/go-126079.html)
+  - [万字长文告诉你Go 1.19中值得关注的几个变化](https://buaq.net/go-126076.html)
+  - [GraphCrawler - GraphQL Automated Security Testing Toolkit](https://buaq.net/go-126073.html)
+  - [有人评价这款应用「感觉很正点」？](https://buaq.net/go-126103.html)
+  - [vshell](https://buaq.net/go-126065.html)
+  - [RPCMon](https://buaq.net/go-126066.html)
+  - [Seal – 内嵌 yt-dlp 与 aria2c 的开源 Android 在线视频下载器（音频提取）](https://buaq.net/go-126064.html)
+  - [从选购到使用，让 3D 打印机打开新世界的大门](https://buaq.net/go-126067.html)
+  - [How I found 3 RXSS on the Lululemon bug bounty program](https://buaq.net/go-126063.html)
+  - [黑客通过詹姆斯•韦伯太空望远镜拍摄的图像传播恶意软件](https://buaq.net/go-126056.html)
+  - [微软Defender将Chrome、Edge等错误标记](https://buaq.net/go-126057.html)
+  - [大厂出品不等于又大又慢，这 6 个小应用值得一试](https://buaq.net/go-126060.html)
+  - [免费送月饼？高校发4万多封钓鱼邮件，结果……](https://buaq.net/go-126051.html)
+- Twitter @Nicolas Krassas
+  - [GraphCrawler - GraphQL Automated Security Testing Toolkit](https://twitter.com/Dinosn/status/1568694091218825218)
+  - [HTB: Scanned](https://twitter.com/Dinosn/status/1568693254279036929)
+  - [x86matthew - WriteProcessMemoryAPC - Write memory to a remote process using APC calls](https://twitter.com/Dinosn/status/1568690146366881794)
+  - [Deka - an OpenCL A5/1 cracker](https://twitter.com/Dinosn/status/1568680501283815424)
+  - [PoC for the WebGL bug that was patched in Safari 15.4 security updates. CVE-2022-22629 Proof of concept](https://twitter.com/Dinosn/status/1568680335260487689)
+  - [vMass Bot Vulnerability Scanner & Auto Exploiter Tool Written in Perl.](https://twitter.com/Dinosn/status/1568679839300829184)
+  - [RT 0xdf: Scanned from @hackthebox_eu was really hard. It's a clinic in Linux system exploitation where details matter, and once I learned how all of i...](https://twitter.com/0xdf_/status/1568615325880426497)
+  - [RT Antonio Cocomazzi: We are releasing an alternative way for elevating to SYSTEM when you have SeTcbPrivilege How? Leveraging AcquireCredentialsHandl...](https://twitter.com/splinter_code/status/1568548572861267968)
+  - [RT Jonas L: Presenting D-Generate , syscall tracing as its supposed to be! usage: dg cmd.exe - displays all syscalls done by process with cmd.exe as i...](https://twitter.com/jonasLyk/status/1568450498579111936)
+  - [RT blueblue: GitHub - parsdefense/CVE-2022-22629: CVE-2022-22629 Proof of Concept -](https://twitter.com/piedpiper1616/status/1568442920671543296)
+  - [SiliFuzz - Fuzzing CPUs by proxy](https://twitter.com/Dinosn/status/1568437465773649922)
+- Sploitus.com Exploits RSS Feed
+  - [Exploit for OS Command Injection in Sap Netweaver exploit](https://sploitus.com/exploit?id=6A1A1A08-4091-5FBF-84C9-2780EA645DF9&utm_source=rss&utm_medium=rss)
+  - [Exploit for Command Injection in Atlassian Bitbucket exploit](https://sploitus.com/exploit?id=4B077A8D-B9A8-51EC-A30C-160FCB41F9CD&utm_source=rss&utm_medium=rss)
+- Bug Bounty in InfoSec Write-ups on Medium
+  - [How I found 3 RXSS on the Lululemon bug bounty program](https://infosecwriteups.com/how-i-found-3-rxss-on-the-lululemon-bug-bounty-program-fa357a0154c2?source=rss----7b722bfd1b8d--bug_bounty)
+- SAP Blogs
+  - [Bring your data from HANA Cloud to HANA On-prem via DP Agent](https://blogs.sap.com/2022/09/10/bring-your-data-from-hana-cloud-to-hana-on-prem-via-dp-agent/)
+  - [JavaScript Book Review – Part 01](https://blogs.sap.com/2022/09/10/javascript-book-review-part-01/)
+  - [EWM Technical Made Easy – Part 4 – Changing / Cleaning Fields on EWM DAS / Shipping Cockpit etc.](https://blogs.sap.com/2022/09/10/ewm-technical-made-easy-part-4-changing-cleaning-fields-on-ewm-das-shipping-cockpit-etc./)
+  - [SAP Fiori Application To Display SAP Ariba Requisition Data – Part 6](https://blogs.sap.com/2022/09/10/sap-fiori-application-to-display-sap-ariba-requisition-data-part-6/)
+  - [SAP Fiori Application To Display SAP Ariba Requisition Data – Part 5](https://blogs.sap.com/2022/09/10/sap-fiori-application-to-display-sap-ariba-requisition-data-part-5/)
+  - [SAP Fiori Application To Display SAP Ariba Requisition Data – Part 4](https://blogs.sap.com/2022/09/10/sap-fiori-application-to-display-sap-ariba-requisition-data-part-4/)
+  - [SAP Fiori Application To Display SAP Ariba Requisition Data – Part 3](https://blogs.sap.com/2022/09/10/sap-fiori-application-to-display-sap-ariba-requisition-data-part-3/)
+  - [SAP Fiori Application To Display SAP Ariba Requisition Data – Part 2](https://blogs.sap.com/2022/09/10/sap-fiori-application-to-display-sap-ariba-requisition-data-part-2/)
+  - [SAP Fiori Application To Display SAP Ariba Requisition Data – Part 1](https://blogs.sap.com/2022/09/10/sap-fiori-application-to-display-sap-ariba-requisition-data-part-1/)
+- Didier Stevens
+  - [Maldoc Analysis Video – Rehearsed & Unrehearsed](https://blog.didierstevens.com/2022/09/10/maldoc-analysis-video-rehearsed-unrehearsed/)
+- KitPloit - PenTest & Hacking Tools
+  - [GraphCrawler - GraphQL Automated Security Testing Toolkit](http://www.kitploit.com/2022/09/graphcrawler-graphql-automated-security.html)
+- 体验盒子
+  - [2022~中秋节](https://www.uedbox.com/post/68504/)
+- Twitter @Keiran Smith (Affix)
+  - [Re @evil_del @ArgosHelpers It’s a weird place 😂😂](https://twitter.com/cli/status/1568691698087108610)
+  - [😂😂](https://twitter.com/cli/status/1568556299356454912)
+  - [Wonder why @Argos_Online in Airdrie doesn’t work like ever other Argos in the uk](https://twitter.com/cli/status/1568546177901010946)
+- 黑海洋 - WIKI
+  - [如何安装宝塔国际版 aapanel(宝塔海外版)](https://blog.upx8.com/2966)
+- 雷神众测
+  - [望明月 寄相思｜雷神众测祝你中秋节快乐](https://mp.weixin.qq.com/s?__biz=MzI0NzEwOTM0MA==&mid=2652499618&idx=1&sn=e750b22c63aaf6af550eea6bd9d53c1b&chksm=f2584d11c52fc407a4fa8ce11a725bc11cb26c4627f2a52bae71281f74e22cf367e44403f59e&scene=58&subscene=0#rd)
+- 奇客Solidot–传递最新科技情报
+  - [Android 13 最低硬件需求为 2GB 内存和 16 GB 存储空间](https://www.solidot.org/story?sid=72734)
+  - [英伟达称其 H100 数据中心 GPU 性能比上一代高 4.5 倍](https://www.solidot.org/story?sid=72733)
+  - [旧金山除罪化迷幻药](https://www.solidot.org/story?sid=72732)

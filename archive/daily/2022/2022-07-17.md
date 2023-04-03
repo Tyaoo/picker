@@ -1,0 +1,83 @@
+# 每日安全资讯（2022-07-17）
+
+- Recent Commits to cve:main
+  - [Update Sat Jul 16 11:27:53 UTC 2022](https://github.com/trickest/cve/commit/f5e27a1168b09c21762092edea26f0bb07292810)
+- CXSECURITY Database RSS Feed - CXSecurity.com
+  - [Backdoor.Win32.HoneyPot.a / Weak Hardcoded Password](https://cxsecurity.com/issue/WLB-2022070046)
+  - [Builder XtremeRAT v3.7 / Insecure Permissions](https://cxsecurity.com/issue/WLB-2022070045)
+  - [Builder XtremeRAT v3.7 / Insecure Crypto Bypass](https://cxsecurity.com/issue/WLB-2022070044)
+  - [Developed by: web3creations.com - Sql Injection Vulnerability](https://cxsecurity.com/issue/WLB-2022070043)
+- HackerOne Hacker Activity
+  - [Can use the Reddit android app as usual even though revoking the access of it from reddit.com](https://hackerone.com/reports/1632186)
+- Twitter @Nicolas Krassas
+  - [HTB: Acute](https://twitter.com/Dinosn/status/1548410023058976768)
+  - [Famm - 535,240 breached accounts](https://twitter.com/Dinosn/status/1548409905530281988)
+  - [RT AIL Project: AIL Framework version 4.2 released including typo squatting tracker, improved AIL2AIL sync, zerobinz fetcher and many bugs fixed. #Thr...](https://twitter.com/ail_project/status/1548231597219930114)
+  - [Hackers Targeting VoIP Servers By Exploiting Digium Phone Software](https://twitter.com/Dinosn/status/1548212034499592194)
+  - [A tool to kill antimalware protected processes](https://twitter.com/Dinosn/status/1548207543976992768)
+  - [A tool used to obfuscate python scripts, bind obfuscated scripts to fixed machine or expire obfuscated scripts.](https://twitter.com/Dinosn/status/1548185886151413762)
+  - [Dumpscan - Tool To Extract And Dump Secrets From Kernel And Windows Minidump Formats](https://twitter.com/Dinosn/status/1548160298745352194)
+  - [CISA pulls the fire alarm on Juniper Networks bugs](https://twitter.com/Dinosn/status/1548144597187973128)
+  - [New Cache Side Channel Attack Can De-Anonymize Targeted Online Users](https://twitter.com/Dinosn/status/1548144489302175748)
+  - [Tainted password-cracking software for industrial systems used to spread P2P Sality bot](https://twitter.com/Dinosn/status/1548144412214960128)
+- SecWiki News
+  - [SecWiki News 2022-07-16 Review](http://www.sec-wiki.com/?2022-07-16)
+- unSafe.sh - 不安全
+  - [【荐书】特工训练手册：危急时刻如何绝处逢生](https://buaq.net/go-117783.html)
+  - [北京一民警被妻子实名举报收受巨额贿赂 包养多名情妇长期家暴还疯狂嫖娼](https://buaq.net/go-117761.html)
+  - [[Obs＃92] Obsidian彙編文章的簡單方法：2個外掛＋1個CSS片段](https://buaq.net/go-117762.html)
+  - [招生！《安卓高级研修班》2022年夏季班](https://buaq.net/go-117780.html)
+  - [有用！给你的 AirPods 添加一点魔法](https://buaq.net/go-117767.html)
+  - [MagicPods – 为 Windows 提供魔法般的 AirPods 体验](https://buaq.net/go-117749.html)
+  - [把握浏览器的「门面」：少数派作者们都在用什么启动页？](https://buaq.net/go-117728.html)
+  - [陈北雁的日常(before 2022.6.15)](https://buaq.net/go-117781.html)
+  - [Process Injection using QueueUserAPC Technique in Windows](https://buaq.net/go-117722.html)
+  - [Kubeaudit - Tool To Audit Your Kubernetes Clusters Against Common Security Controls](https://buaq.net/go-117760.html)
+  - [暑假开放注册微信抽奖活动，先送20个账号注册码或300论坛币，今天两点开奖，详见【开放注册公告】吾爱破解论坛2022年7月21日暑假开放注册公告](https://buaq.net/go-117779.html)
+  - [我最喜欢的10个机器学习公众号](https://buaq.net/go-117752.html)
+  - [Python生成图文并茂的PDF报告](https://buaq.net/go-117753.html)
+  - [WordPress主题中的漏洞可能会导致网站被接管](https://buaq.net/go-117718.html)
+  - [对渗透测试工具的利用](https://buaq.net/go-117719.html)
+  - [真正的新生力量：从金曲奖最佳新人入围者看乐坛新风向](https://buaq.net/go-117717.html)
+  - [Can someone help me Solve the Hash, i sent the screenshot to understand the context , this is the hash - 0c30750cqr7ihaiv9sr8mpbkt1og5is8qlalp0jhern6hudug4js8qpctobn](https://buaq.net/go-117696.html)
+  - [wps是怎么欺负用户的](https://buaq.net/go-117758.html)
+- 嘶吼 RoarTalk – 回归最本质的信息安全,互联网安全新媒体,4hou.com
+  - [WordPress主题中的漏洞可能会导致网站被接管](https://www.4hou.com/posts/AKj7)
+  - [对渗透测试工具的利用](https://www.4hou.com/posts/jJnv)
+- No Headback
+  - [为什么大公司讲的效率如此虚伪](http://xargin.com/what-they-say-is-not-true/)
+- GT's Blog
+  - [KeyCloak docker-compose import realm file](http://blog.gtiwari333.com/2022/07/keycloak-docker-compose-import-realm.html)
+- Security Boulevard
+  - [BSidesSF 2022 – Sharon Goldberg’s ‘Avoiding Insidious Points Of Compromise In Infrastructure Access Systems’](https://securityboulevard.com/2022/07/bsidessf-2022-sharon-goldbergs-avoiding-insidious-points-of-compromise-in-infrastructure-access-systems/)
+  - [Fredo & Pidjin™ ‘Easily Offended’](https://securityboulevard.com/2022/07/fredo-pidjin-easily-offended/)
+  - [BSidesSF 2022 – Jeevan Singh’s ‘Redefining Threat Modeling: Security Team Goes On Vacation’](https://securityboulevard.com/2022/07/bsidessf-2022-jeevan-singhs-redefining-threat-modeling-security-team-goes-on-vacation/)
+- Reverse Engineering
+  - [Adding new features to an old game with Frida, Part I](https://www.reddit.com/r/ReverseEngineering/comments/w0kt59/adding_new_features_to_an_old_game_with_frida/)
+- SAP Blogs
+  - [S/4HANA Q2C Sales Flexibility – Determine Business Partner and Sales Area in B2B EDI Integration](https://blogs.sap.com/2022/07/16/s-4hana-q2c-sales-flexibility-determine-business-partner-and-sales-area-in-b2b-edi-integration/)
+- KitPloit - PenTest & Hacking Tools
+  - [Kubeaudit - Tool To Audit Your Kubernetes Clusters Against Common Security Controls](http://www.kitploit.com/2022/07/kubeaudit-tool-to-audit-your-kubernetes.html)
+- 黑奇士
+  - [wps是怎么欺负用户的](https://mp.weixin.qq.com/s?__biz=MzI5ODYwNTE4Nw==&mid=2247487049&idx=1&sn=1f652d776ea2db2972e29f2e45c51ce2&chksm=eca201a5dbd588b3af7229e585bb9e9f13f56ca07eab2fe738a364339f9be9a09dc5df044ce8&scene=58&subscene=0#rd)
+- 青衣十三楼飞花堂
+  - [陈北雁的日常(before 2022.6.15)](https://mp.weixin.qq.com/s?__biz=MzUzMjQyMDE3Ng==&mid=2247486033&idx=1&sn=e05ecfaecf6fe5ac56ffc622a8bf837f&chksm=fab2c96ecdc54078c0629bafa94736ccd74b2e1b6a9c68ca127b68f98f3df94cf6cb61a6024e&scene=58&subscene=0#rd)
+- 奇安信病毒响应中心
+  - [起底国家级APT组织：金刚象（APT-Q-43)](https://mp.weixin.qq.com/s?__biz=MzI5Mzg5MDM3NQ==&mid=2247490437&idx=1&sn=73b071ca1c167e3ca731cc7f50291c18&chksm=ec6a6baddb1de2bb4f156ae566e73d67c7730248e489352522d1efc244b64f0e34f86ed9e267&scene=58&subscene=0#rd)
+- 数世咨询
+  - [[调研]人人都面临ICS攻击风险](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247494229&idx=1&sn=f568a6042c526d43165dd5070351c795&chksm=c14498e8f63311fe1afd09f0aacd4bb2e861ce6d868e9586dc9d09903c0f5f67ae5fba0fa594&scene=58&subscene=0#rd)
+- 看雪学院
+  - [2022新款定制速干衣-Reverse everything](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458458449&idx=1&sn=e98c59bd54c14d3b06c08f3cdacb5241&chksm=b18e29db86f9a0cd2004fedf486fb3d0d93e846e277ce4c9a5f67cc852e4c1db3bb2db23ea1a&scene=58&subscene=0#rd)
+  - [用uboot“操控”某路由器设备](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458458449&idx=2&sn=fd2da67f56d2975c6a7ebc4e2ac25dae&chksm=b18e29db86f9a0cd9cfb797483a1dd4adcaa4d6f59bb7a9f7fbc6e2743a1ef91a0db3c366902&scene=58&subscene=0#rd)
+  - [招生！《安卓高级研修班》2022年夏季班](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458458449&idx=3&sn=6e629febf380d0ecf3c79dc4fcb7e902&chksm=b18e29db86f9a0cd7c17ee7a44b7f87ad6af872d615f1eb90a611183f737f1969b4c047e2891&scene=58&subscene=0#rd)
+- 中国信息安全
+  - [关注 | 网络数据安全管理条例等纳入国务院2022年度立法工作计划](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664162070&idx=1&sn=5f78c0326ad9fc1b0599211eddbf9151&chksm=8b5ee1efbc2968f9446c42f6c8c0f4fbc64d318cc5f24f16f2fa0705eb23fbcfa97da2946fae&scene=58&subscene=0#rd)
+  - [关注 | 公安机关网安部门重拳打击窃听窃照及偷拍偷窥违法犯罪](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664162070&idx=2&sn=1ddddf21b4c2d1a73122d597f56f8357&chksm=8b5ee1efbc2968f9c6c2d45e01545b56176dcf3edb954e6a917bf27f3b01628b98867e6d4f53&scene=58&subscene=0#rd)
+  - [专家解读 | 规范数据安全出境 促进数据依法有序流动](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664162070&idx=3&sn=68ec4d17d31cd5582c348adc5a7980b2&chksm=8b5ee1efbc2968f9e6b78825f211149c46a4ff052128f86e814956afd2e18534a4c2d68a7469&scene=58&subscene=0#rd)
+  - [CNNVD | 关于微软多个安全漏洞的通报](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664162070&idx=4&sn=9371db36c1a1f42fd42e123e290c723f&chksm=8b5ee1efbc2968f94f93c2bce60ba734c5c4dc45892255aa0fff0f457f0efbeb547824335684&scene=58&subscene=0#rd)
+  - [发布 | 《上海市数字经济发展“十四五”规划》（全文）](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664162070&idx=5&sn=e14c2e66871b1ad7083eed6a8010939a&chksm=8b5ee1efbc2968f9de4bb00f14d7fdaa36efebcfb62c1956f87ff5838374503e1878e8d92047&scene=58&subscene=0#rd)
+- 极客公园
+  - [监管发文整治「雪糕刺客」；微信测试朋友圈「共同回忆」功能；史蒂芬・金：新冠战胜了人类｜极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2652960213&idx=1&sn=681d8e6f1a87d4fd0bc0bfe3906beab9&chksm=7e558863492201755cb9bb4242a4fc6ee34477c83bd74d9ecafacc1a2aab7510f67893004a8f&scene=58&subscene=0#rd)
+- 情报分析师
+  - [【情报课堂】OSINT — 新手指南](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650510833&idx=1&sn=50f5612326cada1cae22db8b5396448a&chksm=8716bbbab06132ace81f3bd75991101770c9dd9210e5545944c5393c56f819c91313fa087f93&scene=58&subscene=0#rd)
+  - [【实战技法】如何研究和调查美国电话号码](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650510833&idx=2&sn=01298400c77e2c6516e8b1444ab8b1a5&chksm=8716bbbab06132ac9630829f4486349d677f58d801070be2dd2877edf69a9d600a5d852bed10&scene=58&subscene=0#rd)

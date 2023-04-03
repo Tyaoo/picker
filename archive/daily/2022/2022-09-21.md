@@ -1,0 +1,231 @@
+# 每日安全资讯（2022-09-21）
+
+- Security Boulevard
+  - [What I Need to be a SOC Rock Star](https://securityboulevard.com/2022/09/what-i-need-to-be-a-soc-rock-star/)
+  - [Moving from Insider Risk to Insider Threat: Disgruntled Employees and Looming Layoffs](https://securityboulevard.com/2022/09/moving-from-insider-risk-to-insider-threat-disgruntled-employees-and-looming-layoffs/)
+  - [Ahmed Masud Chats about Innovative Ways to Combat Ransomware and Protect Data](https://securityboulevard.com/2022/09/ahmed-masud-chats-about-innovative-ways-to-combat-ransomware-and-protect-data/)
+  - [BSidesLV 2022 Lucky13 BreakingGround – Amanda Walker’s ‘Keynote – Beyond Logs And Time Series: Observability For Security & Privacy’](https://securityboulevard.com/2022/09/bsideslv-2022-lucky13-breakingground-amanda-walkers-keynote-beyond-logs-and-time-series-observability-for-security-privacy/)
+  - [Why WireGuard is Better than IPsec and SSL for ZTNA](https://securityboulevard.com/2022/09/why-wireguard-is-better-than-ipsec-and-ssl-for-ztna/)
+  - [Celebrating Sonatypers](https://securityboulevard.com/2022/09/celebrating-sonatypers/)
+  - [Situational Awareness in Russia: Neo-Nazi Mercenary Groups, PMCs, and Illicit Financing](https://securityboulevard.com/2022/09/situational-awareness-in-russia-neo-nazi-mercenary-groups-pmcs-and-illicit-financing/)
+  - [The Role of API Security in Digital Transformation](https://securityboulevard.com/2022/09/the-role-of-api-security-in-digital-transformation/)
+  - [XKCD ‘Interruption’](https://securityboulevard.com/2022/09/xkcd-interruption/)
+- Files ≈ Packet Storm
+  - [Zeek 5.0.2](https://packetstormsecurity.com/files/168436/zeek-5.0.2.tar.gz)
+  - [Ubuntu Security Notice USN-5619-1](https://packetstormsecurity.com/files/168435/USN-5619-1.txt)
+  - [Arm Mali CSF Missing Buffer Size Check](https://packetstormsecurity.com/files/168434/GS20220920141716.tgz)
+  - [Arm Mali Race Condition](https://packetstormsecurity.com/files/168433/GS20220920141404.tgz)
+  - [Arm Mali Physical Address Exposure](https://packetstormsecurity.com/files/168432/GS20220920141211.tgz)
+  - [Arm Mali Released Buffer Use-After-Free](https://packetstormsecurity.com/files/168431/GS20220920140731.tgz)
+  - [Backdoor.Win32.Hellza.120 MVID-2022-0641 Remote Command Execution](https://packetstormsecurity.com/files/168430/MVID-2022-0641.txt)
+  - [Backdoor.Win32.Hellza.120 MVID-2022-0642 Authentication Bypass](https://packetstormsecurity.com/files/168429/MVID-2022-0642.txt)
+  - [Blink1Control2 2.2.7 Weak Password Encryption](https://packetstormsecurity.com/files/168428/blink1control2227-insecure.txt)
+  - [ProcessMaker Privilege Escalation](https://packetstormsecurity.com/files/168427/Processmaker-PoC-by-Sornram9254.py.txt)
+  - [Red Hat Security Advisory 2022-6537-01](https://packetstormsecurity.com/files/168426/RHSA-2022-6537-01.txt)
+  - [Buffalo TeraStation Network Attached Storage (NAS) 1.66 Authentication Bypass](https://packetstormsecurity.com/files/168425/buffalotsnas166-bypass.txt)
+  - [Trojan.Ransom.Ryuk.A MVID-2022-0640 Code Execution](https://packetstormsecurity.com/files/168424/MVID-2022-0640.txt)
+  - [Bookwyrm 0.4.3 Authentication Bypass](https://packetstormsecurity.com/files/168423/bookwyrm043-bypass.txt)
+  - [Trojan-Dropper.Win32.Corty.10 MVID-2022-0639 Insecure Credential Storage](https://packetstormsecurity.com/files/168422/MVID-2022-0639.txt)
+- CXSECURITY Database RSS Feed - CXSecurity.com
+  - [PhotoSync 4.7 Local File Inclusion](https://cxsecurity.com/issue/WLB-2022090056)
+  - [WordPress GetYourGuide Ticketing 1.0.1 Cross Site Scripting](https://cxsecurity.com/issue/WLB-2022090055)
+  - [Owlfiles File Manager 12.0.1 Path Traversal / Local File Inclusion](https://cxsecurity.com/issue/WLB-2022090054)
+  - [ProcessMaker Privilege Escalation](https://cxsecurity.com/issue/WLB-2022090053)
+  - [Blink1Control2 2.2.7 Weak Password Encryption](https://cxsecurity.com/issue/WLB-2022090052)
+  - [Bookwyrm 0.4.3 Authentication Bypass](https://cxsecurity.com/issue/WLB-2022090051)
+  - [Trojan-Dropper.Win32.Corty.10 / Insecure Credential Storage](https://cxsecurity.com/issue/WLB-2022090050)
+  - [Backdoor.Win32.Hellza.120 / Authentication Bypass](https://cxsecurity.com/issue/WLB-2022090049)
+  - [Backdoor.Win32.Hellza.120 / Unauthorized Remote Command Execution](https://cxsecurity.com/issue/WLB-2022090048)
+  - [Trojan.Ransom.Ryuk.A / Arbitrary Code Execution](https://cxsecurity.com/issue/WLB-2022090047)
+- Microsoft Security Blog
+  - [New Windows 11 security features are designed for hybrid work](https://www.microsoft.com/security/blog/2022/09/20/new-windows-11-security-features-are-designed-for-hybrid-work/)
+- SecWiki News
+  - [SecWiki News 2022-09-20 Review](http://www.sec-wiki.com/?2022-09-20)
+- 先知安全技术社区
+  - [对writeObject流程动点手脚](https://xz.aliyun.com/t/11720)
+  - [关于"linux capability"的两个特殊案例](https://xz.aliyun.com/t/11716)
+  - [GenieACS CVE-2021-46704认证前RCE漏洞分析](https://xz.aliyun.com/t/11722)
+- Sploitus.com Exploits RSS Feed
+  - [Bookwyrm v0.4.3 - Authentication Bypass Vulnerability exploit](https://sploitus.com/exploit?id=1337DAY-ID-37974&utm_source=rss&utm_medium=rss)
+  - [Backdoor.Win32.Hellza.120 MVID-2022-0642 Authentication Bypass exploit](https://sploitus.com/exploit?id=PACKETSTORM:168429&utm_source=rss&utm_medium=rss)
+  - [Trojan-Dropper.Win32.Corty.10 MVID-2022-0639 Insecure Credential Storage exploit](https://sploitus.com/exploit?id=PACKETSTORM:168422&utm_source=rss&utm_medium=rss)
+  - [Backdoor.Win32.Hellza.120 MVID-2022-0641 Remote Command Execution exploit](https://sploitus.com/exploit?id=PACKETSTORM:168430&utm_source=rss&utm_medium=rss)
+  - [Trojan.Ransom.Ryuk.A MVID-2022-0640 Code Execution exploit](https://sploitus.com/exploit?id=PACKETSTORM:168424&utm_source=rss&utm_medium=rss)
+  - [Buffalo TeraStation Network Attached Storage (NAS) 1.66 - Authentication Bypass Vulnerability exploit](https://sploitus.com/exploit?id=1337DAY-ID-37973&utm_source=rss&utm_medium=rss)
+  - [Bookwyrm 0.4.3 Authentication Bypass exploit](https://sploitus.com/exploit?id=PACKETSTORM:168423&utm_source=rss&utm_medium=rss)
+  - [Blink1Control2 2.2.7 - Weak Password Encryption Exploit exploit](https://sploitus.com/exploit?id=1337DAY-ID-37975&utm_source=rss&utm_medium=rss)
+  - [Blink1Control2 2.2.7 Weak Password Encryption exploit](https://sploitus.com/exploit?id=PACKETSTORM:168428&utm_source=rss&utm_medium=rss)
+  - [ProcessMaker Privilege Escalation exploit](https://sploitus.com/exploit?id=PACKETSTORM:168427&utm_source=rss&utm_medium=rss)
+  - [Buffalo TeraStation Network Attached Storage (NAS) 1.66 Authentication Bypass exploit](https://sploitus.com/exploit?id=PACKETSTORM:168425&utm_source=rss&utm_medium=rss)
+  - [Exploit for Command Injection in Atlassian Bitbucket exploit](https://sploitus.com/exploit?id=2F640351-5EB0-5CEE-9708-5FBA0CA9E296&utm_source=rss&utm_medium=rss)
+  - [Exploit for Path Traversal in Apache Http Server exploit](https://sploitus.com/exploit?id=CF47F8BF-37F7-5EF9-ABAB-E88ECF6B64FE&utm_source=rss&utm_medium=rss)
+- Twitter @Nicolas Krassas
+  - [White House Statement On Cryptocurrency Regulation](https://twitter.com/Dinosn/status/1572274081608925184)
+  - [Game dev 2K’s support site hacked to push malware via fake tickets](https://twitter.com/Dinosn/status/1572273996015742977)
+  - [Bitbucket RCE analysis,](https://twitter.com/Dinosn/status/1572233732366700544)
+  - [Grand Theft Auto 6 Maker Confirms Source Code, Vids Stolen In Cyber-Heist](https://twitter.com/Dinosn/status/1572233033712795649)
+  - [ChromeLoader Can Overload Systems With Malware](https://twitter.com/Dinosn/status/1572232999823118337)
+  - [Kam1n0 - Assembly Analysis Platform](https://twitter.com/Dinosn/status/1572228329822126081)
+  - [Microsoft Defender for Endpoint will turn on tamper protection by default](https://twitter.com/Dinosn/status/1572228216831483906)
+  - [Credit Card Fraud That Bypasses 2FA](https://twitter.com/Dinosn/status/1572201504102023173)
+  - [Vulnerabilities Identified in EZVIZ Smart Cams](https://twitter.com/Dinosn/status/1572194763880935424)
+  - [CVE-2022-3239: Linux Kernel Privilege Escalation Vulnerability](https://twitter.com/Dinosn/status/1572173789286526977)
+  - [TripleCross: Linux eBPF rootkit](https://twitter.com/Dinosn/status/1572160490201313280)
+  - [DNS Zone Takeovers - Short Walkthrough](https://twitter.com/Dinosn/status/1572092766632677377)
+- paper - Last paper
+  - [404星链计划 | 新收录3个安全团队的开源工具！速看！](https://paper.seebug.org/1974/)
+  - [CVE-2021-34866 Linux 内核提权漏洞分析](https://paper.seebug.org/1973/)
+- unSafe.sh - 不安全
+  - [对writeObject流程动点手脚](https://buaq.net/go-127424.html)
+  - [关于"linux capability"的两个特殊案例](https://buaq.net/go-127425.html)
+  - [GenieACS CVE-2021-46704认证前RCE漏洞分析](https://buaq.net/go-127426.html)
+  - [Abusing Broken Link In Fitbit (Google Acquisition)To Collect BugBounty Reports On Behalf Of Google !](https://buaq.net/go-127411.html)
+  - [Kiwi Farms breached, user data potentially exposed](https://buaq.net/go-127461.html)
+  - [r35tart/RW_Password: 此项目用来提取收集以往泄露的密码中符合条件的强弱密码](https://buaq.net/go-127407.html)
+  - [Out Of Band Update: Cobalt Strike 4.7.1](https://buaq.net/go-127406.html)
+  - [American Airlines suffers data breach after phishing incident](https://buaq.net/go-127462.html)
+  - [A vulnerability in the way Linux handles the CLOCK_THREAD_CPUTIME_ID allows local attackers to reach a race condition and use this to elevate their privileges to root](https://buaq.net/go-127403.html)
+  - [Enhancing Zero Day Protection for Organizations Across the Globe](https://buaq.net/go-127410.html)
+  - [FreeBuf早报 | 优步深陷数据泄露泥潭；印度尼西亚通过《数据隐私法》](https://buaq.net/go-127460.html)
+- 安全客-有思想的安全新媒体
+  - [黑客组织Sandworm冒充电信提供商攻击乌克兰实体](https://www.anquanke.com/post/id/280464)
+  - [Microsoft 365网络钓鱼攻击冒充美国政府机构](https://www.anquanke.com/post/id/280461)
+  - [B站基于Clickhouse的下一代日志体系建设实践](https://www.anquanke.com/post/id/280350)
+  - [欧洲刑警组织发布免费LockerGoga 勒索软件解密器！](https://www.anquanke.com/post/id/280468)
+  - [再活跃！Emotet僵尸网络分发Quantum和BlackCat勒索软件](https://www.anquanke.com/post/id/280369)
+  - [针对Uber被黑客攻击事件的简单分析](https://www.anquanke.com/post/id/280444)
+  - [数字安全观察每周简报【安全事件篇】2022.09.07-2022.09.13](https://www.anquanke.com/post/id/280398)
+  - [数字化新业态下数据安全创新-token化](https://www.anquanke.com/post/id/280321)
+  - [日本上半年“勒索病毒”受害114起，同比增加8成](https://www.anquanke.com/post/id/280452)
+  - [Revolut遭黑客入侵，0.16% 的客户数据被暴露](https://www.anquanke.com/post/id/280445)
+- Tenable Blog
+  - [Finally Finding the 'Unknown Unknowns' Across Your Entire Attack Surface](https://www.tenable.com/blog/finally-finding-the-unknown-unknowns-across-your-entire-attack-surface)
+- 安全脉搏
+  - [实战绕过某WAF+拿shell组合拳](https://www.secpulse.com/archives/187347.html)
+  - [【绿盟科技】2023届校园招聘正式启动 搜寻未来网安英雄](https://www.secpulse.com/archives/187287.html)
+  - [nps之Socks流量分析以及未授权复现](https://www.secpulse.com/archives/187307.html)
+  - [渗透常用数据库综合利用工具](https://www.secpulse.com/archives/187297.html)
+  - [【漏洞预警】vm2沙箱逃逸漏洞](https://www.secpulse.com/archives/187290.html)
+- bunnie's blog
+  - [Book Review: Open Circuits](https://www.bunniestudios.com/blog/?p=6558)
+- 嘶吼 RoarTalk – 回归最本质的信息安全,互联网安全新媒体,4hou.com
+  - [嘶吼专访 | 融安网络创始人陈桂耀：创业是一条通往山顶的路，你只能上，不能下](https://www.4hou.com/posts/wg8w)
+  - [Uber被黑：内部系统数据泄露、漏洞报告被窃](https://www.4hou.com/posts/pV61)
+  - [某知名系统漏洞挖掘与利用思路探索](https://www.4hou.com/posts/EQ7N)
+  - [北信源持续领跑终端安全管理市场，累计15年位居中国终端安全管理市场占有率第一！](https://www.4hou.com/posts/O92g)
+- obaby@mars
+  - [GAY 免费域名](http://h4ck.org.cn/2022/09/gay-%e5%85%8d%e8%b4%b9%e5%9f%9f%e5%90%8d/)
+- Forcepoint
+  - [Enhancing Zero Day Protection for Organizations Across the Globe](https://www.forcepoint.com/blog/insights/enhancing-zero-day-protection-webinar-29-september)
+- 跳跳糖 - 安全与分享社区
+  - [零基础要如何破除 IO_FILE 利用原理的迷雾](https://tttang.com/archive/1742/)
+- Bug Bounty in InfoSec Write-ups on Medium
+  - [How I Hacked my College’s student portal](https://infosecwriteups.com/how-i-hacked-my-colleges-student-portal-f51775d75a3d?source=rss----7b722bfd1b8d--bug_bounty)
+  - [Bypassing CSRF Protection (I)](https://infosecwriteups.com/bypassing-csrf-protection-i-bc014384d0aa?source=rss----7b722bfd1b8d--bug_bounty)
+  - [Abusing Broken Link In Fitbit (Google Acquisition)To Collect BugBounty Reports On Behalf Of Google !](https://infosecwriteups.com/abusing-broken-link-in-fitbit-google-acquisition-to-collect-bugbounty-reports-on-behalf-of-google-5885a556eb7c?source=rss----7b722bfd1b8d--bug_bounty)
+  - [Cross-site request forgery (CSRF) Explained and Exploited I](https://infosecwriteups.com/cross-site-request-forgery-csrf-explained-and-exploited-i-db464a61a582?source=rss----7b722bfd1b8d--bug_bounty)
+- blog.avast.com EN
+  - [How Uber was hacked — again](https://blog.avast.com/uber-hack)
+  - [Is Free Wi-Fi Really Safe? | Avast](https://blog.avast.com/is-free-wi-fi-really-safe-avast)
+- SAP Blogs
+  - [Increase the potential of your business – Best practices to capture, nurture and convert business leads](https://blogs.sap.com/2022/09/20/increase-the-potential-of-your-business-best-practices-to-capture-nurture-and-convert-business-leads/)
+  - [Fieldglass Features: #7 Sending Job postings to suppliers – cut your sourcing cycle times](https://blogs.sap.com/2022/09/20/fieldglass-features-7-sending-job-postings-to-suppliers-cut-your-sourcing-cycle-times/)
+  - [Managing technical users for BTP platform access](https://blogs.sap.com/2022/09/20/managing-technical-users-for-btp-platform-access/)
+  - [Basic QM setup with Usage Decision only and with least QM master data](https://blogs.sap.com/2022/09/20/basic-qm-setup-with-usage-decision-only-and-with-least-qm-master-data/)
+  - [Integration: The Critical Path to Rapid Innovation](https://blogs.sap.com/2022/09/20/integration-the-critical-path-to-rapid-innovation/)
+  - [Accelerating Aerospace organizational innovation, speed and resilience with Digital Technologies](https://blogs.sap.com/2022/09/20/accelerating-aerospace-organizational-innovation-speed-and-resilience-with-digital-technologies/)
+  - [Scan Business Card to Business Partner](https://blogs.sap.com/2022/09/20/scan-business-card-to-business-partner/)
+  - [Everything you need to know about MRP Areas in S/4HANA](https://blogs.sap.com/2022/09/20/everything-you-need-to-know-about-mrp-areas-in-s-4hana/)
+- Malwarebytes Labs
+  - [Kiwi Farms breached, user data potentially exposed](https://www.malwarebytes.com/blog/news/2022/09/kiwifarms-breached-user-data-potentially-exposed)
+  - [American Airlines suffers data breach after phishing incident](https://www.malwarebytes.com/blog/news/2022/09/american-airlines-suffers-data-breach-after-phishing-incident)
+  - [Grand Theft Auto 6 suffers grand theft](https://www.malwarebytes.com/blog/news/2022/09/grand-theft-auto-6-suffers-grand-theft)
+- Didier Stevens
+  - [Update: My Python Templates Version 0.0.8](https://blog.didierstevens.com/2022/09/20/update-my-python-templates-version-0-0-8/)
+- Sucuri Blog
+  - [A Guide to Virtual Patching for Website Vulnerabilities](https://blog.sucuri.net/2022/09/a-guide-to-virtual-patching-for-website-vulnerabilities.html)
+- Sucuri Blog
+  - [A Guide to Virtual Patching for Website Vulnerabilities](https://blog.sucuri.net/2022/09/a-guide-to-virtual-patching-for-website-vulnerabilities.html)
+- Dancho Danchev's Blog - Mind Streams of Information Security Knowledge
+  - [Exposing a Compilation of Known Ransomware Group's Dark Web Onion Web Sites - An OSINT Analysis - Part Two](https://ddanchev.blogspot.com/2022/09/exposing-compilation-of-known.html)
+- 先知安全技术社区
+  - [对writeObject流程动点手脚](https://xz.aliyun.com/t/11720)
+  - [关于"linux capability"的两个特殊案例](https://xz.aliyun.com/t/11716)
+  - [GenieACS CVE-2021-46704认证前RCE漏洞分析](https://xz.aliyun.com/t/11722)
+- The Daily Swig | Cybersecurity news and views
+  - [Parse Server fixes brute-forcing bug that put sensitive user data at risk](https://portswigger.net/daily-swig/parse-server-fixes-brute-forcing-bug-that-put-sensitive-user-data-at-risk)
+- Reverse Engineering
+  - [A vulnerability in the way Linux handles the CLOCK_THREAD_CPUTIME_ID allows local attackers to reach a race condition and use this to elevate their privileges to root](https://www.reddit.com/r/ReverseEngineering/comments/xj834s/a_vulnerability_in_the_way_linux_handles_the/)
+- Microsoft Security Response Center
+  - [Defense-in-Depth Updates for Azure Identity SDK and Azure Key Vault SDK plus Best Practice Implementation Guidance](https://msrc-blog.microsoft.com/2022/09/20/defense-in-depth-updates-for-azure-identity-sdk-and-azure-key-vault-sdk-plus-best-practice-implementation-guidance/)
+- Exploit-DB.com RSS Feed
+  - [[local] Blink1Control2 2.2.7 - Weak Password Encryption](https://www.exploit-db.com/exploits/51014)
+  - [[webapps] Bookwyrm v0.4.3 - Authentication Bypass](https://www.exploit-db.com/exploits/51013)
+  - [[webapps] Buffalo TeraStation Network Attached Storage (NAS) 1.66 - Authentication Bypass](https://www.exploit-db.com/exploits/51012)
+  - [[remote] Airspan AirSpot 5410 version 0.3.4.1 - Remote Code Execution (RCE)](https://www.exploit-db.com/exploits/51011)
+  - [[remote] Mobile Mouse 3.6.0.4 - Remote Code Execution (RCE)](https://www.exploit-db.com/exploits/51010)
+- 博客园 - nice_0e3
+  - [VMware Carbon Black App Control漏洞分析 - nice_0e3](https://www.cnblogs.com/nice0e3/p/16714250.html)
+- KitPloit - PenTest & Hacking Tools
+  - [Kam1n0 - Assembly Analysis Platform](http://www.kitploit.com/2022/09/kam1n0-assembly-analysis-platform.html)
+- Twitter @hakivvi
+  - [RT x86matthew: Exploiting a Seagate service to create a SYSTEM shell (CVE-2022-40286) A brief overview of reverse-engineering a Windows service to dis...](https://twitter.com/x86matthew/status/1572293283761758210)
+  - [RT Austin Hudson: Partially patched in July of 2022 unless someone knows of another way to reach CSRSS. Cheap admin-kernel boundary bug, still easily ...](https://twitter.com/ilove2pwn_/status/1572290530142310400)
+- 绿盟科技技术博客
+  - [2022年网络空间安全事件简析](http://blog.nsfocus.net/2022cyberspaceincidents-analysis/)
+- HackerNews
+  - [安全公司 Bitdefender 无偿放出 LockerGoga 勒索软件解密器](https://hackernews.cc/archives/41593)
+  - [攻击者正冒充美国政府机构骗取承包商 Office 账户](https://hackernews.cc/archives/41588)
+  - [Rockstar Games 证实黑客窃取了《侠盗猎车手6》的早期片段](https://hackernews.cc/archives/41580)
+  - [Emotet 僵尸网络开始分发 Quantum 和 BlackCat 勒索软件](https://hackernews.cc/archives/41574)
+  - [Revolut 遭遇黑客入侵，少量用户数据被暴露](https://hackernews.cc/archives/41570)
+- 安全牛
+  - [“内网危机”直击企业要害 北信源筑牢企业内网安全高墙](https://www.aqniu.com/vendor/89292.html)
+  - [“网课爆破”频发，信源密信以“智”制“爆”，护航校园“云课堂”安全](https://www.aqniu.com/vendor/89293.html)
+  - [警惕以太坊合并后的重放攻击：Omni跨链桥被攻击事件分析](https://www.aqniu.com/vendor/89291.html)
+  - [XCon2022为技·敢破||破以入光，逆浪生长！——XCon2022在京成功举办](https://www.aqniu.com/vendor/89265.html)
+  - [北京大学陈钟：关键信息基础设施安全保护实践三点体会](https://www.aqniu.com/homenews/89264.html)
+  - [2022企业漏洞管理状况调查：7成企业缺乏有效的漏洞管理计划](https://www.aqniu.com/hometop/89263.html)
+  - [常态化疫情之下，工作秘密和个人隐私的保护 ——北信源对近期成都3起违反工作纪律失泄密案件的思考](https://www.aqniu.com/industry/89249.html)
+- FreeBuf网络安全行业门户
+  - [FreeBuf早报 | 优步深陷数据泄露泥潭；印度尼西亚通过《数据隐私法》](https://www.freebuf.com/news/345041.html)
+  - [Rockstar Games遭黑客攻击，《侠盗猎车手6》90个开发视频外泄](https://www.freebuf.com/articles/game/344978.html)
+  - [无间道！ &quot;沙虫 &quot;组织冒充乌克兰电信公司投放恶意软件](https://www.freebuf.com/news/344955.html)
+  - [继北京健康宝后，澳门健康码又遭境外势力攻击](https://www.freebuf.com/articles/neopoints/344963.html)
+  - [这些观点掷地有声！FreeBuf网安智库说第四季圆满落幕](https://www.freebuf.com/articles/344951.html)
+  - [攻击者正冒充美国政府机构骗取承包商Office账户](https://www.freebuf.com/news/344938.html)
+  - [实战某高校的一次挖矿病毒的应急处置](https://www.freebuf.com/articles/web/344921.html)
+- Blog - Praetorian
+  - [Developing a Hidden Virtual File System Capability That Emulates the Uroburos Rootkit](https://www.praetorian.com/blog/developing-a-vfs-that-emulates-uroburos-rootkit/)
+- 体验盒子
+  - [PHP/JAVA判断点是否在多边形区域围栏内](https://www.uedbox.com/post/68539/)
+- 黑海洋 - WIKI
+  - [Another Redis Desktop Manager](https://blog.upx8.com/2992)
+  - [RedisView(Redis数据库图形化界面工具)](https://blog.upx8.com/2991)
+  - [yysms短信系统源码](https://blog.upx8.com/2990)
+- 奇客Solidot–传递最新科技情报
+  - [英伟达发布 GeForce RTX 40 系列显卡](https://www.solidot.org/story?sid=72825)
+  - [韩国求助国际刑警组织通缉 Do Kwon](https://www.solidot.org/story?sid=72824)
+  - [儿童每周会因为过度沉迷社交网络损失一个晚上的睡眠](https://www.solidot.org/story?sid=72823)
+  - [软件工程师做增高手术](https://www.solidot.org/story?sid=72822)
+  - [2021 年坠落在英国的陨石中发现水](https://www.solidot.org/story?sid=72821)
+  - [Rust 将进入 Linux 6.1](https://www.solidot.org/story?sid=72820)
+  - [国际象棋比赛现在就像打扑克牌](https://www.solidot.org/story?sid=72819)
+  - [Uber 将入侵归咎于一家承包商](https://www.solidot.org/story?sid=72818)
+  - [从下一代数据中心的角度，谈谈为何Web3终将到来](https://www.solidot.org/story?sid=72817)
+  - [研究估计地球有 2 万万亿只蚂蚁](https://www.solidot.org/story?sid=72816)
+  - [Unicode 15 发布](https://www.solidot.org/story?sid=72815)
+  - [抗议 Mahsa Amini 死亡伊朗部分地区短时间断网](https://www.solidot.org/story?sid=72814)
+  - [自称代表小型应用开发商的游说组织的最大金主是苹果](https://www.solidot.org/story?sid=72813)
+  - [退休工程师开发的二合一计算器应用意外火爆](https://www.solidot.org/story?sid=72812)
+- 博客园 - 郑瀚Andrew
+  - [重启右脑 - 郑瀚Andrew](https://www.cnblogs.com/LittleHann/p/16709783.html)
+- OPPO安全应急响应中心
+  - [技术分享 | 无监督算法在OPPO黑产团伙挖掘中的实践](https://mp.weixin.qq.com/s?__biz=MzUyNzc4Mzk3MQ==&mid=2247490323&idx=1&sn=f980aabe2f85b1b3706aad4fe4795bbb&chksm=fa7b1a5fcd0c9349b89344c09a21d1053f9915a17f9c9f3b03e68943672507ea27c6720ac830&scene=58&subscene=0#rd)
+  - [活动正式开启｜OSRC邀您加入双11安全保卫战](https://mp.weixin.qq.com/s?__biz=MzUyNzc4Mzk3MQ==&mid=2247490323&idx=2&sn=df22d7ff72ea0ed9580fc15b20c5d1da&chksm=fa7b1a5fcd0c9349caecd67c4d1440e7fce042517d9aab8a52c6b7fa305ff6b08254099b016d&scene=58&subscene=0#rd)
+- 绿盟科技金融事业部
+  - [数据安全助力金融行业数据要素化快速发展](https://mp.weixin.qq.com/s?__biz=MzI2NDI5MTg4MA==&mid=2247492276&idx=1&sn=f47fa2ce9b4eeca28b878648c370629b&chksm=eaac71f3dddbf8e532e3c9f2b8f947e8b4e2790e771eff0790ec40215d772a27ab73c5dfbdd6&scene=58&subscene=0#rd)
+- Yak Project
+  - [你们要的 [Yaklang websocket劫持]教程来了！](https://mp.weixin.qq.com/s?__biz=Mzk0MTM4NzIxMQ==&mid=2247490408&idx=1&sn=515ba1fda183bdcaccba35af1f49c4b4&chksm=c2d267ccf5a5eeda1267d1d5be0a3f73cb842658a349c92d45394cb3e5f80331b5b00364e200&scene=58&subscene=0#rd)
+- 网安国际
+  - [【网络安全研究进展系列】PalmTree：一种面向指令嵌入的汇编语言模型](https://mp.weixin.qq.com/s?__biz=MzA4ODYzMjU0NQ==&mid=2652311559&idx=1&sn=023d224749cd9593328ac0f3629c0570&chksm=8bc48d89bcb3049f7cc410a4a972c5f584d4bff57dbcf9896df14c88c823f00d7fe617fd104e&scene=58&subscene=0#rd)

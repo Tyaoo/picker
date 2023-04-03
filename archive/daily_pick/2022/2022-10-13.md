@@ -1,0 +1,21 @@
+# 每日精选资讯（2022-10-13）
+
+- 看雪学院
+  - [《安卓逆向入门》](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458475529&idx=4&sn=2e5ccc62fd726dbeb4cb6691c8f34547&chksm=b18e6c8386f9e595bfc2958c318b980ca409330ca033434d9aee1e94217a7c745fb109063ddc&scene=58&subscene=0#rd) - [discussion](https://github.com/chainreactors/picker/issues/15)
+  - [VMProtect3.5模拟x86分支指令je、jne、jge和jl的分析](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458475529&idx=2&sn=d59d371c83e45fa4787d5e2baea980cb&chksm=b18e6c8386f9e59573e5b57d8ea75388f4f71f22b21f469781a8c56aca5f694199a6a1b32d27&scene=58&subscene=0#rd) - [discussion](https://github.com/chainreactors/picker/issues/3)
+- 嘶吼专业版
+  - [Intel确认Alder Lake BIOS的源代码泄露](https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247552045&idx=2&sn=d226141639aebbdffb128515464b3f23&chksm=e915dc17de625501bfc28074abbde2017668f6c47cc6bd5d000bbf9589082de2162dd665ca74&scene=58&subscene=0#rd) - [discussion](https://github.com/chainreactors/picker/issues/8)
+  - [【技术原创】Sophos XG漏洞调试环境搭建](https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247552045&idx=1&sn=97beaa36cf2d426426e8f71be82014ee&chksm=e915dc17de6255012ef33cb9f2dd96090317f048d4650f6f009322c007a6100f330393939bd4&scene=58&subscene=0#rd) - [discussion](https://github.com/chainreactors/picker/issues/4)
+- 关键基础设施安全应急响应中心
+  - [加快推进我国数字法治政府建设的建议](https://mp.weixin.qq.com/s?__biz=MzkyMzAwMDEyNg==&mid=2247531714&idx=1&sn=70093fb5f134f53cbbc8a799eb02adaf&chksm=c1e9f093f69e7985379fd5e4344676754e19a2c9d6f51060efde703422a7089e6f889b508392&scene=58&subscene=0#rd) - [discussion](https://github.com/chainreactors/picker/issues/11)
+- 互联网安全内参
+  - [加快推进我国数字法治政府建设的建议](https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247506309&idx=4&sn=60dd888b88b5ea6174040c981412cf14&chksm=ebfa9ea5dc8d17b3f7aac75f9f4ad0a94c809c671960b2adb6dd05405d7bb22c2ba067f143ec&scene=58&subscene=0#rd) - [discussion](https://github.com/chainreactors/picker/issues/11)
+- M01NTeam
+  - [AWS S3 Bucket子域接管实现可信钓鱼服务攻击](https://mp.weixin.qq.com/s?__biz=MzkyMTI0NjA3OA==&mid=2247489851&idx=1&sn=861f8977b36f279d6a4eb1a4a3c3bf54&chksm=c187d92af6f0503cf733c875c3d171312ff9e5810603b12eb8495c77c6ea06f77703e5b9d7bd&scene=58&subscene=0#rd) - [discussion](https://github.com/chainreactors/picker/issues/2)
+- 情报分析师
+  - [【警务情报】欧安组织情报主导警务指南|108页](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650518761&idx=1&sn=1a6285be6b989de369527a4e605c2636&chksm=87169aa2b06113b4390033d2b65240d9624d3d49c234ccbb9d56dae06f10fa1e1b72f5b262ca&scene=58&subscene=0#rd) - [discussion](https://github.com/chainreactors/picker/issues/10)
+- 网络安全应急技术国家工程实验室
+  - [美国多个机场因网络攻击发生故障，和俄罗斯有关？](https://mp.weixin.qq.com/s?__biz=MzUzNDYxOTA1NA==&mid=2247531881&idx=2&sn=726a341d2ce14df57149d9850fe496ee&chksm=fa93cba8cde442be7f2a3b05195f0f56d0c04852da17930ccf059ce2e8e2360a4ac514d409ca&scene=58&subscene=0#rd) - [discussion](https://github.com/chainreactors/picker/issues/9)
+  - [消费者IoT安全新进展！白宫将推出以能源之星为蓝本的网络安全标签计划](https://mp.weixin.qq.com/s?__biz=MzUzNDYxOTA1NA==&mid=2247531881&idx=1&sn=9552b3d7b0f5af3e7ccae2f65bf58d7a&chksm=fa93cba8cde442be35758aacca7ad72e04a223cc02908838af2283a08690e3df842699ffd871&scene=58&subscene=0#rd) - [discussion](https://github.com/chainreactors/picker/issues/12)
+- Seebug漏洞平台
+  - [星际奇兵第3期：搞安全绝不能错过的跨平台网站管理工具](https://mp.weixin.qq.com/s?__biz=MzAxNDY2MTQ2OQ==&mid=2650965639&idx=1&sn=5b10e6d553e3dab9ecb595646a939cb3&chksm=8079c4b5b70e4da391a33ef06121c47e58393c69dbd8cfafd215ab3725f1c3021faed95398d8&scene=58&subscene=0#rd) - [discussion](https://github.com/chainreactors/picker/issues/6)

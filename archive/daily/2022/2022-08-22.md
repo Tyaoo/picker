@@ -1,0 +1,89 @@
+# 每日安全资讯（2022-08-22）
+
+- Recent Commits to cve:main
+  - [Update Sun Aug 21 05:30:26 UTC 2022](https://github.com/trickest/cve/commit/9de944d11d6969ec8ff6c2b3efe9ea72d459e943)
+- Sploitus.com Exploits RSS Feed
+  - [Exploit for Code Injection in Amazon Sockeye exploit](https://sploitus.com/exploit?id=A5418392-390B-50F2-A443-89A2B7B61DD3&utm_source=rss&utm_medium=rss)
+- Security Boulevard
+  - [BSidesTLV 2022 – Amichai’s And Stav Shulman’s ‘Now You C(&C), Now You Don’t’](https://securityboulevard.com/2022/08/bsidestlv-2022-amichais-and-stav-shulmans-now-you-cc-now-you-dont/)
+  - [Robert M. Lee’s & Jeff Haas’ Little Bobby Comic – ‘WEEK 235’ (2019 Repost)](https://securityboulevard.com/2022/08/robert-m-lees-jeff-haas-little-bobby-comic-week-235-2019-repost/)
+  - [Vulnerability management – we’re doing it wrong](https://securityboulevard.com/2022/08/vulnerability-management-were-doing-it-wrong/)
+  - [BSidesTLV 2022 – Rotem Reiss’ ‘Code C.A.I.N – Keeping Your Source Code Under Control’](https://securityboulevard.com/2022/08/bsidestlv-2022-rotem-reiss-code-c-a-i-n-keeping-your-source-code-under-control/)
+  - [How to Mitigate Insider Threat Using Internal Controls](https://securityboulevard.com/2022/08/how-to-mitigate-insider-threat-using-internal-controls/)
+  - [Hacktivism and DDOS Attacks Rise Dramatically in 2022](https://securityboulevard.com/2022/08/hacktivism-and-ddos-attacks-rise-dramatically-in-2022/)
+- obaby@mars
+  - [WordPress 评论显示IP归属地](http://h4ck.org.cn/2022/08/wordpress-%e8%af%84%e8%ae%ba%e6%98%be%e7%a4%baip%e5%bd%92%e5%b1%9e%e5%9c%b0/)
+  - [微图坊爬虫 [Chrome Support]【22.08.21】【Windows】](http://h4ck.org.cn/2022/08/%e5%be%ae%e5%9b%be%e5%9d%8a%e7%88%ac%e8%99%ab-chrome-support%e3%80%9022-08-21%e3%80%91%e3%80%90windows%e3%80%91/)
+- Twitter @Nicolas Krassas
+  - [LockBit claims ransomware attack on security giant Entrust, leaks data](https://twitter.com/Dinosn/status/1561398526030266368)
+  - [Replicant: Reproducing a Fault Injection Attack on the Trezor One](https://twitter.com/Dinosn/status/1561398496573661184)
+  - [An encrypted ZIP file can have two correct passwords — here's why](https://twitter.com/Dinosn/status/1561398425844719616)
+  - [Concealed_Code_Execution - Tools And Technical Write-Ups Describing Attacking Techniques That Rely On Concealing Code Execution On Windows](https://twitter.com/Dinosn/status/1561377372133376000)
+  - [FreeBSD 11.0-13.0 LPE via aio_aqueue Kernel Refcount Bug](https://twitter.com/Dinosn/status/1561354768714440705)
+  - [Back in Black: Unlocking a LockBit 3.0 Ransomware Attack](https://twitter.com/Dinosn/status/1561354639920054273)
+  - [OSINT automation for hackers.](https://twitter.com/Dinosn/status/1561344107150249984)
+  - [RT Vulns Security: Dear Researchers we are starting our payout program for the following weaponized 0days : MS Office/ Adobe Acrobat / Windows RCE/LPE...](https://twitter.com/vulns_sec/status/1561340408914903041)
+  - [Russian APT29 hackers abuse Azure services to hack Microsoft 365 users](https://twitter.com/Dinosn/status/1561294717974978561)
+  - [DoNot Team Hackers Updated its Malware Toolkit with Improved Capabilities](https://twitter.com/Dinosn/status/1561294613549293570)
+  - [White hat hackers broadcasted talks and hacker movies through a decommissioned satellite](https://twitter.com/Dinosn/status/1561286932012957697)
+  - [Grandoreiro banking malware targets Mexico and Spain](https://twitter.com/Dinosn/status/1561286901956595712)
+  - [GraphQL Security Testing Without a Schema](https://twitter.com/Dinosn/status/1561278538615062529)
+  - [RT j j: Oh wow, I didn't realize that the Lazarus Group's (old) Chrome SBX had been captured.](https://twitter.com/mistymntncop/status/1561239376440754176)
+  - [Re @_r_netsec Low quality post. This is sqlmap in use.](https://twitter.com/Dinosn/status/1561224439097966593)
+  - [CISA added SAP flaw to its Known Exploited Vulnerabilities Catalog](https://twitter.com/Dinosn/status/1561224035937255425)
+  - [BlackByte Ransomware Gang Returns With Twitter Presence, Tiered Pricing](https://twitter.com/Dinosn/status/1561223876985737216)
+  - [About That Draft Law Banning Uncle Sam Buying Insecure Software](https://twitter.com/Dinosn/status/1561223813483954177)
+  - [dnsReaper - Subdomain Takeover Tool For Attackers, Bug Bounty Hunters And The Blue Team!](https://twitter.com/Dinosn/status/1561222604274470915)
+- unSafe.sh - 不安全
+  - [Replicant: Reproducing a Fault Injection Attack on the Trezor One](https://buaq.net/go-123078.html)
+  - [Concealed_Code_Execution - Tools And Technical Write-Ups Describing Attacking Techniques That Rely On Concealing Code Execution On Windows](https://buaq.net/go-123073.html)
+  - [每周市场点评（2022.8.21）](https://buaq.net/go-123067.html)
+  - [A Python script to exploit CVE-2022-36446 Software Package Updates RCE (Authenticated) on Webmin < 1.997.](https://buaq.net/go-123064.html)
+  - [升级也要图个明白：8000 字详解 Android 13 正式版的 9 个新变化](https://buaq.net/go-123065.html)
+  - [glibc and DT_GNU_HASH](https://buaq.net/go-123131.html)
+  - [PopFrame – 为 iPhone 截图、录屏添加背景与外壳](https://buaq.net/go-123055.html)
+  - [corCTF 2022 writeup - modernblog](https://buaq.net/go-123056.html)
+  - [币安还安全吗？](https://buaq.net/go-123049.html)
+  - [timwhitez starred go-memexec](https://buaq.net/go-123050.html)
+  - [timwhitez starred compress](https://buaq.net/go-123051.html)
+  - [timwhitez starred BOF-patchit](https://buaq.net/go-123052.html)
+- SecWiki News
+  - [SecWiki News 2022-08-21 Review](http://www.sec-wiki.com/?2022-08-21)
+- Sec-News 安全文摘
+  - [A Python script to exploit CVE-2022-36446 Software Package Updates RCE (Authenticated) on Webmin < 1.997.](https://wiki.ioin.in/url/J4vo)
+- 嘶吼 RoarTalk – 回归最本质的信息安全,互联网安全新媒体,4hou.com
+  - [微软修复&quot;DogWalk &quot;0 day漏洞和其他的17个关键性的漏洞](https://www.4hou.com/posts/QLjL)
+  - [2022 年第二季度IT威胁演变](https://www.4hou.com/posts/GKW8)
+- MaskRay
+  - [glibc and DT_GNU_HASH](https://maskray.me/blog/2022-08-21-glibc-and-dt-gnu-hash)
+- Reverse Engineering
+  - [Replicant: Reproducing a Fault Injection Attack on the Trezor One](https://www.reddit.com/r/ReverseEngineering/comments/wu0kk2/replicant_reproducing_a_fault_injection_attack_on/)
+- SAP Blogs
+  - [Implementation and discussion on combining of import data ad Live data in SAC.](https://blogs.sap.com/2022/08/21/implementation-and-discussion-on-combining-of-import-data-ad-live-data-in-sac./)
+  - [‘Embedded Steampunk’: the Monolith strikes back](https://blogs.sap.com/2022/08/21/embedded-steampunk-the-monolith-strikes-back/)
+  - [Day in the life of a Material Buyer – 6 -Managing Excess/Obsolete inventory](https://blogs.sap.com/2022/08/21/day-in-the-life-of-a-material-buyer-6-managing-excess-obsolete-inventory/)
+- KitPloit - PenTest & Hacking Tools
+  - [Concealed_Code_Execution - Tools And Technical Write-Ups Describing Attacking Techniques That Rely On Concealing Code Execution On Windows](http://www.kitploit.com/2022/08/concealedcodeexecution-tools-and.html)
+- 看雪学院
+  - [对一个随身WIFI设备的漏洞挖掘尝试](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458464924&idx=1&sn=49bdcb7acd7abb1eda7ad1781278f309&chksm=b18e021686f98b004f5f9c7b20fa0ab4019cec2fbf77d02c0326286f0c82ef74520314fcb24c&scene=58&subscene=0#rd)
+  - [视频 | 600万美元游戏皮肤失窃！](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458464924&idx=2&sn=80988d84f26b70143f2d1d1963975866&chksm=b18e021686f98b00ac66c9bf9013db646b549170e6f0c5c2d8912e260ac321f8131c62a6ed6b&scene=58&subscene=0#rd)
+  - [精品新课！Windows内核漏洞分析与EXP编写技巧](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458464924&idx=3&sn=cc3a9b9f7d7faaab16da6cc313b77172&chksm=b18e021686f98b00463c9ca812dd7383d635165c16a960f30d7e0be25fb65dbee51e3a357902&scene=58&subscene=0#rd)
+- 网络安全观
+  - [美国国防工业网络保护框架和启示](https://mp.weixin.qq.com/s?__biz=MzIxNzUxNzA2NQ==&mid=2247494863&idx=1&sn=fa7a0f699a289a1b99178c5d2e2e81bb&chksm=97fa31a9a08db8bf3f49223f372dcf12a988ead6ad6a16c445cad6faee3a77dd7151b1c40d97&scene=58&subscene=0#rd)
+- 互联网安全内参
+  - [入侵太空：超越地球的网络威胁](https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247505363&idx=1&sn=5b0110feec4aae14c32d64d163fad582&chksm=ebfa92f3dc8d1be51758c3a984ea7e6c61b8968bc3c39fb439e654f4bdfdc8fedfdfc3ae0e5a&scene=58&subscene=0#rd)
+- 丁爸情报分析师的工具箱
+  - [【资料】情报分析师职业发展路线图](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651131540&idx=1&sn=0ad3d4c922d36b140cf95985b1ad5df4&chksm=f1af79aec6d8f0b84b867a4816f021231428466c9b051c3fb9811b7419dd7bf87464c5c0ddcd&scene=58&subscene=0#rd)
+  - [【资料】思维与写作:认知科学与情报分析](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651131540&idx=2&sn=a96c90ba331bf20463c22b337d6390ac&chksm=f1af79aec6d8f0b8d0494c6c1d787dd8716297b2a76cace8cf0278db0dc210408cf6724928d7&scene=58&subscene=0#rd)
+- 奇安信CERT
+  - [Apple 多个高危漏洞安全风险通告](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247496858&idx=1&sn=3ebee0d102cacc44bca58f2407829c82&chksm=fe79d002c90e5914d23e646d2f60046e75daa8623d45d945ea819c799aa75dd051494a301a95&scene=58&subscene=0#rd)
+- 情报分析师
+  - [如何分析一个人的心理（16个分步指南）](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650514154&idx=1&sn=a71bdafdd2a9f0168beecb39fc4b5bff&chksm=87168ca1b06105b7e786784128353ad487c4b6a5b5307c4514e4b8826ccb9d678c5baa0a434a&scene=58&subscene=0#rd)
+  - [【分析报告】美国总统乔·拜登的性格特征和领导风格](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650514154&idx=2&sn=5463e0527ae6dd62e7ed343d40a85eb2&chksm=87168ca1b06105b78e4384d7ce797835dd938fa1d814d7e7c7fde9e29040f615a1c25c7df12b&scene=58&subscene=0#rd)
+- CNVD漏洞平台
+  - [关于Apple操作系统越界写入漏洞和Apple WebKit越界写入漏洞的安全公告](https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247492256&idx=1&sn=194aa7c5c515750109b74663c7a34c64&chksm=fd74d269ca035b7f1c7dd50c9563f2151e807ed87ed85cf24f08f23cefce528170932f6e67e9&scene=58&subscene=0#rd)
+- 深信服千里目安全实验室
+  - [【漏洞通告】Apple多个漏洞安全通告](https://mp.weixin.qq.com/s?__biz=MzI4NjE2NjgxMQ==&mid=2650263530&idx=1&sn=283b5a15e526b19004b10a6fd8ca1e58&chksm=f3e2759ec495fc8815a1f0566b7d1ef3a2292dbd660e63e99519300d5f82d4db481ba9246b3d&scene=58&subscene=0#rd)
+  - [“黑猫”又伸出恶魔之手？揭秘BlackCat病毒的三重勒索](https://mp.weixin.qq.com/s?__biz=MzI4NjE2NjgxMQ==&mid=2650263503&idx=1&sn=92fc1eb62cb338ab2c3e1d368790a02e&chksm=f3e275bbc495fcad1be5c5c62833862460e998a09aaedb0fde11c8ef0ceedf5c640d549e1860&scene=58&subscene=0#rd)
+- 极客公园
+  - [传吉利收购图森中国无人卡车业务；新东方：欢迎离职老师「回家」；30 年内 700 座冰川将消失｜极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2652965531&idx=1&sn=96b8076bfe45d86a07b576e3631d115a&chksm=7e54772d4923fe3b4dfc961008aca64aabb27de9af7dc7d2e0e3d58a45002d8f742a8a14d2a4&scene=58&subscene=0#rd)

@@ -1,0 +1,91 @@
+# 每日安全资讯（2022-06-20）
+
+- HackerOne Hacker Activity
+  - [Authentication token and CSRF token bypass](https://hackerone.com/reports/998457)
+  - [bypass forced password protection via circles app](https://hackerone.com/reports/1406926)
+- FreeBuf网络安全行业门户
+  - [FreeBuf早报 | 前亚马逊工程师曾盗窃1亿人数据；八成互联网电视非法采集用户数据](https://www.freebuf.com/news/336608.html)
+- No Headback
+  - [go-redis 和 redis server 版本错位导致的高延时问题一例](http://xargin.com/go-redis-v6-and-redis-server-6-are-not-compatible/)
+- Sploitus.com Exploits RSS Feed
+  - [Zyxel Buffer Overflow / Format String / Command Injection exploit](https://sploitus.com/exploit?id=PACKETSTORM:167464&utm_source=rss&utm_medium=rss)
+  - [Marval MSM 14.19.0.12476 Remote Code Execution exploit](https://sploitus.com/exploit?id=PACKETSTORM:167471&utm_source=rss&utm_medium=rss)
+  - [ChurchCRM 4.4.5 SQL Injection exploit](https://sploitus.com/exploit?id=PACKETSTORM:167483&utm_source=rss&utm_medium=rss)
+  - [Warehouse Management System 2022 SQL Injection exploit](https://sploitus.com/exploit?id=PACKETSTORM:167479&utm_source=rss&utm_medium=rss)
+  - [JM-DATA ONU JF511-TV 1.0.67 / 1.0.62 / 1.0.55 XSS / CSRF / Open Redirect exploit](https://sploitus.com/exploit?id=PACKETSTORM:167487&utm_source=rss&utm_medium=rss)
+  - [Marval MSM 14.19.0.12476 Cross Site Request Forgery exploit](https://sploitus.com/exploit?id=PACKETSTORM:167476&utm_source=rss&utm_medium=rss)
+  - [Kitty 0.76.0.8 Stack Buffer Overflow exploit](https://sploitus.com/exploit?id=PACKETSTORM:167475&utm_source=rss&utm_medium=rss)
+  - [Infiray IRAY-A8Z3 1.0.957 Code Execution / Overflow / Hardcoded Credentials exploit](https://sploitus.com/exploit?id=PACKETSTORM:167466&utm_source=rss&utm_medium=rss)
+  - [Virtua Software Cobranca 12S SQL Injection exploit](https://sploitus.com/exploit?id=PACKETSTORM:167480&utm_source=rss&utm_medium=rss)
+  - [Exploit for Uncontrolled Resource Consumption in Apple Ipados exploit](https://sploitus.com/exploit?id=0EABFFE9-94B8-564F-BD5C-4F354296C0EA&utm_source=rss&utm_medium=rss)
+  - [Exploit for Injection in Atlassian Confluence Data Center exploit](https://sploitus.com/exploit?id=5255E938-0B92-5E2C-B1A4-21B2445C29AF&utm_source=rss&utm_medium=rss)
+- Security Boulevard
+  - [USENIX Enigma 2022 – Nicholas Carlini’s ‘When Machine Learning Isn’t Private’](https://securityboulevard.com/2022/06/usenix-enigma-2022-nicholas-carlinis-when-machine-learning-isnt-private/)
+  - [XKCD ‘Red Line Through HTTPS](https://securityboulevard.com/2022/06/xkcd-red-line-through-https/)
+  - [USENIX Enigma 2022 – Graham Bleaney’s ‘Teaching An Old Dog New Tricks: Reusing Security Solutions In Novel Domains’](https://securityboulevard.com/2022/06/usenix-enigma-2022-graham-bleaneys-teaching-an-old-dog-new-tricks-reusing-security-solutions-in-novel-domains/)
+  - [EU and U.S. Join Forces to Help Developing World Cybersecurity](https://securityboulevard.com/2022/06/eu-and-u-s-join-forces-to-help-developing-world-cybersecurity/)
+- cloud world
+  - [OpenKruise 源码剖析之原地升级](https://cloudsjhan.github.io/2022/06/19/OpenKruise-%E6%BA%90%E7%A0%81%E8%A7%A3%E8%AF%BB%E4%B9%8B%E5%8E%9F%E5%9C%B0%E5%8D%87%E7%BA%A7/)
+- Reverse Engineering
+  - [New Discovery for Minus World in Super Mario Bros! - Behind the Code [YouTube]](https://www.reddit.com/r/ReverseEngineering/comments/vfmsqr/new_discovery_for_minus_world_in_super_mario_bros/)
+- HAHWUL
+  - [[Cullinan #38] Add Metasploit ☠️ and 3 Injections 💉](https://www.hahwul.com/2022/06/19/cullinan-38/)
+  - [Metasploit Framework](https://www.hahwul.com/cullinan/metasploit/)
+- KitPloit - PenTest & Hacking Tools
+  - [VAmPI - Vulnerable REST API With OWASP Top 10 Vulnerabilities For Security Testing](http://www.kitploit.com/2022/06/vampi-vulnerable-rest-api-with-owasp.html)
+  - [Cervantes - Collaborative Platform For Pentesters Or Red Teams Who Want To Save Time To Manage Their Projects, Clients, Vulnerabilities And Reports In One Place](http://www.kitploit.com/2022/06/cervantes-collaborative-platform-for.html)
+- 博客园 - 郑瀚Andrew.Hann
+  - [浙江农信 萧山农商银行 尽调 - 郑瀚Andrew.Hann](https://www.cnblogs.com/LittleHann/p/16390459.html)
+- 奇客Solidot–传递最新科技情报
+  - [比特币价格暴跌让挖矿变得无利可图](https://www.solidot.org/story?sid=71876)
+  - [我们是否生来性本善？](https://www.solidot.org/story?sid=71875)
+  - [认为 AI 有生命的 Google 工程师自称是牧师](https://www.solidot.org/story?sid=71874)
+- Il Disinformatico
+  - [Samantha Cristoforetti fa il cosplay di Sandra Bullock in “Gravity”. Nello spazio](http://attivissimo.blogspot.com/2022/06/samantha-cristoforetti-fa-il-cosplay.html)
+- 黑海洋 - WIKI
+  - [XPlayer v2.3.0.2 解锁高级会员版](https://blog.upx8.com/2806)
+  - [安卓 WPS Office v16.3.2 解锁高级版](https://blog.upx8.com/2805)
+  - [CorelCAD 2023 v22.0.1.1151完整版](https://blog.upx8.com/2804)
+  - [扫描全能王 v6.18破解高级版（安卓）](https://blog.upx8.com/2803)
+  - [抖音无门槛无人直播视频课程](https://blog.upx8.com/2802)
+- SANS Internet Storm Center, InfoCON: green
+  - [Video: Decoding Obfuscated BASE64 Statistically, (Sun, Jun 19th)](https://isc.sans.edu/diary/rss/28762)
+  - [Wireshark 3.6.6 Released, (Sun, Jun 19th)](https://isc.sans.edu/diary/rss/28756)
+- ZeroSec - Adventures In Information Security
+  - [Azure Attack Paths: Common Findings and Fixes (Part 1)](https://blog.zsec.uk/azure-fundamentals-pt1/)
+- TorrentFreak
+  - [Torrent Site Blockades Don’t Change Old Piracy Habits Right Away](https://torrentfreak.com/torrent-site-blockades-dont-change-old-piracy-habits-right-away-220619/)
+- KitPloit - PenTest Tools!
+  - [VAmPI - Vulnerable REST API With OWASP Top 10 Vulnerabilities For Security Testing](http://www.kitploit.com/2022/06/vampi-vulnerable-rest-api-with-owasp.html)
+  - [Cervantes - Collaborative Platform For Pentesters Or Red Teams Who Want To Save Time To Manage Their Projects, Clients, Vulnerabilities And Reports In One Place](http://www.kitploit.com/2022/06/cervantes-collaborative-platform-for.html)
+- netsecstudents: Subreddit for students studying Network Security and its related subjects
+  - [Should you write malware in C# or C++?](https://www.reddit.com/r/netsecstudents/comments/vfjugx/should_you_write_malware_in_c_or_c/)
+- 情报分析师
+  - [如何评估俄罗斯对加拿大领土的军事威胁？](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650506595&idx=1&sn=13e00b1e356e9fb187a5395dbb2be82f&chksm=8716ab28b061223ed8c65c0c97d40430b731a136be45ae1766c9c3058e111e1ff0cbd1a2930a&scene=58&subscene=0#rd)
+  - [大赛通知 | 第一届“智器云杯”数据情报分析大赛正式启动！](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650506595&idx=2&sn=bb60f93094096fe78cb7709cec9544e4&chksm=8716ab28b061223e6ffcb1ec1ed336fa66d23a0329093e0b16aa09e7fefc8944be43058a373d&scene=58&subscene=0#rd)
+- Security Affairs
+  - [Critical flaw in Ninja Forms WordPress Plugin actively exploited in the wild](https://securityaffairs.co/wordpress/132417/hacking/wordpress-ninja-forms-flaw.html)
+  - [Experts warn of a new eCh0raix ransomware campaign targeting QNAP NAS](https://securityaffairs.co/wordpress/132410/cyber-crime/ech0raix-ransomware-attacks.html)
+- Computer Forensics
+  - [SANS FOR508 on Linux](https://www.reddit.com/r/computerforensics/comments/vfrncr/sans_for508_on_linux/)
+  - [On-demand / online introductory courses / certifications in IT-Forensics ~ $500 USD?](https://www.reddit.com/r/computerforensics/comments/vfyahs/ondemand_online_introductory_courses/)
+- /r/netsec - Information Security News & Discussion
+  - [New blog - NMAP and CME 101 stuff](https://www.reddit.com/r/netsec/comments/vft533/new_blog_nmap_and_cme_101_stuff/)
+- Your Hacking Tutorial by Zempirians
+  - [Hydra crack login on a Windows XP](https://www.reddit.com/r/HowToHack/comments/vg6c1h/hydra_crack_login_on_a_windows_xp/)
+  - [How does Windows password reset work](https://www.reddit.com/r/HowToHack/comments/vfsf4b/how_does_windows_password_reset_work/)
+  - [Kon-boot used on my computer and now forgot the password.](https://www.reddit.com/r/HowToHack/comments/vg5qbq/konboot_used_on_my_computer_and_now_forgot_the/)
+  - [I'm beginning my journey, what should I expect?](https://www.reddit.com/r/HowToHack/comments/vfo4s3/im_beginning_my_journey_what_should_i_expect/)
+  - [I am currently almost 19 - feel like i've achieved nothing yet in programming](https://www.reddit.com/r/HowToHack/comments/vg6flc/i_am_currently_almost_19_feel_like_ive_achieved/)
+  - [How To Add Local Admin User On Windows 10 Without Admin Privilege?](https://www.reddit.com/r/HowToHack/comments/vfof02/how_to_add_local_admin_user_on_windows_10_without/)
+  - [hi everyone 👋☺️ I have a Note 9 dual Sim and am wondering if anyone has some recommendations on hack or mods for it](https://www.reddit.com/r/HowToHack/comments/vfvh2y/hi_everyone_i_have_a_note_9_dual_sim_and_am/)
+  - [Is there a way to find the ip addresses of a particular software?](https://www.reddit.com/r/HowToHack/comments/vfkuq0/is_there_a_way_to_find_the_ip_addresses_of_a/)
+- Social Engineering
+  - [How To Speak Up With Confidence: 17 Effective Strategies](https://www.reddit.com/r/SocialEngineering/comments/vg4l1m/how_to_speak_up_with_confidence_17_effective/)
+  - [Is English more effective or less effective for social engineering? Does language make any difference?](https://www.reddit.com/r/SocialEngineering/comments/vfuowz/is_english_more_effective_or_less_effective_for/)
+  - [Question on the use of language to influence people](https://www.reddit.com/r/SocialEngineering/comments/vfk4mj/question_on_the_use_of_language_to_influence/)
+  - [Social engineering advice here.... how can I make this work?](https://www.reddit.com/r/SocialEngineering/comments/vfnwjc/social_engineering_advice_here_how_can_i_make/)
+- 数世咨询
+  - [第二届数字安全大会线上启动会：三大重磅研究发布](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247493876&idx=1&sn=7b8c9f97b8184b51703d7649579908d3&chksm=c1449a49f633135f6da0e3446cbc493b4c483d934afff6ade98b7570394d36ea919616d5c523&scene=58&subscene=0#rd)
+  - [解读IDaaS与IAM](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247493853&idx=1&sn=4e2f0e049bf94aa7b4aafbbcc66b2bc5&chksm=c1449a60f633137611b7d353328ac22df140fb2d535a87d2f3c350274bbfe51c9c8c016857bf&scene=58&subscene=0#rd)
+  - [年损失18亿美元 去中心化金融遭网络犯罪重创](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247493853&idx=2&sn=2361dc52d982b69617146d2c8d725106&chksm=c1449a60f633137636b1e2db9ed56c9686e0e2ae8822863f4e6404192729f23fbf36fc66d8d4&scene=58&subscene=0#rd)

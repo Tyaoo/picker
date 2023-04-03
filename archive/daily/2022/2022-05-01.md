@@ -1,0 +1,87 @@
+# 每日安全资讯（2022-05-01）
+
+- HackerOne Hacker Activity
+  - [com.nextcloud.client bypass the protection lock in andoid app v 3.18.1 latest version.](https://hackerone.com/reports/1450368)
+- Sec-News 安全文摘
+  - [CVE-2022-22954VMware漏洞分析](https://wiki.ioin.in/url/dN2P)
+- Sploitus.com Exploits RSS Feed
+  - [Toll Tax Management System v1.0 SQL injection Vulnerability exploit](https://sploitus.com/exploit?id=1337DAY-ID-37676&utm_source=rss&utm_medium=rss)
+  - [Exploit for Use of Incorrectly-Resolved Name or Reference in Haxx Libcurl exploit](https://sploitus.com/exploit?id=B6770ADB-376B-5BE9-B40E-37DEEB6C6675&utm_source=rss&utm_medium=rss)
+  - [Exploit for Unrestricted Upload of File with Dangerous Type in Wso2 Api Manager exploit](https://sploitus.com/exploit?id=CE8F28DE-D222-53F8-833A-4D9749BFC24D&utm_source=rss&utm_medium=rss)
+  - [Exploit for Vulnerability in Microsoft exploit](https://sploitus.com/exploit?id=E872ADEA-727B-5F6F-A079-7258B7710EEB&utm_source=rss&utm_medium=rss)
+- 安全客-有思想的安全新媒体
+  - [基于 Chromium 的 DOM-XSS 自动检测工具](https://www.anquanke.com/post/id/272810)
+- Security Boulevard
+  - [OWASP® Global AppSec US 2021 Virtual – Anna Lezhikova’s ‘How To Build A Security Mindset’](https://securityboulevard.com/2022/04/owasp-global-appsec-us-2021-virtual-anna-lezhikovas-how-to-build-a-security-mindset/)
+  - [What are the DifferentPenetration Testing Methods?](https://securityboulevard.com/2022/04/what-are-the-differentpenetration-testing-methods/)
+  - [Joy Of Tech® ‘A Psycopathic Simulation’](https://securityboulevard.com/2022/04/joy-of-tech-a-psycopathic-simulation/)
+  - [OWASP® Global AppSec US 2021 Virtual – Brian Glas’ ‘The How And Why Of The OWASP Top Ten 2021’](https://securityboulevard.com/2022/04/owasp-global-appsec-us-2021-virtual-brian-glas-the-how-and-why-of-the-owasp-top-ten-2021/)
+  - [Rivian penalized for price hike as market awards Tesla “prize” for price hike](https://securityboulevard.com/2022/04/rivian-penalized-for-price-hike-as-market-awards-tesla-prize-for-price-hike/)
+  - [API Security: Real-Time Blocking or Detection and Response?](https://securityboulevard.com/2022/04/api-security-real-time-blocking-or-detection-and-response/)
+- Envato Tuts+ Code - Mobile Development
+  - [Kotlin From Scratch: Packages and Basic Functions](https://code.tutsplus.com/tutorials/kotlin-from-scratch-packages-basic-functions--cms-29445)
+- povcfe's blog
+  - [挖洞日记](https://povcfe.github.io/posts/something/)
+- Malwarebytes Labs
+  - [Update now! Critical patches for Chrome and Edge](https://blog.malwarebytes.com/exploits-and-vulnerabilities/2022/04/update-now-important-patches-for-chrome-and-edge/)
+  - [Russia continues digital onslaught against Ukrainian systems](https://blog.malwarebytes.com/reports/2022/04/russia-continues-digital-onslaught-against-ukrainian-systems-which-began-before-invasion/)
+- Didier Stevens
+  - [Quickpost: Machine Code Infinite Loop](https://blog.didierstevens.com/2022/04/30/quickpost-machine-code-infinite-loop/)
+- daniel.haxx.se
+  - [Uncurled](https://daniel.haxx.se/blog/2022/04/30/uncurled/)
+- HAHWUL
+  - [SAML Injection](https://www.hahwul.com/cullinan/saml-injection/)
+  - [Type Juggling (Loose Comparison Bug)](https://www.hahwul.com/cullinan/type-juggling/)
+  - [IDOR (Insecure Direct Object Reference)](https://www.hahwul.com/cullinan/idor/)
+- KitPloit - PenTest & Hacking Tools
+  - [Dora - Find Exposed API Keys Based On RegEx And Get Exploitation Methods For Some Of Keys That Are Found](http://www.kitploit.com/2022/04/dora-find-exposed-api-keys-based-on.html)
+  - [Requests-Ip-Rotator - A Python Library To Utilize AWS API Gateway's Large IP Pool As A Proxy To Generate Pseudo-Infinite IPs For Web Scraping And Brute Forcing](http://www.kitploit.com/2022/04/requests-ip-rotator-python-library-to.html)
+- 奇客Solidot–传递最新科技情报
+  - [尼日利亚屏蔽 7300 万未登记身份的电话号码](https://www.solidot.org/story?sid=71408)
+  - [你可以要求 Google 从搜索结果中移除你的电话号码、邮箱和地址](https://www.solidot.org/story?sid=71407)
+  - [进餐的时间与长寿的关联](https://www.solidot.org/story?sid=71406)
+  - [苹果上海周边供应商优先复工](https://www.solidot.org/story?sid=71405)
+- 90Sec - 最新话题
+  - [http子域名扫描工具](https://forum.90sec.com/t/topic/2098)
+- Il Disinformatico
+  - [Antibufala: no, la Russia non ha già deciso di lasciare la Stazione Spaziale Internazionale](http://attivissimo.blogspot.com/2022/04/antibufala-no-la-russia-non-ha-gia.html)
+  - [Un po’ di video di Crew-4 e di Samantha Cristoforetti, arrivata alla Stazione Spaziale Internazionale](http://attivissimo.blogspot.com/2022/04/un-po-di-video-di-crew-4-e-di-samantha.html)
+- SANS Internet Storm Center, InfoCON: green
+  - [YARA 4.2.1 Released, (Sat, Apr 30th)](https://isc.sans.edu/diary/rss/28600)
+- Instapaper: Unread
+  - [NFT Crime From the Simple to the Ingeniously Simple](https://www.trustedsec.com/blog/nft-crime-from-the-simple-to-the-ingeniously-simple/)
+  - [Agent-Based Low-Level iOS File System Extraction](https://blog.elcomsoft.com/2022/04/agent-based-low-level-ios-file-system-extraction/)
+  - [Due aziende su tre colpite da attacchi ransomware](https://www.punto-informatico.it/sophos-the-state-of-ransomware-2022/)
+  - [Criptovalute, rapine miliardarie ecco perché la sicurezza è un grosso problema](https://www.agendadigitale.eu/cittadinanza-digitale/pagamenti-digitali/criptovalute-la-sicurezza-e-solo-un-mito-rischi-di-compromissione-e-regole-necessarie/)
+  - [Norton fotografa il lato romantico dei truffatori](https://www.punto-informatico.it/norton-lato-romantico-truffatori/)
+  - [Ransomware costi sette volte superiori al riscatto](https://www.punto-informatico.it/ransomware-costi-sette-volte-superiori-riscatto/)
+- TorrentFreak
+  - [Major & Persistent Video Game Pirates Investigated by ESA](https://torrentfreak.com/major-persistent-video-game-pirates-investigated-by-esa-220430/)
+- The Register - Security
+  - [Facebook's Meta, tracking code, and the student financial aid website](https://go.theregister.com/feed/www.theregister.com/2022/04/30/meta_student_data/)
+- LockBoxx
+  - [The Pros Perspective at Shmoocon 2022](http://lockboxx.blogspot.com/2022/04/the-pros-perspective-at-shmoocon-2022.html)
+- KitPloit - PenTest Tools!
+  - [Dora - Find Exposed API Keys Based On RegEx And Get Exploitation Methods For Some Of Keys That Are Found](http://www.kitploit.com/2022/04/dora-find-exposed-api-keys-based-on.html)
+  - [Requests-Ip-Rotator - A Python Library To Utilize AWS API Gateway's Large IP Pool As A Proxy To Generate Pseudo-Infinite IPs For Web Scraping And Brute Forcing](http://www.kitploit.com/2022/04/requests-ip-rotator-python-library-to.html)
+- Security Affairs
+  - [Microsoft Azure flaws could allow accessing PostgreSQL DBs of other customers](https://securityaffairs.co/wordpress/130750/security/azure-postgresql-flexible-server-flaws.html)
+  - [Emotet tests new attack chain in low volume campaigns](https://securityaffairs.co/wordpress/130739/cyber-crime/emotet-operators-test-new-techniques.html)
+  - [Pro-Russian group Killnet launched DDoS attacks on Romanian govt sites](https://securityaffairs.co/wordpress/130732/hacking/russian-hacktivists-ddos-romanian-govt.html)
+- /r/netsec - Information Security News & Discussion
+  - [RW-Fuzzer: A Fuzzing Method for Vulnerability Mining on Router Web Interface](https://www.reddit.com/r/netsec/comments/uf67wq/rwfuzzer_a_fuzzing_method_for_vulnerability/)
+- Computer Forensics
+  - [HELP !! with Volatility](https://www.reddit.com/r/computerforensics/comments/uf0771/help_with_volatility/)
+- Deep Web
+  - [darkfail down?](https://www.reddit.com/r/deepweb/comments/ufbevg/darkfail_down/)
+- Dark Reading
+  - [2022 Security Priorities: Staffing and Remote Work](https://www.darkreading.com/edge-articles/2022-security-priorities-staffing-and-remote-work)
+- Your Hacking Tutorial by Zempirians
+  - [how to make payload in metasploit fully undetectable ?](https://www.reddit.com/r/HowToHack/comments/ufak07/how_to_make_payload_in_metasploit_fully/)
+  - [Can network admins trace downloads back to users with a VPN?](https://www.reddit.com/r/HowToHack/comments/ueza76/can_network_admins_trace_downloads_back_to_users/)
+  - [what language would be most useful in hacking? like for cracking things?](https://www.reddit.com/r/HowToHack/comments/ufglh0/what_language_would_be_most_useful_in_hacking/)
+  - [Phishing .txt file](https://www.reddit.com/r/HowToHack/comments/uflcnx/phishing_txt_file/)
+  - [tp-link tl-wn722n](https://www.reddit.com/r/HowToHack/comments/uf6kh2/tplink_tlwn722n/)
+- Dark Space Blogspot
+  - [Come Funziona MM Finance: MMF, MMO, SVN, MUSD e NFT (Cronos Chain)](http://darkwhite666.blogspot.com/2022/05/come-funziona-mm-finance-mmf-mmo-svn.html)
+  - [Come Funziona Thorchain: Swap Cross Chain](http://darkwhite666.blogspot.com/2022/04/come-funziona-thorchain-swap-cross-chain.html)

@@ -1,0 +1,70 @@
+# 每日安全资讯（2022-10-12）
+
+- paper - Last paper
+  - [ ] [HTML 附件成为恶意邮件的常用手段](https://paper.seebug.org/1983/)
+  - [ ] [MiraclePtr UAF 漏洞利用缓解技术介绍](https://paper.seebug.org/1982/)
+- FreeBuf网络安全行业门户
+  - [ ] [Canary保护机制及绕过](https://www.freebuf.com/articles/system/346608.html)
+  - [ ] [FreeBuf早报 | 奇虎和大疆被美方列入黑名单；英国建立“国防网络学院”](https://www.freebuf.com/news/346601.html)
+  - [ ] [《信息安全技术 智能手机预装应用程序基本安全要求（征求意见稿）》发布](https://www.freebuf.com/news/346595.html)
+  - [ ] [定制CIS 2022冰阔落，就送周边大礼包](https://www.freebuf.com/fevents/346555.html)
+  - [ ] [美国多个机场因网络攻击发生故障，和俄罗斯有关？](https://www.freebuf.com/news/346538.html)
+- 安全客-有思想的安全新媒体
+  - [ ] [反诈态势情报 | 远控技术的应用趋势，以及窝点黑产设备的监控和打击对策](https://www.anquanke.com/post/id/281496)
+  - [ ] [网络安全主管难以维护公司安全](https://www.anquanke.com/post/id/281418)
+  - [ ] [现代医院网络安全管理面临的挑战和对策](https://www.anquanke.com/post/id/281413)
+  - [ ] [学习笔记 | Spring Security RegexRequestMatcher 认证绕过及转发流程](https://www.anquanke.com/post/id/281421)
+  - [ ] [“致命”Caffeine允许任何人发起Microsoft 365网络钓鱼攻击](https://www.anquanke.com/post/id/281526)
+  - [ ] [暗网市场BidenCash免费送出120万张“信用卡”](https://www.anquanke.com/post/id/281513)
+- 嘶吼 RoarTalk – 回归最本质的信息安全,互联网安全新媒体,4hou.com
+  - [ ] [“扫码免费领空气炸锅”可信吗？我帮你试过了，没错，领到了空气…](https://www.4hou.com/posts/oJ9K)
+  - [ ] [反诈态势情报 | 远控技术的应用趋势，以及窝点黑产设备的监控和打击对策](https://www.4hou.com/posts/9XP4)
+  - [ ] [新品发布 | 春秋云境.com重磅上线，网络安全实战“元宇宙”等你来体验](https://www.4hou.com/posts/mXgA)
+  - [ ] [通过 HTTP 请求走私窃取活动目录凭据](https://www.4hou.com/posts/r7p6)
+  - [ ] [游戏机黑客披露了“实际上无法修补”的PS4/PS5 漏洞](https://www.4hou.com/posts/mXVp)
+  - [ ] [匿名网络追踪溯源机制及方法](https://www.4hou.com/posts/50XZ)
+  - [ ] [11月2日-4日，2022年第四届国际工业信息安全应急大会重新启动！](https://www.4hou.com/posts/jJNz)
+- SecWiki News
+  - [ ] [SecWiki News 2022-10-11 Review](http://www.sec-wiki.com/?2022-10-11)
+- 绿盟科技技术博客
+  - [ ] [【顶会论文分析】模型劫持攻击](http://blog.nsfocus.net/model-hijacking-attack/)
+- 跳跳糖 - 安全与分享社区
+  - [ ] [Weblogic Analysis Attacked by T3 Protocol From CVE (part 1)](https://tttang.com/archive/1768/)
+- 安全脉搏
+  - [ ] [Java 反序列化之 C3P0 链学习](https://www.secpulse.com/archives/188871.html)
+  - [ ] [浅析 Linux Dirty Cred 新型漏洞利用方式](https://www.secpulse.com/archives/188840.html)
+- 奇客Solidot–传递最新科技情报
+  - [ ] [Blender 加入对 Wayland 的支持](https://www.solidot.org/story?sid=73026)
+  - [ ] [特斯拉和比亚迪电动车交付量破记录](https://www.solidot.org/story?sid=73025)
+  - [ ] [科学家发现女性更容易患阿尔茨海默氏症的机制](https://www.solidot.org/story?sid=73024)
+  - [ ] [Firefox 如何改进 macOS 版本的响应](https://www.solidot.org/story?sid=73023)
+  - [ ] [访问密钥在 GitHub 暴露五年后丰田警告数据泄露](https://www.solidot.org/story?sid=73022)
+  - [ ] [调查显示逾四成 Windows PC 无法升级到 Windows 11](https://www.solidot.org/story?sid=73021)
+  - [ ] [ISC DHCP Server 寿命终止](https://www.solidot.org/story?sid=73020)
+  - [ ] [PC 出货量三季度同比下降近 20%](https://www.solidot.org/story?sid=73019)
+  - [ ] [统计显示大规模抗议活动的成功率越来越低](https://www.solidot.org/story?sid=73018)
+  - [ ] [科学家在癌症肿瘤中发现真菌](https://www.solidot.org/story?sid=73017)
+  - [ ] [Stoke Space 试图设计出完全可重复使用的火箭](https://www.solidot.org/story?sid=73016)
+- 博客园 - admin-神风
+  - [ ] [RASP的安全攻防研究实践 - admin-神风](https://www.cnblogs.com/wh4am1/p/16780056.html)
+- HackerNews
+  - [ ] [暗网市场 BidenCash 公开超 120 万信用卡用户信息](https://hackernews.cc/archives/41837)
+  - [ ] [美国多个机场因网络攻击发生故障，和俄罗斯有关？](https://hackernews.cc/archives/41831)
+  - [ ] [研究人员详细介绍了网络间谍组织 Earth Aughisky 使用的恶意工具](https://hackernews.cc/archives/41825)
+  - [ ] [Fortinet 产品中的 CVE-2022-40684 漏洞正被在野利用](https://hackernews.cc/archives/41823)
+  - [ ] [伊朗社会抗议引发信息战：国家电视台又遭篡改 播放“杀死最高领袖”](https://hackernews.cc/archives/41821)
+- 博客园 - 郑瀚Andrew
+  - [ ] [村镇特色旅游资源开发与保护 - 郑瀚Andrew](https://www.cnblogs.com/LittleHann/p/16778777.html)
+- 我的安全梦
+  - [ ] [红队方向产品研究分析报告](https://mp.weixin.qq.com/s?__biz=MzU3NDY1NTYyOQ==&mid=2247485386&idx=1&sn=f7a5bc139464fcaa6ffd97a90f039334&chksm=fd2e5a28ca59d33ea7ca66e3ee6a6f523bafe9dd5510da68d0561e9e8a5b1266a3086971c8d9&scene=58&subscene=0#rd)
+- 火线Zone
+  - [ ] [使用自定义云容器在 Azure Functions 中增强云安全性](https://mp.weixin.qq.com/s?__biz=MzI2NDQ5NTQzOQ==&mid=2247496839&idx=1&sn=28d7201c58dda9c62bf73d8c3f0ec6ce&chksm=eaa97ca7dddef5b173891e0a7f1b94a6acfb28bcebb9e8963989f6c7d11995f36e57f6c049f0&scene=58&subscene=0#rd)
+- 安全圈
+  - [ ] [【安全圈】每条个人信息卖五毛，团伙被抓后发现1500万资产！](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652020254&idx=1&sn=b3e9ef3dc066b70b23b8b5192a4e8728&chksm=f36fb25ec4183b48da91c4e0d3d8e52a9f372b3c48abb34197419a92e3441ea97b121eb38220&scene=58&subscene=0#rd)
+  - [ ] [【安全圈】美国14家机场遭俄黑客攻击 网站无法打开](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652020254&idx=2&sn=de6027cc9cac7ebc45a1756923396872&chksm=f36fb25ec4183b48a09da53169ada71d15d9ed312f15acc41e3eb2fe49957806eef9c749e164&scene=58&subscene=0#rd)
+  - [ ] [【安全圈】macOS Archive 工具漏洞](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652020254&idx=3&sn=ce1a2a77f4185c5fd8b146e3b3cd790d&chksm=f36fb25ec4183b4830c7a78a61ce39ec4333a9dde92466c334547374640ede9f58283c218f67&scene=58&subscene=0#rd)
+  - [ ] [【安全圈】美国第四大医疗系统疑似遭勒索软件攻击](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652020254&idx=4&sn=a261d5f065088f217fd04d82a984c409&chksm=f36fb25ec4183b48d12f6f3c82e7714e16e25471afbc5e07b94765b7610136213d1d05acfa97&scene=58&subscene=0#rd)
+- 天融信阿尔法实验室
+  - [ ] [每日攻防资讯简报[Oct.11th]](https://mp.weixin.qq.com/s?__biz=Mzg3MDAzMDQxNw==&mid=2247495878&idx=1&sn=7c72c89b4992222d6910570488399fc6&chksm=ce96bdf8f9e134ee89460b6428d017ea6fb5be014d8e2309a498989a626865a93da00e5dff79&scene=58&subscene=0#rd)
+- 雷神众测
+  - [ ] [雷神众测助力｜第六届安全开发者峰会，10月23日上海见！](https://mp.weixin.qq.com/s?__biz=MzI0NzEwOTM0MA==&mid=2652500014&idx=1&sn=f3189fed8a614bd90043c50d30777123&chksm=f258539dc52fda8b0b71de280d9f7b1ccd2b46b385b8aa7fba607605936d219e15ff0352e172&scene=58&subscene=0#rd)

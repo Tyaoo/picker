@@ -1,0 +1,69 @@
+# 每日安全资讯（2022-08-14）
+
+- unSafe.sh - 不安全
+  - [timwhitez starred DotNetTracer](https://buaq.net/go-122055.html)
+  - [timwhitez starred AceLdr](https://buaq.net/go-122056.html)
+  - [NimGetSyscallStub - Get Fresh Syscalls From A Fresh Ntdll.Dll Copy](https://buaq.net/go-122039.html)
+  - [预览 | .NET VirtualPath实现内存马和工具](https://buaq.net/go-122037.html)
+  - [周日公开课直播预告 | JNI函数与脱壳分析实战](https://buaq.net/go-122036.html)
+  - [How I Hacked my Car](https://buaq.net/go-122033.html)
+  - [Server Side Template Injections By Hashar Mujahid.](https://buaq.net/go-122021.html)
+  - [你的日子有几种过法？聊聊日历应用中的阳历与阴历](https://buaq.net/go-122023.html)
+  - [就这样，祝各位都有一个好腰](https://buaq.net/go-122024.html)
+  - [App+1｜DailyBeen 日记说：你的所有小事，都值得铭记](https://buaq.net/go-122019.html)
+  - [Desk Height Calculator – 站立式办公桌高度计算器](https://buaq.net/go-122011.html)
+  - [如何发现信标（二）](https://buaq.net/go-122009.html)
+  - [单核CPU一小时破解抗量子加密算法](https://buaq.net/go-122010.html)
+- Security Boulevard
+  - [Aspen Security Forum 2022 – Moderator: Edward Luce – Global Economy: Recovery Or Recession Bound?](https://securityboulevard.com/2022/08/aspen-security-forum-2022-moderator-edward-luce-global-economy-recovery-or-recession-bound/)
+  - [Aspen Security Forum 2022 – Led By Penny Pritzkerl – Virtual Fireside Chat with Secretary Gina Raimondo](https://securityboulevard.com/2022/08/aspen-security-forum-2022-led-by-penny-pritzkerl-virtual-fireside-chat-with-secretary-gina-raimondo/)
+  - [What is the Automated Certificate Management Environment (ACME) Protocol?](https://securityboulevard.com/2022/08/what-is-the-automated-certificate-management-environment-acme-protocol/)
+- Twitter @Nicolas Krassas
+  - [Django web applications with enabled Debug Mode, DB accounts information and API Keys of more than 3,100 applications were exposed on internet.](https://twitter.com/Dinosn/status/1558339024154251264)
+  - [OFRAK (Open Firmware Reverse Analysis Konsole): a recently released new tool for analysing embedded firmware](https://twitter.com/Dinosn/status/1558338995985305600)
+  - [scodescanner: scan the source code for finding the Critical Vulnerabilities](https://twitter.com/Dinosn/status/1558338952116961281)
+  - [Faraday Community - Open Source Penetration Testing and Vulnerability Management Platform](https://twitter.com/Dinosn/status/1558338912195678210)
+  - [IAM Whoever I Say IAM :: Infiltrating VMWare Workspace ONE Access Using a 0-Click Exploit](https://twitter.com/Dinosn/status/1558338631563153409)
+  - [DeathStalker’s continuous strike at foreign and cryptocurrency exchanges](https://twitter.com/Dinosn/status/1558337076101349376)
+  - [DNSMonitor leverages Apple's Network Extension Framework to monitor DNS requests and responses](https://twitter.com/Dinosn/status/1558333256029855744)
+  - [crAPI: help you to understand the ten most critical API security risks](https://twitter.com/Dinosn/status/1558332955558395905)
+  - [Researching Xiaomi’s TEE to get to Chinese money](https://twitter.com/Dinosn/status/1558332901015654400)
+  - [Stats Say Chinese Researchers Not Deterred By China's Vulnerability Law](https://twitter.com/Dinosn/status/1558332743544610816)
+  - [OffensiveVBA - Code Execution And AV Evasion Methods For Macros In Office Documents](https://twitter.com/Dinosn/status/1558319144071749633)
+  - [FAANGs Failing On Keeping User Data Safe From Bug Hunters](https://twitter.com/Dinosn/status/1558318927565955072)
+  - [Researchers Use Invisible Finger To Remotely Control Touchscreens](https://twitter.com/Dinosn/status/1558318838554443777)
+  - [Intel ups protection against physical chip attacks in Alder Lake](https://twitter.com/Dinosn/status/1558318764848021507)
+  - [Twilio: 125 customers affected by data breach, no passwords stolen](https://twitter.com/Dinosn/status/1558317740523458560)
+  - [Feds: Zeppelin Ransomware Resurfaces with New Compromise, Encryption Tactics](https://twitter.com/Dinosn/status/1558317674006028288)
+  - [US reveals 'Target' pic of Conti man with $10m reward offer](https://twitter.com/Dinosn/status/1558317622256615424)
+  - [RT siri@fu4k1: about SMB RCE CVE-2022-35804](https://twitter.com/sirifu4k1/status/1558303364731240451)
+- Sploitus.com Exploits RSS Feed
+  - [Exploit for Improper Initialization in Linux Linux Kernel exploit](https://sploitus.com/exploit?id=5A75201B-3448-5168-A938-2E71C7C5F2CE&utm_source=rss&utm_medium=rss)
+  - [Exploit for Command Injection in Apache Spark exploit](https://sploitus.com/exploit?id=60081279-7DD1-5967-B70A-14F531A30F89&utm_source=rss&utm_medium=rss)
+- Recent Commits to cve:main
+  - [Update Sat Aug 13 05:20:16 UTC 2022](https://github.com/trickest/cve/commit/4a1aa66aaf56c89081c6c76ced115df44072240f)
+- 嘶吼 RoarTalk – 回归最本质的信息安全,互联网安全新媒体,4hou.com
+  - [如何发现信标（二）](https://www.4hou.com/posts/l6Dr)
+  - [单核CPU一小时破解抗量子加密算法](https://www.4hou.com/posts/O9qY)
+- Bug Bounty in InfoSec Write-ups on Medium
+  - [Server Side Template Injections By Hashar Mujahid.](https://infosecwriteups.com/server-side-template-injections-by-hashar-mujahid-e5a1a383027e?source=rss----7b722bfd1b8d--bug_bounty)
+- Reverse Engineering
+  - [How I Hacked my Car](https://www.reddit.com/r/ReverseEngineering/comments/wna951/how_i_hacked_my_car/)
+- SAP Blogs
+  - [Calculation of net due date for credit memo.](https://blogs.sap.com/2022/08/13/calculation-of-net-due-date-for-credit-memo./)
+- KitPloit - PenTest & Hacking Tools
+  - [NimGetSyscallStub - Get Fresh Syscalls From A Fresh Ntdll.Dll Copy](http://www.kitploit.com/2022/08/nimgetsyscallstub-get-fresh-syscalls.html)
+- 看雪学院
+  - [周日公开课直播预告 | JNI函数与脱壳分析实战](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458463453&idx=1&sn=a3cd0e10066918a4161ffa34b995506a&chksm=b18e1c5786f99541058a6411508032a3dfd59795ac1f1cf6a7b5b888bf33dfe7ae1de9f018ce&scene=58&subscene=0#rd)
+  - [CVE-2018-18708 TENDA缓冲区溢出漏洞](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458463453&idx=2&sn=aafc9c9a5d35924c81bedf54574f7f40&chksm=b18e1c5786f9954158614d47027a32601e9f0b8bdea361f4aaa4acd4c8646a97a1c24ff0bbdc&scene=58&subscene=0#rd)
+- 互联网安全内参
+  - [美太空军构筑“太空网络安全”最新举措](https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247505189&idx=1&sn=eb7836630757dbae9e4bc19c8a18d404&chksm=ebfa9205dc8d1b13f6afe0535ed22e8967736b74bda8e623deea7ca4adc86b7a1d294bff0cd1&scene=58&subscene=0#rd)
+- 虎符智库
+  - [黑帽大会：关注供应链安全与资产漏洞管理](https://mp.weixin.qq.com/s?__biz=MzIwNjYwMTMyNQ==&mid=2247488054&idx=1&sn=9a46b6d32b1d251728973404afc5eaa8&chksm=971e7f34a069f622f44331b371851c2fb75d99c065a1bd2cea80c67c4d218c7c151eb2b92514&scene=58&subscene=0#rd)
+- 极客公园
+  - [一个 Web3 小白的「DAO漂流」](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2652964515&idx=1&sn=4b83eb05789cf3101c742a036b9fbaa8&chksm=7e547b154923f2033a21bbfc5066032d96d719c374bd7e0153eec24fce88efbf06bd2bee6fac&scene=58&subscene=0#rd)
+  - [倒计时 3 天｜极客公园创世系列盲盒：限时福利活动火热进行中！](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2652964515&idx=2&sn=c1f22bbbc8bcca2aa719fb9f69594ece&chksm=7e547b154923f2037197c18357e6622b7e6fea2de8e22fba8b6a90ad0fe1805ca8772c010681&scene=58&subscene=0#rd)
+  - [中石油等 5 家中国企业启动自美退市；华为上半年营收 3016 亿元；搜狗 App 正式停止服务｜极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2652964514&idx=1&sn=318162e44763f143a57bba2d6c485028&chksm=7e547b144923f20243760534e2f0f913ae5fddac9c64d7866865d421628a001c9cf857d638ad&scene=58&subscene=0#rd)
+- 情报分析师
+  - [丧心病狂，美国中央情报局成立中国任务中心！附《CIA情报分析思维与演示培训手册》](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650514027&idx=1&sn=fc2dfd176ee2d791db34d51a15fa4d8f&chksm=87168c20b0610536872d4dc1eafe68f9ab5a6271d4204a8d3717762acfd27139060c61ca97d0&scene=58&subscene=0#rd)
+  - [【实战技法】如何使用新技术调查旧照片](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650514027&idx=2&sn=290eaa9ce5a937153e280ec23db814d3&chksm=87168c20b061053631b2a85ad6cbf11ba53b670fa263052e16ba4c88fc3b5f4c32b350f335af&scene=58&subscene=0#rd)

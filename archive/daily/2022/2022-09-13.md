@@ -1,0 +1,128 @@
+# 每日安全资讯（2022-09-13）
+
+- Security Boulevard
+  - [Trustero Launches New SOC 2 Compliance Help for Startups](https://securityboulevard.com/2022/09/trustero-launches-new-soc-2-compliance-help-for-startups/)
+  - [Trustero Compliance as a Service Gains New Features](https://securityboulevard.com/2022/09/trustero-compliance-as-a-service-gains-new-features/)
+  - [BSides Vancouver 2022 – Jason Rivera’s ‘Understanding The Modern Attack: A Review Of The Adversary’s Operational Lifecycle’](https://securityboulevard.com/2022/09/bsides-vancouver-2022-jason-riveras-understanding-the-modern-attack-a-review-of-the-adversarys-operational-lifecycle/)
+  - [Major Momentum: Apple Supports BIMI in iOS 16](https://securityboulevard.com/2022/09/major-momentum-apple-supports-bimi-in-ios-16/)
+  - [Your VPN Has Already Been Hacked](https://securityboulevard.com/2022/09/your-vpn-has-already-been-hacked/)
+  - [XKCD ‘Artemis Quote’](https://securityboulevard.com/2022/09/xkcd-artemis-quote/)
+  - [Get audit-ready, conduct your exam and get a report from Trustero](https://securityboulevard.com/2022/09/get-audit-ready-conduct-your-exam-and-get-a-report-from-trustero/)
+  - [Can you afford to cut back on web application security?](https://securityboulevard.com/2022/09/can-you-afford-to-cut-back-on-web-application-security/)
+  - [Earn CPE Credits with Noname’s API Security Workshop](https://securityboulevard.com/2022/09/earn-cpe-credits-with-nonames-api-security-workshop/)
+  - [Trustero Adds AI-Powered Recommendations, API Beta Program, and Other Enhancements to its Compliance as a Service Solution](https://securityboulevard.com/2022/09/trustero-adds-ai-powered-recommendations-api-beta-program-and-other-enhancements-to-its-compliance-as-a-service-solution/)
+- Der Flounder
+  - [Jamf Pro 10.41.0 and SSL verification alerts](https://derflounder.wordpress.com/2022/09/12/jamf-pro-10-41-0-and-ssl-verification-alerts/)
+- Files ≈ Packet Storm
+  - [Ubuntu Security Notice USN-5523-2](https://packetstormsecurity.com/files/168340/USN-5523-2.txt)
+  - [ETAP Safety Manager 1.0.0.32 Cross Site Scripting](https://packetstormsecurity.com/files/168339/ZSL-2022-5711.txt)
+  - [Infix LMS 4.3.0 Shell Upload](https://packetstormsecurity.com/files/168338/infixlms430-shell.txt)
+  - [Infix LMS 4.3.0 IFRAME Injection](https://packetstormsecurity.com/files/168337/infixlms430-inject.txt)
+  - [SmartRG Router 2.6.13 Remote Code Execution](https://packetstormsecurity.com/files/168336/smartrg2613-exec.txt)
+- Filippo Valsorda
+  - [Planning Go 1.20 Cryptography Work](https://words.filippo.io/dispatches/go1-20/)
+- Recent Commits to cve:main
+  - [Update Mon Sep 12 10:04:30 UTC 2022](https://github.com/trickest/cve/commit/0c49acafc042f36798334ba3b708abf8f0c34d50)
+- Twitter @Nicolas Krassas
+  - [How a Script Kiddie and 25 Lines of Python Could Theoretically Devastate America’s Gas Stations](https://twitter.com/Dinosn/status/1569394468767371264)
+  - [Re @Barbarossa0x @Bonniewahome Not really, show me a screenshot of a cain and abel that will work on any modern system and that has a 'gold function' ...](https://twitter.com/Dinosn/status/1569391537695383554)
+  - [Re @frycos Much appreciated !](https://twitter.com/Dinosn/status/1569390999272656896)
+  - [PersistenceSniper - Powershell Script That Can Be Used By Blue Teams, Incident Responders And System Administrators To Hunt Persistences Implanted In ...](https://twitter.com/Dinosn/status/1569390005042429952)
+  - [Google announced the completion of the acquisition of Mandiant for $5.4 billion](https://twitter.com/Dinosn/status/1569389566615867394)
+  - [Redeye is a platform to cover all aspects of red team engagement (data management, red team operation management, etc.)](https://twitter.com/Dinosn/status/1569389532461547522)
+  - [Security pros get ability to manually add incidents to Microsoft Sentinel](https://twitter.com/Dinosn/status/1569389437896867841)
+  - [China Accuses NSA's TAO Unit of Hacking its Military Research University](https://twitter.com/Dinosn/status/1569388860534099968)
+  - [New Linux Cryptomining Malware](https://twitter.com/Dinosn/status/1569388748894347267)
+  - [Lorenz ransomware breaches corporate network via phone systems](https://twitter.com/Dinosn/status/1569388705755930626)
+  - [Hacktivist Group GhostSec Compromises 55 Berghof PLCs Across Israel](https://twitter.com/Dinosn/status/1569388651041153024)
+  - [HP will pay customers for blocking non-HP ink cartridges in EU](https://twitter.com/Dinosn/status/1569388521642672130)
+  - [Scammers Leveraging Microsoft Team GIFs in Phishing Attacks](https://twitter.com/Dinosn/status/1569388160085368833)
+  - [VMware: 70% drop in Linux ESXi VM performance with Retbleed fixes](https://twitter.com/Dinosn/status/1569387290308345857)
+  - [Re @Active666 @tresselapp A mute you get](https://twitter.com/Dinosn/status/1569316509364948993)
+  - [Re @Bonniewahome @Barbarossa0x Wondering many times on these posts if actually the authors have every tried the tools Brutus is ~ 6 years old. ophcrac...](https://twitter.com/Dinosn/status/1569316380477988869)
+  - [Wazuh - The Open Source Security Platform](https://twitter.com/Dinosn/status/1569313686036140032)
+  - [Pure PowerShell implementation of CVE-2021-1675 Print Spooler Local Privilege Escalation (PrintNightmare)](https://twitter.com/Dinosn/status/1569286785565605888)
+  - [Re @CGolang https:// canarytokens .com](https://twitter.com/Dinosn/status/1569285998466535428)
+  - [Exploitation paths allowing you to (mis)use the Windows Privileges to elevate your rights within the OS.](https://twitter.com/Dinosn/status/1569282462433398786)
+- Sploitus.com Exploits RSS Feed
+  - [SmartRG Router 2.6.13 Remote Code Execution exploit](https://sploitus.com/exploit?id=PACKETSTORM:168336&utm_source=rss&utm_medium=rss)
+  - [ETAP Safety Manager 1.0.0.32 Cross Site Scripting exploit](https://sploitus.com/exploit?id=PACKETSTORM:168339&utm_source=rss&utm_medium=rss)
+  - [Infix LMS 4.3.0 Shell Upload exploit](https://sploitus.com/exploit?id=PACKETSTORM:168338&utm_source=rss&utm_medium=rss)
+  - [Infix LMS 4.3.0 IFRAME Injection exploit](https://sploitus.com/exploit?id=PACKETSTORM:168337&utm_source=rss&utm_medium=rss)
+  - [Exploit for Classic Buffer Overflow in Draytek Vigor3910 Firmware exploit](https://sploitus.com/exploit?id=AAC5556D-970F-5760-BD5A-7E26CE1A651F&utm_source=rss&utm_medium=rss)
+  - [Exploit for Vulnerability in Google Android exploit](https://sploitus.com/exploit?id=E0070E6C-D156-5108-A620-28903EB02590&utm_source=rss&utm_medium=rss)
+  - [Exploit for CVE-2022-37706 exploit](https://sploitus.com/exploit?id=AF539206-B179-5EC0-99B5-00FBFA753261&utm_source=rss&utm_medium=rss)
+- 嘶吼 RoarTalk – 回归最本质的信息安全,互联网安全新媒体,4hou.com
+  - [2022 年与游戏相关的网络威胁](https://www.4hou.com/posts/03pX)
+  - [微软声称：伊朗黑客使用BitLocker加密Windows系统](https://www.4hou.com/posts/EQvk)
+- Planet Classpath
+  - [Mark Wielaard: Sourceware as Conservancy member project](https://gnu.wildebeest.org/blog/mjw/2022/09/12/sourceware-as-conservancy-member-project/)
+- Blog & What's New | Offensive Security
+  - [The Importance of Skilled Security Practitioners: How Security Skillfulness Reflects on Your Security Posture](https://www.offensive-security.com/offsec/improve-skillfullness-of-cybersecurity-practitioners/)
+- The DFIR Report
+  - [Dead or Alive? An Emotet Story](https://thedfirreport.com/2022/09/12/dead-or-alive-an-emotet-story/)
+- 不忘初心 方得始终
+  - [CVE-2021-3493 Ubuntu overlayfs privilege escalation vulnerability analysis](http://terenceli.github.io/%E6%8A%80%E6%9C%AF/2022/09/12/CVE-2021-3493-ubuntu-overlayfs-escalation)
+- o0xmuhe's blog
+  - [Paper read <<The Convergence of Source Code and Binary Vulnerability Discovery – A Case Study>>](https://o0xmuhe.github.io/2022/09/12/Paper-read-The-Convergence-of-Source-Code-and-Binary-Vulnerability-Discovery-%E2%80%93-A-Case-Study/)
+- SAP Blogs
+  - [Repositories and packages required for SAP B1 on SUSE SLES 15 SP3](https://blogs.sap.com/2022/09/12/repositories-and-packages-required-for-sap-b1-on-suse-sles-15-sp3/)
+  - [S/4HANA Integration with MS Teams via BTP : A Siemens Experience Story](https://blogs.sap.com/2022/09/12/s-4hana-integration-with-ms-teams-via-btp-a-siemens-experience-story/)
+  - [How to Achieve a Sustainable Future for Your Organization](https://blogs.sap.com/2022/09/12/how-to-achieve-a-sustainable-future-for-your-organization/)
+  - [10 Strategic Actions for Creating Your Successful Data Governance Strategy](https://blogs.sap.com/2022/09/12/10-strategic-actions-for-creating-your-successful-data-governance-strategy/)
+  - [Optimizing Your Data Management Strategy for a Maximum ROI From Your Cloud Investment](https://blogs.sap.com/2022/09/12/optimizing-your-data-management-strategy-for-a-maximum-roi-from-your-cloud-investment/)
+  - [SAP Business Network 2208 Release – What’s new?](https://blogs.sap.com/2022/09/12/sap-business-network-2208-release-whats-new/)
+  - [Additional Parameters usage in Optimizer](https://blogs.sap.com/2022/09/12/additional-parameters-usage-in-optimizer/)
+  - [Get onboarded on SAP S/4HANA Cloud for Extended Warehouse Management Private Edition, Extra-stack](https://blogs.sap.com/2022/09/12/get-onboarded-on-sap-s-4hana-cloud-for-extended-warehouse-management-private-edition-extra-stack/)
+  - [Get onboarded on SAP S/4HANA Cloud for Transportation Management, Private Edition Extra-stack](https://blogs.sap.com/2022/09/12/get-onboarded-on-sap-s-4hana-cloud-for-transportation-management-private-edition-extra-stack/)
+  - [Flexible Workflows in Condition Contract Management](https://blogs.sap.com/2022/09/12/flexible-workflows-in-condition-contract-management/)
+- Bug Bounty in InfoSec Write-ups on Medium
+  - [Detecting Log4j & its Remediation](https://infosecwriteups.com/detecting-log4j-its-remediation-58ab3a59c865?source=rss----7b722bfd1b8d--bug_bounty)
+  - [How I found 3 rare security bugs in a day](https://infosecwriteups.com/how-i-found-3-bug-bounties-in-a-day-c82fe023716e?source=rss----7b722bfd1b8d--bug_bounty)
+  - [New technique 403 bypass lyncdiscover.microsoft.com](https://infosecwriteups.com/403-bypass-lyncdiscover-microsoft-com-db2778458c33?source=rss----7b722bfd1b8d--bug_bounty)
+  - [How to prevent more than 200 million users from using Google services](https://infosecwriteups.com/how-to-prevent-more-than-200-million-users-from-using-google-services-136b3b8e221f?source=rss----7b722bfd1b8d--bug_bounty)
+- Hex Rays
+  - [Hex-Rays launches a Beta Program!](https://hex-rays.com/blog/hex-rays-launches-a-beta-program/)
+- SentinelOne
+  - [Fortune Names SentinelOne a Top Workplace in Tech](https://www.sentinelone.com/blog/fortune-names-sentinelone-a-top-workplace-in-tech/)
+- Malwarebytes Labs
+  - [The MSP playbook on deciphering tech promises and shaping security culture](https://www.malwarebytes.com/blog/podcast/2022/09/the-msp-playbook-on-deciphering-tech-promises-and-shaping-security-culture-lock-and-code-s03e19)
+  - [6 patch management best practices for businesses](https://www.malwarebytes.com/blog/business/2022/09/6-patch-management-best-practices-for-businesses)
+  - [Facebook engineers aren't sure where all user data is kept](https://www.malwarebytes.com/blog/news/2022/09/facebook-engineers-arent-sure-where-all-user-data-is-kept)
+  - [The North Face hit by credential stuffing attack](https://www.malwarebytes.com/blog/news/2022/09/the-north-face-hit-by-credential-stuffing-attack)
+  - [A week in security (September 5 – 11)](https://www.malwarebytes.com/blog/news/2022/09/a-week-in-security-september-5--september-11)
+- Reverse Engineering
+  - [/r/ReverseEngineering's Weekly Questions Thread](https://www.reddit.com/r/ReverseEngineering/comments/xc5v9m/rreverseengineerings_weekly_questions_thread/)
+  - [The Touhou PC-98 Restoration Project](https://www.reddit.com/r/ReverseEngineering/comments/xcgemc/the_touhou_pc98_restoration_project/)
+  - [A new C++ debugger challenge is live!](https://www.reddit.com/r/ReverseEngineering/comments/xc84c5/a_new_c_debugger_challenge_is_live/)
+- Intigriti
+  - [Keep up with Intigriti’s events in September and October](https://blog.intigriti.com/2022/09/12/keep-up-with-intigritis-events-in-september-and-october/)
+  - [How CM.com improved its security posture with a bug bounty program](https://blog.intigriti.com/2022/09/12/how-cm-com-improved-its-security-posture-with-a-bug-bounty-program/)
+- KitPloit - PenTest & Hacking Tools
+  - [PersistenceSniper - Powershell Script That Can Be Used By Blue Teams, Incident Responders And System Administrators To Hunt Persistences Implanted In Windows Machines](http://www.kitploit.com/2022/09/persistencesniper-powershell-script.html)
+- The Daily Swig | Cybersecurity news and views
+  - [Vulnerability in Xalan-J could allow arbitrary code execution](https://portswigger.net/daily-swig/vulnerability-in-xalan-j-could-allow-arbitrary-code-execution)
+  - [WordPress project WPHash harvests 75 million hashes for detecting vulnerable plugins](https://portswigger.net/daily-swig/wordpress-project-wphash-harvests-75-million-hashes-for-detecting-vulnerable-plugins)
+- HAHWUL
+  - [Rake(Ruby Make)](https://www.hahwul.com/2022/09/12/ruby-rake/)
+- PortSwigger Research
+  - [The seventh way to call a JavaScript function without parentheses](https://portswigger.net/research/the-seventh-way-to-call-a-javascript-function-without-parentheses)
+- daniel.haxx.se
+  - [convert a curl cmdline to libcurl source code](https://daniel.haxx.se/blog/2022/09/12/convert-a-curl-cmdline-to-libcurl-source-code/)
+- Horizon3.ai
+  - [Patched ≠ Remediated: Healthcare Faces an Aggressive Threat Landscape](https://www.horizon3.ai/healthcare-faces-an-aggressive-threat-landscape/)
+- blog.avast.com EN
+  - [Avast and NortonLifeLock merge to tackle new challenges in Cyber Safety](https://blog.avast.com/avast-nortonlifelock-merge)
+- text/plain
+  - [Edge’s Super-Res Image Enhancement](https://textslashplain.com/2022/09/12/edges-super-res-image-enhancement/)
+- FreeBuf网络安全行业门户
+  - [FreeBuf早报 | 三星因数据泄露面临集体诉讼；中科大超3000名师生中招钓鱼邮件](https://www.freebuf.com/news/344330.html)
+- 体验盒子
+  - [IOS/Android检测虚拟机模拟器的方法](https://www.uedbox.com/post/68507/)
+- 奇客Solidot–传递最新科技情报
+  - [思科证实阎罗王勒索软件组织窃取了企业数据](https://www.solidot.org/story?sid=72740)
+  - [苹果将使用 Globalstar 85% 的卫星网络容量](https://www.solidot.org/story?sid=72739)
+- 黑海洋 - WIKI
+  - [Windows11时间显秒数小工具](https://blog.upx8.com/2969)
+  - [SuperStart开始菜单工具v2.1.7（win11设置优化）](https://blog.upx8.com/2968)
+  - [Win11右键恢复经典菜单小工具](https://blog.upx8.com/2967)

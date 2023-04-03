@@ -1,0 +1,160 @@
+# 每日安全资讯（2022-05-03）
+
+- Sec-News 安全文摘
+  - [记录一次逆向容器镜像的过程](https://wiki.ioin.in/url/jdqx)
+- Microsoft Security Blog
+  - [Microsoft launches Defender for Business to help protect small and medium businesses](https://www.microsoft.com/security/blog/2022/05/02/microsoft-launches-defender-for-business-to-help-protect-small-and-medium-businesses/)
+- Sploitus.com Exploits RSS Feed
+  - [Covid 19 Travel Pass Management System  v1.0 SQL injection Vulnerability exploit](https://sploitus.com/exploit?id=1337DAY-ID-37677&utm_source=rss&utm_medium=rss)
+  - [Ransom.LockBit DLL Hijacking exploit](https://sploitus.com/exploit?id=PACKETSTORM:166912&utm_source=rss&utm_medium=rss)
+  - [Strapi 3.6.8 Password Disclosure / Insecure Handling exploit](https://sploitus.com/exploit?id=PACKETSTORM:166915&utm_source=rss&utm_medium=rss)
+  - [WSO Arbitrary File Upload / Remote Code Execution exploit](https://sploitus.com/exploit?id=PACKETSTORM:166921&utm_source=rss&utm_medium=rss)
+  - [WordPress Stafflist 3.1.2 Cross Site Request Forgery exploit](https://sploitus.com/exploit?id=PACKETSTORM:166919&utm_source=rss&utm_medium=rss)
+  - [WordPress Stafflist 3.1.2 SQL Injection exploit](https://sploitus.com/exploit?id=PACKETSTORM:166918&utm_source=rss&utm_medium=rss)
+  - [Covid 19 Travel Pass Management System 1.0 SQL Injection exploit](https://sploitus.com/exploit?id=PACKETSTORM:166910&utm_source=rss&utm_medium=rss)
+  - [Toll Tax Management System 1.0 SQL Injection exploit](https://sploitus.com/exploit?id=PACKETSTORM:166908&utm_source=rss&utm_medium=rss)
+- Security Boulevard
+  - [Geopolitical Cyber Attacks — The New Battlefield](https://securityboulevard.com/2022/05/geopolitical-cyber-attacks-the-new-battlefield/)
+  - [A Guide to EDR, NDR, XDR, and SIEM](https://securityboulevard.com/2022/05/a-guide-to-edr-ndr-xdr-and-siem/)
+  - [11 Ways to Prevent Data Loss and Data Breaches in 2022](https://securityboulevard.com/2022/05/11-ways-to-prevent-data-loss-and-data-breaches-in-2022/)
+  - [How we use OPA at Cyral](https://securityboulevard.com/2022/05/how-we-use-opa-at-cyral/)
+  - [Russia to Rent Tech-Savvy Prisoners to Corporate IT?](https://securityboulevard.com/2022/05/russia-to-rent-tech-savvy-prisoners-to-corporate-it/)
+  - [OWASP® Global AppSec US 2021 Virtual – Michael Isbitski’s ‘How Do They Get In?! Understanding the API Attack Vector’](https://securityboulevard.com/2022/05/owasp-global-appsec-us-2021-virtual-michael-isbitskis-how-do-they-get-in-understanding-the-api-attack-vector/)
+  - [Compliance does not equal security: 7 cybersecurity experts share their insights](https://securityboulevard.com/2022/05/compliance-does-not-equal-security-7-cybersecurity-experts-share-their-insights/)
+  - [Getting Intelligent About Browser Security](https://securityboulevard.com/2022/05/getting-intelligent-about-browser-security/)
+- CXSECURITY Database RSS Feed - CXSecurity.com
+  - [Ransom.LockBit / DLL Hijacking](https://cxsecurity.com/issue/WLB-2022050007)
+- ArthurChiao's Blog
+  - [BPF 进阶笔记（四）：调试 BPF 程序](https://arthurchiao.github.io/blog/bpf-advanced-notes-4-zh/)
+- Files ≈ Packet Storm
+  - [Packet Storm New Exploits For April, 2022](https://packetstormsecurity.com/files/166922/202204-exploits.tgz)
+  - [WSO Arbitrary File Upload / Remote Code Execution](https://packetstormsecurity.com/files/166921/wso2_file_upload_rce.rb.txt)
+  - [Red Hat Security Advisory 2022-1665-01](https://packetstormsecurity.com/files/166920/RHSA-2022-1665-01.txt)
+  - [WordPress Stafflist 3.1.2 Cross Site Request Forgery](https://packetstormsecurity.com/files/166919/wpstafflist312-xsrf.txt)
+  - [WordPress Stafflist 3.1.2 SQL Injection](https://packetstormsecurity.com/files/166918/wpstafflist312-sql.txt)
+  - [Ubuntu Security Notice USN-5382-2](https://packetstormsecurity.com/files/166916/USN-5382-2.txt)
+  - [Strapi 3.6.8 Password Disclosure / Insecure Handling](https://packetstormsecurity.com/files/166915/CVE-2021-46440.txt)
+  - [Red Hat Security Advisory 2022-1661-01](https://packetstormsecurity.com/files/166914/RHSA-2022-1661-01.txt)
+  - [Red Hat Security Advisory 2022-1663-01](https://packetstormsecurity.com/files/166913/RHSA-2022-1663-01.txt)
+  - [Ransom.LockBit DLL Hijacking](https://packetstormsecurity.com/files/166912/MVID-2022-0572.txt)
+  - [Red Hat Security Advisory 2022-1664-01](https://packetstormsecurity.com/files/166911/RHSA-2022-1664-01.txt)
+  - [Covid 19 Travel Pass Management System 1.0 SQL Injection](https://packetstormsecurity.com/files/166910/c19tpms10-sql.txt)
+  - [Red Hat Security Advisory 2022-1662-01](https://packetstormsecurity.com/files/166909/RHSA-2022-1662-01.txt)
+  - [Toll Tax Management System 1.0 SQL Injection](https://packetstormsecurity.com/files/166908/ttms10-sql.txt)
+  - [Red Hat Security Advisory 2022-1646-01](https://packetstormsecurity.com/files/166907/RHSA-2022-1646-01.txt)
+- modexp
+  - [Shellcode: Linux on RISC-V 64-Bit](https://modexp.wordpress.com/2022/05/02/shellcode-risc-v-linux/)
+- GuidePoint Security
+  - [How to Peel a PowerShell Onion: A Bloodhound Case Study](https://www.guidepointsecurity.com/blog/how-to-peel-a-powershell-onion-a-bloodhound-case-study/)
+- NVISO Labs
+  - [Girls Day at NVISO Encourages Young Guests To Find Their Dream Job](https://blog.nviso.eu/2022/05/02/girls-day-at-nviso-encourages-young-guests-to-find-their-dream-job/)
+- Current Posts - Red Team Journal
+  - [Amplify Your Existing Risk Efforts](https://www.redteamjournal.com/blog/amplify-existing-efforts)
+- blog.avast.com EN
+  - [Here's how self-help apps violate your privacy, sell your information](https://blog.avast.com/self-help-apps-privacy)
+  - [More transparency from developers is coming to the Google Play Store](https://blog.avast.com/privacy-google-play-store)
+- Malwarebytes Labs
+  - [Watch out for these 3 small business cybersecurity mistakes](https://blog.malwarebytes.com/opinion/2022/05/watch-out-for-these-3-small-business-cybersecurity-mistakes/)
+  - [A week in security (April 25 – May 1)](https://blog.malwarebytes.com/a-week-in-security/2022/05/a-week-in-security-april-25-may-1/)
+- Reverse Engineering
+  - [/r/ReverseEngineering's Weekly Questions Thread](https://www.reddit.com/r/ReverseEngineering/comments/ugjr7h/rreverseengineerings_weekly_questions_thread/)
+  - [Useful Tools and Resources for Digital Forensics](https://www.reddit.com/r/ReverseEngineering/comments/ugcxkr/useful_tools_and_resources_for_digital_forensics/)
+- daniel.haxx.se
+  - [now on HTTP/3](https://daniel.haxx.se/blog/2022/05/02/now-on-http-3/)
+  - [Considered “18+”](https://daniel.haxx.se/blog/2022/05/02/considered-18/)
+- 博客园 - nice_0e3
+  - [Java安全之freemarker 模板注入 - nice_0e3](https://www.cnblogs.com/nice0e3/p/16217471.html)
+- The Daily Swig | Cybersecurity news and views
+  - [Security bug in VMWare Workspace ONE could allow access to internal, cloud networks](https://portswigger.net/daily-swig/security-bug-in-vmware-workspace-one-could-allow-access-to-internal-cloud-networks)
+- KitPloit - PenTest & Hacking Tools
+  - [Pybatfish - Python Client For Batfish (Network Configuration Analysis Tool)](http://www.kitploit.com/2022/05/pybatfish-python-client-for-batfish.html)
+  - [Moonwalk - Cover Your Tracks During Linux Exploitation By Leaving Zero Traces On System Logs And Filesystem Timestamps](http://www.kitploit.com/2022/05/moonwalk-cover-your-tracks-during-linux.html)
+- 博客园 - 郑瀚Andrew.Hann
+  - [农园与可持续教育：教育学与土壤学的结合 -- 文 / [美]迪拉夫鲁兹·R·威廉姆斯 乔纳森·D·布朗 - 郑瀚Andrew.Hann](https://www.cnblogs.com/LittleHann/p/16215078.html)
+- 黑海洋 - WIKI
+  - [爪牙免费小说_1.0.2_纯净版_小说软件阅读神器（安卓）](https://blog.upx8.com/2739)
+- 奇客Solidot–传递最新科技情报
+  - [城市灯光需要考虑鸟儿](https://www.solidot.org/story?sid=71415)
+  - [Fedora 项目领导人谈 Linux 和开源](https://www.solidot.org/story?sid=71414)
+  - [俄罗斯偷走乌克兰的农机结果发现被远程锁定](https://www.solidot.org/story?sid=71413)
+  - [维基百科正式停止接受加密货币捐款](https://www.solidot.org/story?sid=71412)
+- Arturo Di Corinto
+  - [INTERVISTA DI CORINTO A PROGRESS SKYTG24 IL 30 APRILE](https://dicorinto.it/tipologia/interviste/intervista-di-corinto-a-progress-skytg24-il-30-aprile/)
+- AlienVault Security Essentials Blog
+  - [Analysis on recent wiper attacks: examples and how wiper malware works](https://cybersecurity.att.com/blogs/labs-research/analysis-on-recent-wiper-attacks-examples-and-how-they-wiper-malware-works)
+- Have I Been Pwned latest breaches
+  - [PayHere - 1,580,249 breached accounts](https://haveibeenpwned.com/PwnedWebsites#PayHere)
+  - [Aimware - 305,470 breached accounts](https://haveibeenpwned.com/PwnedWebsites#Aimware)
+- Daniel Miessler
+  - [News & Analysis: NO. 329](https://danielmiessler.com/podcast/news-analysis-no-329/)
+  - [Why I’m Not Worried About Elon Musk Buying Twitter](https://danielmiessler.com/blog/why-im-not-worried-about-elon-musk-buying-twitter/)
+- cavallette
+  - [Migrazione del servizio di chat  / Instant messaging service migration](https://cavallette.noblogs.org/2022/05/9735)
+- SANS Internet Storm Center, InfoCON: green
+  - [Detecting VSTO Office Files With ExifTool, (Mon, May 2nd)](https://isc.sans.edu/diary/rss/28604)
+  - [ISC Stormcast For Monday, May 2nd, 2022 https://isc.sans.edu/podcastdetail.html&#x3f;id=7988, (Mon, May 2nd)](https://isc.sans.edu/diary/rss/28602)
+- Securityinfo.it
+  - [66% delle aziende colpito da un attacco ransomware](https://www.securityinfo.it/2022/05/02/il-66-delle-aziende-e-stato-colpito-da-un-attacco-ransomware/?utm_source=rss&utm_medium=rss&utm_campaign=il-66-delle-aziende-e-stato-colpito-da-un-attacco-ransomware)
+  - [Onyx e le false promesse del ransomware](https://www.securityinfo.it/2022/05/02/onyx-e-le-false-promesse-del-ransomware/?utm_source=rss&utm_medium=rss&utm_campaign=onyx-e-le-false-promesse-del-ransomware)
+  - [€1.500.000 di multa ad azienda di software medico per data leak](https://www.securityinfo.it/2022/05/02/e1-500-000-di-multa-ad-azienda-di-software-medico-per-data-leak/?utm_source=rss&utm_medium=rss&utm_campaign=e1-500-000-di-multa-ad-azienda-di-software-medico-per-data-leak)
+- TG Soft Software House - News
+  - [<strong>Phishing</strong>: i tentativi di furto credenziali e/o dati maggiormente diffusi nel mese di <strong>MAGGIO 2022</strong>...](http://www.tgsoft.it/italy/news_archivio.asp?id=1305)
+- Deeplinks
+  - [Tracking Exposed: Demanding That the Gods Explain Themselves](https://www.eff.org/deeplinks/2022/05/tracking-exposed-demanding-gods-explain-themselves)
+  - [The EU Digital Markets Act Places New Obligations on “Gatekeeper” Platforms](https://www.eff.org/deeplinks/2022/04/eu-digital-markets-act-places-new-obligations-gatekeeper-platforms)
+  - [The EU Digital Markets Act’s Interoperability Rule Addresses An Important Need, But Raises Difficult Security Problems for Encrypted Messaging](https://www.eff.org/deeplinks/2022/04/eu-digital-markets-acts-interoperability-rule-addresses-important-need-raises)
+- NVISO Labs
+  - [Girls Day at NVISO Encourages Young Guests To Find Their Dream Job](https://blog.nviso.eu/2022/05/02/girls-day-at-nviso-encourages-young-guests-to-find-their-dream-job/)
+- Trend Micro Research, News and Perspectives
+  - [AvosLocker Ransomware Variant Abuses Driver File to Disable Anti-Virus, Scans for Log4shell](https://www.trendmicro.com/en_us/research/22/e/avoslocker-ransomware-variant-abuses-driver-file-to-disable-anti-Virus-scans-log4shell.html)
+- Krebs on Security
+  - [Russia to Rent Tech-Savvy Prisoners to Corporate IT?](https://krebsonsecurity.com/2022/05/russia-to-rent-tech-savvy-prisoners-to-corporate-it/)
+- TrustedSec
+  - [g_CiOptions in a Virtualized World](https://www.trustedsec.com/blog/g_cioptions-in-a-virtualized-world/)
+- Computer Forensics
+  - [Passed my GSEC!](https://www.reddit.com/r/computerforensics/comments/ugzo54/passed_my_gsec/)
+- Hakin9 –  IT Security Magazine
+  - [Lupo - Malware IOC Extractor and Debugging module for Malware Analysis Automation](https://hakin9.org/lupo-malware-ioc-extractor-and-debugging-module-for-malware-analysis-automation/)
+  - [DDexec - a technique to run binaries filelessly and stealthily on Linux using dd to replace the shell with another process](https://hakin9.org/ddexec-a-technique-to-run-binaries-filelessly-and-stealthily-on-linux-using-dd-to-replace-the-shell-with-another-process/)
+- Social Engineering
+  - [To comprehend an idea, we must accept statements as true. Does this mean humans are hopelessly gullible? Not exactly, as humans have an innate tendency to suspect lies and remain epistemically vigilant:](https://www.reddit.com/r/SocialEngineering/comments/uh0p7d/to_comprehend_an_idea_we_must_accept_statements/)
+- Security Affairs
+  - [Car rental company Sixt hit by a cyberattack that caused temporary disruptions](https://securityaffairs.co/wordpress/130820/security/sixt-suffered-cyber-attack.html)
+  - [The mystery behind the samples of the new REvil ransomware operation](https://securityaffairs.co/wordpress/130811/cyber-crime/samples-new-revil-ransomware.html)
+  - [Group-IB CEO remains in prison – the Russian-led company has been ‘blacklisted’ in Italy](https://securityaffairs.co/wordpress/130806/security/group-ib-ceo-remains-in-prison.html)
+  - [IoT and Cybersecurity: What’s the Future?](https://securityaffairs.co/wordpress/130802/security/iot-cybersecurity-future.html)
+  - [Russia-linked APT29 targets diplomatic and government organizations](https://securityaffairs.co/wordpress/130787/apt/apt29-targets-diplomats.html)
+- Threatpost
+  - [Bad Actors Are Maximizing Remote Everything](https://threatpost.com/bad-actors-remote-everything/179458/)
+  - [Deep Dive: Protecting Against Container Threats in the Cloud](https://threatpost.com/container_threats_cloud_defend/179452/)
+- netsecstudents: Subreddit for students studying Network Security and its related subjects
+  - [How to protect from ransomware attack loop?](https://www.reddit.com/r/netsecstudents/comments/ugzwms/how_to_protect_from_ransomware_attack_loop/)
+- TorrentFreak
+  - [Russian Cinemas Are Showing Pirated Movies Downloaded From Torrents](https://torrentfreak.com/russian-cinemas-are-showing-pirated-movies-downloaded-from-torrents-220502/)
+  - [US Court Orders Every ISP in the United States to Block Illegal Streaming Sites](https://torrentfreak.com/us-court-orders-every-isp-in-the-united-states-to-block-illegal-streaming-sites-220502/)
+- Blackhat Library: Hacking techniques and research
+  - [CYBERSOC IT Library: IT and Cyber Security Research and Development](https://www.reddit.com/r/blackhat/comments/uguhck/cybersoc_it_library_it_and_cyber_security/)
+  - [Cyber Security Short Film](https://www.reddit.com/r/blackhat/comments/ugx05t/cyber_security_short_film/)
+- The Register - Security
+  - [Security is a pain for American Dental Association: Ransomware infection feared](https://go.theregister.com/feed/www.theregister.com/2022/05/02/in_brief_security/)
+  - [SSE kicks the ‘A’ out of SASE](https://go.theregister.com/feed/www.theregister.com/2022/05/02/see-vs-sase/)
+  - [Dell brings data recovery tools to Apex and the cloud](https://go.theregister.com/feed/www.theregister.com/2022/05/02/dell-apex-cyber-recovery/)
+  - [Spanish PM, defense minister latest Pegasus spyware victims](https://go.theregister.com/feed/www.theregister.com/2022/05/02/spain_pegasus_malware/)
+- Dark Reading
+  - [Google Offers $1.5M Bug Bounty for Android 13 Beta](https://www.darkreading.com/vulnerabilities-threats/google-issues-1-5m-android-13-beta-bug-bounty)
+  - [New Regulations in India Require Orgs to Report Cyber Incidents Within 6 Hours](https://www.darkreading.com/attacks-breaches/new-regulations-give-indian-orgs-6-hours-to-report-cyber-incidents)
+  - [6 Best Practices to Ensure Kubernetes Security Meets Compliance Regulations](https://www.darkreading.com/dr-tech/6-best-practices-to-ensure-kubernetes-security-meets-compliance-regulations)
+  - [Name That Edge Toon: Flower Power](https://www.darkreading.com/edge-articles/name-that-edge-toon-flower-power)
+  - [Security Stuff Happens: What Do You Do When It Hits the Fan?](https://www.darkreading.com/vulnerabilities-threats/security-stuff-happens-what-do-you-do-when-it-hits-the-fan-)
+- Your Hacking Tutorial by Zempirians
+  - [Scambaiter](https://www.reddit.com/r/HowToHack/comments/ugxiok/scambaiter/)
+  - [Bettercap disables internet connection to the target](https://www.reddit.com/r/HowToHack/comments/uh0w8u/bettercap_disables_internet_connection_to_the/)
+- /r/netsec - Information Security News & Discussion
+  - [AWS Targeted by a Package Backfill Attack](https://www.reddit.com/r/netsec/comments/ugkybz/aws_targeted_by_a_package_backfill_attack/)
+  - [How masscan works](https://www.reddit.com/r/netsec/comments/ugqlhw/how_masscan_works/)
+  - [Augury Augury: Using Data Memory-Dependent Prefetchers to Leak Data at Rest (on Apple M1 and similar)](https://www.reddit.com/r/netsec/comments/ugoxny/augury_augury_using_data_memorydependent/)
+- KitPloit - PenTest Tools!
+  - [Pybatfish - Python Client For Batfish (Network Configuration Analysis Tool)](http://www.kitploit.com/2022/05/pybatfish-python-client-for-batfish.html)
+  - [Moonwalk - Cover Your Tracks During Linux Exploitation By Leaving Zero Traces On System Logs And Filesystem Timestamps](http://www.kitploit.com/2022/05/moonwalk-cover-your-tracks-during-linux.html)
+- Il Disinformatico
+  - [Videocollegamento pubblico di Samantha Cristoforetti e Matthias Maurer oggi alle 15.15 italiane](http://attivissimo.blogspot.com/2022/05/videocollegamento-pubblico-di-samantha.html)

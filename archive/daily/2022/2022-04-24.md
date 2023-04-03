@@ -1,0 +1,106 @@
+# 每日安全资讯（2022-04-24）
+
+- HackerOne Hacker Activity
+  - [Renderers can obtain access to random bluetooth device without permission](https://hackerone.com/reports/1519099)
+  - [Attacker can bypass authentication build on ingress external auth (`nginx.ingress.kubernetes.io/auth-url`)](https://hackerone.com/reports/1357948)
+- Sploitus.com Exploits RSS Feed
+  - [Exploit for Code Injection in Vmware Spring Framework exploit](https://sploitus.com/exploit?id=C6653FFB-B7A6-54D8-83C9-300A13AC41F4&utm_source=rss&utm_medium=rss)
+  - [Exploit for Improper Privilege Management in Linux Linux Kernel exploit](https://sploitus.com/exploit?id=A4BF4F4E-CCDE-55B8-B08B-B8F25BE163D7&utm_source=rss&utm_medium=rss)
+- Sec-News 安全文摘
+  - [解决哥斯拉内存马 pagecontext 的问题](https://wiki.ioin.in/url/8nMo)
+- Security Boulevard
+  - [OWASP® Global AppSec US 2021 Virtual – Akriti Srivastava’s ‘Azure Vulnerability Testbed (AzGOAT)’](https://securityboulevard.com/2022/04/owasp-global-appsec-us-2021-virtual-akriti-srivastavas-azure-vulnerability-testbed-azgoat/)
+  - [CommitStrip ‘Trolling The AI’](https://securityboulevard.com/2022/04/commitstrip-trolling-the-ai/)
+  - [OWASP® Global AppSec US 2021 Virtual – Alexei Kojenov’s ‘Outside The Box: Pwning IoT Devices Through Their Applications’](https://securityboulevard.com/2022/04/owasp-global-appsec-us-2021-virtual-alexei-kojenovs-outside-the-box-pwning-iot-devices-through-their-applications/)
+  - [Zscaler ThreatLabz Discovers Multiple Product Bugs in Adobe Acrobat](https://securityboulevard.com/2022/04/zscaler-threatlabz-discovers-multiple-product-bugs-in-adobe-acrobat/)
+- CXSECURITY Database RSS Feed - CXSecurity.com
+  - [Watch Queue Out-Of-Bounds Write](https://cxsecurity.com/issue/WLB-2022040091)
+  - [EaseUS Data Recovery ensserver.exe Unquoted Service Path](https://cxsecurity.com/issue/WLB-2022040090)
+  - [Easy Appointments 1.4.2 Information Disclosure](https://cxsecurity.com/issue/WLB-2022040089)
+  - [ManageEngine ADSelfService Plus Custom Script Execution](https://cxsecurity.com/issue/WLB-2022040088)
+- FreeBuf网络安全行业门户
+  - [问题频频，盘点近期特斯拉所经历的“网安事故”](https://www.freebuf.com/news/330752.html)
+- obaby@mars
+  - [Ida Pro 7.5 Kegen 教程](http://h4ck.org.cn/2022/04/ida-pro-7-5-kegen-%e6%95%99%e7%a8%8b/)
+- Didier Stevens
+  - [Update: re-search.py Version 0.0.19](https://blog.didierstevens.com/2022/04/23/update-re-search-py-version-0-0-19/)
+- Reverse Engineering
+  - [How We Fuzzed Microsoft Defender for IoT and Found Multiple Vulnerabilities](https://www.reddit.com/r/ReverseEngineering/comments/ua6pub/how_we_fuzzed_microsoft_defender_for_iot_and/)
+  - [The Making of “Reverse Engineering the NES”](https://www.reddit.com/r/ReverseEngineering/comments/uaawaf/the_making_of_reverse_engineering_the_nes/)
+  - [Reverse Engineers' Hex Editor 0.5.0](https://www.reddit.com/r/ReverseEngineering/comments/ua9m92/reverse_engineers_hex_editor_050/)
+- MalwareTech
+  - [[Video] Exploiting Windows RPC – CVE-2022-26809 Explained | Patch Analysis](https://www.malwaretech.com/2022/04/video-exploiting-windows-rpc-cve-2022-26809-explained-patch-analysis.html)
+- Data Breach
+  - [T-Mobile confirms Lapsus$ had access its systems](https://securityaffairs.co/wordpress/130530/data-breach/t-mobile-revealed-lapsus-access.html)
+- 黑海洋 - WIKI
+  - [宝塔系统7.9企业版破解版](https://blog.upx8.com/2729)
+  - [全网最全最新Fiddler抓包实战教程](https://blog.upx8.com/2728)
+  - [SS一键脚本](https://blog.upx8.com/2727)
+  - [Choc Clash for IOS 客户端下载使用教程](https://blog.upx8.com/2726)
+  - [关于 Telegram(电报) 的下载使用与中文汉化](https://blog.upx8.com/2725)
+  - [OpenWrt 安装 iKoolProxy 滤广告插件使用教程](https://blog.upx8.com/2724)
+  - [OpenWrt 正确编译 SSRplus 与 Passwall 的方法](https://blog.upx8.com/2723)
+  - [OpenWrt 安装完整管理界面中文语言包](https://blog.upx8.com/2722)
+  - [OpenWrt 无法安装 block-mount 挂载点的解决办法](https://blog.upx8.com/2721)
+- Arturo Di Corinto
+  - [Gli alleati dell’Ucraina sono a rischio cyberwar, avvertono i Five Eyes](https://dicorinto.it/testate/repubblica-it/gli-alleati-dellucraina-sono-a-rischio-cyberwar-avvertono-i-five-eyes/)
+- Il Disinformatico
+  - [DragonChase 2022: lancio Crew-4 rinviato ancora a non prima del 27 aprile](http://attivissimo.blogspot.com/2022/04/dragonchase-2022-lancio-crew-4-rinviato.html)
+- 奇客Solidot–传递最新科技情报
+  - [Ross Ulbricht 的 183M 美元罚款已经还清](https://www.solidot.org/story?sid=71334)
+  - [科学家重启大强子对撞机](https://www.solidot.org/story?sid=71333)
+  - [机智号火星直升机首飞一周年](https://www.solidot.org/story?sid=71332)
+- 颖奇L'Amore
+  - [我的MacOS上一些好用的软件（集合）](https://www.gem-love.com/2022/04/23/%E6%88%91%E7%9A%84MacOS%E4%B8%8A%E4%B8%80%E4%BA%9B%E5%A5%BD%E7%94%A8%E7%9A%84%E8%BD%AF%E4%BB%B6/)
+  - [QSpace Pro: MacOS自带Finder的史诗级增强](https://www.gem-love.com/2022/04/23/QSpace-Pro-MacOS%E8%87%AA%E5%B8%A6Finder%E7%9A%84%E5%8F%B2%E8%AF%97%E7%BA%A7%E5%A2%9E%E5%BC%BA/)
+  - [Alfred 4: MacOS效率提升大杀器（下篇）](https://www.gem-love.com/2022/04/23/Alfred-4-MacOS%E6%95%88%E7%8E%87%E6%8F%90%E5%8D%87%E5%A4%A7%E6%9D%80%E5%99%A8-%E4%B8%8B%E7%AF%87/)
+  - [Alfred 4: MacOS效率提升大杀器（上篇）](https://www.gem-love.com/2022/04/23/Alfred-4-MacOS%E6%95%88%E7%8E%87%E6%8F%90%E5%8D%87%E5%A4%A7%E6%9D%80%E5%99%A8/)
+- SANS Internet Storm Center, InfoCON: green
+  - [Are Roku Streaming Devices Safe from Exploitation&#x3f;, (Sat, Apr 23rd)](https://isc.sans.edu/diary/rss/28578)
+- Security Affairs
+  - [T-Mobile confirms Lapsus$ had access its systems](https://securityaffairs.co/wordpress/130530/data-breach/t-mobile-revealed-lapsus-access.html)
+  - [Are you using Java 15/16/17 or 18 in production? Patch them now!](https://securityaffairs.co/wordpress/130522/security/poc-java-vulnerability-cve-2022-21449.html)
+  - [Phishing attacks using the topic “Azovstal” targets entities in Ukraine](https://securityaffairs.co/wordpress/130515/cyber-warfare-2/ukraine-cert-warns-azovstal-themed-phishing.html)
+- Your Hacking Tutorial by Zempirians
+  - [About 64,000 possible solutions on a combination lock taken down to 40 using a side channel attack. Here is how to do it.](https://www.reddit.com/r/HowToHack/comments/u9ykwv/about_64000_possible_solutions_on_a_combination/)
+  - [RAT Bypassing Windows defender](https://www.reddit.com/r/HowToHack/comments/ua9iyk/rat_bypassing_windows_defender/)
+  - [Restricted access on domain and trying to elevate rights](https://www.reddit.com/r/HowToHack/comments/ua8155/restricted_access_on_domain_and_trying_to_elevate/)
+  - [MITM](https://www.reddit.com/r/HowToHack/comments/ua6jje/mitm/)
+  - [How to get into hacking/coding](https://www.reddit.com/r/HowToHack/comments/u9vsuh/how_to_get_into_hackingcoding/)
+  - [What's up with https://academy.zempirians.com/?](https://www.reddit.com/r/HowToHack/comments/ua60wc/whats_up_with_httpsacademyzempirianscom/)
+  - [My metasploit shells hang after connecting](https://www.reddit.com/r/HowToHack/comments/ua5nha/my_metasploit_shells_hang_after_connecting/)
+  - [Noob: hashcat question](https://www.reddit.com/r/HowToHack/comments/u9w1he/noob_hashcat_question/)
+  - [Multiple rar file hash](https://www.reddit.com/r/HowToHack/comments/u9uojl/multiple_rar_file_hash/)
+- MalwareTech
+  - [[Video] Exploiting Windows RPC – CVE-2022-26809 Explained | Patch Analysis](https://www.malwaretech.com/2022/04/video-exploiting-windows-rpc-cve-2022-26809-explained-patch-analysis.html)
+- Full Disclosure
+  - [[AIT-SA-20220208-01] SexyPolling SQL Injection](https://seclists.org/fulldisclosure/2022/Apr/40)
+  - [CVE-2021-40680: Artica Proxy VMWare Appliance 4.30.000000 <=[SP273] Rev.1](https://seclists.org/fulldisclosure/2022/Apr/39)
+- netsecstudents: Subreddit for students studying Network Security and its related subjects
+  - [SANS 401 Indexing Help/Question](https://www.reddit.com/r/netsecstudents/comments/uaefed/sans_401_indexing_helpquestion/)
+  - [Android apk root detection in Genymotion?](https://www.reddit.com/r/netsecstudents/comments/ua4s3h/android_apk_root_detection_in_genymotion/)
+- GeekPwn
+  - [世界读书日｜安全极客在读什么书？](https://mp.weixin.qq.com/s?__biz=MzA3Nzc2MjIxOA==&mid=2650344343&idx=1&sn=71bdfbb5582aef4ac523eb0c3987d4ba&chksm=8740b052b03739444fd51cd1446fa66148f517a40dd2b5679a714b38b013905829775be046ba&scene=58&subscene=0#rd)
+- Daniel Miessler
+  - [Removing ^M Characters](https://danielmiessler.com/blog/removing-m-characters/)
+- /r/netsec - Information Security News & Discussion
+  - [Writing a zero findings pentest report](https://www.reddit.com/r/netsec/comments/uaa5kn/writing_a_zero_findings_pentest_report/)
+  - [Are vulnerability scores misleading you? Understanding CVSS severity and using them effectively](https://www.reddit.com/r/netsec/comments/u9zjsb/are_vulnerability_scores_misleading_you/)
+  - [Cliam: better cloud agnostic IAM permissions enumerator. Covers AWS and GCP, but more to come!](https://www.reddit.com/r/netsec/comments/u9u94b/cliam_better_cloud_agnostic_iam_permissions/)
+- The Register - Security
+  - [Now Mandiant says 2021 was a record year for exploited zero-day security bugs](https://go.theregister.com/feed/www.theregister.com/2022/04/23/zeroday_exploits_2021/)
+- TorrentFreak
+  - [IPTV, Usenet and Comic Book Pirates Agree To Pay Up and Shut Down](https://torrentfreak.com/iptv-usenet-and-comic-book-pirates-agree-to-pay-up-and-shut-down-220423/)
+- 情报分析师
+  - [珍贵资料：《人工智能在军事上的应用》专业合集|附音频](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650498067&idx=1&sn=6daac3c4c1dca23d4679f5415050e2b1&chksm=87164a58b061c34e886c2371cc1af60922356cb54cf09b6bf1b2b704c215ab57689a67f0585a&scene=58&subscene=0#rd)
+  - [AI 在开源情报（OSINT）中的作用](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650498067&idx=2&sn=4833f4eefcfce762463a6e617b08be59&chksm=87164a58b061c34e78726718b5adc7f67066ba140e96e000130856f059291701abbffeb7cd5b&scene=58&subscene=0#rd)
+- Social Engineering
+  - [how do you get someone to tell you about their favorite memories?](https://www.reddit.com/r/SocialEngineering/comments/uafg3b/how_do_you_get_someone_to_tell_you_about_their/)
+- 0xFFFF@blog:~$
+  - [Technique of the week: Log Forgery](https://blog.0xffff.info/2022/04/23/technique-of-the-week-log-forgery/)
+- Blackhat Library: Hacking techniques and research
+  - [Magic-trace – High-resolution traces of what a process is doing](https://www.reddit.com/r/blackhat/comments/u9x9i3/magictrace_highresolution_traces_of_what_a/)
+- 看雪学院
+  - [分析一个安卓简单CrackMe](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458438809&idx=1&sn=4fd83190abdbe0286b0912dc3380c348&chksm=b18ffc1386f87505c0a2600f6afddf6d3db2945bc07391e05aa5660cfa0ca9b379f4be21e367&scene=58&subscene=0#rd)
+  - [2022 KCTF春季赛防守方征题中！5月10日开赛～](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458438809&idx=2&sn=00ec849746a7a53d46bfeb3d3f8c0c85&chksm=b18ffc1386f87505f5bc7edba0a8859aaf7866a249cc3f5f694e79bf5f62f462c270ed0cffc3&scene=58&subscene=0#rd)
+  - [Intel CPU漏洞研究，为你深入详解三个史诗级的芯片漏洞](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458438809&idx=3&sn=22897f7a006bea015f9615c487f59204&chksm=b18ffc1386f8750558ca8484f7436d52d56390a5317b419b63a1199fe1ea19d5b858f3c29ff0&scene=58&subscene=0#rd)

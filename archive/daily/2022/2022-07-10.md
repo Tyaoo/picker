@@ -1,0 +1,97 @@
+# 每日安全资讯（2022-07-10）
+
+- Security Boulevard
+  - [Security BSides Athens 2022 – Rodolpho Concurde’s ‘Workshop 1 – From SEH Overwrite With Egg Hunter To GEt A Shell!’](https://securityboulevard.com/2022/07/security-bsides-athens-2022-rodolpho-concurdes-workshop-1-from-seh-overwrite-with-egg-hunter-to-get-a-shell/)
+  - [Fredo & Pidjin™ ‘Strong’](https://securityboulevard.com/2022/07/fredo-pidjin-strong/)
+  - [Top 10 Ways to Earn Money from Photography](https://securityboulevard.com/2022/07/top-10-ways-to-earn-money-from-photography/)
+  - [Security BSides Athens 2022 – Sam Stepanyan’s ‘Guest Talk 1 – OWASP Nettacker Project Presentation’](https://securityboulevard.com/2022/07/security-bsides-athens-2022-sam-stepanyans-guest-talk-1-owasp-nettacker-project-presentation/)
+  - [2 Easy ways to Add signature in Outlook](https://securityboulevard.com/2022/07/2-easy-ways-to-add-signature-in-outlook/)
+- HackerOne Hacker Activity
+  - [DoS via lua_read_body() [zhbug_httpd_94]](https://hackerone.com/reports/1596252)
+  - [Apache HTTP Server: mod_proxy_ajp: Possible request smuggling](https://hackerone.com/reports/1594627)
+  - [Read beyond bounds via ap_rwrite() [zhbug_httpd_47.2]](https://hackerone.com/reports/1595299)
+  - [Read beyond bounds in mod_isapi.c [zhbug_httpd_41]](https://hackerone.com/reports/1595296)
+  - [Controllable read beyond bounds in lua_websocket_readbytes() [zhbug_httpd_126]](https://hackerone.com/reports/1595290)
+  - [Read beyond bounds in ap_strcmp_match() [zhbug_httpd_47.7]](https://hackerone.com/reports/1595281)
+- Twitter @Nicolas Krassas
+  - [Pamspy - Credentials Dumper For Linux Using eBPF](https://twitter.com/Dinosn/status/1545835879876513794)
+  - [HTB: RouterSpace](https://twitter.com/Dinosn/status/1545835552825565184)
+  - [Mangatoon data breach exposes data from 23 million accounts](https://twitter.com/Dinosn/status/1545835285002551304)
+  - [Fortinet addressed multiple vulnerabilities in several products](https://twitter.com/Dinosn/status/1545835046518546434)
+  - [Hackers Exploiting Follina Bug to Deploy Rozena Backdoor](https://twitter.com/Dinosn/status/1545834953577058305)
+  - [Haxx - Untethered + Unsandboxed Code Execution Haxx As Root On iOS 14 - iOS 14.8.1](https://twitter.com/Dinosn/status/1545624135279284229)
+  - [Massive Rogers outage disrupts mobile service, payments in Canada](https://twitter.com/Dinosn/status/1545623730658988032)
+  - [Fake job offer leads to $600 million theft](https://twitter.com/Dinosn/status/1545623562039574528)
+  - [Reverse-engineering the Apollo spacecraft's FM radio](https://twitter.com/Dinosn/status/1545610356847935491)
+  - [Cisco fixed a critical arbitrary File Overwrite flaw in Enterprise Communication solutions](https://twitter.com/Dinosn/status/1545610068544176128)
+  - [CEO charged with sale of counterfeit Cisco devices to govt, health orgs](https://twitter.com/Dinosn/status/1545610025657319425)
+  - [New 0mega ransomware targets businesses in double-extortion attacks](https://twitter.com/Dinosn/status/1545609894702759939)
+  - [Microsoft Reverses Course on Blocking Office Macros by Default](https://twitter.com/Dinosn/status/1545609073160224769)
+  - [Understanding Pointers for Reverse Engineers - Pointer Basics in Assembly (OALABS Tutorial)](https://twitter.com/Dinosn/status/1545608959272312832)
+- SecWiki News
+  - [SecWiki News 2022-07-09 Review](http://www.sec-wiki.com/?2022-07-09)
+- Recent Commits to cve:main
+  - [Update Sat Jul  9 11:27:37 UTC 2022](https://github.com/trickest/cve/commit/b1b8ffd4ea7ff95f7d221e4ab51fb176af49ab91)
+- Armin Ronacher's Thoughts and Writings
+  - [Congratulations: We Now Have Opinions on Your Open Source Contributions](http://lucumr.pocoo.org/2022/7/9/congratulations)
+- 嘶吼 RoarTalk – 回归最本质的信息安全,互联网安全新媒体,4hou.com
+  - [利用空指针解引用LPE有可能实现吗？](https://www.4hou.com/posts/8Y1r)
+  - [揭露5个错误的社会工程学假设](https://www.4hou.com/posts/YX5A)
+  - [攻击者利用事件日志来隐藏无文件恶意软件](https://www.4hou.com/posts/mNAA)
+- Twitter @bytehx
+  - [RT reverseame: Zero-Day Exploitation of Atlassian Confluence](https://twitter.com/reverseame/status/1545692955163430915)
+  - [RT Nicolas Krassas: Understanding Pointers for Reverse Engineers - Pointer Basics in Assembly (OALABS Tutorial)](https://twitter.com/Dinosn/status/1545608959272312832)
+- Bug Bounty in InfoSec Write-ups on Medium
+  - [RouterSpace From Hackthebox](https://infosecwriteups.com/routerspace-from-hackthebox-74de4a9ba988?source=rss----7b722bfd1b8d--bug_bounty)
+  - [Exposing Millions of Voter ID card user’s details.](https://infosecwriteups.com/exposing-millions-of-voter-id-card-users-details-8a993c9a5d35?source=rss----7b722bfd1b8d--bug_bounty)
+- SAP Blogs
+  - [Running SAP on Amazon FSx for NetApp ONTAP](https://blogs.sap.com/2022/07/09/running-sap-on-amazon-fsx-for-netapp-ontap/)
+- Reverse Engineering
+  - [Reverse-engineering the Apollo spacecraft's FM radio](https://www.reddit.com/r/ReverseEngineering/comments/vv6ad8/reverseengineering_the_apollo_spacecrafts_fm_radio/)
+- Didier Stevens
+  - [simple_listener.py](https://blog.didierstevens.com/2022/07/09/simple_listener-py/)
+- HAHWUL
+  - [How to Hack a MacOS Application](https://www.hahwul.com/cullinan/how-to-hack-macos-app/)
+- 黑海洋 - WIKI
+  - [雷电模拟器 5.0.12 去广告版+增强镜像](https://blog.upx8.com/2896)
+- Misaki's Blog
+  - [Unidbg运行SO](https://misakikata.github.io/2022/07/Unidbg%E8%BF%90%E8%A1%8CSO/)
+- KitPloit - PenTest & Hacking Tools
+  - [Pamspy - Credentials Dumper For Linux Using eBPF](http://www.kitploit.com/2022/07/pamspy-credentials-dumper-for-linux.html)
+- 奇客Solidot–传递最新科技情报
+  - [瑞士的地下货运管道走向现实](https://www.solidot.org/story?sid=72079)
+  - [微软撤回默认屏蔽宏的计划](https://www.solidot.org/story?sid=72078)
+  - [为避免反垄断诉讼 Google 提议拆分部分业务](https://www.solidot.org/story?sid=72077)
+  - [马斯克终止收购 Twitter，Twitter 表示将起诉](https://www.solidot.org/story?sid=72076)
+- 看雪学院
+  - [Android漏洞之战——整体加壳原理和脱壳技巧详解](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458457914&idx=1&sn=1d505597b47089cbd8bdc1e6e0a2b068&chksm=b18e27b086f9aea63d4404f118b0dc4c0b87c5986f20e556a5a85c967834df0d7f3e8e6d98d6&scene=58&subscene=0#rd)
+  - [视频资讯|AMD因弱密码泄露450GB数据，教你如何设置密码才安全！](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458457914&idx=2&sn=acb61611144ec55a5a65db25d863ce9f&chksm=b18e27b086f9aea67c517f8754cfa351296237da0f71ec1d9427c267a6f2e1fcf144404e79ab&scene=58&subscene=0#rd)
+  - [『新课预售』基构网络构建与防护](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458457914&idx=3&sn=77ccf5ba7ad5b13cd5d60d1ab21ee774&chksm=b18e27b086f9aea6bb33fea9609fbf170a07d95d9de5a5517540f3c73bd4653b52e39343fd32&scene=58&subscene=0#rd)
+- 关键基础设施安全应急响应中心
+  - [促流动、保安全 –《数据出境安全评估办法》规范数据出境活动安全有序](https://mp.weixin.qq.com/s?__biz=MzkyMzAwMDEyNg==&mid=2247528633&idx=1&sn=c91d5d052cfb73286729519be27bb892&chksm=c1e9fce8f69e75feda7ca8abd1c89c13230f2862a6d69bb3d5aa3369de9e268528f146debcfe&scene=58&subscene=0#rd)
+- 情报分析师
+  - [安倍晋三谋杀案与日本政治暗杀历史](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650510062&idx=1&sn=c031d163c0c48a8449c05339222c87e6&chksm=8716bca5b06135b31b53bc081075622325ee9f8f05b40a11ed717b11e8e3a011643b3bb68ece&scene=58&subscene=0#rd)
+  - [安倍晋三遇刺事件时间线复原](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650510062&idx=2&sn=6d9e115be7ff7ac3d96ecfbffc6f4d51&chksm=8716bca5b06135b301600e12fd9a63296b754d95ce56b0b3d32e2f476e8f585c4b9346ca36ac&scene=58&subscene=0#rd)
+- 关注米柚更新
+  - [本周请个假，没有原创「日志」了。没有大的UI变化，也没有明显的Bug增减（小修复都在平板上）。
+能说的主要在小米12S系列新版“相机”上，由于泄露apk，多数人都已经上手体验，也没啥好说的... 有需要的小伙伴，请自行到酷安找安装包吧，我就不提供了（侵权警告⚠️）。
+另外，如无特殊情况，目前原创「日志」一周更新一次，更新时间为每周六晚上8点整，这个大家要适应今后只有公测的日子啦 ...
+最后，想关注我最新动态的小伙伴，请关注酷安@toolazy ，咱们下周见[奸笑]。](https://mp.weixin.qq.com/s?__biz=MzA3MDU2MzQ0OA==&mid=2650308773&idx=1&sn=c47ff3c39fb0e07178d125a514df0b62&chksm=8736c3b2b0414aa4646a7595c30e206990681b7f69415432df0651cb14bda1fc14e414846d69&scene=58&subscene=0#rd)
+- 海边的西赛罗
+  - [狂欢个鬼？你甚至根本就不认识安倍晋三](https://mp.weixin.qq.com/s?__biz=MzI1NzE1ODc1MA==&mid=2247514869&idx=1&sn=f6cfacfeaf8d153c0c6991928c2a9b6f&chksm=ea1941c4dd6ec8d256cca0d79da0a7dbc02a4f075da904938be38c9e01a41d9413fefb5eec21&scene=58&subscene=0#rd)
+  - [想起了被《三国演义》漏写的那起“首相遇刺案”](https://mp.weixin.qq.com/s?__biz=MzI1NzE1ODc1MA==&mid=2247514869&idx=2&sn=0d82d146658fc0a372b290b9efe90485&chksm=ea1941c4dd6ec8d2923254ca22e2c9ae7bf7b740d5c8ff90a52b173b6f7a54140aab5715a426&scene=58&subscene=0#rd)
+  - [绝了！！『凉而不冰』的夏凉被，100多就能买到？？？](https://mp.weixin.qq.com/s?__biz=MzI1NzE1ODc1MA==&mid=2247514869&idx=3&sn=3b07c727fb7be2769afa86afe25b56e1&chksm=ea1941c4dd6ec8d2d21933e7f1f18cda335f3c045e75c337d80f34712292690dac0516d32407&scene=58&subscene=0#rd)
+- ChaMd5安全团队
+  - [内含抽奖｜ChaMd5七月征文活动开始啦！](https://mp.weixin.qq.com/s?__biz=MzIzMTc1MjExOQ==&mid=2247506095&idx=1&sn=924146c3b3db99ddb7aa68ca406c7bf3&chksm=e89df077dfea7961d66dc8696a58e1b3df1e173fe3390b84fee8c5af0e0a9970ea17706a8bd2&scene=58&subscene=0#rd)
+- 网络安全应急技术国家工程实验室
+  - [数据出境“安检”新规——《数据出境安全评估办法》深度解读](https://mp.weixin.qq.com/s?__biz=MzUzNDYxOTA1NA==&mid=2247529285&idx=1&sn=042ee45e8ceeffbe6ad4c7dd7256b3a6&chksm=fa93c584cde44c92d271317d79d27e95b1eb2b2ab0e73effd44dc5710521c0fd3f983f1b5f04&scene=58&subscene=0#rd)
+- 极客公园
+  - [马斯克宣布终止收购推特，及时止血还是极限施压？](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2652959449&idx=1&sn=ffc5e03291b25dd2fe7580d649da9bd5&chksm=7e558f6f492206797002601ed7e8f13e1cdb98d41c9224f00bb72806ddfc7d74cb6bd1ba2807&scene=58&subscene=0#rd)
+  - [马斯克放弃收购 Twitter；B 站回应「2 亿用户信息泄露」：完全不实；抖音推内容社区「可颂」｜极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2652959418&idx=1&sn=31f89fd87082572f6d95d31550d918b5&chksm=7e558f0c4922061abd8ca6af4ac5a2e30ea82eccc7ac25e6e67f7250dcf5b450c2a89485c006&scene=58&subscene=0#rd)
+- 安全圈
+  - [【安全圈】微信三端登录功能被黑灰产利用](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652004487&idx=1&sn=6b4079ebba76742022befcd8fbe54864&chksm=f36f4cc7c418c5d1498fb71fd5e3cd03b6a56833254851107d3e7dff3604f34658affb7c5abc&scene=58&subscene=0#rd)
+  - [【安全圈】5G网络被攻击，并可能导致断网](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652004487&idx=2&sn=397d4c5d7a1133c0e9ada1b631ad5d6e&chksm=f36f4cc7c418c5d157dde3b6c94a93d0304d36bded099cbdf0d3677c437ebf9cfe1d54c05aa4&scene=58&subscene=0#rd)
+  - [【安全圈】Web3 项目已因黑客攻击损失超 20 亿美元](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652004487&idx=3&sn=f2704ce6c6e5c00c4ef5e6ca584624e3&chksm=f36f4cc7c418c5d1e4d2b11f567901e344f9bc38c391f3c68184d311fb32964146e3cf10dccd&scene=58&subscene=0#rd)
+  - [【安全圈】在线编程 IDE 可用于发起远程网络攻击](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652004487&idx=4&sn=f0ce84e4b7924cb704d8e0dab4eb4da1&chksm=f36f4cc7c418c5d1a52e63c58765a7ea04dcdf6ffbda64463656dca2ed7642ce2e5066bba6a7&scene=58&subscene=0#rd)
+- 小众软件
+  - [这样处理国内流氓软件](https://mp.weixin.qq.com/s?__biz=MjM5NDMwMTI2MA==&mid=2651671692&idx=1&sn=461347571a28b9980b02f33b477f90db&chksm=bd7038af8a07b1b93c0f5a8731e7bf1394b716f873c1f68971574b17c7dbbe86ca3c2ca76ffc&scene=58&subscene=0#rd)

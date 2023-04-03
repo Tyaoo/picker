@@ -1,0 +1,79 @@
+# 每日安全资讯（2022-12-26）
+
+- Security Boulevard
+  - [ ] [How Compliance Automation Can Turn Your Risk Register into a Valuable Business Tool](https://securityboulevard.com/2022/12/how-compliance-automation-can-turn-your-risk-register-into-a-valuable-business-tool/)
+  - [ ] [A Merry Little Christmas And A Happy New Year](https://securityboulevard.com/2022/12/a-merry-little-christmas-and-a-happy-new-year/)
+  - [ ] [Joyeux Noël et Bonne Année](https://securityboulevard.com/2022/12/joyeux-noel-et-bonne-annee-2/)
+  - [ ] [Happy Hanukkah!](https://securityboulevard.com/2022/12/happy-hanukkah-2/)
+  - [ ] [German EV Sales Dominated by DS, MG and Audi](https://securityboulevard.com/2022/12/german-ev-sales-dominated-by-ds-mg-and-audi/)
+- SecWiki News
+  - [ ] [SecWiki News 2022-12-25 Review](http://www.sec-wiki.com/?2022-12-25)
+- 嘶吼 RoarTalk – 回归最本质的信息安全,互联网安全新媒体,4hou.com
+  - [ ] [macOS漏洞可绕过安全检查](https://www.4hou.com/posts/JXoK)
+  - [ ] [以 Roshtyak 后门为例介绍恶意软件的自保护、逃逸等技巧（三）](https://www.4hou.com/posts/nJ9Y)
+- Recent Commits to cve:main
+  - [ ] [Update Sun Dec 25 13:48:03 UTC 2022](https://github.com/trickest/cve/commit/718414aae820b38c86577227f27f1b1b29acbee1)
+- Sploitus.com Exploits RSS Feed
+  - [ ] [Exploit for CVE-2022-3699 exploit](https://sploitus.com/exploit?id=7A57B22A-95E8-5DFC-87F0-D1E4222EB8C1&utm_source=rss&utm_medium=rss)
+  - [ ] [Exploit for Improper Restriction of XML External Entity Reference in Wordpress exploit](https://sploitus.com/exploit?id=6AA91D2F-E507-52DE-8E70-829CB03AC0FE&utm_source=rss&utm_medium=rss)
+  - [ ] [Exploit for Injection in Atlassian Confluence Data Center exploit](https://sploitus.com/exploit?id=7C531491-7EB6-51AA-9072-F345BDB61AFD&utm_source=rss&utm_medium=rss)
+- unSafe.sh - 不安全
+  - [ ] [FreeBuf早报 | 黑客出售4亿推特用户数据库；字节跳动承认访问记者TikTok数据](https://buaq.net/go-141385.html)
+  - [ ] [OFRAK - Unpack, Modify, And Repack Binaries](https://buaq.net/go-141346.html)
+  - [ ] [PikPak 助手 – 将 PikPak 网盘文件推送至 aria2[油猴脚本]](https://buaq.net/go-141343.html)
+  - [ ] [App+1 | 有声有色有形，为 Android 本地音乐播放增味：椒盐音乐](https://buaq.net/go-141342.html)
+  - [ ] [除了成为马桶里的惊吓，红心火龙果真的是「通便神器」吗？](https://buaq.net/go-141334.html)
+  - [ ] [macOS漏洞可绕过安全检查](https://buaq.net/go-141328.html)
+  - [ ] [以 Roshtyak 后门为例介绍恶意软件的自保护、逃逸等技巧（三）](https://buaq.net/go-141329.html)
+  - [ ] [Update: dnsresolver.py Version 0.0.2](https://buaq.net/go-141304.html)
+  - [ ] [CRLF Injection — xxx$ — How was it possible for me to earn a bounty with the Cloudflare WAF?](https://buaq.net/go-141294.html)
+  - [ ] [Bypass Apple’s redirection process with the dot (“.”) character](https://buaq.net/go-141295.html)
+- Twitter @Nicolas Krassas
+  - [ ] [RT DirectoryRanger: SpoolSploit. A collection of Windows print spooler exploits containerized with other utilities for practical exploitation](https://twitter.com/DirectoryRanger/status/1606945440930357252)
+  - [ ] [RT kmkz: Linux kernel exploit development series](https://twitter.com/kmkz_security/status/1606921913816809472)
+  - [ ] [CVE-2022-42046 Proof of Concept of wfshbr64.sys local privilege escalation via DKOM](https://twitter.com/Dinosn/status/1606883825287585792)
+  - [ ] [RT Troy Hunt: Alleged breach of 400M+ Twitter accounts. Legitimacy isn’t yet clear, but the aggressive, threatening wording is unmistakable. Of cours...](https://twitter.com/troyhunt/status/1606854351078973442)
+- Didier Stevens
+  - [ ] [Update: dnsresolver.py Version 0.0.2](https://blog.didierstevens.com/2022/12/25/update-dnsresolver-py-version-0-0-2/)
+- SAP Blogs
+  - [ ] [Anatomy of a Function Module: POPUP_TO_CONFIRM – Part 3](https://blogs.sap.com/2022/12/25/anatomy-of-a-function-module-popup_to_confirm-part-3/)
+  - [ ] [Transport Iflows between different packages in the same SAP Cloud Integration tenant](https://blogs.sap.com/2022/12/25/transport-iflows-between-different-packages-in-the-same-sap-cloud-integration-tenant/)
+  - [ ] [Test BTP SAP Print Service With Postman](https://blogs.sap.com/2022/12/25/test-btp-sap-print-service-with-postman/)
+- 奇客Solidot–传递最新科技情报
+  - [ ] [Ruby 3.2.0 释出](https://www.solidot.org/story?sid=73754)
+  - [ ] [黑客出售 4 亿 Twitter 用户数据库](https://www.solidot.org/story?sid=73753)
+  - [ ] [为什么你应该接种有效疫苗而不只是靠感染？](https://www.solidot.org/story?sid=73752)
+- KitPloit - PenTest & Hacking Tools
+  - [ ] [OFRAK - Unpack, Modify, And Repack Binaries](http://www.kitploit.com/2022/12/ofrak-unpack-modify-and-repack-binaries.html)
+- FreeBuf网络安全行业门户
+  - [ ] [FreeBuf早报 | 黑客出售4亿推特用户数据库；字节跳动承认访问记者TikTok数据](https://www.freebuf.com/articles/353500.html)
+- 看雪学院
+  - [ ] [ByteCTF2022 mobile系列](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458489310&idx=1&sn=8d6987a202a5ea5f5f78961121bcfdde&chksm=b18ea15486f9284246383d0ab5a56f3ad8a845f04cc56656c1a069fb99eef1f00732a04c025f&scene=58&subscene=0#rd)
+  - [ ] [Intel CPU漏洞研究，为你深入详解三个史诗级的芯片漏洞](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458489310&idx=2&sn=65be16f07e07cab5d29111dbd406d3ec&chksm=b18ea15486f928428114713f06dc4016836f052e13c456507ecca59f74de756e19f7aa224f80&scene=58&subscene=0#rd)
+- 丁爸情报分析师的工具箱
+  - [ ] [【探讨】2010年曝光的《盎格鲁-撒克逊计划》就意图通过生化攻击“让中国感冒”，这是阴谋论？还是确有其事？](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651134092&idx=1&sn=90416f289f7d3e8d7b1971da99a59220&chksm=f1af6fb6c6d8e6a08baa1aa8d94c433a581c1974353a630e652126c3ba77a2d394ce9a134f23&scene=58&subscene=0#rd)
+- TorrentFreak
+  - [ ] [An AI’s Christmas Reflection on Piracy’s Role in Today’s Society](https://torrentfreak.com/an-ais-christmas-reflection-on-piracys-role-in-todays-society-221225/)
+- Security Affairs
+  - [ ] [Critical Linux Kernel flaw affects SMB servers with ksmbd enabled](https://securityaffairs.co/wordpress/140013/hacking/critical-linux-kernel-vulnerability.html)
+  - [ ] [Experts warn of attacks exploiting WordPress gift card plugin](https://securityaffairs.co/wordpress/140004/hacking/wordpress-gift-card-plugin-attacks.html)
+  - [ ] [Data of 400 Million Twitter users up for sale](https://securityaffairs.co/wordpress/139993/data-breach/twitter-400-million-users-leak.html)
+  - [ ] [Security Affairs newsletter Round 399 by Pierluigi Paganini](https://securityaffairs.co/wordpress/139988/breaking-news/security-affairs-newsletter-round-399-by-pierluigi-paganini.html)
+  - [ ] [Microsoft fined €60 million in France for using advertising cookies without consent￼](https://securityaffairs.co/wordpress/139982/breaking-news/microsoft-fined-e60m.html)
+- KitPloit - PenTest Tools!
+  - [ ] [OFRAK - Unpack, Modify, And Repack Binaries](http://www.kitploit.com/2022/12/ofrak-unpack-modify-and-repack-binaries.html)
+- Technical Information Security Content & Discussion
+  - [ ] [Overview of Glibc Heap Exploitation Techniques (currently up to v2.34)](https://www.reddit.com/r/netsec/comments/zuqu1h/overview_of_glibc_heap_exploitation_techniques/)
+- netsecstudents: Subreddit for students studying Network Security and its related subjects
+  - [ ] [Burp Pro Scanner can't identify SQLI and Command Injection in DVWA?](https://www.reddit.com/r/netsecstudents/comments/zuxl3p/burp_pro_scanner_cant_identify_sqli_and_command/)
+- Blackhat Library: Hacking techniques and research
+  - [ ] [The Wrong Group? Or post?](https://www.reddit.com/r/blackhat/comments/zuum5q/the_wrong_group_or_post/)
+- Information Security
+  - [ ] [The Top 10 Benefits of Artificial Intelligence in Cyber Security](https://www.reddit.com/r/Information_Security/comments/zuvqk1/the_top_10_benefits_of_artificial_intelligence_in/)
+- Your Hacking Tutorial by Zempirians
+  - [ ] [Is TryHackMe and Hack The Box the best place to go if you want to learn "real" hacking?](https://www.reddit.com/r/HowToHack/comments/zv06ic/is_tryhackme_and_hack_the_box_the_best_place_to/)
+  - [ ] [How can I find a hidden flag inside a Microsoft word document?](https://www.reddit.com/r/HowToHack/comments/zum50f/how_can_i_find_a_hidden_flag_inside_a_microsoft/)
+- Deep Web
+  - [ ] [Hello! Needing help,rookie here](https://www.reddit.com/r/deepweb/comments/zuugzn/hello_needing_helprookie_here/)
+- Dark Space Blogspot
+  - [ ] [La DeFi Su Arbitrum: Protocolli a 0 Emissioni con Real Yield](http://darkwhite666.blogspot.com/2022/12/la-defi-su-arbitrum-protocolli-0.html)

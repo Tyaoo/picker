@@ -1,0 +1,64 @@
+# 每日安全资讯（2022-09-25）
+
+- Security Boulevard
+  - [Unclaimed U.S. Lynching Monuments Display Lack of Redress](https://securityboulevard.com/2022/09/unclaimed-u-s-lynching-monuments-display-lack-of-redress/)
+  - [Embedded Secrets in Webpage DOMs](https://securityboulevard.com/2022/09/embedded-secrets-in-webpage-doms/)
+  - [BSidesLV 2022 Lucky13 CommonGround – Chris Kubecka’s ‘Russian Malware In The Ukraine War’](https://securityboulevard.com/2022/09/bsideslv-2022-lucky13-commonground-chris-kubeckas-russian-malware-in-the-ukraine-war/)
+- SecWiki News
+  - [SecWiki News 2022-09-24 Review](http://www.sec-wiki.com/?2022-09-24)
+- CXSECURITY Database RSS Feed - CXSecurity.com
+  - [WorkOrder CMS 0.1.0 SQL Injection](https://cxsecurity.com/issue/WLB-2022090069)
+  - [WorkOrder CMS 0.1.0 Cross Site Scripting](https://cxsecurity.com/issue/WLB-2022090068)
+  - [Multix 2.4 Cross Site Scripting](https://cxsecurity.com/issue/WLB-2022090067)
+  - [Teleport 10.1.1 Remote Code Execution](https://cxsecurity.com/issue/WLB-2022090066)
+  - [TP-Link Tapo c200 1.1.15 Remote Code Execution](https://cxsecurity.com/issue/WLB-2022090065)
+  - [Testa 3.5.1 Online Test Management System Reflected Cross-Site Scripting (XSS)](https://cxsecurity.com/issue/WLB-2022090064)
+- Sploitus.com Exploits RSS Feed
+  - [Exploit for Cross-site Scripting in Helpsystems Cobalt Strike exploit](https://sploitus.com/exploit?id=21793A5E-BBA4-5AA7-9837-395B11AFF136&utm_source=rss&utm_medium=rss)
+  - [Exploit for Out-of-bounds Write in Openssl exploit](https://sploitus.com/exploit?id=4680E9A3-19BA-54E9-9551-5076BCA80524&utm_source=rss&utm_medium=rss)
+- 嘶吼 RoarTalk – 回归最本质的信息安全,互联网安全新媒体,4hou.com
+  - [Windows Server服务中的身份验证漏洞的安全风险](https://www.4hou.com/posts/q86G)
+  - [一个15年前的Python漏洞肆虐全球软件界](https://www.4hou.com/posts/9XyP)
+- unSafe.sh - 不安全
+  - [MSSQL使用CLR程序集来执行命令 - Y4er的博客](https://buaq.net/go-127958.html)
+  - [用它，终于治好了我的「标签页」毛病](https://buaq.net/go-127947.html)
+  - [Pax - CLI Tool For PKCS7 Padding Oracle Attacks](https://buaq.net/go-127948.html)
+  - [具透 | iOS 16 通知管理迷思，一个通知的 N 种呈现方式](https://buaq.net/go-127939.html)
+  - [Windows Server服务中的身份验证漏洞的安全风险](https://buaq.net/go-127930.html)
+  - [一个15年前的Python漏洞肆虐全球软件界](https://buaq.net/go-127931.html)
+  - [数字文具盒｜Word 写论文，也可以很好用](https://buaq.net/go-127935.html)
+  - [timwhitez starred ScreenShot](https://buaq.net/go-127924.html)
+  - [timwhitez starred SleepKiller](https://buaq.net/go-127925.html)
+  - [Timer countdown used on nuttx events](https://buaq.net/go-127940.html)
+  - [Malwarebytes recognized as endpoint security leader by G2](https://buaq.net/go-127899.html)
+- Twitter @Nicolas Krassas
+  - [Microsoft SQL servers hacked in TargetCompany ransomware attacks](https://twitter.com/Dinosn/status/1573718950168432649)
+  - [HTB: Seventeen](https://twitter.com/Dinosn/status/1573717396711510020)
+  - [Kiwi Farms Website Hacked! Admin Warns of Data Leak](https://twitter.com/Dinosn/status/1573717343024386049)
+  - [Data of millions of users exposed in Australia’s 2nd-largest telecom firm breach](https://twitter.com/Dinosn/status/1573717207795875841)
+  - [Pax - CLI Tool For PKCS7 Padding Oracle Attacks](https://twitter.com/Dinosn/status/1573649458264416259)
+  - [RT SecurityTrails: A critical RCE vulnerability in Cloud Mobility for Dell EMC Storage (with a 10/10 score) could allow a non-privileged user to achie...](https://twitter.com/securitytrails/status/1573591739658604545)
+  - [Hacking the PS4 / PS5 through the PS2 Emulator - Part 1 - Escape](https://twitter.com/Dinosn/status/1573568202348568582)
+  - [CVE-2022-35256 - HTTP Request Smuggling in NodeJS](https://twitter.com/Dinosn/status/1573503621760696335)
+  - [Significant customer data exposed in attack on Australian telco](https://twitter.com/Dinosn/status/1573503160001380381)
+  - [Sophos warns of a new actively exploited flaw in Firewall product](https://twitter.com/Dinosn/status/1573502542490779656)
+  - [A first look at the builder for LockBit 3.0 Black](https://twitter.com/Dinosn/status/1573495718920208392)
+- Recent Commits to cve:main
+  - [Update Sat Sep 24 09:58:33 UTC 2022](https://github.com/trickest/cve/commit/1ceab1efa5123ee2e79eb5d53ef8adfe458525b3)
+- SAP Blogs
+  - [Supply Chain Optimization is the Cornerstone of Sustainability Improvement](https://blogs.sap.com/2022/09/24/supply-chain-optimization-is-the-cornerstone-of-sustainability-improvement/)
+  - [Hana Table Migration using Export & Import](https://blogs.sap.com/2022/09/24/hana-table-migration-using-export-import/)
+- Malware-Traffic-Analysis.net - Blog Entries
+  - [2022-09-23 - IcedID (Bokbot) with Cobalt Strike](https://www.malware-traffic-analysis.net/2022/09/23/index.html)
+- 奇客Solidot–传递最新科技情报
+  - [Arch Linux 停止支持 Python 2](https://www.solidot.org/story?sid=72869)
+  - [Mozilla 指责 Google、苹果和微软强迫用户使用默认浏览器](https://www.solidot.org/story?sid=72868)
+  - [黑客利用 BGP 劫持 IP 段窃取了约 23 万美元加密货币](https://www.solidot.org/story?sid=72867)
+  - [Windows 11 2022 更新后英伟达显卡出现性能问题](https://www.solidot.org/story?sid=72866)
+  - [伦敦警方逮捕一名与《GTV6》泄露相关的 17 岁少年](https://www.solidot.org/story?sid=72865)
+- 黑海洋 - WIKI
+  - [安卓手机号码批量导入通讯录（安卓苹果手机教程）](https://blog.upx8.com/3001)
+  - [TreeNMS for Redis, memcached（可以批量复制redis key键值）](https://blog.upx8.com/3000)
+  - [在线玩反恐精英、红色警戒2](https://blog.upx8.com/2999)
+- KitPloit - PenTest & Hacking Tools
+  - [Pax - CLI Tool For PKCS7 Padding Oracle Attacks](http://www.kitploit.com/2022/09/pax-cli-tool-for-pkcs7-padding-oracle.html)

@@ -1,0 +1,101 @@
+# 每日安全资讯（2022-10-24）
+
+- SecWiki News
+  - [ ] [SecWiki News 2022-10-23 Review](http://www.sec-wiki.com/?2022-10-23)
+- CXSECURITY Database RSS Feed - CXSecurity.com
+  - [ ] [Khameneie.ir XSS vulnerabilities](https://cxsecurity.com/issue/WLB-2022100062)
+  - [ ] [OpenStack Horizon Missing Validation](https://cxsecurity.com/issue/WLB-2022100061)
+  - [ ] [developway SQL Injection](https://cxsecurity.com/issue/WLB-2022100060)
+  - [ ] [Backdoor.Win32.Delf.arh / Authentication Bypass](https://cxsecurity.com/issue/WLB-2022100059)
+  - [ ] [Backdoor.Win32.Psychward.10 / Unauthenticated Remote Command Execution](https://cxsecurity.com/issue/WLB-2022100058)
+  - [ ] [Email-Worm.Win32.Kipis.c / Remote File Write Code Execution](https://cxsecurity.com/issue/WLB-2022100057)
+- Sploitus.com Exploits RSS Feed
+  - [ ] [Exploit for Code Injection in Apache Commons Text exploit](https://sploitus.com/exploit?id=F47672CC-E0D9-5475-A922-50E104099285&utm_source=rss&utm_medium=rss)
+  - [ ] [Exploit for CVE-2022-38813 exploit](https://sploitus.com/exploit?id=56570722-D916-5DA0-9CE7-F5874AD6CFE4&utm_source=rss&utm_medium=rss)
+  - [ ] [Exploit for Vulnerability in Microsoft exploit](https://sploitus.com/exploit?id=E917FE93-F06C-5F70-915F-A5F48A30B044&utm_source=rss&utm_medium=rss)
+  - [ ] [Exploit for CVE-2022-42045 exploit](https://sploitus.com/exploit?id=57B28DB9-346A-576E-9498-1DEF36AAD145&utm_source=rss&utm_medium=rss)
+- 嘶吼 RoarTalk – 回归最本质的信息安全,互联网安全新媒体,4hou.com
+  - [ ] [微软服务器配置错误致用户数据泄露](https://www.4hou.com/posts/BEY2)
+  - [ ] [八种常见的云配置错误类型及缓解方案](https://www.4hou.com/posts/2JNP)
+- Security Boulevard
+  - [ ] [BSidesLV 2022 Lucky13 PasswordsCon – Christiaan J. Brand’s ‘Passkeys: Where We Started And Where We’re Going’](https://securityboulevard.com/2022/10/bsideslv-2022-lucky13-passwordscon-christiaan-j-brands-passkeys-where-we-started-and-where-were-going/)
+  - [ ] [With All Eyes on Russia, China Continues to Strike](https://securityboulevard.com/2022/10/with-all-eyes-on-russia-china-continues-to-strike/)
+  - [ ] [More Work Needed to Secure Data in the Cloud, Survey Finds](https://securityboulevard.com/2022/10/more-work-needed-to-secure-data-in-the-cloud-survey-finds/)
+  - [ ] [Scientists Test “Intelligent” Robot Lasers To Kill Cockroaches](https://securityboulevard.com/2022/10/scientists-test-intelligent-robot-lasers-to-kill-cockroaches/)
+- unSafe.sh - 不安全
+  - [ ] [2022 SDC | 看雪第六届安全开发者峰会于上海圆满落幕！](https://buaq.net/go-132250.html)
+  - [ ] [最简单的 Git 服务器](https://buaq.net/go-132222.html)
+  - [ ] [Microsoft Edge Privilege Vulnerability](https://buaq.net/go-132221.html)
+- Twitter @Nicolas Krassas
+  - [ ] [Thousands of GitHub repositories deliver fake PoC exploits with malware](https://twitter.com/Dinosn/status/1584269684446498816)
+  - [ ] [Exposed .git Directory Exploitation](https://twitter.com/Dinosn/status/1584228084177600512)
+  - [ ] [IoT cyber scorecards, Iranian hacking operations and a “dramatic change” to U.S. nuclear codes](https://twitter.com/Dinosn/status/1584228003730448384)
+  - [ ] [Re @haxor31337 Happy Birthday !! :)](https://twitter.com/Dinosn/status/1584070599114006529)
+  - [ ] [Re @0xMaruf Thank you for creating such content.](https://twitter.com/Dinosn/status/1584070511562457091)
+  - [ ] [Chrome Browser Exploitation, Part 1: Introduction to V8 and JavaScript Internals](https://twitter.com/Dinosn/status/1584069006184525824)
+  - [ ] [The Curious Case of ManageEngine’s Password Manager Pro's Password Database](https://twitter.com/Dinosn/status/1584068975822278662)
+- Sandfly Security Blog RSS Feed
+  - [ ] [Sandfly Security Code Audit and Continuous Monitoring](https://www.sandflysecurity.com/blog/sandfly-security-code-audit-and-continuous-monitoring)
+- ふるつき
+  - [ ] [TsukuCTF 2022 writeup](https://furutsuki.hatenablog.com/entry/2022/10/23/183520)
+- SAP Blogs
+  - [ ] [Agenda and registration for SIT Copenhagen, November 12th](https://blogs.sap.com/2022/10/23/agenda-and-registration-for-sit-copenhagen-november-12th/)
+  - [ ] [SSL Certificates Renewal (By Keytool Method) for OpenText, Vertex, BODS (Data Services) Interfaces connecting to SAP](https://blogs.sap.com/2022/10/23/ssl-certificates-renewal-by-keytool-method-for-opentext-vertex-bods-data-services-interfaces-connecting-to-sap/)
+  - [ ] [OCC (Open Content Connector) / SAP EHS Classic](https://blogs.sap.com/2022/10/23/occ-open-content-connector-sap-ehs-classic/)
+  - [ ] [SAP Integration and Certification Center (SAP ICC) introduces “Works with SAP solutions for Sustainability”](https://blogs.sap.com/2022/10/23/sap-integration-and-certification-center-sap-icc-introduces-works-with-sap-solutions-for-sustainability/)
+- Bug Bounty in InfoSec Write-ups on Medium
+  - [ ] [Hacked Tathva ’22 Biggest Techno-Management Fest in South India](https://infosecwriteups.com/hacked-tathva-22-biggest-techno-management-fest-in-south-india-6a95435c82e7?source=rss----7b722bfd1b8d--bug_bounty)
+- FreeBuf网络安全行业门户
+  - [ ] [FreeBuf早报 | 卡塔尔世界杯官方应用被指是间谍软件；国际刑警组织建立元宇宙总部](https://www.freebuf.com/news/347656.html)
+- 博客园 - 郑瀚Andrew
+  - [ ] [突破创新窘境：用设计思维打造受欢迎的产品 - 郑瀚Andrew](https://www.cnblogs.com/LittleHann/p/16817902.html)
+- 黑海洋 - WIKI
+  - [ ] [伪静态格式转换：htaccess转nginx](https://blog.upx8.com/3056)
+- 倾旋的博客
+  - [ ] [使用RPC Filter技术防御内网RPC横向攻击](https://payloads.online/archivers/2022-10-23/1/)
+- 奇客Solidot–传递最新科技情报
+  - [ ] [没有屏幕的智能手机](https://www.solidot.org/story?sid=73142)
+  - [ ] [哪些动物会感染新冠？](https://www.solidot.org/story?sid=73141)
+- 全频带阻塞干扰
+  - [ ] [10.23 | 我在「看雪·极客市集」等你](https://mp.weixin.qq.com/s?__biz=MzIzMzE2OTQyNA==&mid=2648954992&idx=1&sn=40a2b26b40c31cb890c88c36ca102e95&chksm=f09ecf0fc7e94619ffe40bff64e48ab6651a28e9e0e00839f7fb60092f6c8ff869d5fd73f5ce&scene=58&subscene=0#rd)
+- 安全研究GoSSIP
+  - [ ] [田园老师@UCLA：计算机安全方向博士生招生！](https://mp.weixin.qq.com/s?__biz=Mzg5ODUxMzg0Ng==&mid=2247493005&idx=1&sn=79a7871e1346412aa5618d2423086186&chksm=c063cb54f71442424737bdb0b02cca9553a1e19b35804fbb7955b5d5a0b127f427b5827d3071&scene=58&subscene=0#rd)
+- Twitter @hakivvi
+  - [ ] [RT maher azz: Amanda 3.5.1 is vulnerable to two LPEs from the backup user to root. The vulns were found months ago and were assigned CVE-2022-37704 an...](https://twitter.com/maherazz2/status/1584154625048907777)
+- 中国信息安全
+  - [ ] [习近平等二十届中共中央政治局常委同中外记者见面](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664167254&idx=1&sn=b94f9099a7c9cea9287613dbd6517a5f&chksm=8b5ef5afbc297cb970642304800e575e6d8b1972d046f28cb38afed13226c8e7b93a92e70c6c&scene=58&subscene=0#rd)
+- 极客公园
+  - [ ] [小鹏汽车调整组织架构；俄称 2028 年推出 7nm 光刻机；除中国区外，App Store 将增加广告 | 极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2652970525&idx=1&sn=365d4011cf4000895efaaa3226aa96c3&chksm=7e5463ab4923eabdf6a65deb0e08b5b30c5fcfaf285959c3978a64f0b4a57e34020ad20fd93b&scene=58&subscene=0#rd)
+- Over Security - Cybersecurity news aggregator
+  - [ ] [Typosquat campaign mimics 27 brands to push Windows, Android malware](https://www.bleepingcomputer.com/news/security/typosquat-campaign-mimics-27-brands-to-push-windows-android-malware/)
+  - [ ] [Thousands of GitHub repositories deliver fake PoC exploits with malware](https://www.bleepingcomputer.com/news/security/thousands-of-github-repositories-deliver-fake-poc-exploits-with-malware/)
+- Errata Security
+  - [ ] [The RISC Deprogrammer](https://blog.erratasec.com/2022/10/the-risc-deprogrammer.html)
+- Troy Hunt's Blog
+  - [ ] [Weekly Update 318](https://www.troyhunt.com/weekly-update-318/)
+- SANS Internet Storm Center, InfoCON: green
+  - [ ] [Video: PNG Analysis, (Sun, Oct 23rd)](https://isc.sans.edu/diary/rss/29176)
+- Technical Information Security Content & Discussion
+  - [ ] [Bringing Modern Authentication APIs (FIDO2 WebAuthn, Passkeys) to Linux Desktop](https://www.reddit.com/r/netsec/comments/ybd7s8/bringing_modern_authentication_apis_fido2/)
+  - [ ] [The Curious Case of ManageEngine’s Password Manager Pro's Password Database](https://www.reddit.com/r/netsec/comments/yb4rje/the_curious_case_of_manageengines_password/)
+  - [ ] [Chrome Browser Exploitation, Part 1: Introduction to V8 and JavaScript Internals](https://www.reddit.com/r/netsec/comments/yb4gkg/chrome_browser_exploitation_part_1_introduction/)
+  - [ ] [cypherhound - Python app that contains 190+ neo4j cyphers for BloodHound data](https://www.reddit.com/r/netsec/comments/ybblc7/cypherhound_python_app_that_contains_190_neo4j/)
+- Your Hacking Tutorial by Zempirians
+  - [ ] [In CTFs, you'll often get a string of text to decode. Is there a good way to recognize how to decode it?](https://www.reddit.com/r/HowToHack/comments/yburvn/in_ctfs_youll_often_get_a_string_of_text_to/)
+  - [ ] [If security cameras are connected to wifi and I know the password to that wifi, is there a way I can access the live footage of those cameras?](https://www.reddit.com/r/HowToHack/comments/yb9n9k/if_security_cameras_are_connected_to_wifi_and_i/)
+  - [ ] [Hack the box vs. Try hack me](https://www.reddit.com/r/HowToHack/comments/ybkvsz/hack_the_box_vs_try_hack_me/)
+  - [ ] [Can I SMS intercept without hackRF?](https://www.reddit.com/r/HowToHack/comments/ybq5p3/can_i_sms_intercept_without_hackrf/)
+- 吴鲁加
+  - [ ] [通过两个案例尝试理解什么是“灰度”](https://mp.weixin.qq.com/s?__biz=Mzg5NDY4ODM1MA==&mid=2247484221&idx=1&sn=bcaf6fdfb06476ec7926580c6a1cb553&chksm=c01a8e0cf76d071a3b274392554cea80dd9a90d1ee9cc6314b4e3df77665a40b70390447c872&scene=58&subscene=0#rd)
+- Computer Forensics
+  - [ ] [Power On/Off .E01 file / Portable Case Axiom](https://www.reddit.com/r/computerforensics/comments/ybifya/power_onoff_e01_file_portable_case_axiom/)
+- Social Engineering
+  - [ ] [The wtf pic from my edited files. The one I think I shot next to it. What do you think was done and why?](https://www.reddit.com/r/SocialEngineering/comments/ybtptl/the_wtf_pic_from_my_edited_files_the_one_i_think/)
+- Security Affairs
+  - [ ] [Security Affairs newsletter Round 390](https://securityaffairs.co/wordpress/137535/breaking-news/security-affairs-newsletter-round-390.html)
+  - [ ] [Hackers stole sensitive data from Iran’s atomic energy agency](https://securityaffairs.co/wordpress/137513/hacking/hackers-stole-sensitive-data-from-irans-atomic-energy-agency.html)
+  - [ ] [Wholesale giant METRO confirmed to have suffered a cyberattack](https://securityaffairs.co/wordpress/137506/hacking/metro-confirmed-cyberattack.html)
+- TorrentFreak
+  - [ ] [‘I Know What You Download’ Overwhelmed By Bogus DMCA Notices](https://torrentfreak.com/i-know-what-you-download-overwhelmed-by-bogus-dmca-notices-221023/)
+- Information Security
+  - [ ] [Can I interview someone from this sub really quickly? I have to ask someone from the information security field a couple of questions for a class.](https://www.reddit.com/r/Information_Security/comments/ybnvoj/can_i_interview_someone_from_this_sub_really/)

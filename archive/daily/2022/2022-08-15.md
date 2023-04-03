@@ -1,0 +1,81 @@
+# 每日安全资讯（2022-08-15）
+
+- CXSECURITY Database RSS Feed - CXSecurity.com
+  - [Gas Agency Management 2022 SQL Injection / XSS / Shell Upload](https://cxsecurity.com/issue/WLB-2022080051)
+  - [Prestashop Blockwishlist 2.1.0 SQL Injection](https://cxsecurity.com/issue/WLB-2022080050)
+  - [PAN-OS 10.0 Remote Code Execution](https://cxsecurity.com/issue/WLB-2022080049)
+  - [Webmin Package Updates Command Injection](https://cxsecurity.com/issue/WLB-2022080048)
+  - [Windows sxssrv!BaseSrvActivationContextCacheDuplicateUnicodeString Heap Buffer Overflow](https://cxsecurity.com/issue/WLB-2022080047)
+  - [Readymade Job Portal Script SQL Injection](https://cxsecurity.com/issue/WLB-2022080046)
+  - [Win32.Ransom.BlueSky / Arbitrary Code Execution](https://cxsecurity.com/issue/WLB-2022080045)
+- Sploitus.com Exploits RSS Feed
+  - [Exploit for CVE-2022-31269 exploit](https://sploitus.com/exploit?id=ED380246-8DD1-58AB-8557-4C562A88EDC9&utm_source=rss&utm_medium=rss)
+  - [Exploit for Unrestricted Upload of File with Dangerous Type in Zimbra Collaboration exploit](https://sploitus.com/exploit?id=11DEDDB4-6148-5800-86D0-BF20A0453109&utm_source=rss&utm_medium=rss)
+- Twitter @Nicolas Krassas
+  - [RT Steve Eckels: Introducing STrace & PDBReSym! An MIT licensed reimplantation of dtrace and rust symbolicating tool. Allows system call hooks in a pa...](https://twitter.com/stevemk14ebr/status/1558897025067823104)
+- SecWiki News
+  - [SecWiki News 2022-08-14 Review](http://www.sec-wiki.com/?2022-08-14)
+- Recent Commits to cve:main
+  - [Update Sun Aug 14 05:24:08 UTC 2022](https://github.com/trickest/cve/commit/7f60d16b2ff6ed04d6efb96eb5a4e5d18f13872f)
+- 世事难料，保持低调
+  - [(三)大话深度学习编译器中的自动调优·Empirical Search](https://blog.csdn.net/ariesjzj/article/details/126311326)
+- unSafe.sh - 不安全
+  - [FreeBuf早报 | 首批针对星链卫星网的攻击手法曝光；Instagram被曝跟踪用户网络活动](https://buaq.net/go-122187.html)
+  - [键盘布局持久化技术 - FreeBuf网络安全行业门户](https://buaq.net/go-122112.html)
+  - [Python爬虫编程思想（162）： 综合爬虫项目：可视化爬虫](https://buaq.net/go-122130.html)
+  - [Chisel-Strike - A .NET XOR Encrypted Cobalt Strike Aggressor Implementation For Chisel To Utilize Faster Proxy And Advanced Socks5 Capabilities](https://buaq.net/go-122107.html)
+  - [Python爬虫编程思想（161）：Scrapy中的通用爬虫](https://buaq.net/go-122131.html)
+  - [有人不满意昨天的那个腰，硬要再来一个...](https://buaq.net/go-122115.html)
+  - [Python爬虫编程思想（159）：Scrapy中的爬虫中间件](https://buaq.net/go-122132.html)
+  - [Clicknium 自动操作网页和应用 - V2EX](https://buaq.net/go-122106.html)
+  - [Python爬虫编程思想（158）：Scrapy中的下载器中间件](https://buaq.net/go-122133.html)
+  - [Python爬虫编程思想（157）：使用Scrapy从CSV格式转换到JSON格式](https://buaq.net/go-122134.html)
+  - [Python爬虫编程思想（156）：使用Scrapy抓取天气预报数据](https://buaq.net/go-122135.html)
+  - [Python爬虫编程思想（155）：使用Scrapy处理带隐藏文本框的登录页面](https://buaq.net/go-122136.html)
+  - [Python爬虫编程思想（154）：使用Scrapy处理登录页面](https://buaq.net/go-122105.html)
+- 一个被知识诅咒的人
+  - [Python爬虫编程思想（162）： 综合爬虫项目：可视化爬虫](https://blog.csdn.net/nokiaguy/article/details/126335818)
+  - [Python爬虫编程思想（161）：Scrapy中的通用爬虫](https://blog.csdn.net/nokiaguy/article/details/126335515)
+  - [Python爬虫编程思想（159）：Scrapy中的爬虫中间件](https://blog.csdn.net/nokiaguy/article/details/126335217)
+  - [Python爬虫编程思想（158）：Scrapy中的下载器中间件](https://blog.csdn.net/nokiaguy/article/details/126335151)
+  - [Python爬虫编程思想（157）：使用Scrapy从CSV格式转换到JSON格式](https://blog.csdn.net/nokiaguy/article/details/126335100)
+  - [Python爬虫编程思想（156）：使用Scrapy抓取天气预报数据](https://blog.csdn.net/nokiaguy/article/details/126334951)
+  - [Python爬虫编程思想（155）：使用Scrapy处理带隐藏文本框的登录页面](https://blog.csdn.net/nokiaguy/article/details/126334758)
+  - [Python爬虫编程思想（154）：使用Scrapy处理登录页面](https://blog.csdn.net/nokiaguy/article/details/126334527)
+- 嘶吼 RoarTalk – 回归最本质的信息安全,互联网安全新媒体,4hou.com
+  - [Andariel 部署 DTrack 和 Maui 勒索软件](https://www.4hou.com/posts/q8DG)
+  - [Zimbra认证绕过漏洞成功入侵超过1000台服务器](https://www.4hou.com/posts/XVqA)
+- Security Boulevard
+  - [Aspen Security Forum 2022 – Moderator: Dafna Linzer – The 21st Century Nuclear Arms Race](https://securityboulevard.com/2022/08/aspen-security-forum-2022-moderator-dafna-linzer-the-21st-century-nuclear-arms-race/)
+  - [XKCD ‘Coffee Cup Holes’](https://securityboulevard.com/2022/08/xkcd-coffee-cup-holes/)
+  - [Aspen Security Forum 2022 – Moderator: Courtney Kube – Niamh King’s Opening Remarks & National Security Today: Emerging Challenges and Opportunities](https://securityboulevard.com/2022/08/aspen-security-forum-2022-moderator-courtney-kube-niamh-kings-opening-remarks-national-security-today-emerging-challenges-and-opportunities/)
+  - [CISA Releases Free ‘Cybersecurity Toolkit to Protect Elections’](https://securityboulevard.com/2022/08/cisa-releases-free-cybersecurity-toolkit-to-protect-elections/)
+- SAP Blogs
+  - [Purchase Quotation Gets More Flexible](https://blogs.sap.com/2022/08/14/purchase-quotation-gets-more-flexible/)
+  - [Process / Production Order Component / Operation Changes](https://blogs.sap.com/2022/08/14/process-production-order-component-operation-changes/)
+  - [REST-JSON integration between AppGyver and SAP ERP or S/4 HANA](https://blogs.sap.com/2022/08/14/rest-json-integration-between-appgyver-and-sap-erp-or-s-4-hana/)
+  - [SAP S/4HANA Finance for group reporting: Data Volume – What you need to consider to keep the data clean – On-Premise](https://blogs.sap.com/2022/08/14/sap-s-4hana-finance-for-group-reporting-data-volume-what-you-need-to-consider-to-keep-the-data-clean-on-premise/)
+  - [Offline Update of Pricing Scales for Purchasing Info Record via Microsoft Excel](https://blogs.sap.com/2022/08/14/offline-update-of-pricing-scales-for-purchasing-info-record-via-microsoft-excel/)
+  - [Dropping multiple HDI containers asynchronously with SAP HANA Client for Python](https://blogs.sap.com/2022/08/14/dropping-multiple-hdi-containers-asynchronously-with-sap-hana-client-for-python/)
+- Reverse Engineering
+  - [Expanding on Existing IoCs to Leverage Immediate Threats Simulations](https://www.reddit.com/r/ReverseEngineering/comments/wo17hm/expanding_on_existing_iocs_to_leverage_immediate/)
+- KitPloit - PenTest & Hacking Tools
+  - [Chisel-Strike - A .NET XOR Encrypted Cobalt Strike Aggressor Implementation For Chisel To Utilize Faster Proxy And Advanced Socks5 Capabilities](http://www.kitploit.com/2022/08/chisel-strike-net-xor-encrypted-cobalt.html)
+- 看雪学院
+  - [uds诊断协议-逆向题 WP](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458463454&idx=1&sn=6832f219233dc5e0cf8b010b6e7779fe&chksm=b18e1c5486f9954229d3277c2300f6c225dd3d090ff3d8f3b86a3b27f5de2251bffed63c6afb&scene=58&subscene=0#rd)
+  - [LLVM与代码混淆技术，详解3种经典代码混淆方式+2种变体](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458463454&idx=2&sn=15bec9910a8fafc836bdd010ef732841&chksm=b18e1c5486f99542e1905668dacf98622333655642742646c0bb140ca6e0c5eeee08e45933f6&scene=58&subscene=0#rd)
+  - [看雪课程 讲师招募！](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458463454&idx=3&sn=c75832c0aa99d628571709672f2b12cf&chksm=b18e1c5486f995426b87cb3e758551cf5e43a103f2521c996cd98e13b5360120aea8faadbd26&scene=58&subscene=0#rd)
+- 暗影安全
+  - [议题征集 | 寻识首届技术沙龙奖励再升级！](https://mp.weixin.qq.com/s?__biz=MzI2MzA3OTgxOA==&mid=2657163134&idx=1&sn=cedd685b5c9c8fe8fdefda30934e4c87&chksm=f1d4e59bc6a36c8d7805090ca053636553b659383ce45613979871da81dda9cca09f89b78487&scene=58&subscene=0#rd)
+- 安全圈
+  - [【安全圈】诱导下载木马病毒软件敲诈，厦门警方一举23人被抓，涉案金额数亿！](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652013257&idx=1&sn=af68fd41a7832b78277f6125641858e7&chksm=f36fae89c418279f688f34cbe5a1c394fed05ddf4f47d0e9a5fb274bb6a3ab1ce3f0d3347af4&scene=58&subscene=0#rd)
+  - [【安全圈】暂停交易和存取款！一币圈平台爆雷，涉用户超200万](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652013257&idx=2&sn=6b83af733d8a04dfa7c4c20e37ac6fab&chksm=f36fae89c418279fbcf2735d32b77796ad8e8ea151b30eeedd7db668ade5025f33ba0217d9d9&scene=58&subscene=0#rd)
+  - [【安全圈】Zimbra认证绕过漏洞成功入侵超过1000台服务器](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652013257&idx=3&sn=bbd76c87449818524b67a03a78ca112e&chksm=f36fae89c418279f7137a4859870d6a2b6141cb797a50230cddb5fb807e52708af0fd25b73df&scene=58&subscene=0#rd)
+  - [【安全圈】卡塔尔犯罪组织疑似登录暗网市场](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652013257&idx=4&sn=0eeba3b210781122fae6641973cfaedf&chksm=f36fae89c418279fcc7c250d0de613554d47431dbb779934801d680416d1613c9817996456b0&scene=58&subscene=0#rd)
+  - [【安全圈】利用macOS端Zoom安装器漏洞 黑客可以接管你的Mac](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652013257&idx=5&sn=1eae8bc64e361fc9871088b4fd2ac4f2&chksm=f36fae89c418279f9a3cf14da27802193fd029d79ffcbd5092f45aa49632d6799805060852ea&scene=58&subscene=0#rd)
+- Checkmarx.com
+  - [Typosquatting Campaign Targeting Python’s Top Packages, Dropping GitHub Hosted Malware with DGA Capabilities](https://checkmarx.com/blog/typosquatting-campaign-targeting-pythons-top-packages-dropping-github-hosted-malware-with-dga-capabilities/)
+- RASP安全技术
+  - [RASP| Apache Spark Shell(CVE-2022-33891)](https://mp.weixin.qq.com/s?__biz=Mzg5MjQ1OTkwMg==&mid=2247484482&idx=1&sn=5df912a24492a1c3be497a005720057c&chksm=c03c8a53f74b034542dcc9923e67153cf02a3fd045514bcca5fdbc3aec65659a7561f15dd1de&scene=58&subscene=0#rd)
+- 极客公园
+  - [元宇宙人才遭疯抢，500 万年薪不稀奇；特斯拉在北美停收 Model 3 长续航版订单；8 月 15 日上演土星冲日｜极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2652964542&idx=1&sn=9ea652b19a33de5f874d05f9e02c421c&chksm=7e547b084923f21e826009233d52b9cccd4885079443bd85b35073592e3c9ae2148df8ab6e6a&scene=58&subscene=0#rd)

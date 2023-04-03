@@ -1,0 +1,52 @@
+# 每日安全资讯（2022-04-11）
+
+- Security Boulevard
+  - [Purdue University’s CERIAS 2022 Security Seminars – Virginia Tech’s Chen-Ching Liu’s ‘Cyber-Physical System Security Of The Power Grid’](https://securityboulevard.com/2022/04/purdue-universitys-cerias-2022-security-seminars-virginia-techs-chen-ching-lius-cyber-physical-system-security-of-the-power-grid/)
+  - [XKCD ‘Frankenstein Captcha’](https://securityboulevard.com/2022/04/xkcd-frankenstein-captcha/)
+  - [Purdue University’s CERIAS 2022 Security Seminars – Bob Gourley’s ‘The Metaverse: Infinite Attack Surface And Boundless Risk’](https://securityboulevard.com/2022/04/purdue-universitys-cerias-2022-security-seminars-bob-gourleys-the-metaverse-infinite-attack-surface-and-boundless-risk/)
+  - [A Lesson in (InfoSec Compliance Data) History | Blog by anecdotes](https://securityboulevard.com/2022/04/a-lesson-in-infosec-compliance-data-history-blog-by-anecdotes/)
+  - [Storytelling For Startups: Reach Your Prospects Heart | anecdotes](https://securityboulevard.com/2022/04/storytelling-for-startups-reach-your-prospects-heart-anecdotes/)
+  - [Scale Your Growth with a Comprehensive Compliance Program | anecdotes](https://securityboulevard.com/2022/04/scale-your-growth-with-a-comprehensive-compliance-program-anecdotes/)
+  - [How to Push a Massive Architectural Change | anecdotes](https://securityboulevard.com/2022/04/how-to-push-a-massive-architectural-change-anecdotes/)
+- SecWiki News
+  - [SecWiki News 2022-04-10 Review](http://www.sec-wiki.com/?2022-04-10)
+- MaskRay
+  - [Unwinding through a signal handler](https://maskray.me/blog/2022-04-10-unwinding-through-signal-handler)
+- 嘶吼 RoarTalk – 回归最本质的信息安全,互联网安全新媒体,4hou.com
+  - [对高通Adreno GPU处理器的攻击研究](https://www.4hou.com/posts/rVwK)
+  - [微软：多个.NET框架版本4月底将不再支持](https://www.4hou.com/posts/7VPj)
+- ふるつき
+  - [Plaid CTF 2022 pressure writeup](https://furutsuki.hatenablog.com/entry/2022/04/10/184118)
+- KitPloit - PenTest & Hacking Tools
+  - [LDAP shell - AD ACL Abuse](http://www.kitploit.com/2022/04/ldap-shell-ad-acl-abuse.html)
+  - [Poro - Scan Publicly Accessible Assets On Your AWS Cloud Environment](http://www.kitploit.com/2022/04/poro-scan-publicly-accessible-assets-on.html)
+- 博客园 - 飘渺红尘✨
+  - [sql注入条件判断bypass系列 - 飘渺红尘✨](https://www.cnblogs.com/piaomiaohongchen/p/16128213.html)
+- HAHWUL
+  - [[Cullinan #31] Add Six, Update Two 🪴](https://www.hahwul.com/2022/04/11/cullinan-31/)
+- daniel.haxx.se
+  - [msh3 as the third h3 backend](https://daniel.haxx.se/blog/2022/04/10/msh3-as-the-third-h3-backend/)
+- Il Disinformatico
+  - [Thunderbird fa le bizze con Gmail? Questione di cookie. E bisogna prepararsi al 30 maggio](http://attivissimo.blogspot.com/2022/04/thunderbird-fa-le-bizze-con-gmail.html)
+- 黑海洋 - WIKI
+  - [IP Tools v8.27_Build_359解锁内购去广告版 （安卓）](https://blog.upx8.com/2688)
+  - [文件蜈蚣-支持迅雷、磁链、BT的全能下载工具可替代迅雷](https://blog.upx8.com/2687)
+- 奇客Solidot–传递最新科技情报
+  - [Google 将 AI 写作视为自动生成内容](https://www.solidot.org/story?sid=71200)
+  - [科学家发掘出小行星撞击地球时的恐龙化石](https://www.solidot.org/story?sid=71199)
+  - [鲁莽的俄罗斯士兵在污染最严重的区域挖战壕](https://www.solidot.org/story?sid=71198)
+- Arturo Di Corinto
+  - [“Siamo sotto attacco degli hacker”. Il Mite spegne tutti i computer](https://dicorinto.it/testate/repubblica-it/siamo-sotto-attacco-degli-hacker-il-mite-spegne-tutti-i-computer/)
+- KitPloit - PenTest Tools!
+  - [LDAP shell - AD ACL Abuse](http://www.kitploit.com/2022/04/ldap-shell-ad-acl-abuse.html)
+  - [Poro - Scan Publicly Accessible Assets On Your AWS Cloud Environment](http://www.kitploit.com/2022/04/poro-scan-publicly-accessible-assets-on.html)
+- Security Affairs
+  - [Apr 03 – Apr 09 Ukraine – Russia the silent cyber conflict](https://securityaffairs.co/wordpress/130057/cyber-warfare-2/apr-03-apr-09-ukraine-russia-cyber-conflict.html)
+  - [NB65 group targets Russia with a modified version of Conti’s ransomware](https://securityaffairs.co/wordpress/130051/hacktivism/nb65-modified-version-conti-ransomware.html)
+  - [Security Affairs newsletter Round 360 by Pierluigi Paganini](https://securityaffairs.co/wordpress/130046/breaking-news/security-affairs-newsletter-round-360-by-pierluigi-paganini.html)
+  - [Facebook blocked Russia and Belarus threat actors’ activity against Ukraine](https://securityaffairs.co/wordpress/130037/cyber-warfare-2/facebook-block-russia-belarus-against-ukraine.html)
+- TorrentFreak
+  - [Popular Torrent Site Lists MPA’s Content Protection Chief as Owner](https://torrentfreak.com/popular-torrent-site-lists-mpas-content-protection-chief-as-owner-220410/)
+- The Hacker News
+  - [Chinese Hacker Groups Continue to Target Indian Power Grid Assets](https://thehackernews.com/2022/04/chinese-hacker-groups-continue-to.html)
+  - [Microsoft Obtains Court Order to Take Down Domains Used to Target Ukraine](https://thehackernews.com/2022/04/microsoft-obtains-court-order-to-take.html)

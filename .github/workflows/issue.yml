@@ -1,0 +1,43 @@
+name: ISSUE
+
+on:
+  issues:
+    types: [opened]
+
+jobs:
+  add-labels:
+    runs-on: ubuntu-latest
+    if: join(github.event.issue.labels) == ''
+    steps:
+      - name: Get current date
+        id: date
+        run: echo "::set-output name=date::$(date +'%Y-%m-%d')"
+      - name: Change Name
+        uses: actions-cool/issues-helper@v3
+        with:
+          actions: 'update-issue'
+          token: ${{ secrets.MY_GITHUB_TOKEN }}
+          issue-number: ${{ github.event.issue.number }}
+          labels: pick
+          title: "[${{ steps.date.outputs.date }}] ${{ github.event.issue.title }}"
+
+  push-issue:
+    runs-on: ubuntu-latest
+    if: join(github.event.issue.labels) == ''
+    steps:
+      - uses: actions/checkout@v3
+      - name: Set up Python
+        uses: actions/setup-python@v3
+        with:
+          python-version: '3.x'
+      - name: Install dependencies
+        run: ./install.sh
+      - name: Update Body
+        run: python3 yarb.py --push-issue ${{ github.event.issue.number }}
+        env:
+          GITHUB_TOKEN: ${{ secrets.MY_GITHUB_TOKEN }}
+          DINGTALK_KEY: ${{ secrets.DINGTALK_KEY }}
+          DINGTALK_SECRET: ${{ secrets.DINGTALK_SECRET }}
+          PICKER_DINGTALK_KEY: ${{ secrets.PICKER_DINGTALK_KEY }}
+          PICKER_DINGTALK_SECRET: ${{ secrets.PICKER_DINGTALK_SECRET }}
+

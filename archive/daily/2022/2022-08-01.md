@@ -1,0 +1,102 @@
+# 每日安全资讯（2022-08-01）
+
+- HackerOne Hacker Activity
+  - [Open S3 Bucket Accessible by any Aws User](https://hackerone.com/reports/1654145)
+- Verne in GitHub
+  - [从 mkv 文件中提取字幕文件](https://einverne.github.io/post/2022/07/extract-subtitle-from-mkv.html)
+- Security Boulevard
+  - [Filters, Protects, Blocks: 3 Ways A DNS Ensures Safer Online Experience](https://securityboulevard.com/2022/07/filters-protects-blocks-3-ways-a-dns-ensures-safer-online-experience/)
+  - [Aspen Security Forum 2022 – Anja Manuel, Aspen Strategy Group And Joseph Nye, Aspen Strategy Group And Dean Emeritus, Harvard Kennedy School, Harvard University ‘Day 2 Opening Remarks’](https://securityboulevard.com/2022/07/aspen-security-forum-2022-anja-manuel-aspen-strategy-group-and-joseph-nye-aspen-strategy-group-and-dean-emeritus-harvard-kennedy-school-harvard-university-day-2-opening-remarks/)
+  - [Robert M. Lee’s & Jeff Haas’ Little Bobby Comic – ‘WEEK 392’](https://securityboulevard.com/2022/07/robert-m-lees-jeff-haas-little-bobby-comic-week-392/)
+  - [Aspen Security Forum 2022 – Moderator: Trymaine Lee, MSNBC Correspondent ‘Fireside Chat With Secretary Alejandro N. Mayorkas, 7th Secretary, U.S. Department of Homeland’](https://securityboulevard.com/2022/07/aspen-security-forum-2022-moderator-trymaine-lee-msnbc-correspondent-fireside-chat-with-secretary-alejandro-n-mayorkas-7th-secretary-u-s-department-of-homeland/)
+  - [Richard Stiennon Talks about Security Yearbook 2022](https://securityboulevard.com/2022/07/richard-stiennon-talks-about-security-yearbook-2022/)
+  - [Cyber Attacks Against Critical Infrastructure Quietly Increase](https://securityboulevard.com/2022/07/cyber-attacks-against-critical-infrastructure-quietly-increase/)
+- bunnie's blog
+  - [Name that Ware, July 2022](https://www.bunniestudios.com/blog/?p=6461)
+  - [Winner, Name that Ware June 2022](https://www.bunniestudios.com/blog/?p=6458)
+- SecWiki News
+  - [SecWiki News 2022-07-31 Review](http://www.sec-wiki.com/?2022-07-31)
+- 嘶吼 RoarTalk – 回归最本质的信息安全,互联网安全新媒体,4hou.com
+  - [IVANTIAVALANCHE漏洞利用（下）](https://www.4hou.com/posts/vJm0)
+  - [Magecart对餐厅订餐系统进行攻击](https://www.4hou.com/posts/2Jgz)
+- unSafe.sh - 不安全
+  - [[AHK＃53] AutoHotkey多行內容輸出時的偏移問題](https://buaq.net/go-120082.html)
+  - [timwhitez starred DeathSleep](https://buaq.net/go-120064.html)
+  - [Vulnerabilities Scan](https://buaq.net/go-120068.html)
+  - [YouTube影片實務02：Filmora 11製作Subscription推廣動畫的幾個方法](https://buaq.net/go-120057.html)
+  - [即将涨价的 VR 头显，买来可以玩什么？](https://buaq.net/go-120055.html)
+  - [Quickpost: iPad Pro Charging – Power Consumption](https://buaq.net/go-120049.html)
+  - [Barbee – 隐藏 macOS 菜单栏图标。想做 Bartender 平替？](https://buaq.net/go-120053.html)
+  - [用插件让新标签页回归空白，和恼人的搜索栏与广告标说再见](https://buaq.net/go-120048.html)
+- Sploitus.com Exploits RSS Feed
+  - [Exploit for Code Injection in Vmware Spring Framework exploit](https://sploitus.com/exploit?id=C4EB8052-6E91-5327-87BE-51E8490B0A4E&utm_source=rss&utm_medium=rss)
+  - [Exploit for SQL Injection in Wordpress exploit](https://sploitus.com/exploit?id=EF99CAFC-9C3F-5D3F-8BD9-A576A17E59E3&utm_source=rss&utm_medium=rss)
+- modexp
+  - [Shellcode: Data Masking](https://modexp.wordpress.com/2022/07/31/shellcode-data-masking/)
+- Twitter @Nicolas Krassas
+  - [Disclosing information with a side-channel in Django](https://twitter.com/Dinosn/status/1553800412775473155)
+  - [The Enchiridion of Impetus Exemplar (Intro to Threat Modeling)](https://twitter.com/Dinosn/status/1553800165663948800)
+  - [GSuite domain takeover through delegation](https://twitter.com/Dinosn/status/1553799945068609540)
+  - [Facebook ads push Android adware with 7 million installs on Google Play](https://twitter.com/Dinosn/status/1553799736775286789)
+  - [911 (](https://twitter.com/Dinosn/status/1553799707151011841)
+  - [Tim Hortons offer free coffee and donut to settle data privacy invasion claims](https://twitter.com/Dinosn/status/1553799582500388865)
+  - [Meta, U.S. hospitals sued for tracking patients on medical portals](https://twitter.com/Dinosn/status/1553799516331118593)
+  - [Shellcode: Data Masking](https://twitter.com/Dinosn/status/1553799458688847873)
+  - [Running Exploit As Protected Process Ligh From Userland](https://twitter.com/Dinosn/status/1553799414707265539)
+  - [Pokemon-Shellcode-Loader: Tired of looking at hex all day and popping '\x41's? Rather look at Lugia/Charmander? I have the solution for you.](https://twitter.com/Dinosn/status/1553799167964839937)
+  - [CQ, a code security scanner](https://twitter.com/Dinosn/status/1553798527465267200)
+  - [Month of PowerShell - Offensive PowerShell with Metasploit Meterpreter](https://twitter.com/Dinosn/status/1553798334242082816)
+  - [EDR Blindness, pt II](https://twitter.com/Dinosn/status/1553787082400829440)
+  - [Authentication Bypass Techniques using SQLi, PHP, XPath, and LDAP injection](https://twitter.com/Dinosn/status/1553787047932006401)
+  - [Huge network of 11,000 fake investment sites targets Europe](https://twitter.com/Dinosn/status/1553786344589197315)
+  - [Manipulating Windows Tokens with Go](https://twitter.com/Dinosn/status/1553616994133594114)
+  - [Critical Vulnerability Affecting Arris / Arris-variant DSL/Fiber Routers](https://twitter.com/Dinosn/status/1553616935320969216)
+  - [I'm Building a Self-Destructing USB Drive.](https://twitter.com/Dinosn/status/1553616891440250880)
+- Recent Commits to cve:main
+  - [Update Sun Jul 31 11:35:04 UTC 2022](https://github.com/trickest/cve/commit/b8bf0453720a14df67f55001e01e91e8bd24802b)
+- Blogs on dade
+  - [What the heck is Winget](https://0xda.de/blog/2022/07/what-the-heck-is-winget/)
+- SAP Blogs
+  - [Printing of Warehouse order after confirmation in SAP EWM](https://blogs.sap.com/2022/07/31/printing-of-warehouse-order-after-confirmation-in-sap-ewm/)
+  - [Show Only What You Really Need](https://blogs.sap.com/2022/07/31/show-only-what-you-really-need/)
+  - [Backup and Recovery for the SAP HANA (BTP)](https://blogs.sap.com/2022/07/31/backup-and-recovery-for-the-sap-hana-btp/)
+  - [Use the Fediverse instead of Twitter, LinkedIn, …](https://blogs.sap.com/2022/07/31/use-the-fediverse-instead-of-twitter-linkedin-.../)
+  - [Configure Different Trust Configurations for the Same Identity Authentication Tenant (Azure AD Apps)](https://blogs.sap.com/2022/07/31/configure-different-trust-configurations-for-the-same-identity-authentication-tenant-azure-ad-apps/)
+  - [S/4HANA Grocery Retail Blog part 2](https://blogs.sap.com/2022/07/31/s-4hana-grocery-retail-blog-part-2/)
+  - [Magentrix (Service Portal) Integration with C4C](https://blogs.sap.com/2022/07/31/magentrix-service-portal-integration-with-c4c/)
+  - [Create S4 Solution Order from C4C Sales Quote via API](https://blogs.sap.com/2022/07/31/create-s4-solution-order-from-c4c-sales-quote-via-api/)
+- Hexacorn
+  - [Week of Data Dumps, Part 5 – commands](https://www.hexacorn.com/blog/2022/07/31/week-of-data-dumps-part-5-commands/)
+- Didier Stevens
+  - [Quickpost: iPad Pro Charging – Power Consumption](https://blog.didierstevens.com/2022/07/31/quickpost-ipad-pro-charging-power-consumption/)
+- 丁爸情报分析师的工具箱
+  - [【知识】轨迹挖掘](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651130960&idx=1&sn=8a68fdf5625cc98f9abbc48e36bf4620&chksm=f1af7b6ac6d8f27c7f97751da2a729a76b910368db58989b9049f0b9a4642a332777ac6054e2&scene=58&subscene=0#rd)
+- 有价值炮灰
+  - [IO_FILE 与高版本 glibc 中的漏洞利用技巧](https://mp.weixin.qq.com/s?__biz=MzA3MzU1MDQwOA==&mid=2247484063&idx=1&sn=a9557d0e9da2a34badffa271137ce8e9&chksm=9f0c1db8a87b94ae1e3fb080a40277e232c0330fd579654597b7d021711efe87470b95005e7b&scene=58&subscene=0#rd)
+- 青衣十三楼飞花堂
+  - [ETC自助迁移小记](https://mp.weixin.qq.com/s?__biz=MzUzMjQyMDE3Ng==&mid=2247486070&idx=1&sn=05515136fd9b351c86ff75b7067d4867&chksm=fab2c949cdc5405fee70d9e9d23e7e3d05fc54233b71314ba3b58ad0ec190968e6d90ef201e6&scene=58&subscene=0#rd)
+- 绿盟科技研究通讯
+  - [每日情报汇总分析](https://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247492849&idx=1&sn=afefb1e2c82db31a67cc7161051a6770&chksm=e84c422edf3bcb3835edfd300461494f3748c99f29c9d2f4e19f29110677759a5791065e6dcc&scene=58&subscene=0#rd)
+- 安全圈
+  - [【安全圈】“二舅币崩盘”上热搜，共发行1万亿枚，交易网站已无相关币种搜索信息](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652009920&idx=1&sn=133459f286b5766bdcebc674f581be0a&chksm=f36f5980c418d096fbd54d1bc952802e0d4c2f845b7d660aa92b62a87c200dc4c450396e9d0b&scene=58&subscene=0#rd)
+  - [【安全圈】杭州义桥综合行政执法队破获萧山区首例虚拟货币“挖矿”案件](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652009920&idx=2&sn=0692dfe0fb45e6c16159e50fe20dc8e3&chksm=f36f5980c418d0963cc0c6d94d7ae27d5f3f7a61cf3b5e686b1ecf4bdf1d3689219111958445&scene=58&subscene=0#rd)
+  - [【安全圈】​广西、安徽警方破获利用“猫池”进行违法犯罪活动的案件](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652009920&idx=3&sn=afe1ee81e5807de1f445be0164d07948&chksm=f36f5980c418d096081c5002b5827705d2cade95f14fd3380917415cef2908b4e42d6f354d63&scene=58&subscene=0#rd)
+  - [【安全圈】8月1日起施行！国家网信办《互联网用户账号信息管理规定》](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652009920&idx=4&sn=964cc256de486dc0294993dbf78997b8&chksm=f36f5980c418d0966802184f540fc668091566cc1e6197c62c8c5ce8d1b0bc5b8bbff1277efb&scene=58&subscene=0#rd)
+  - [【安全圈】​为"礼尚往来" ,俄罗斯黑客侵入乌克兰国防大学服务器](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652009920&idx=5&sn=423762365b3e15928c665e22d0eb3c72&chksm=f36f5980c418d096a0f5303c7c69b0a5f2a6e72fb147ba9ae4e2857dd27d9a07f8094fe64500&scene=58&subscene=0#rd)
+- 红日安全
+  - [这篇文章超有料——威胁情报共享07.31](https://mp.weixin.qq.com/s?__biz=MzI4NjEyMDk0MA==&mid=2649850788&idx=1&sn=df9da1833aa55d46fbfa6563cd685485&chksm=f3e4ed27c4936431ee39d4b98b9377b835c0972b5630309a10b8d2831d32e0374e8d9a8a5ffa&scene=58&subscene=0#rd)
+- 京东安全应急响应中心
+  - [【公告】JSRC六月英雄榜单揭晓](https://mp.weixin.qq.com/s?__biz=MjM5OTk2MTMxOQ==&mid=2727834936&idx=1&sn=e1fa880452ae30fc45247a9614d5c9b9&chksm=8050a2b0b7272ba63720018e02d5bcf3f1e18984c0e89c2ff58142d25052a2a53c28d8c57d5e&scene=58&subscene=0#rd)
+- 云鼎实验室
+  - [每周云安全资讯-2022年第31周](https://mp.weixin.qq.com/s?__biz=MzU3ODAyMjg4OQ==&mid=2247494600&idx=1&sn=1750545f70e3dfbaf001685c325da0c5&chksm=fd79174eca0e9e58f3551f0fc325ed839393f98d04d68e6c730fcdb5a1fe2ae1dbe684bc4d1c&scene=58&subscene=0#rd)
+- 安全威胁情报
+  - [今年HVV内存马杀疯了，怎么破？](https://mp.weixin.qq.com/s?__biz=MzI5NjA0NjI5MQ==&mid=2650173451&idx=1&sn=fa6a7586c4d2d40c920fa414747ef427&chksm=f4488bb7c33f02a11f340c788711292e5e63a5a29d3bda2f7148c915fe280b2eeb4cc6d97263&scene=58&subscene=0#rd)
+- 极客公园
+  - [增长放缓，元宇宙岗位正在消失；马斯克反诉推特；亚马逊将关闭个人网盘业务｜极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2652962442&idx=1&sn=a44d72c2df170516f2bbac0cea5e6e25&chksm=7e55833c49220a2a6a3d0ea38a52b8cec8958e3561458630d0252ed6d5bf2fec333c65fcd5fe&scene=58&subscene=0#rd)
+- 情报分析师
+  - [全网追踪佩洛西，行程和名单公布，第一站新加坡！](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650512887&idx=1&sn=4cdc0df7231e3b5e1dec66861a96bcd8&chksm=8716b3bcb0613aaafe990824b79f5b1e5fb0f4128af55c93d0a1e44feb01c4a12dc4c97810c0&scene=58&subscene=0#rd)
+  - [世界第一次数字战争才刚刚开始](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650512887&idx=2&sn=fcb7d01d846ee3393bcf1f1393c7fe22&chksm=8716b3bcb0613aaa6397ccf0ed54508173f74712fe72032a2413b3127bfdd1368b9e99eb0325&scene=58&subscene=0#rd)
+- Twitter @Keiran Smith (Affix)
+  - [You 👏🏻 can’t 👏🏻 target 👏🏻 fat 👏🏻 loss. The only way to loose da is calorie deficit #weightlossmyths #fatlosss #fitness #bulls...](https://twitter.com/cli/status/1553634410913824768)
+- 安全研究GoSSIP
+  - [vSGX：在AMD SEV处理器上虚拟化SGX](https://mp.weixin.qq.com/s?__biz=Mzg5ODUxMzg0Ng==&mid=2247492105&idx=1&sn=4098c415e1a931395c544c476db819b7&chksm=c063ccd0f71445c6fe17c364ab326651b2fae3a058b5d92254934ef74c0de349f8f6a9bba8be&scene=58&subscene=0#rd)

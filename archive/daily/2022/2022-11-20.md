@@ -1,0 +1,112 @@
+# 每日安全资讯（2022-11-20）
+
+- SecWiki News
+  - [ ] [SecWiki News 2022-11-19 Review](http://www.sec-wiki.com/?2022-11-19)
+- 先知安全技术社区
+  - [ ] [JAVA TransforMap&LazyMap链](https://xz.aliyun.com/t/11861)
+- Der Flounder
+  - [ ] [autopkg-conductor updated to support reporting to Slack and Microsoft Teams](https://derflounder.wordpress.com/2022/11/19/autopkg-conductor-updated-to-support-reporting-to-slack-and-microsoft-teams/)
+- unSafe.sh - 不安全
+  - [ ] [他们合体了？](https://buaq.net/go-136392.html)
+  - [ ] [2022 亚马逊黑五：三星 SSD 硬盘专场｜另外，你们要的群来了](https://buaq.net/go-136391.html)
+  - [ ] [Formally Verifying The World’s Most Popular Smart Contract](https://buaq.net/go-136385.html)
+  - [ ] [你说它画、上手即用，微软出品的 AI 设计工具：Microsoft Designer](https://buaq.net/go-136390.html)
+  - [ ] [开启安全测试评估专业赛道 | 永信至诚“数字风洞”产品体系战略发布](https://buaq.net/go-136386.html)
+  - [ ] [Wodat - Windows Oracle Database Attack Toolkit](https://buaq.net/go-136387.html)
+  - [ ] [JAVA TransforMap&LazyMap链](https://buaq.net/go-136379.html)
+  - [ ] [D-Link 漏洞挖掘](https://buaq.net/go-136394.html)
+  - [ ] [赛况播报Day 5 | 第三题“一血”：hzqmwne战队](https://buaq.net/go-136393.html)
+  - [ ] [早鸟价2.5折疯抢！《eBPF安全开发与攻防对抗》](https://buaq.net/go-136395.html)
+  - [ ] [【资料】美国智库台海冲突兵棋推演](https://buaq.net/go-136401.html)
+  - [ ] [【资料】美国陆军各种概念文件](https://buaq.net/go-136400.html)
+  - [ ] [NodeJS Web Development Guide](https://buaq.net/go-136377.html)
+  - [ ] [Reverse engineering integrity checks in Black Ops 3](https://buaq.net/go-136375.html)
+- Security Boulevard
+  - [ ] [BSidesKC 2022 – Dale Hollis’ ‘Frustrating The PenTester With Active Directory’](https://securityboulevard.com/2022/11/bsideskc-2022-dale-hollis-frustrating-the-pentester-with-active-directory/)
+  - [ ] [Ask These Questions Before Buying an SSL Certificate](https://securityboulevard.com/2022/11/ask-these-questions-before-buying-an-ssl-certificate/)
+  - [ ] [What Is Encryption Key Management?](https://securityboulevard.com/2022/11/what-is-encryption-key-management/)
+- 嘶吼 RoarTalk – 回归最本质的信息安全,互联网安全新媒体,4hou.com
+  - [ ] [2022腾讯数字生态大会 | 云原生安全专场议程曝光 直播预约通道开启！](https://www.4hou.com/posts/ZXB8)
+  - [ ] [开启安全测试评估专业赛道 | 永信至诚“数字风洞”产品体系战略发布](https://www.4hou.com/posts/gXjD)
+  - [ ] [CVE-2019-8561： macOS中难以修复的PackageKit框架漏洞](https://www.4hou.com/posts/zlDO)
+  - [ ] [Aiphone漏洞让网络攻击者实际上可以打开门](https://www.4hou.com/posts/vJyM)
+- Twitter @Nicolas Krassas
+  - [ ] [New improved versions of LodaRAT spotted in the wild](https://twitter.com/Dinosn/status/1594001784065908736)
+  - [ ] [Chinese 'Mustang Panda' Hackers Actively Targeting Governments Worldwide](https://twitter.com/Dinosn/status/1593860327984300034)
+  - [ ] [Extracting VMProtect handlers with Binary Ninja](https://twitter.com/Dinosn/status/1593854531795931143)
+  - [ ] [Leaky Server Exposing Scraped Data of 150,000 Mastodon Users](https://twitter.com/Dinosn/status/1593854458634866689)
+- Sploitus.com Exploits RSS Feed
+  - [ ] [ChurchInfo 1.2.13-1.3.0 Authenticated RCE exploit](https://sploitus.com/exploit?id=MSF:EXPLOIT-MULTI-HTTP-CHURCHINFO_UPLOAD_EXEC-&utm_source=rss&utm_medium=rss)
+  - [ ] [Exploit for Vulnerability in Microsoft exploit](https://sploitus.com/exploit?id=DD36D028-7FB1-5824-9756-09BA3927DCEE&utm_source=rss&utm_medium=rss)
+- SAP Blogs
+  - [ ] [QM Fiori App-Inspection Lot Detailed Analytics-F3273](https://blogs.sap.com/2022/11/19/qm-fiori-app-inspection-lot-detailed-analytics-f3273/)
+  - [ ] [EWM-Fiori Apps](https://blogs.sap.com/2022/11/19/ewm-fiori-apps/)
+  - [ ] [S/4Hana Git-enabled CTS – Part 1 – Steps towards devops](https://blogs.sap.com/2022/11/19/s-4hana-git-enabled-cts-part-1/)
+  - [ ] [SAP Tech Night Bengaluru – First edition November 25th 2022 #sitBLR](https://blogs.sap.com/2022/11/19/sap-tech-night-bengaluru-first-edition-november-25th-2022-sitblr/)
+- Malware-Traffic-Analysis.net - Blog Entries
+  - [ ] [2022-11-17 - Bumblebee infection](https://www.malware-traffic-analysis.net/2022/11/17/index.html)
+  - [ ] [2022-11-14 - obama221 Qakbot (Qbot) infection with Cobalt Strike and VNC traffic](https://www.malware-traffic-analysis.net/2022/11/14/index.html)
+  - [ ] [2022-11-03 - Emoet infection with IcedID (Bokbot)](https://www.malware-traffic-analysis.net/2022/11/03/index.html)
+- Twitter @bytehx
+  - [ ] [Re @bugraeskici @SynackRedTeam I have face DB2 sqli in past. Can't exploit it:"). If I found this target , I will ping you!](https://twitter.com/bytehx343/status/1594022158908674048)
+- Hexacorn
+  - [ ] [Cracking Zeppelin](https://www.hexacorn.com/blog/2022/11/19/cracking-zeppelin/)
+  - [ ] [Beyond good ol’ Run key, Part 139](https://www.hexacorn.com/blog/2022/11/19/beyond-good-ol-run-key-part-139/)
+- Reverse Engineering
+  - [ ] [Reverse engineering integrity checks in Black Ops 3](https://www.reddit.com/r/ReverseEngineering/comments/yz7dli/reverse_engineering_integrity_checks_in_black_ops/)
+  - [ ] [Relational E-matching [PDF]](https://www.reddit.com/r/ReverseEngineering/comments/yzmdak/relational_ematching_pdf/)
+  - [ ] [Course materials (videos, lecture notes, supplementary references) for IIT Bombay's CS 433: Automated Reasoning](https://www.reddit.com/r/ReverseEngineering/comments/yzi9ia/course_materials_videos_lecture_notes/)
+  - [ ] [Formally Verifying The World’s Most Popular Smart Contract](https://www.reddit.com/r/ReverseEngineering/comments/yzbata/formally_verifying_the_worlds_most_popular_smart/)
+- KitPloit - PenTest & Hacking Tools
+  - [ ] [Wodat - Windows Oracle Database Attack Toolkit](http://www.kitploit.com/2022/11/wodat-windows-oracle-database-attack.html)
+- 博客园 - 郑瀚Andrew
+  - [ ] [比特币底层技术原理初探 - 郑瀚Andrew](https://www.cnblogs.com/LittleHann/p/16885642.html)
+- 黑海洋 - WIKI
+  - [ ] [如何使用Telegram电报机器人实现VPS登录提醒](https://blog.upx8.com/3097)
+- 汉客儿
+  - [ ] [突破更新：MagicBIOS不用重启，不关安全启动](https://mp.weixin.qq.com/s?__biz=MzI1NTUzMjUzMQ==&mid=2247484734&idx=1&sn=ffdb2a68fec220d5dac4ca0d8d724085&chksm=ea35c9a2dd4240b4783521627e928f15b02e59058978ba4ecd9ba464b34de16f4e92fe4d8d36&scene=58&subscene=0#rd)
+- 丁爸情报分析师的工具箱
+  - [ ] [【资料】美国智库台海冲突兵棋推演](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651133570&idx=1&sn=fde20884328b2098e9fdf4eaa8b2d7cd&chksm=f1af61b8c6d8e8aee07614c374f30fd0f8a64dedb084126df7f12e2920feb6618360197d9a82&scene=58&subscene=0#rd)
+  - [ ] [【资料】美国陆军各种概念文件](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651133570&idx=2&sn=0897694eee0b5f69b45215dbc6bdb1b6&chksm=f1af61b8c6d8e8ae6f619227b441a45e88cc29e6c4bdfac1f901c2b3e731e1aec5617df4d11e&scene=58&subscene=0#rd)
+- 奇客Solidot–传递最新科技情报
+  - [ ] [美国空军和 FBI 突击搜查一位 51 区博主的家](https://www.solidot.org/story?sid=73418)
+  - [ ] [Theranos 创始人被判 11.25 年](https://www.solidot.org/story?sid=73417)
+  - [ ] [Epic 称 Google 为防止动视暴雪推出应用商店而支付了 3.6 亿美元，动视否认](https://www.solidot.org/story?sid=73416)
+  - [ ] [巴哈马政府扣押了 FTX 4.77 亿美元资产](https://www.solidot.org/story?sid=73415)
+- Over Security - Cybersecurity news aggregator
+  - [ ] [New attacks use Windows security bypass zero-day to drop malware](https://www.bleepingcomputer.com/news/security/new-attacks-use-windows-security-bypass-zero-day-to-drop-malware/)
+  - [ ] [Il mercato della cybersicurezza vale 2 trilioni di dollari](https://www.securityinfo.it/2022/11/19/mercato-cybersicurezza-aumenta-valore/?utm_source=rss&utm_medium=rss&utm_campaign=mercato-cybersicurezza-aumenta-valore)
+  - [ ] [Sintesi riepilogativa delle campagne malevole nella settimana del 12 – 18 novembre 2022](https://cert-agid.gov.it/news/sintesi-riepilogativa-delle-campagne-malevole-nella-settimana-del-12-18-novembre-2022/)
+  - [ ] [The Week in Ransomware - November 18th 2022 - Rising Operations](https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-november-18th-2022-rising-operations/)
+- Securityinfo.it
+  - [ ] [Il mercato della cybersicurezza vale 2 trilioni di dollari](https://www.securityinfo.it/2022/11/19/mercato-cybersicurezza-aumenta-valore/?utm_source=rss&utm_medium=rss&utm_campaign=mercato-cybersicurezza-aumenta-valore)
+- Arturo Di Corinto
+  - [ ] [Attacco alla mente: guerra cognitiva e disinformazione](https://dicorinto.it/temi/cybersecurity-temi/attacco-alla-mente-guerra-cognitiva-e-disinformazione/)
+- KitPloit - PenTest Tools!
+  - [ ] [Wodat - Windows Oracle Database Attack Toolkit](http://www.kitploit.com/2022/11/wodat-windows-oracle-database-attack.html)
+- Your Hacking Tutorial by Zempirians
+  - [ ] [Neighbors are deauthing my security cams with aircrack. How do I stop them from doing this?](https://www.reddit.com/r/HowToHack/comments/yzfrth/neighbors_are_deauthing_my_security_cams_with/)
+  - [ ] [What are some computer skills that would come in handy in case my government starts censoring the internet?](https://www.reddit.com/r/HowToHack/comments/yzbicb/what_are_some_computer_skills_that_would_come_in/)
+  - [ ] [Web server won't accept an upload.string](https://www.reddit.com/r/HowToHack/comments/yz8ems/web_server_wont_accept_an_uploadstring/)
+  - [ ] [Bypass university's wifi limit](https://www.reddit.com/r/HowToHack/comments/yz81ct/bypass_universitys_wifi_limit/)
+  - [ ] [Hashcat help](https://www.reddit.com/r/HowToHack/comments/yzppf5/hashcat_help/)
+  - [ ] [Best Arduino Board to use as cheap RubberDucky?](https://www.reddit.com/r/HowToHack/comments/yzkmar/best_arduino_board_to_use_as_cheap_rubberducky/)
+  - [ ] [How do hackers get into networks/servers](https://www.reddit.com/r/HowToHack/comments/yz3w2z/how_do_hackers_get_into_networksservers/)
+  - [ ] [Factory Reset Using USB](https://www.reddit.com/r/HowToHack/comments/yzj5nj/factory_reset_using_usb/)
+  - [ ] [attention required help me guys](https://www.reddit.com/r/HowToHack/comments/yz8qpc/attention_required_help_me_guys/)
+- Information Security
+  - [ ] [help me plis](https://www.reddit.com/r/Information_Security/comments/yzm2xp/help_me_plis/)
+- The Hacker News
+  - [ ] [Indian Government Publishes Draft of Digital Personal Data Protection Bill 2022](https://thehackernews.com/2022/11/indian-government-publishes-draft-of.html)
+  - [ ] [Microsoft Warns of Hackers Using Google Ads to Distribute Royal Ransomware](https://thehackernews.com/2022/11/microsoft-warns-of-hackers-using-google.html)
+  - [ ] [Chinese 'Mustang Panda' Hackers Actively Targeting Governments Worldwide](https://thehackernews.com/2022/11/chinese-mustang-panda-hackers-actively.html)
+  - [ ] [Atlassian Releases Patches for Critical Flaws Affecting Crowd and Bitbucket Products](https://thehackernews.com/2022/11/atlassian-releases-patches-for-critical.html)
+- Security Affairs
+  - [ ] [DEV-0569 group uses Google Ads to distribute Royal Ransomware](https://securityaffairs.co/wordpress/138750/malware/dev-0569-google-ads-royal-ransomware.html)
+  - [ ] [Black Friday and Cyber Monday, crooks are already at work](https://securityaffairs.co/wordpress/138737/cyber-crime/black-friday-and-cyber-monday-scams.html)
+  - [ ] [New improved versions of LodaRAT spotted in the wild](https://securityaffairs.co/wordpress/138723/malware/lodarat-malware.html)
+- Computer Forensics
+  - [ ] [How common is something like this? Is it computer forensics job to determine whether malware is the culprit or not?](https://www.reddit.com/r/computerforensics/comments/yzi9wc/how_common_is_something_like_this_is_it_computer/)
+  - [ ] [Career in digital forensics](https://www.reddit.com/r/computerforensics/comments/yzmmeo/career_in_digital_forensics/)
+- TorrentFreak
+  - [ ] [Piracy App PikaShow’s Insane TV Stunt Reached Millions But Will End Badly](https://torrentfreak.com/piracy-app-pikashows-insane-tv-stunt-reached-millions-but-will-end-badly-221119/)

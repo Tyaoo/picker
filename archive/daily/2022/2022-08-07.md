@@ -1,0 +1,110 @@
+# 每日安全资讯（2022-08-07）
+
+- HackerOne Hacker Activity
+  - [RCE vulnerability in Hyperledger Fabric SDK for Java](https://hackerone.com/reports/801370)
+  - [Enrolling to a CA that returns an empty response crashes the node process](https://hackerone.com/reports/506412)
+  - [Brute Force of fabric-ca server admin account](https://hackerone.com/reports/411364)
+  - [cross site scripting in : mtn.bj](https://hackerone.com/reports/1264834)
+  - [Ingress-nginx path allows retrieval of ingress-nginx serviceaccount token](https://hackerone.com/reports/1382919)
+- Security Boulevard
+  - [Aspen Security Forum 2022 – Anja Manuel’s ‘Day 3 Opening Remarks’](https://securityboulevard.com/2022/08/aspen-security-forum-2022-anja-manuels-day-3-opening-remarks/)
+  - [Daniel Stori’s ‘What Processes Do When They’re Idle’](https://securityboulevard.com/2022/08/daniel-storis-what-processes-do-when-theyre-idle-2/)
+  - [Aspen Security Forum 2022 – ‘The New Russian Empire?’](https://securityboulevard.com/2022/08/aspen-security-forum-2022-the-new-russian-empire/)
+  - [Class Action Targets Experian Over Account Security](https://securityboulevard.com/2022/08/class-action-targets-experian-over-account-security/)
+- Sploitus.com Exploits RSS Feed
+  - [Exploit for Out-of-bounds Write in Linux Linux Kernel exploit](https://sploitus.com/exploit?id=3E320B36-9DFC-53EF-8079-9B652019A21A&utm_source=rss&utm_medium=rss)
+- CXSECURITY Database RSS Feed - CXSecurity.com
+  - [WordPress Ecwid Ecommerce Shopping Cart 6.10.23 Cross Site Request Forgery](https://cxsecurity.com/issue/WLB-2022080034)
+  - [WordPress Testimonial Slider And Showcase 2.2.6 Cross Site Scripting](https://cxsecurity.com/issue/WLB-2022080033)
+  - [Backdoor.Win32.Bushtrommel.122 / Authentication Bypass](https://cxsecurity.com/issue/WLB-2022080032)
+  - [Backdoor.Win32.Bushtrommel.122 / Unauthenticated Remote Command Execution](https://cxsecurity.com/issue/WLB-2022080031)
+  - [Active PHP Bookmarks v1.3 - Sql Injection Vulnerability](https://cxsecurity.com/issue/WLB-2022080030)
+  - [Picaporte Design - Sql Injection Vulnerability](https://cxsecurity.com/issue/WLB-2022080029)
+- SecWiki News
+  - [SecWiki News 2022-08-06 Review](http://www.sec-wiki.com/?2022-08-06)
+- unSafe.sh - 不安全
+  - [Trying to install Penguino x.3 on Linux](https://buaq.net/go-121040.html)
+  - [ManageEngine ADSelfService Plus 历史漏洞CVE-2021-40539分析](https://buaq.net/go-120941.html)
+  - [Pict - Post-Infection Collection Toolkit](https://buaq.net/go-121018.html)
+  - [XMachOViewer 0.04 is a Mach-O viewer for Windows, Linux and MacOS](https://buaq.net/go-121017.html)
+  - [cby的英文小作文(before 2022.8)](https://buaq.net/go-121044.html)
+  - [还有这种工具：骂人的时候，主动屏蔽自己的输入法？...更生气了！](https://buaq.net/go-121014.html)
+  - [ffffffff0x/AboutSecurity: Everything for pentest. | 用于渗透测试的 payload 和 bypass 字典.](https://buaq.net/go-121003.html)
+  - [[AHK＃54] 用AutoHotkey快速輸出Markdown標題井號(Hashes)](https://buaq.net/go-121006.html)
+  - [你叉叉（You Fa Fa）- 主动屏蔽输入法敏感词，骂人前提醒自己消消气](https://buaq.net/go-121005.html)
+  - [任意键｜第九世代宝可梦；彩虹六号出手游；骗情怀的仙剑七及其他](https://buaq.net/go-121008.html)
+  - [星球专属版CobaltStrike发布——添加双因子认证等多项功能（内附抽奖活动）](https://buaq.net/go-120995.html)
+  - [How i was able to get 29 free products. | Bug Bounty](https://buaq.net/go-120998.html)
+  - [Private server emulation for Digimon Online v1.5](https://buaq.net/go-120997.html)
+  - [Another day, Another IDOR vulnerability— $5000 Reddit Bug Bounty](https://buaq.net/go-120999.html)
+  - [CosmicStrand：发现复杂的 UEFI 固件 rootkit](https://buaq.net/go-120986.html)
+  - [Nomad Bridge漏洞利用被窃取1.9亿美元](https://buaq.net/go-120987.html)
+- Recent Commits to cve:main
+  - [Update Sat Aug  6 17:25:16 UTC 2022](https://github.com/trickest/cve/commit/93a6afb5d8162ca109640fdd0f84bad88c3680f6)
+- 嘶吼 RoarTalk – 回归最本质的信息安全,互联网安全新媒体,4hou.com
+  - [CosmicStrand：发现复杂的 UEFI 固件 rootkit](https://www.4hou.com/posts/kM6N)
+  - [Nomad Bridge漏洞利用被窃取1.9亿美元](https://www.4hou.com/posts/YX0M)
+  - [下周五！首聚元宇宙！DEF CON 30 CHINA Party来了！](https://www.4hou.com/posts/503K)
+- ArthurChiao's Blog
+  - [The Mythical Container <code>net.core.somaxconn</code> (2022)](https://arthurchiao.github.io/blog/the-mythical-container-somaxconn/)
+- Twitter @Nicolas Krassas
+  - [HTB: Overgraph](https://twitter.com/Dinosn/status/1555963615123046401)
+  - [Pict - Post-Infection Collection Toolkit](https://twitter.com/Dinosn/status/1555963393084952584)
+  - [Microsoft bars Tutanota users from registering MS Teams accounts](https://twitter.com/Dinosn/status/1555963317549731840)
+  - [Repository of Adversarial Tactics That is Updated Daily](https://twitter.com/Dinosn/status/1555963158518538240)
+  - [RT VNG Security Response Center: Ladies and Gentlemen: The new Dojo opens to welcome black belt Hackers to fight for honor!!! #VSRC Liferay revisited:...](https://twitter.com/vngsecresponse/status/1555836623879024640)
+  - [RT Wim Remes: Another ISC2 related post :) Please keep sharing and retweeting so we can reach ISC2 members that aren’t online all the time …](https://twitter.com/wimremes/status/1555808855539449861)
+  - [nday exploit: libinput format string bug, canary leak exploit (cve-2022-1215)](https://twitter.com/Dinosn/status/1555798015419600896)
+  - [Chinese Adult Site Leaking 14 Million User Details – and It’s Increasing!](https://twitter.com/Dinosn/status/1555796030746202112)
+  - [UK NHS suffers outage after cyberattack on managed service provider](https://twitter.com/Dinosn/status/1555795986252972034)
+  - [Twitter confirms zero-day used to access data of 5.4 million accounts](https://twitter.com/Dinosn/status/1555795914832347136)
+  - [Another day, Another IDOR vulnerability— $5000 Reddit Bug Bounty](https://twitter.com/Dinosn/status/1555795841637666817)
+  - [CVE-2022-35924: Nextauth.js Authentication Bypass Vulnerability](https://twitter.com/Dinosn/status/1555795711622529025)
+  - [jsubfinder: earch webpages & javascript for hidden subdomains and secrets in the given URL](https://twitter.com/Dinosn/status/1555755069131350016)
+- Bug Bounty in InfoSec Write-ups on Medium
+  - [How i was able to get 29 free products. | Bug Bounty](https://infosecwriteups.com/how-i-was-able-to-get-29-free-products-bug-bounty-845667ab4ad4?source=rss----7b722bfd1b8d--bug_bounty)
+  - [Another day, Another IDOR vulnerability— $5000 Reddit Bug Bounty](https://infosecwriteups.com/another-day-another-idor-vulnerability-5000-reddit-bug-bounty-22a75003d999?source=rss----7b722bfd1b8d--bug_bounty)
+- Hexacorn
+  - [Week of Data Dumps, Part 7 – registry](https://www.hexacorn.com/blog/2022/08/06/week-of-data-dumps-part-7-registry/)
+- Reverse Engineering
+  - [Kanye West's Stem Player - An engineering disaster](https://www.reddit.com/r/ReverseEngineering/comments/whrxga/kanye_wests_stem_player_an_engineering_disaster/)
+  - [Private server emulation for Digimon Online v1.5](https://www.reddit.com/r/ReverseEngineering/comments/whh71n/private_server_emulation_for_digimon_online_v15/)
+  - [Reverse-engineering a 1960s hybrid flip flop module with X-ray CT scans](https://www.reddit.com/r/ReverseEngineering/comments/whc9jx/reverseengineering_a_1960s_hybrid_flip_flop/)
+  - [XMachOViewer 0.04 is a Mach-O viewer for Windows, Linux and MacOS](https://www.reddit.com/r/ReverseEngineering/comments/whm0gi/xmachoviewer_004_is_a_macho_viewer_for_windows/)
+- KitPloit - PenTest & Hacking Tools
+  - [Pict - Post-Infection Collection Toolkit](http://www.kitploit.com/2022/08/pict-post-infection-collection-toolkit.html)
+- HAHWUL
+  - [Docker와 Dumb-Init](https://www.hahwul.com/2022/08/06/docker-dumb-init/)
+- Twitter @hakivvi
+  - [Re @vngsecresponse @testanull Nice work!](https://twitter.com/hakivvi/status/1555863445978992640)
+- 青衣十三楼飞花堂
+  - [cby的英文小作文(before 2022.8)](https://mp.weixin.qq.com/s?__biz=MzUzMjQyMDE3Ng==&mid=2247486078&idx=1&sn=99b6a6930398118ec2619ae9a65e4506&chksm=fab2c941cdc540570f94155e76eec98294c6db0056a746046f7066fe55ff03bb44e0d06b62fd&scene=58&subscene=0#rd)
+- 丁爸情报分析师的工具箱
+  - [【数据】全球猴痘从5月爆发至今已近3万病例](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651131075&idx=1&sn=cfd3b058ecd5438bbbe9a742271105b2&chksm=f1af7bf9c6d8f2ef2b37a05ab2a16c4e8989d89a2090564d3aa785aa7705975286fc0c2c7a8c&scene=58&subscene=0#rd)
+- 网安杂谈
+  - [浅论跨境电信诈骗案件证据体系的构建](https://mp.weixin.qq.com/s?__biz=MzAwMTMzMDUwNg==&mid=2650886936&idx=1&sn=405bf3acf96d40d6e6653a2f16ec88e0&chksm=812eaf3db659262b3dbab4d05cf8a2d13466a8097f4e4b53c27c6751c2229b1e6372ee7ba029&scene=58&subscene=0#rd)
+- 安全圈
+  - [【安全圈】怀疑遭竞争对手攻击，南通一家纺公司雇佣黑客“反击”](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652011512&idx=1&sn=32d6ae8ac2c6bc457a7c817fd9545220&chksm=f36f57b8c418deaeb4583a2c839231f637ce84c3b730b59f0032b0ad5bfdc06c5bf87e694f17&scene=58&subscene=0#rd)
+  - [【安全圈】GitHub 出现超 35000 个恶意攻击文件](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652011512&idx=2&sn=3186ec78eca5602f5e75175b2ade43d8&chksm=f36f57b8c418deaea62d5a7085bce925612b5eee545d5af22c90643620d10a67ec691e6b4ec6&scene=58&subscene=0#rd)
+  - [【安全圈】美国一人非法解锁运营商合约机获利 2500 万美元](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652011512&idx=3&sn=10c2d40ebff0c12c6158696d237ffa7e&chksm=f36f57b8c418deae9afa4f3caae1754229fb7ac46cabdb0e83472a204b72811a2cd768375051&scene=58&subscene=0#rd)
+  - [【安全圈】臭名昭著的飞马间谍软件原型被曝光](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652011512&idx=4&sn=77c3723cd730994ec394f6edcc8a1a36&chksm=f36f57b8c418deae3b1e31e2cc08b49091419023c3003320a3979405170091fe24e5768091fd&scene=58&subscene=0#rd)
+- dotNet安全研究僧
+  - [.NET矩阵星球一周热点主题 (内存马+反射)](https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247485852&idx=1&sn=f0a1186dbbbb61d003fdb67ea5bfaa56&chksm=fa5aa771cd2d2e6782fc1f90c856022ef3eaa9721ce0df72429965da05d2dafc09dea2440fa9&scene=58&subscene=0#rd)
+- 极客公园
+  - [Salesforce 解散中国团队；亚马逊17 亿美元收购iRobot；拼多多或将推跨境电商｜极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2652963489&idx=1&sn=6baefa7c364a66dd13bf7d00a2e520ea&chksm=7e547f174923f60110d8873f928952672f5e5996867145905f8da1541cb309d078c5887dcbf7&scene=58&subscene=0#rd)
+- Dancho Danchev's Blog - Mind Streams of Information Security Knowledge
+  - [Exposing GCHQ's URL Shortening Service - An OSINT Analysis](http://ddanchev.blogspot.com/2022/08/exposing-gchqs-url-shortening-service.html)
+  - [In Retrospective - A New Malware Bot Vector Spotted in the Wild - An OSINT Analysis](http://ddanchev.blogspot.com/2022/08/in-retrospective-new-malware-bot-vector.html)
+- 嘶吼专业版
+  - [下周五！首聚元宇宙！DEF CON 30 CHINA Party来了！](https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247547486&idx=1&sn=f9605871b56f9a730a6472c42d44630d&chksm=e915ea64de626372b21fe682c7b28fb21c63412818c4c31d7106f403125f4224c07dd8aadba0&scene=58&subscene=0#rd)
+  - [Nomad Bridge漏洞利用被窃取1.9亿美元](https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247547486&idx=2&sn=e0966f8b2f9644ca448d88f4c3904d9f&chksm=e915ea64de6263729e2879bf5732859e9ae4d364d5f66d69723470b7890bb2747883701dc9cd&scene=58&subscene=0#rd)
+  - [CosmicStrand：发现复杂的 UEFI 固件 rootkit](https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247547486&idx=3&sn=8b580491c57fb9a002603a5775bb9a7e&chksm=e915ea64de626372a2e4c249acae35aab3fa2b24fedd4a0863a630ffccc022a9e43f7da435d3&scene=58&subscene=0#rd)
+- 情报分析师
+  - [大数据扫黄](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650513358&idx=1&sn=acb042c6075e4e557ead76c59462e6a1&chksm=8716b185b0613893c8006fbfc3a808e3e8cd5b6970bc054b83109b8f042696df915d6aa4f35f&scene=58&subscene=0#rd)
+- 百度安全应急响应中心
+  - [下周五！首聚元宇宙！DEF CON 30 CHINA Party来了！](https://mp.weixin.qq.com/s?__biz=MzA4ODc0MTIwMw==&mid=2652537356&idx=1&sn=218a98386e48aad7073720c44053b5f3&chksm=8bcba630bcbc2f2663265502d9e39e57c9b6ad5e5df5b86bd1fc65b04a32b287dccd5b62aa35&scene=58&subscene=0#rd)
+- 看雪学院
+  - [绕过iOS 基于svc 0x80的ptrace反调试](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458460908&idx=1&sn=7a583b1f328ed5fa84303e6be7f642f6&chksm=b18e126686f99b70f0cc9958d35f2889f8789936fa1211a865c385f29517af301ee7c034929c&scene=58&subscene=0#rd)
+  - [【体系课】CTF训练营-Web篇，全方位立体化学习！](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458460908&idx=2&sn=b69dbcd62213fa5ea6709759237c367d&chksm=b18e126686f99b70eacf2e4d0f21b323038c1f623ee3e5f7d0f8828414362acb2b2b5aa77b4a&scene=58&subscene=0#rd)
+- NOVASEC
+  - [Java安全学习01-反序列化-入门](https://mp.weixin.qq.com/s?__biz=MzUzODU3ODA0MA==&mid=2247487744&idx=1&sn=5efe59b7f4cdfca711f0b7e283ba98cc&chksm=fad4cc17cda345018665d1023b672d295e235b0e0627f5b9033e15ce24537dfa2829e2ff4eba&scene=58&subscene=0#rd)

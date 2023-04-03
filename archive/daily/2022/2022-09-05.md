@@ -1,0 +1,72 @@
+# 每日安全资讯（2022-09-05）
+
+- SecWiki News
+  - [SecWiki News 2022-09-04 Review](http://www.sec-wiki.com/?2022-09-04)
+- 嘶吼 RoarTalk – 回归最本质的信息安全,互联网安全新媒体,4hou.com
+  - [黑客出售导弹公司MBDA的机密数据，北约展开调查](https://www.4hou.com/posts/17pR)
+  - [暴露的 OPA 服务器可以泄漏应用程序的哪些信息](https://www.4hou.com/posts/gXM3)
+- Security Boulevard
+  - [BSides Vancouver 2022 – Anthony Green’s And Penny Longman’s ‘How To Create A Cyber Security Culture’](https://securityboulevard.com/2022/09/bsides-vancouver-2022-anthony-greens-and-penny-longmans-how-to-create-a-cyber-security-culture/)
+  - [Violence-as-a-Service: Brickings, Firebombings & Shootings for Hire](https://securityboulevard.com/2022/09/violence-as-a-service-brickings-firebombings-shootings-for-hire/)
+  - [NATO Countries Hit With Unprecedented Cyber Attacks](https://securityboulevard.com/2022/09/nato-countries-hit-with-unprecedented-cyber-attacks/)
+- unSafe.sh - 不安全
+  - [Update: oledump.py Version 0.0.70](https://buaq.net/go-125176.html)
+  - [CakeCTF 2022 開催記](https://buaq.net/go-125158.html)
+  - [Polluting Template Engine Cache via Prototype Pollution](https://buaq.net/go-125159.html)
+  - [青小蛙又拿出祖传种子了。](https://buaq.net/go-125155.html)
+  - [PicoTorrent – 一个很小的开源 BitTorrent 客户端[Windows]](https://buaq.net/go-125148.html)
+  - [BeatRev - POC For Frustrating/Defeating Malware Analysts](https://buaq.net/go-125149.html)
+  - [《安卓高级研修班》推出【看雪安卓应用安全能力认证】证书](https://buaq.net/go-125147.html)
+  - [App+1 | 此处插入评价：微信输入法测试版上手体验](https://buaq.net/go-125136.html)
+  - [黑客出售导弹公司MBDA的机密数据，北约展开调查](https://buaq.net/go-125125.html)
+  - [暴露的 OPA 服务器可以泄漏应用程序的哪些信息](https://buaq.net/go-125126.html)
+  - [任意键｜最后生还者回归；高达站立于大地；索尼独占喜减一及其他](https://buaq.net/go-125129.html)
+- Twitter @Nicolas Krassas
+  - [Malware dev open-sources CodeRAT after being exposed](https://twitter.com/Dinosn/status/1566272358066913281)
+- obaby@mars
+  - [秀人集爬虫 【22.09.04】【Windows】](http://h4ck.org.cn/2022/09/%e7%a7%80%e4%ba%ba%e9%9b%86%e7%88%ac%e8%99%ab-%e3%80%9022-09-04%e3%80%91%e3%80%90windows%e3%80%91/)
+  - [微图坊爬虫 [Chrome Support]【22.09.04】【Windows】](http://h4ck.org.cn/2022/09/%e5%be%ae%e5%9b%be%e5%9d%8a%e7%88%ac%e8%99%ab-chrome-support%e3%80%9022-09-04%e3%80%91%e3%80%90windows%e3%80%91/)
+- Recent Commits to cve:main
+  - [Update Sun Sep  4 05:25:51 UTC 2022](https://github.com/trickest/cve/commit/b0bd9f362b4ad0b4e9b0e60f5e6406688e231e9d)
+- ふるつき
+  - [CakeCTF 2022 開催記](https://furutsuki.hatenablog.com/entry/2022/09/05/000733)
+- CTFするぞ
+  - [Polluting Template Engine Cache via Prototype Pollution](https://ptr-yudai.hatenablog.com/entry/2022/09/04/230612)
+- Didier Stevens
+  - [Update: oledump.py Version 0.0.70](https://blog.didierstevens.com/2022/09/04/update-oledump-py-version-0-0-70/)
+- SAP Blogs
+  - [How SAP Analytics Cloud Enables an Agile Delivery Model](https://blogs.sap.com/2022/09/04/how-sap-analytics-cloud-enables-an-agile-delivery-model/)
+  - [How to achieve fuzzy search and case insensitive search in Fiori Smart Table](https://blogs.sap.com/2022/09/04/how-to-achieve-fuzzy-search-and-case-insensitive-search-in-fiori-smart-table/)
+  - [Managing Stalled Workflows](https://blogs.sap.com/2022/09/04/managing-stalled-workflows/)
+  - [Presenting Live Session: Starting with SAP Integration Suite for Customer Experience](https://blogs.sap.com/2022/09/04/presenting-live-session-starting-with-sap-integration-suite-for-customer-experience/)
+  - [Develop Micronaut based GROOVY CRUDQ web application in BTP cloud foundry : Part 1](https://blogs.sap.com/2022/09/04/develop-micronaut-based-groovy-crudq-web-application-in-btp-cloud-foundry-part-1/)
+  - [Uncle Editable ALV Grid](https://blogs.sap.com/2022/09/04/uncle-editable-alv-grid/)
+  - [Extending SAP S/4 HANA On-Premise Situation Handling for Dispute Processing – Alternative to SAP Classical Background jobs](https://blogs.sap.com/2022/09/04/extending-sap-s-4-hana-on-premise-situation-handling-for-dispute-processing-alternative-to-sap-classical-background-jobs/)
+- Reverse Engineering
+  - [Reviving the coolest scanner you’ve never heard of](https://www.reddit.com/r/ReverseEngineering/comments/x601i2/reviving_the_coolest_scanner_youve_never_heard_of/)
+- Twitter @hakivvi
+  - [RT ptr-yudai: I found a small technique to abuse template engine with prototype pollution and made a task in CakeCTF 2022. (Since I'm not familiar wit...](https://twitter.com/ptrYudai/status/1566428369881042944)
+  - [RT Stefan Judis: I forgot this tool exists but @pomber's "Git History" is probably still the most convenient way to check a file's history out there. ...](https://twitter.com/stefanjudis/status/1566364745929826305)
+- print("")
+  - [CNVD-2022-60632 畅捷通任意文件上传漏洞复现](https://www.o2oxy.cn/4104.html)
+- KitPloit - PenTest & Hacking Tools
+  - [BeatRev - POC For Frustrating/Defeating Malware Analysts](http://www.kitploit.com/2022/09/beatrev-poc-for-frustratingdefeating.html)
+- Twitter @Keiran Smith (Affix)
+  - [RT Janey Godley: Trolls are really, really obsessed with slagging off my hair - I think it’s great! Apparently I am either now “gay” or a “cat own...](https://twitter.com/JaneyGodley/status/1566347071908610049)
+- 奇客Solidot–传递最新科技情报
+  - [知乎在移动和桌面嵌入盲水印](https://www.solidot.org/story?sid=72670)
+  - [阿里巴巴性侵案客户二审维持原判](https://www.solidot.org/story?sid=72669)
+- 关注安全技术
+  - [云渗透课程试看来啦！](https://mp.weixin.qq.com/s?__biz=MzA4MDMwMjQ3Mg==&mid=2651868360&idx=1&sn=a477c0b06157f8a2c23c9946a089b588&chksm=8442b42fb3353d390af80fd6847d3c102a17d1dc3407028374420af7144de940a5b9bbccade3&scene=58&subscene=0#rd)
+- 安全圈
+  - [【安全圈】企业员工贩卖信息三万余条获刑罚金赔款道歉](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652015608&idx=1&sn=4a7728e510617899b11905447e7db417&chksm=f36fa7b8c4182eaefaea36517cdfd6b31fbbc0e3d2ac6ef1af7af29fa7e68d110c4ae37be882&scene=58&subscene=0#rd)
+  - [【安全圈】思科确认黑客通过员工的谷歌账户进行了网络入侵](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652015608&idx=2&sn=b7f9d7110354e210810ed1f68184ccf0&chksm=f36fa7b8c4182eae3aa03407d516ae6ade73b705b688ccf98ffd4622bf138b142795a8899479&scene=58&subscene=0#rd)
+  - [【安全圈】Google为包含严重安全问题的Chrome发布紧急更新](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652015608&idx=3&sn=dea21295846081a428744a63483b7aee&chksm=f36fa7b8c4182eae3cad24d47910d834c773323800f6634b596ab284d5a241ab9378777600da&scene=58&subscene=0#rd)
+  - [【安全圈】意大利石油巨头 ENI 遭受网络攻击](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652015608&idx=4&sn=b456aa9803de34676603b966b412a285&chksm=f36fa7b8c4182eae4023394f6f3885250f96cd9cfc25676b78ae04ca9fc29d9a26d0137c71e8&scene=58&subscene=0#rd)
+- 奇安信CERT
+  - [Google Chrome 沙箱逃逸漏洞安全风险通告](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247496892&idx=1&sn=bbe9a07e0dc92a4994baeae3e2aa429b&chksm=fe79d024c90e5932efd8d66b9775cd5e419f5e97726e8669bb9fdaf042a7ddc6cbc08aa4553c&scene=58&subscene=0#rd)
+- RASP安全技术
+  - [RASP漏洞防御之 XXE 漏洞](https://mp.weixin.qq.com/s?__biz=Mzg5MjQ1OTkwMg==&mid=2247484491&idx=1&sn=18f6bda7535df72efd63ae6fd03208fc&chksm=c03c8a5af74b034cacfe362d984518d2400b74ef34dda1a424665d3e9be2f4811f0dab20a265&scene=58&subscene=0#rd)
+- 极客公园
+  - [我去了中国最大的 Web3 聚会，发现人们想要的不是 Web3](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2652966747&idx=1&sn=0d93254a7ff6f2150a065a5ca300c976&chksm=7e5472ed4923fbfbe494507f9aed2618338163a53061c0da0ff8f3c6fe68d39b265805b703ea&scene=58&subscene=0#rd)
+  - [微软 AR 战术眼镜正式交付美军；国产「太阳能飞机」首飞成功；《指环王》美剧被批「审美降级」，口碑下降 | 极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2652966746&idx=1&sn=0ab2c5bfe480aad766681bac9d1457cb&chksm=7e5472ec4923fbfad64ee2d7c4701a7674fc38e8c52c601af09fb51fbfdf09ed90633780e2df&scene=58&subscene=0#rd)

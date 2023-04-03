@@ -1,0 +1,82 @@
+# 每日安全资讯（2022-06-27）
+
+- Sploitus.com Exploits RSS Feed
+  - [Microsoft Office Project Universal Silent Builder Exploit exploit](https://sploitus.com/exploit?id=1337DAY-ID-37808&utm_source=rss&utm_medium=rss)
+  - [Microsoft Office Visio VSD Silent Builder Exploit exploit](https://sploitus.com/exploit?id=1337DAY-ID-37809&utm_source=rss&utm_medium=rss)
+  - [Exploit for Code Injection in Wptaskforce Wpcargo Track \& Trace exploit](https://sploitus.com/exploit?id=27C49ADA-861E-5C6E-BBA0-BAE901E52D41&utm_source=rss&utm_medium=rss)
+  - [Exploit for CVE-2021-38314 exploit](https://sploitus.com/exploit?id=6E3BF23B-CAA2-5948-8B61-A66A2ED3B787&utm_source=rss&utm_medium=rss)
+  - [Exploit for Vulnerability in Microsoft exploit](https://sploitus.com/exploit?id=9D782BF3-104F-5613-8414-64751732B707&utm_source=rss&utm_medium=rss)
+- HackerOne Hacker Activity
+  - [User can link non-public file attachments, leading to file disclose on edit by higher-privileged user](https://hackerone.com/reports/763177)
+- CXSECURITY Database RSS Feed - CXSecurity.com
+  - [Yashma Ransomware Builder v1.2 / Insecure Permissions](https://cxsecurity.com/issue/WLB-2022060080)
+  - [Backdoor.Win32.Shark.btu / Insecure Permissions](https://cxsecurity.com/issue/WLB-2022060077)
+  - [Backdoor.Win32.InfecDoor.17.c / Insecure Permissions](https://cxsecurity.com/issue/WLB-2022060078)
+  - [Trojan-Mailfinder.Win32.VB.p / Insecure Permissions](https://cxsecurity.com/issue/WLB-2022060076)
+  - [Yashma Ransomware Builder 1.2 MVID-2022-0613 Insecure Permissions](https://cxsecurity.com/issue/WLB-2022060075)
+- Security Boulevard
+  - [How to Protect Your Remote Workforce from a Cyberattack](https://securityboulevard.com/2022/06/how-to-protect-your-remote-workforce-from-a-cyberattack/)
+  - [Considering RiskLens? We Offer Customized Pilots as Proof of Value (PoV) Engagements](https://securityboulevard.com/2022/06/considering-risklens-we-offer-customized-pilots-as-proof-of-value-pov-engagements/)
+  - [USENIX Enigma 2022 – Riana Pfefferkorn’s ‘Content-Oblivious Trust And Safety Techniques: Results From A Survey Of Online Service Providers’](https://securityboulevard.com/2022/06/usenix-enigma-2022-riana-pfefferkorns-content-oblivious-trust-and-safety-techniques-results-from-a-survey-of-online-service-providers/)
+  - [CommitStrip ‘The Right Tool For The Right Job At The Right Time?’](https://securityboulevard.com/2022/06/commitstrip-the-right-tool-for-the-right-job-at-the-right-time/)
+  - [USENIX Enigma 2022 – Chloé Messdaghi’s ‘Burnout And PCSD: Placing Team At Risk’](https://securityboulevard.com/2022/06/usenix-enigma-2022-chloe-messdaghis-burnout-and-pcsd-placing-team-at-risk/)
+  - [Elevating Privileges with Authentication Coercion Using DFSCoerce](https://securityboulevard.com/2022/06/elevating-privileges-with-authentication-coercion-using-dfscoerce/)
+- Envato Tuts+ Code - Mobile Development
+  - [Build Native iOS and Android Apps With AppMySite](https://code.tutsplus.com/tutorials/build-native-ios-and-android-apps-with-appmysite--cms-41818)
+- Tyranid's Lair
+  - [Finding Running RPC Server Information with NtObjectManager](https://www.tiraniddo.dev/2022/06/finding-running-rpc-server-information.html)
+- Dancho Danchev's Blog - Mind Streams of Information Security Knowledge
+  - [Here Come the Downloads!](http://ddanchev.blogspot.com/2022/06/here-come-downloads.html)
+- HAHWUL
+  - [[Cullinan #39] SRI and File Inclusion](https://www.hahwul.com/2022/06/26/cullinan-39/)
+- 奇客Solidot–传递最新科技情报
+  - [龟等爬行动物几乎没有衰老痕迹](https://www.solidot.org/story?sid=71944)
+  - [Stack Overflow 年度调查显示开发者喜欢 Rust 和远程办公](https://www.solidot.org/story?sid=71943)
+  - [美国参议员在 GitHub 上公布加密货币监管法案](https://www.solidot.org/story?sid=71942)
+- 黑海洋 - WIKI
+  - [开这个破博客的初衷](https://blog.upx8.com/2824)
+  - [贝利自动点击器 v2.6.7a 去广告解锁VIP会员版](https://blog.upx8.com/2823)
+  - [TVbox 电视TV盒子APK猫影视的替身（猫影视接口通用）](https://blog.upx8.com/2822)
+  - [搜书大师 v23.5 无广告VIP版](https://blog.upx8.com/2821)
+- KitPloit - PenTest & Hacking Tools
+  - [Sealighter - Easy ETW Tracing for Security Research](http://www.kitploit.com/2022/06/sealighter-easy-etw-tracing-for.html)
+  - [Scout - Lightweight URL Fuzzer And Spider: Discover A Web Server'S Undisclosed Files, Directories And VHOSTs](http://www.kitploit.com/2022/06/scout-lightweight-url-fuzzer-and-spider.html)
+- SANS Internet Storm Center, InfoCON: green
+  - [My Paste Command, (Sun, Jun 26th)](https://isc.sans.edu/diary/rss/28786)
+  - [More Decoding Analysis, (Sun, Jun 26th)](https://isc.sans.edu/diary/rss/28788)
+- KitPloit - PenTest Tools!
+  - [Sealighter - Easy ETW Tracing for Security Research](http://www.kitploit.com/2022/06/sealighter-easy-etw-tracing-for.html)
+  - [Scout - Lightweight URL Fuzzer And Spider: Discover A Web Server'S Undisclosed Files, Directories And VHOSTs](http://www.kitploit.com/2022/06/scout-lightweight-url-fuzzer-and-spider.html)
+- Your Hacking Tutorial by Zempirians
+  - [what information can I get from a email?](https://www.reddit.com/r/HowToHack/comments/vl6jx8/what_information_can_i_get_from_a_email/)
+- Social Engineering
+  - [Conversation moves](https://www.reddit.com/r/SocialEngineering/comments/vl3y23/conversation_moves/)
+- Computer Forensics
+  - [Detecting Linux Anti-Forensics Log Tampering](https://www.reddit.com/r/computerforensics/comments/vlfqz5/detecting_linux_antiforensics_log_tampering/)
+  - [What is the modern, unofficial digital forensics process model that sees the most real-world application to investigations?](https://www.reddit.com/r/computerforensics/comments/vl2yta/what_is_the_modern_unofficial_digital_forensics/)
+- 数世咨询
+  - [天基太空资产难逃网络攻击](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247493970&idx=1&sn=e60363d7027ff412904a8e0e1c22ade7&chksm=c1449beff63312f94365eb454080db528461b585372eff5adaf8736abb3dd570f499f16d7096&scene=58&subscene=0#rd)
+  - [[调研]2021年80%的公司遭遇身份相关数据泄露](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247493970&idx=2&sn=9ffc17b0a784d96ec0821b76030f0a8e&chksm=c1449beff63312f94744a12946e09b275bd6474e693fd1c5d91fe4095a3318d8e42f183485dc&scene=58&subscene=0#rd)
+- Blackhat Library: Hacking techniques and research
+  - [Making a Link Extractor In Python](https://www.reddit.com/r/blackhat/comments/vktkkw/making_a_link_extractor_in_python/)
+- 看雪学院
+  - [CVE-2016-3309提权漏洞学习笔记](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458454449&idx=1&sn=0e7fcab06f6208c134b8388ea61af637&chksm=b18e393b86f9b02df2779e9bd4d55058cc7666c0c83945978924a0690e47ee0f449087a1ef70&scene=58&subscene=0#rd)
+  - [招生！《安卓高级研修班》2022年夏季班](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458454449&idx=2&sn=c0122501b606c1ccb334113ddc47bf4a&chksm=b18e393b86f9b02d30b9f0be78fa5d2ea77eec354428754723c0065615643a66dd2bcfc6b04d&scene=58&subscene=0#rd)
+- 云鼎实验室
+  - [每周云安全资讯-2022年第26周](https://mp.weixin.qq.com/s?__biz=MzU3ODAyMjg4OQ==&mid=2247494583&idx=1&sn=142ea702017ca3c78726b8b11e8d7e85&chksm=fd791731ca0e9e27aaedb1e0aeb1dc59a023108a8b56430cab676d1d59db95437c2500c9bee1&scene=58&subscene=0#rd)
+- 情报分析师
+  - [【情报教程】信息事件框架](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650507398&idx=1&sn=706a1ec03b0ac329a52db600e3c8fd47&chksm=8716a6cdb0612fdb6f6a1ee1e8673397cd2c8a25f199c90030c64e261689b0e29a7ca426d1e8&scene=58&subscene=0#rd)
+  - [朝鲜半岛军备竞赛的必然性](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650507398&idx=2&sn=3f7b2b3b0134893e5badb133ee0c53ea&chksm=8716a6cdb0612fdb7a7f4e7217909590f87742706d3351aad9d38489f3bd1b0b4b244216f191&scene=58&subscene=0#rd)
+- Security Affairs
+  - [Threat actors sell access to tens of vulnerable networks compromised by exploiting Atlassian 0day](https://securityaffairs.co/wordpress/132637/cyber-crime/access-vulnerable-networks-atlassian-0day.html)
+  - [Security Affairs newsletter Round 371 by Pierluigi Paganini](https://securityaffairs.co/wordpress/132633/breaking-news/security-affairs-newsletter-round-371-by-pierluigi-paganini.html)
+  - [China-linked APT Bronze Starlight deploys ransomware as a smokescreen](https://securityaffairs.co/wordpress/132624/apt/bronze-starlight-deploy-ransomware.html)
+  - [Russia-linked actors may be behind an explosion at a liquefied natural gas plant in Texas](https://securityaffairs.co/wordpress/132608/security/liquefied-natural-gas-plant-texas-explosion.html)
+- TorrentFreak
+  - [Harvard Lawyers Don’t Think That Piracy is Theft, Research Finds](https://torrentfreak.com/harvard-lawyers-dont-think-that-piracy-is-theft-research-finds-220626/)
+- /r/netsec - Information Security News & Discussion
+  - [linx - Reveals invisible links within JavaScript files](https://www.reddit.com/r/netsec/comments/vlgei9/linx_reveals_invisible_links_within_javascript/)
+- 微步在线研究响应中心
+  - [安全威胁情报周报（6.20~6.26）](https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247493742&idx=1&sn=7a16befa5124e2f8162583501bf94545&chksm=cfca8b7af8bd026c20cacf36a1e995f296007143dd0e72c84284083e4a7406e742f0d01c3047&scene=58&subscene=0#rd)
+- Dark Space Blogspot
+  - [Come Configurare IBC Transfers Su Keplr (IBC Relayers e Channel)](http://darkwhite666.blogspot.com/2022/06/come-configurare-ibc-transfers-su-keplr.html)

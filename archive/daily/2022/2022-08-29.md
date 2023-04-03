@@ -1,0 +1,47 @@
+# 每日安全资讯（2022-08-29）
+
+- Twitter @Nicolas Krassas
+  - [Toxssin - An XSS Exploitation Command-Line Interface And Payload Generator](https://twitter.com/Dinosn/status/1563934905792356357)
+  - [SATisfying our way into remote code execution in the OPC UA industrial stack](https://twitter.com/Dinosn/status/1563895599849783297)
+  - [Dealing With False Positives when Scanning Memory Dumps for Cobalt Strike Beacons, (Sun, Aug 28th)](https://twitter.com/Dinosn/status/1563895455364382720)
+  - [Tetsuji: Remote Code Execution on a GameBoy Colour 22 Years Later](https://twitter.com/Dinosn/status/1563781179773489152)
+- CXSECURITY Database RSS Feed - CXSecurity.com
+  - [daihocpccc - Cross Site Scripting Vulnerability (XSS)](https://cxsecurity.com/issue/WLB-2022080072)
+- Security Boulevard
+  - [Key Points from the IBM Cost of a Data Breach Report 2022](https://securityboulevard.com/2022/08/key-points-from-the-ibm-cost-of-a-data-breach-report-2022/)
+  - [BSidesTLV 2022 – Philip Tsukerman’s And Amir Kutcher’s ‘Unmasked! – Fighting Stealthy Execution Methods Using Process Creation Properties’](https://securityboulevard.com/2022/08/bsidestlv-2022-philip-tsukermans-and-amir-kutchers-unmasked-fighting-stealthy-execution-methods-using-process-creation-properties/)
+  - [How to Prevent High Risk Authentication Coercion Vulnerabilities](https://securityboulevard.com/2022/08/how-to-prevent-high-risk-authentication-coercion-vulnerabilities/)
+  - [Will Voluntary CISA Cyber Goals Be Enough to Protect Critical Infrastructure?](https://securityboulevard.com/2022/08/will-voluntary-cisa-cyber-goals-be-enough-to-protect-critical-infrastructure/)
+- unSafe.sh - 不安全
+  - [cby的日常(before 2022.7.21)](https://buaq.net/go-124167.html)
+  - [Toxssin - An XSS Exploitation Command-Line Interface And Payload Generator](https://buaq.net/go-124124.html)
+  - [[送码] 更完善的中文拼音搜索体验：效率启动器 HapiGO 带来多项更新](https://buaq.net/go-124115.html)
+- SecWiki News
+  - [SecWiki News 2022-08-28 Review](http://www.sec-wiki.com/?2022-08-28)
+- ArthurChiao's Blog
+  - [TCP Socket Listen: A Tale of Two Queues](https://arthurchiao.github.io/blog/tcp-listen-a-tale-of-two-queues/)
+- 嘶吼 RoarTalk – 回归最本质的信息安全,互联网安全新媒体,4hou.com
+  - [PostgreSQL漏洞泄露企业数据库，多家云巨头受到影响](https://www.4hou.com/posts/pVV2)
+  - [苹果敦促iPhone用户尽快更新到零风险版本](https://www.4hou.com/posts/wg7M)
+- Twitter @bytehx
+  - [RT Ryan M. Montgomery: Toxssin - (Incredible XSS Hook) - This is the best I've seen in quite a long time, check out the video linked below for a demon...](https://twitter.com/0dayCTF/status/1564016278301548544)
+- Reverse Engineering
+  - [FISSURE - The RF Framework](https://www.reddit.com/r/ReverseEngineering/comments/x06eco/fissure_the_rf_framework/)
+  - [My thinking process for reverse engineering ANYTHING :)](https://www.reddit.com/r/ReverseEngineering/comments/wzz42l/my_thinking_process_for_reverse_engineering/)
+- SAP Blogs
+  - [SAP BTP Cloud Foundry Architecture for Developer](https://blogs.sap.com/2022/08/28/sap-btp-cloud-foundry-architecture-for-developer/)
+  - [SOMIX Suite for Software Visualization](https://blogs.sap.com/2022/08/28/somix-suite-for-software-visualization/)
+  - [Customer Service :  Cost + Uplift Billing  (RR Billing)](https://blogs.sap.com/2022/08/28/customer-service-cost-uplift-billing-rr-billing/)
+  - [Share it from the Web Client](https://blogs.sap.com/2022/08/28/share-it-from-the-web-client/)
+  - [Handle Divide By 0 Error in Hana Sql or Hana View](https://blogs.sap.com/2022/08/28/handle-divide-by-0-error-in-hana-sql-or-hana-view/)
+  - [Query folders base on created secondary type on folders of BTP document management service](https://blogs.sap.com/2022/08/28/query-folders-base-on-created-secondary-type-on-folders-of-btp-document-management-service/)
+- 看雪学院
+  - [某车联网APP加固分析](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458465858&idx=1&sn=1dc3e63174341873bf5cbec39426874c&chksm=b18e06c886f98fde03eaee13675e184b870a438c7c760ae859fe94547ad354796fc50b0bc35d&scene=58&subscene=0#rd)
+  - [《VMProtect分析与还原》—— 附赠价值5000元xx_vm工具](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458465858&idx=2&sn=e049b2252ce742244ccdd622ce633fe9&chksm=b18e06c886f98fde6345e6c249039b1cfa96488dbc8657d811620933d91a4dc5b3b79c6fcacd&scene=58&subscene=0#rd)
+- KitPloit - PenTest & Hacking Tools
+  - [Toxssin - An XSS Exploitation Command-Line Interface And Payload Generator](http://www.kitploit.com/2022/08/toxssin-xss-exploitation-command-line.html)
+- 云鼎实验室
+  - [每周云安全资讯-2022年第35周](https://mp.weixin.qq.com/s?__biz=MzU3ODAyMjg4OQ==&mid=2247494643&idx=1&sn=6c63fa196789329145096a8d2b614ee8&chksm=fd791775ca0e9e6343f299cf96c3d173d8b69e71f66962d6692a1663bd532a1cfc9b83a82e78&scene=58&subscene=0#rd)
+- 极客公园
+  - [卫星，未来太空数据的「智能平台」](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2652966298&idx=1&sn=2fe06b4665c037a754196c4ba176015e&chksm=7e54702c4923f93a665a95d1b273c1da59ace7f9b65d8b77e46eb25d9228f1617ed47e6f6759&scene=58&subscene=0#rd)
+  - [比特币跌破 2 万美元；100多名员工请愿罢免法拉第未来董事长；HBO 确认续订《龙之家族》第二季 | 极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2652966297&idx=1&sn=028ac882bf8c8d4194ee624cc1a56384&chksm=7e54702f4923f939a4d23df1c632c9e2c0938c57591e6d9cb0439b775c92fcb30b33847b44cc&scene=58&subscene=0#rd)

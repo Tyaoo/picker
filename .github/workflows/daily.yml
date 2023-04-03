@@ -1,0 +1,53 @@
+# https://docs.github.com/cn/actions/automating-builds-and-tests/building-and-testing-python
+
+name: Daily Push
+
+# 国际标准时间2点（北京时间10点）
+on:
+  schedule:
+    - cron: '55 1 * * *'
+  workflow_dispatch:
+
+jobs:
+  daily:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Set up Python
+        uses: actions/setup-python@v3
+        with:
+          python-version: '3.x'
+      - name: Install dependencies
+        run: ./install.sh
+
+      - name: Push articles
+        env:
+          FEISHU_KEY: ${{ secrets.FEISHU_KEY }}
+          WECOM_KEY: ${{ secrets.WECOM_KEY }}
+          DINGTALK_KEY: ${{ secrets.DINGTALK_KEY }}
+          DINGTALK_SECRET: ${{ secrets.DINGTALK_SECRET }}
+          QQ_KEY: ${{ secrets.QQ_KEY }}
+          TELEGRAM_KEY: ${{ secrets.TELEGRAM_KEY }}
+          MAIL_KEY: ${{ secrets.MAIL_KEY }}
+          MAIL_RECEIVER: ${{ secrets.MAIL_RECEIVER }}
+          PICKER_DINGTALK_KEY: ${{ secrets.PICKER_DINGTALK_KEY }}
+          PICKER_DINGTALK_SECRET: ${{ secrets.PICKER_DINGTALK_SECRET }}
+        run: python3 yarb.py
+
+      - name: Issue
+        run: gh issue create --title "[每日信息流] `date +'%Y-%m-%d'`" -F today.md --label "daily"
+        env:
+          GITHUB_TOKEN: ${{ secrets.MY_GITHUB_TOKEN }}
+
+      - name: Commit
+        run: |
+          git diff
+          git config --global user.email zeroyu@protonmail.com
+          git config --global user.name z3r0yu
+          git add archive today.md
+          git commit -m "每日安全资讯（`date +'%Y-%m-%d'`）"
+
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.MY_GITHUB_TOKEN }}

@@ -1,0 +1,78 @@
+# 每日安全资讯（2022-07-31）
+
+- HackerOne Hacker Activity
+  - [Corsa Site Scripting Vulnerability (XSS)](https://hackerone.com/reports/1650210)
+  - [Open redirection at https://smartreports.mtncameroon.net](https://hackerone.com/reports/1530396)
+- SecWiki News
+  - [SecWiki News 2022-07-30 Review](http://www.sec-wiki.com/?2022-07-30)
+- Sploitus.com Exploits RSS Feed
+  - [Exploit for CVE-2022-26138 exploit](https://sploitus.com/exploit?id=120220D8-2281-57EE-BD84-1A33B8841E56&utm_source=rss&utm_medium=rss)
+  - [Exploit for Command Injection in Apache Spark exploit](https://sploitus.com/exploit?id=B4E992DA-531E-5132-8B77-B17902277650&utm_source=rss&utm_medium=rss)
+- Verne in GitHub
+  - [离线备份小鹅通反派影评以及节目列表](https://einverne.github.io/post/2022/07/fanpaiyingping-list.html)
+  - [MySQL Binary Log 清理](https://einverne.github.io/post/2022/07/mysql-binary-log.html)
+- Recent Commits to cve:main
+  - [Update Sat Jul 30 11:34:28 UTC 2022](https://github.com/trickest/cve/commit/5353c280ae28ec9a84b87d3ebf3f293f0e24c48a)
+- unSafe.sh - 不安全
+  - [2022全球数字经济大会数字安全峰会暨ISC2022第十届互联网安全大会开幕](https://buaq.net/go-119996.html)
+  - [ISC 2022第十届互联网安全大会开幕，樊友山出席并致辞](https://buaq.net/go-119997.html)
+  - [Nginx 0day LDAP RCE 漏洞情报](https://buaq.net/go-119986.html)
+  - [你向往二舅的坚韧不拔，我向往周公子的低调奢华](https://buaq.net/go-119995.html)
+  - [GSuite domain takeover through delegation](https://buaq.net/go-119975.html)
+  - [Syntax Highlight – 为 macOS 快速查看添加代码高亮功能，支持 100+ 格式](https://buaq.net/go-119969.html)
+  - [任意键｜初见月迅龙、爱生气的巫妖王、奶刃三部曲及其他](https://buaq.net/go-119973.html)
+  - [久违低价！BitDock 终生版 7 折，让你电脑桌面焕然一新](https://buaq.net/go-119964.html)
+  - [IVANTIAVALANCHE漏洞利用（上）](https://buaq.net/go-119960.html)
+  - [IDA Pro 8.0 released.](https://buaq.net/go-119959.html)
+  - [乌克兰广播电台被黑，传播乌克兰总统虚假消息](https://buaq.net/go-119961.html)
+  - [来一场义工旅行，就可以改变人生吗？](https://buaq.net/go-119957.html)
+  - [Treebox - Python AST sandbox challenge from Google CTF 2022](https://buaq.net/go-119984.html)
+  - [Offensive Security OSED Review](https://buaq.net/go-120007.html)
+  - [New Qualys Research Report: Evolution of Quasar RAT](https://buaq.net/go-119915.html)
+  - [Introducing IaC Security from Black Duck](https://buaq.net/go-119916.html)
+  - [nanopb Protobuf Decompiler - Anvil Secure](https://buaq.net/go-119914.html)
+  - [To settle with the DoJ, Uber must confess to a cover-up. And it did.](https://buaq.net/go-119910.html)
+- 嘶吼 RoarTalk – 回归最本质的信息安全,互联网安全新媒体,4hou.com
+  - [2022全球数字经济大会数字安全峰会暨ISC2022第十届互联网安全大会开幕](https://www.4hou.com/posts/VZ0v)
+  - [ISC 2022第十届互联网安全大会开幕，樊友山出席并致辞](https://www.4hou.com/posts/RB5O)
+  - [IVANTIAVALANCHE漏洞利用（上）](https://www.4hou.com/posts/r7g4)
+  - [乌克兰广播电台被黑，传播乌克兰总统虚假消息](https://www.4hou.com/posts/6VYR)
+- Security Boulevard
+  - [Aspen Security Forum 2022 – Moderator: Mary Louise Kelly, Co-Host, All Things Considered, NPR – Fireside Chats with General John W. “Jay” Raymond Chief of Space Operations, U.S. Space Force](https://securityboulevard.com/2022/07/aspen-security-forum-2022-moderator-mary-louise-kelly-co-host-all-things-considered-npr-fireside-chats-with-general-john-w-jay-raymond-chief-of-space-operations-u-s-space-force/)
+  - [XKCD ‘Proxy Variable’](https://securityboulevard.com/2022/07/xkcd-proxy-variable/)
+  - [Staying Ahead of the Distortion of a Cyber Attack?](https://securityboulevard.com/2022/07/staying-ahead-of-the-distortion-of-a-cyber-attack/)
+  - [Aspen Security Forum 2022 – Anja Manuel’s ‘Opens The 22 Aspen Security Forum’](https://securityboulevard.com/2022/07/aspen-security-forum-2022-anja-manuels-opens-the-22-aspen-security-forum/)
+  - [The Past, Present, and Future of (Zero) Trust](https://securityboulevard.com/2022/07/the-past-present-and-future-of-zero-trust/)
+- gynvael.coldwind//vx.log (en)
+  - [Treebox - Python AST sandbox challenge from Google CTF 2022](https://gynvael.coldwind.pl/?id=751)
+- cloud world
+  - [2022 31 Open source weekly report](https://cloudsjhan.github.io/2022/07/30/2022-31-Open-source-weekly-report-1/)
+- Twitter @Nicolas Krassas
+  - [A compact guide to network pivoting for penetration testings / CTF challenges.](https://twitter.com/Dinosn/status/1553315940133007361)
+  - [Security Teams Overwhelmed With Bugs, Bitten by Patch Prioritization](https://twitter.com/Dinosn/status/1553272019969622016)
+  - [CVE-2022-36123 - Linux kernel <5.18.13 lacks a certain clear operation for the block starting symbol (.bss). This allows Xen PV guest OS users to caus...](https://twitter.com/Dinosn/status/1553266798811832320)
+  - [Feds put $10m bounty on Putin pal accused of bankrolling US election troll farm](https://twitter.com/Dinosn/status/1553266750711554048)
+  - [Zeratool v2.2: Automatic Exploit Generation (AEG) with automated remote libc leaking and ret2dlresolve rop chain generation for exploitable CTF proble...](https://twitter.com/Dinosn/status/1553265693134569475)
+- Bug Bounty in InfoSec Write-ups on Medium
+  - [GSuite domain takeover through delegation](https://infosecwriteups.com/gsuite-domain-takeover-through-delegation-9d6664c91142?source=rss----7b722bfd1b8d--bug_bounty)
+- SAP Blogs
+  - [Onboarding – How to resolve, E-Verify did not receive your case information error](https://blogs.sap.com/2022/07/30/onboarding-how-to-resolve-e-verify-did-not-receive-your-case-information-error/)
+- Dancho Danchev's Blog - Mind Streams of Information Security Knowledge
+  - [Shots from the Wild West - Sample Compilation of RATs (Remote Access Tools) and Trojan Horses Screenshots - An OSINT Analysis - Part Two](http://ddanchev.blogspot.com/2022/07/shots-from-wild-west-sample-compilation.html)
+- Hexacorn
+  - [Week of Data Dumps, Part 4 – games-related strings](https://www.hexacorn.com/blog/2022/07/30/week-of-data-dumps-part-4-games-related-strings/)
+- Reverse Engineering
+  - [IDA Pro 8.0 released.](https://www.reddit.com/r/ReverseEngineering/comments/wbnncd/ida_pro_80_released/)
+- HAHWUL
+  - [GraphQL Security](https://www.hahwul.com/cullinan/graphql/)
+  - [ZAP⚡️ Replacer VS Sender Script](https://www.hahwul.com/2022/07/30/zap-replacer-vs-sender-script/)
+- ChaMd5安全团队
+  - [威胁情报 0729-0730](https://mp.weixin.qq.com/s?__biz=MzIzMTc1MjExOQ==&mid=2247506417&idx=1&sn=5d44d5e70209ca87d123365aad64864c&chksm=e89df129dfea783fa3f0a5787262e5b0f11f7bb7c08b1d637816b60a5f85b46df0a53175c6bb&scene=58&subscene=0#rd)
+- 极客公园
+  - [在快手，短视频和直播正在成为行业新的「编程语言」](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2652962417&idx=1&sn=184b128f01d17dc35fcdc58237470310&chksm=7e5583c749220ad11ac0966fc896100d763d7b1bffd505c5dc8ae42fb82537d7ce53371e1a1a&scene=58&subscene=0#rd)
+  - [Instgram：确实学不了 TikTok；每日优鲜创始人徐正：我没跑路；雪碧「经典绿瓶」或成绝响｜极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2652962379&idx=1&sn=8636e43a0b0facc30434ba152e84349c&chksm=7e5583fd49220aebf74e44229341d7880bf1c8009171036eae45ff123ee8d94dde7f842fae20&scene=58&subscene=0#rd)
+- 情报分析师
+  - [【人物库】南希·佩洛西 2022年净资产， 年龄， 身高， 体重， 传记](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650512854&idx=1&sn=9c1cd807cfb0b5a069b6a7e436f11d72&chksm=8716b39db0613a8b9a59df230215d43b6ec3624c49e0625a4c9c1f2f2736ba13bc5ff09a53d1&scene=58&subscene=0#rd)
+  - [技巧篇—利用搜索引擎高效调查](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650512854&idx=2&sn=0aa11ebe7c053341219cbfa7ed69d918&chksm=8716b39db0613a8bf17f62811ca16f38484f2ad2c53bbcab69c3d6811b3449ea53ed847e7262&scene=58&subscene=0#rd)
+- Twitter @hakivvi
+  - [RT Gynvael Coldwind: I've posted a short blog post about a Python sandbox challenge I've made for Google CTF 2022: I've also aggregated solutions I co...](https://twitter.com/gynvael/status/1553308976309276674)

@@ -1,0 +1,73 @@
+# 每日安全资讯（2022-09-26）
+
+- CXSECURITY Database RSS Feed - CXSecurity.com
+  - [Bitbucket Git Command Injection](https://cxsecurity.com/issue/WLB-2022090072)
+  - [WordPress WP-UserOnline 2.88.0 Cross Site Scripting](https://cxsecurity.com/issue/WLB-2022090071)
+  - [Feehi CMS 2.1.1 Remote Code Execution](https://cxsecurity.com/issue/WLB-2022090070)
+- Security Boulevard
+  - [The Benefits of Sock Puppets in Open-Source Intelligence (OSINT)](https://securityboulevard.com/2022/09/the-benefits-of-sock-puppets-in-open-source-intelligence-osint/)
+  - [BSidesLV 2022 Lucky13 CommonGround – Shea Nangle’s, Wendy Knox Everette’s ‘I’m A Little Bit (FedRAMP) Country, I’m A Little Bit SOC2 ‘n Roll’](https://securityboulevard.com/2022/09/bsideslv-2022-lucky13-commonground-shea-nangles-wendy-knox-everettes-im-a-little-bit-fedramp-country-im-a-little-bit-soc2-n-roll/)
+  - [Book Review: ‘If It’s Smart, It’s Vulnerable’](https://securityboulevard.com/2022/09/book-review-if-its-smart-its-vulnerable/)
+- Twitter @Nicolas Krassas
+  - [Comprehensive List of CVE PoC's](https://twitter.com/Dinosn/status/1574078237046513665)
+  - [Sleep obfuscation technique leveraging waitable timers to evade memory scanners.](https://twitter.com/Dinosn/status/1574012296887734273)
+  - [PSAsyncShell - PowerShell Asynchronous TCP Reverse Shell](https://twitter.com/Dinosn/status/1574012157800349696)
+  - [Re @Nutritionist_AP :D](https://twitter.com/Dinosn/status/1574009338003423234)
+  - [RT Anderson Nascimento: /dev/kmem + GDB Stub = kmemd This is an introduction to kmemd - a tool for exploring a live Linux kernel’s memory in a non-in...](https://twitter.com/andersonc0d3/status/1573986822950211584)
+  - [American Airlines learned it was breached from phishing targets](https://twitter.com/Dinosn/status/1573903599045861376)
+  - [Covid antigen test results of 1.7m Indian and foreign nationals leaked online](https://twitter.com/Dinosn/status/1573903548408111107)
+  - [Windows 11 now warns when typing your password in Notepad, websites](https://twitter.com/Dinosn/status/1573903491604643840)
+- Sploitus.com Exploits RSS Feed
+  - [Exploit for CVE-2022-28282 exploit](https://sploitus.com/exploit?id=AFB54C5F-461A-5A0D-828A-2E3995744A32&utm_source=rss&utm_medium=rss)
+  - [Exploit for Command Injection in Atlassian Bitbucket exploit](https://sploitus.com/exploit?id=56B682D7-17D2-522C-9D1C-67C86911E78F&utm_source=rss&utm_medium=rss)
+- SecWiki News
+  - [SecWiki News 2022-09-25 Review](http://www.sec-wiki.com/?2022-09-25)
+- Recent Commits to cve:main
+  - [Update Sun Sep 25 09:57:15 UTC 2022](https://github.com/trickest/cve/commit/9047d44af689c52268da08cffb7c9b6a3449a1e3)
+- 嘶吼 RoarTalk – 回归最本质的信息安全,互联网安全新媒体,4hou.com
+  - [三成热门的PyPI软件包被误标为是恶意软件包](https://www.4hou.com/posts/2JJK)
+  - [浏览器扩展 比你想象得更危险](https://www.4hou.com/posts/GK7y)
+- cloud world
+  - [2022 40 Open source weekly report](https://cloudsjhan.github.io/2022/09/25/2022-40-Open-source-weekly-report/)
+- MaskRay
+  - [Layering check with Clang](https://maskray.me/blog/2022-09-25-layering-check-with-clang)
+- Didier Stevens
+  - [Taking A Look At PNG Files with pngdump.py Beta Version 0.0.3](https://blog.didierstevens.com/2022/09/25/taking-a-look-at-png-files-with-pngdump-py-beta-version-0-0-3/)
+- Twitter @bytehx
+  - [RT Today Cyber News: 📄 Collection of Logger++ filters to find vulnerabilities in API Small collection of filters for Logger ++, which will help you...](https://twitter.com/TodayCyberNews/status/1573917762145382400)
+  - [RT ShreKy: Test for #SSRF Bypasses easier ➡️ #bugbounty #bugbountytips #cybersecurity #cybersecuritytips #infosec #CTF](https://twitter.com/shrekysec/status/1573831191630946306)
+  - [RT ShreKy: BEST XSS Payload lists: 1. Ghetto Bypass - 2. Payloadbox - 3. @BugBountyHunt3r XSS Methodology - 4. @PortSwigger XSS Cheat Sheet - #bugboun...](https://twitter.com/shrekysec/status/1573829647388770305)
+- SAP Blogs
+  - [Periodificaciónde Pedido de Compra  con Accrual Engine – SAP S/4HANA On-Premise](https://blogs.sap.com/2022/09/25/periodificacionde-pedido-de-compra-con-accrual-engine-sap-s-4hana-on-premise/)
+  - [SAP S/4 Transitions — acceleration of SAP Business Technology Platform activities](https://blogs.sap.com/2022/09/25/sap-s-4-transitions-acceleration-of-sap-business-technology-platform-activities/)
+  - [The impact of 2027 on SAP customers](https://blogs.sap.com/2022/09/25/the-impact-of-2027-on-sap-customers/)
+  - [RITA: Registration for Indirect Taxation Abroad – More Than Just a Nice Name](https://blogs.sap.com/2022/09/25/rita-registration-for-indirect-taxation-abroad-more-than-just-a-nice-name/)
+  - [Retroactive Accounting functionality in HCM payroll PART-II](https://blogs.sap.com/2022/09/25/retroactive-accounting-functionality-in-hcm-payroll-part-ii/)
+  - [Zehn kritische Erfolgsfaktoren für Digitalisierungsprojekte – #1 Executive Sponsorship](https://blogs.sap.com/2022/09/25/zehn-kritische-erfolgsfaktoren-fur-digitalisierungsprojekte-1-executive-sponsorship/)
+  - [How to delete/remove SM58 TRFC failed entries using transaction ID](https://blogs.sap.com/2022/09/25/how-to-delete-remove-sm58-trfc-failed-entries-using-transaction-id/)
+  - [Have you ever wanted to build an AI?](https://blogs.sap.com/2022/09/25/have-you-ever-wanted-to-build-an-ai/)
+  - [如何使用盘点API过账到上期间](https://blogs.sap.com/2022/09/25/%e5%a6%82%e4%bd%95%e4%bd%bf%e7%94%a8%e7%9b%98%e7%82%b9api%e8%bf%87%e8%b4%a6%e5%88%b0%e4%b8%8a%e6%9c%9f%e9%97%b4/)
+  - [Join forces with us and collaborate on the SAP Custom Domain Service guides!](https://blogs.sap.com/2022/09/25/join-forces-with-us-and-collaborate-on-the-sap-custom-domain-service-guides/)
+- Reverse Engineering
+  - [Comprehensive List of CVE PoC's](https://www.reddit.com/r/ReverseEngineering/comments/xnr75o/comprehensive_list_of_cve_pocs/)
+- KitPloit - PenTest & Hacking Tools
+  - [PSAsyncShell - PowerShell Asynchronous TCP Reverse Shell](http://www.kitploit.com/2022/09/psasyncshell-powershell-asynchronous.html)
+- 奇客Solidot–传递最新科技情报
+  - [AV1 更新减少三分之一 CPU 编码时间](https://www.solidot.org/story?sid=72873)
+  - [韦伯望远镜拍摄到海王星环结构最清晰视图](https://www.solidot.org/story?sid=72872)
+  - [北京公交司机配发情绪感知设备](https://www.solidot.org/story?sid=72871)
+  - [Tornado Cash 代码重返 GitHub](https://www.solidot.org/story?sid=72870)
+- 安全分析与研究
+  - [透过安全事件剖析黑客组织攻击技术](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247487545&idx=1&sn=414682781f8583da4c18fb043ecb0ef0&chksm=902fbf11a75836071d9bc99dac70602b58d59539c821173d3765e550b1e69b23a59c44af8048&scene=58&subscene=0#rd)
+- 杨龙
+  - [学习笔记：docker image ls -a 和 docker images](https://www.yanglong.pro/%e5%ad%a6%e4%b9%a0%e7%ac%94%e8%ae%b0%ef%bc%9adocker-image-ls-a-%e5%92%8c-docker-images/)
+- 黑海洋 - WIKI
+  - [客服系统源码搭建](https://blog.upx8.com/3003)
+  - [Python在线运行工具（附演示站）](https://blog.upx8.com/3002)
+- 极客公园
+  - [你的下一件「时尚单品」，可能是软件「编」出来的](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2652968562&idx=1&sn=24b9c0bac57015d70e4f8f112d920cb5&chksm=7e546bc44923e2d26cf17992b6b10544df11955d68440fb0bcba0a6f5dc29682c671e30f918a&scene=58&subscene=0#rd)
+  - [科技新趋势：工业数字化、存算一体芯片、微生态制药和英伟达的元宇宙新思考](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2652968562&idx=2&sn=ead88256d1133c9d979c186a8838949e&chksm=7e546bc44923e2d2491ddc0f6a77a9294a2ccffa61a4805934da84665b92d75713cc00c97cec&scene=58&subscene=0#rd)
+  - [国内首个元宇宙大学院系设立；小鹏汽车首批 S4 超快充站上线；《权力的游戏》NFT 来了 | 极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2652968560&idx=1&sn=d90fb637425d16d7c54af350fee5bdf6&chksm=7e546bc64923e2d098f8dcc66d51d1781e0a258c2a9bcad1c7d65765565c744c5925e5fc9d8e&scene=58&subscene=0#rd)
+- 网安杂谈
+  - [烟火成都，安然归来！2022 CCS成都网络安全大会暨数据治理峰会再定档！9月26日重新启幕！](https://mp.weixin.qq.com/s?__biz=MzAwMTMzMDUwNg==&mid=2650886992&idx=1&sn=38ce72f6343b1a258dd027dae0c512c5&chksm=812eaf75b6592663002dc5a2ec3d5976eeaf995e002b607d866e0784c6610be1e255d5b7a2a5&scene=58&subscene=0#rd)
+  - [广东法院发布依法惩治电信网络诈骗犯罪典型案例](https://mp.weixin.qq.com/s?__biz=MzAwMTMzMDUwNg==&mid=2650886992&idx=2&sn=a23bc45774ca3e756f049489817e407f&chksm=812eaf75b6592663704c3a76e016f450e712f6e7af3446f0ffbc50049b6679c3f5fba184750e&scene=58&subscene=0#rd)

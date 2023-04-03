@@ -1,0 +1,235 @@
+# 每日安全资讯（2022-04-30）
+
+- Files ≈ Packet Storm
+  - [TOR Virtual Network Tunneling Tool 0.4.7.7](https://packetstormsecurity.com/files/166906/tor-0.4.7.7.tar.gz)
+  - [Red Hat Security Advisory 2022-1645-01](https://packetstormsecurity.com/files/166905/RHSA-2022-1645-01.txt)
+  - [Red Hat Security Advisory 2022-1644-01](https://packetstormsecurity.com/files/166904/RHSA-2022-1644-01.txt)
+  - [Red Hat Security Advisory 2022-1492-01](https://packetstormsecurity.com/files/166903/RHSA-2022-1492-01.txt)
+  - [Red Hat Security Advisory 2022-1643-01](https://packetstormsecurity.com/files/166902/RHSA-2022-1643-01.txt)
+  - [Red Hat Security Advisory 2022-1436-01](https://packetstormsecurity.com/files/166901/RHSA-2022-1436-01.txt)
+  - [Red Hat Security Advisory 2022-1437-01](https://packetstormsecurity.com/files/166900/RHSA-2022-1437-01.txt)
+  - [Red Hat Security Advisory 2022-1439-01](https://packetstormsecurity.com/files/166899/RHSA-2022-1439-01.txt)
+  - [Red Hat Security Advisory 2022-1438-01](https://packetstormsecurity.com/files/166898/RHSA-2022-1438-01.txt)
+  - [Red Hat Security Advisory 2022-1435-01](https://packetstormsecurity.com/files/166897/RHSA-2022-1435-01.txt)
+  - [Ubuntu Security Notice USN-5398-1](https://packetstormsecurity.com/files/166896/USN-5398-1.txt)
+  - [Ubuntu Security Notice USN-5397-1](https://packetstormsecurity.com/files/166895/USN-5397-1.txt)
+  - [Ubuntu Security Notice USN-5396-1](https://packetstormsecurity.com/files/166894/USN-5396-1.txt)
+  - [Ubuntu Security Notice USN-5395-1](https://packetstormsecurity.com/files/166893/USN-5395-1.txt)
+  - [Red Hat Security Advisory 2022-1642-01](https://packetstormsecurity.com/files/166892/RHSA-2022-1642-01.txt)
+- Darknet
+  - [Socialscan – Command-Line Tool To Check For Email And Social Media Username Usage](https://www.darknet.org.uk/2022/04/socialscan-command-line-tool-to-check-for-email-and-social-media-username-usage/?utm_source=rss&utm_medium=social&utm_campaign=darknetfeed)
+- Sploitus.com Exploits RSS Feed
+  - [Exploit for Out-of-bounds Read in Google Android exploit](https://sploitus.com/exploit?id=E0CC138A-5AFE-570C-A1AC-13C2252B0C66&utm_source=rss&utm_medium=rss)
+  - [Exploit for Out-of-bounds Write in Google Android exploit](https://sploitus.com/exploit?id=5BAC1DED-67B0-58E9-B61A-8EB28DC128CF&utm_source=rss&utm_medium=rss)
+  - [Exploit for Integer Overflow or Wraparound in Openssl exploit](https://sploitus.com/exploit?id=5BCFB44C-A4FD-5890-AE9A-A60CC135A2F1&utm_source=rss&utm_medium=rss)
+- HackerOne Hacker Activity
+  - [Reflected XSS due to vulnerable version of sockjs](https://hackerone.com/reports/1100326)
+  - [Hardcoded AWS credentials in ███████.msi](https://hackerone.com/reports/1368690)
+  - [Reflected XSS [██████]](https://hackerone.com/reports/1309385)
+  - [Reflected XSS [███]](https://hackerone.com/reports/1309237)
+  - [lfi in filePathDownload parameter via ███████](https://hackerone.com/reports/1542734)
+  - [Sensitive data exposure via /secure/QueryComponent!Default.jspa endpoint on ████████](https://hackerone.com/reports/1278977)
+  - [SSRF due to CVE-2021-27905 in www.████████](https://hackerone.com/reports/1183472)
+  - [██████████ vulnerable to CVE-2022-22954](https://hackerone.com/reports/1537543)
+  - [Blind SQL Injection](https://hackerone.com/reports/771215)
+  - [SQL INJECTION in https://████/██████████](https://hackerone.com/reports/723044)
+  - [Possibility to force an admin to install recommended applications](https://hackerone.com/reports/1403614)
+  - [OAUTH2 bearer not-checked for connection re-use](https://hackerone.com/reports/1552110)
+  - [CVE-2022-22576: OAUTH2 bearer bypass in connection re-use](https://hackerone.com/reports/1526328)
+  - [DoS via large console messages](https://hackerone.com/reports/1243724)
+  - [CVE-2022-27776: Auth/cookie leak on redirect](https://hackerone.com/reports/1551591)
+  - [CVE-2022-27775: Bad local IPv6 connection reuse](https://hackerone.com/reports/1551588)
+  - [CVE-2022-27774: Credential leak on redirect](https://hackerone.com/reports/1551586)
+- 绿盟科技技术博客
+  - [绿盟威胁情报月报-202204](http://blog.nsfocus.net/monthly-202204/)
+  - [挖矿监测“动态清零”，近期是否卓有成效？](http://blog.nsfocus.net/ntip-3/)
+  - [让windbg反”反调试”](http://blog.nsfocus.net/windbg-re/)
+- FreeBuf网络安全行业门户
+  - [法国一医疗软件公司因泄露49万患者数据被罚150万欧元](https://www.freebuf.com/articles/331808.html)
+  - [移动发送奇怪短信？我想起了通讯行业的核弹级漏洞](https://www.freebuf.com/news/331797.html)
+  - [漏洞分析篇：栈溢出（CVE-2006-3439）漏洞分析](https://www.freebuf.com/vuls/331772.html)
+  - [从0到1之安全运营如何做好监控？| FreeBuf甲方社群直播回顾](https://www.freebuf.com/articles/web/331762.html)
+  - [FreeBuf甲方群话题讨论 | 聊聊企业攻防实战演练](https://www.freebuf.com/articles/neopoints/331757.html)
+  - [攻击者劫持大量WordPress网站，对乌克兰进行DDoS攻击](https://www.freebuf.com/articles/331760.html)
+  - [FreeBuf周报 | 北京健康宝遭境外网络攻击；可口可乐证实受到网络攻击并开展调查](https://www.freebuf.com/articles/331724.html)
+  - [议题前瞻丨关于零信任架构在金融企业中应用的思路探讨](https://www.freebuf.com/fevents/331722.html)
+  - [微软修复了暴露用户数据库的ExtraReplica Azure漏洞](https://www.freebuf.com/news/331712.html)
+  - [研究发现，支付赎金只占勒索攻击事件总损失的 15%](https://www.freebuf.com/news/331700.html)
+  - [官方通告，北京健康宝遭境外网络攻击](https://www.freebuf.com/news/331681.html)
+- Jiajun的编程随想
+  - [使用Drone CI构建CI/CD系统](https://jiajunhuang.com/articles/2022_04_29-drone_ci.md.html)
+  - [PostgreSQL 操作笔记](https://jiajunhuang.com/articles/2022_04_29-postgres_notes.md.html)
+- 跳跳糖 - 安全与分享社区
+  - [GO逆向分析小结-goparse使用与深入理解interface](https://tttang.com/archive/1574/)
+- Sucuri Blog
+  - [Hacked Website Threat Report 2021](https://blog.sucuri.net/2022/04/hacked-website-threat-report-2021.html)
+- 安全客-有思想的安全新媒体
+  - [360政企安全集团渠道政策2.0正式发布, 与合作伙伴实现共享、共创、共赢](https://www.anquanke.com/post/id/272782)
+  - [数字安全观察-每周简报 （20220416-20220422）](https://www.anquanke.com/post/id/272750)
+  - [社区活动 | 来咯来咯，前方有惊喜降落](https://www.anquanke.com/post/id/272656)
+  - [PSA: Onyx勒索软件破坏大文件，而不是加密它们](https://www.anquanke.com/post/id/272700)
+  - [4月29日每日安全热点 - 联合国收集乌克兰难民生物数据](https://www.anquanke.com/post/id/272727)
+- ElcomSoft blog
+  - [Agent-Based Low-Level iOS File System Extraction](https://blog.elcomsoft.com/2022/04/agent-based-low-level-ios-file-system-extraction/)
+- Security Boulevard
+  - [Tarrak Malware](https://securityboulevard.com/2022/04/tarrak-malware/)
+  - [Facebook’s Meta Algorithms Harming Children by Pushing Toxic Content](https://securityboulevard.com/2022/04/facebooks-meta-algorithms-harming-children-by-pushing-toxic-content/)
+  - [You Can Now Ask Google to Remove Your Phone Number, Email or Address from Search Results](https://securityboulevard.com/2022/04/you-can-now-ask-google-to-remove-your-phone-number-email-or-address-from-search-results/)
+  - [Integrating Better: What Can Integrations Do For Me?](https://securityboulevard.com/2022/04/integrating-better-what-can-integrations-do-for-me/)
+  - [Subtle Tweak to AI Blows Up Missile Accuracy Test](https://securityboulevard.com/2022/04/subtle-tweak-to-ai-blows-up-missile-accuracy-test/)
+  - [OWASP® Global AppSec US 2021 Virtual – Chuck Willis’ & Wias Issa’s ‘Data At Rest Encryption: Going Beyond The Basics To Address Modern Attacks’](https://securityboulevard.com/2022/04/owasp-global-appsec-us-2021-virtual-chuck-willis-wias-issas-data-at-rest-encryption-going-beyond-the-basics-to-address-modern-attacks/)
+  - [Twitter as Bully Pulpit: “political right enjoys higher amplification compared to the political left”](https://securityboulevard.com/2022/04/twitter-as-bully-pulpit-political-right-enjoys-higher-amplification-compared-to-the-political-left/)
+  - [How To Extend an EBS Volume Without an Instance Reboot](https://securityboulevard.com/2022/04/how-to-extend-an-ebs-volume-without-an-instance-reboot/)
+  - [XKCD ‘Lightsabers’](https://securityboulevard.com/2022/04/xkcd-lightsabers/)
+  - [Neighbor security: lessons learned for enterprise networks](https://securityboulevard.com/2022/04/neighbor-security-lessons-learned-for-enterprise-networks/)
+- NVISO Labs
+  - [Analyzing VSTO Office Files](https://blog.nviso.eu/2022/04/29/analyzing-vsto-office-files/)
+- Darknet
+  - [Socialscan – Command-Line Tool To Check For Email And Social Media Username Usage](https://www.darknet.org.uk/2022/04/socialscan-command-line-tool-to-check-for-email-and-social-media-username-usage/?utm_source=rss&utm_medium=social&utm_campaign=darknetfeed)
+- Fox-IT International blog
+  - [Adventures in the land of BumbleBee](https://blog.fox-it.com/2022/04/29/adventures-in-the-land-of-bumblebee/)
+- Didier Stevens
+  - [Update: oledump.py Version 0.0.65](https://blog.didierstevens.com/2022/04/29/update-oledump-py-version-0-0-65/)
+- blog.avast.com EN
+  - [Will Elon Musk follow the rules in his takeover of Twitter?](https://blog.avast.com/eu-reminds-musk-follow-rules)
+- Sucuri Blog
+  - [Hacked Website Threat Report 2021](https://blog.sucuri.net/2022/04/hacked-website-threat-report-2021.html)
+- Reverse Engineering
+  - [What's a handy reverse engineering trick that you think more people should know about?](https://www.reddit.com/r/ReverseEngineering/comments/uerynp/whats_a_handy_reverse_engineering_trick_that_you/)
+- SpiderLabs Blog from Trustwave
+  - [Stormous: The Pro-Russian, Clout Hungry Ransomware Gang Targets the US and Ukraine](https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/stormous-the-pro-russian-clout-hungry-ransomware-gang-targets-the-us-and-ukraine/)
+- SentinelOne
+  - [The Good, the Bad and the Ugly in Cybersecurity – Week 18](https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-18-3/)
+- The Daily Swig | Cybersecurity news and views
+  - [Bug Bounty Radar // The latest bug bounty programs for May 2022](https://portswigger.net/daily-swig/bug-bounty-radar-the-latest-bug-bounty-programs-for-may-2022)
+  - [Data breach at US healthcare provider ARcare impacts 345,000 individuals](https://portswigger.net/daily-swig/data-breach-at-us-healthcare-provider-arcare-impacts-345-000-individuals)
+  - [GitHub offers post-mortem on recent security breach](https://portswigger.net/daily-swig/github-offers-post-mortem-on-recent-security-breach)
+- 4ra1n
+  - [反序列化漏洞的防御与拒绝服务](https://4ra1n.love/post/CMSguicYd/)
+- Malwarebytes Labs
+  - [The top 5 most routinely exploited vulnerabilities of 2021](https://blog.malwarebytes.com/exploits-and-vulnerabilities/2022/04/the-top-5-most-routinely-exploited-vulnerabilities-of-2021/)
+  - [Beware Twitter Messages claiming “Your blue badge Twitter account has been reviewed as spam”](https://blog.malwarebytes.com/social-engineering/2022/04/beware-twitter-messages-claiming-your-blue-badge-twitter-account-has-been-reviewed-as-spam/)
+  - [Beware scammers disguised as fraud busters](https://blog.malwarebytes.com/scams/2022/04/beware-scammers-disguised-as-fraud-busters/)
+  - [Warning! Instagram Stories hides a scam in plain sight](https://blog.malwarebytes.com/scams/2022/04/warning-instagram-stories-hides-a-scam-in-plain-sight/)
+  - [Google Play’s Data safety section empowers Android users to make informed app choices](https://blog.malwarebytes.com/android/2022/04/google-plays-data-safety-section-empowers-android-users-to-make-informed-app-choices/)
+  - [Ukraine government and pro-Ukrainian sites hit by DDoS attacks](https://blog.malwarebytes.com/security-world/2022/04/ukraine-government-and-pro-ukrainian-sites-hit-by-ddos-attacks/)
+- 威尔的代码站
+  - [一份面向Linux下高版本Java的Minecraft参数优化教程](https://blog.binklac.com/e6ad4dc21152/)
+  - [CSharp中实现一个可继承的Singleton基类](https://blog.binklac.com/8049404ed5c7/)
+- rtl-sdr.com
+  - [SDR# and other Hobbyist Ham Radio Software Spotted in Netflix TV Show Yakamoz S-245](https://www.rtl-sdr.com/sdr-and-other-hobbyist-ham-radio-software-spotted-in-netflix-tv-show-yakamoz-s-245/)
+  - [SDRSharp Guide V4.2 Released](https://www.rtl-sdr.com/sdrsharp-guide-v4-2-released/)
+- Security Café
+  - [Pentesting Azure: RECON Techniques](https://securitycafe.ro/2022/04/29/pentesting-azure-recon-techniques/)
+- Hex Rays
+  - [Igor’s tip of the week #87: Function chunks and the decompiler](https://hex-rays.com/blog/igors-tip-of-the-week-87-function-chunks-and-the-decompiler/)
+- KitPloit - PenTest & Hacking Tools
+  - [Osinteye - Username Enumeration And Reconnaisance Suite](http://www.kitploit.com/2022/04/osinteye-username-enumeration-and.html)
+  - [Lupo - Malware IOC Extractor. Debugging Module For Malware Analysis Automation](http://www.kitploit.com/2022/04/lupo-malware-ioc-extractor-debugging.html)
+- Fortinet Threat Research Blog
+  - [Using EPSS to Predict Threats and Secure Your Network](https://www.fortinet.com/blog/threat-research/predict-threats-and-secure-networks-with-epss)
+- Data Breach
+  - [Anonymous hacked Russian PSCB Commercial Bank and companies in the energy sector](https://securityaffairs.co/wordpress/130726/cyber-warfare-2/anonymous-hack-russian-companies.html)
+- Arturo Di Corinto
+  - [Microsoft lancia l’allarme: le cyber-operations russe potrebbero coinvolgere i paesi Nato](https://dicorinto.it/testate/repubblica-it/microsoft-lancia-lallarme-le-cyber-operations-russe-potrebbero-coinvolgere-i-paesi-nato/)
+  - [Tempi duri per gli spioni in Europa](https://dicorinto.it/testate/il-manifesto/tempi-duri-per-gli-spioni-in-europa%ef%bf%bc/)
+- 90Sec - 最新话题
+  - [搞到一套源码不知道怎么 写入一句话 后台上传也绕不过](https://forum.90sec.com/t/topic/2097)
+- Securityinfo.it
+  - [Bug critici in Netatalk per NAS di Synology e QNAP](https://www.securityinfo.it/2022/04/29/bug-critici-in-netatalk-per-nas-di-synology-e-qnap/?utm_source=rss&utm_medium=rss&utm_campaign=bug-critici-in-netatalk-per-nas-di-synology-e-qnap)
+  - [Salgono i riscatti ma un po’ anche l’attenzione](https://www.securityinfo.it/2022/04/29/salgono-i-riscatti-ma-un-po-anche-lattenzione/?utm_source=rss&utm_medium=rss&utm_campaign=salgono-i-riscatti-ma-un-po-anche-lattenzione)
+- Il Disinformatico
+  - [La sigla di testa di Star Trek: Strange New Worlds](http://attivissimo.blogspot.com/2022/04/la-sigla-di-testa-di-star-trek-strange.html)
+  - [Niente podcast stamattina, sono senza voce](http://attivissimo.blogspot.com/2022/04/niente-podcast-stamattina-sono-senza.html)
+- IntelTechniques Blog
+  - [The Privacy, Security, & OSINT Show – Episode 259](https://inteltechniques.com/blog/2022/04/29/the-privacy-security-osint-show-episode-259/)
+- Hakin9 –  IT Security Magazine
+  - [iKy - tool that collects information from an email and shows results in a nice visual interface](https://hakin9.org/iky-tool-that-collects-information-from-an-email/)
+  - [Securing Web Applications in 2022: XDR, DAST, PTaaS & More by Gilad David Maayan](https://hakin9.org/securing-web-applications-in-2022-xdr-dast-ptaas/)
+- Schneier on Security
+  - [Friday Squid Blogging: Ten-Foot Long Squid Washed onto  Japanese Shore — ALIVE](https://www.schneier.com/blog/archives/2022/04/friday-squid-blogging-ten-foot-long-squid-washed-onto-japanese-shore-alive.html)
+  - [Video Conferencing Apps Sometimes Ignore the Mute Button](https://www.schneier.com/blog/archives/2022/04/video-conferencing-apps-sometimes-ignore-the-mute-button.html)
+- 奇客Solidot–传递最新科技情报
+  - [疫苗造成的脊髓灰质炎呈上升趋势](https://www.solidot.org/story?sid=71402)
+  - [气球检测到空中“声音通道”的初步迹象](https://www.solidot.org/story?sid=71401)
+  - [原始微型公寓的生与死](https://www.solidot.org/story?sid=71400)
+  - [“长寿饮食”怎么吃才长寿](https://www.solidot.org/story?sid=71398)
+  - [Eric Schmidt 投资加密货币对 Web3 表达兴趣](https://www.solidot.org/story?sid=71397)
+  - [微软测试在 Edge 中整合 VPN](https://www.solidot.org/story?sid=71396)
+  - [欧盟加入 Mastodon 社交网络](https://www.solidot.org/story?sid=71395)
+- /dev/random
+  - [Botconf Day 3 Wrap-Up](https://blog.rootshell.be/2022/04/30/botconf-day-3-wrap-up/)
+- TS-WAY
+  - [Weekly Threats N. 17 2022](https://www.ts-way.com/it/weekly-threats/2022/04/29/weekly-threats-n-17-2022/)
+- SANS Internet Storm Center, InfoCON: green
+  - [Using Passive DNS sources for Reconnaissance and Enumeration, (Fri, Apr 29th)](https://isc.sans.edu/diary/rss/28596)
+  - [ISC Stormcast For Friday, April 29th, 2022 https://isc.sans.edu/podcastdetail.html&#x3f;id=7986, (Fri, Apr 29th)](https://isc.sans.edu/diary/rss/28598)
+- Security Affairs
+  - [Anonymous hacked Russian PSCB Commercial Bank and companies in the energy sector](https://securityaffairs.co/wordpress/130726/cyber-warfare-2/anonymous-hack-russian-companies.html)
+  - [Hurry up, disable AFP on your QNAP NAS until the vendor fixes 8 bugs](https://securityaffairs.co/wordpress/130720/hacking/critical-afp-qnap-nas.html)
+  - [It’s Called BadUSB for a Reason](https://securityaffairs.co/wordpress/130715/hacking/badusb.html)
+  - [Ongoing DDoS attacks from compromised sites hit Ukraine](https://securityaffairs.co/wordpress/130708/hacking/ddos-attack-hit-ukraine.html)
+- Graham Cluley
+  - [Ransomware costs show prevention is better than the cure](https://www.tripwire.com/state-of-security/security-data-protection/ransomware-costs-prevention-better-than-cure/)
+  - [Elon Musk says Twitter DMs should be end-to-end encrypted](https://www.bitdefender.com/blog/hotforsecurity/elon-musk-says-twitter-dms-should-be-end-to-end-encrypted-2/)
+- Dark Reading
+  - [Good News! IAM Is Near-Universal With SaaS](https://www.darkreading.com/tech-trends/good-news-iam-is-near-universal-with-saas)
+  - [Critical Vulnerabilities Leave Some Network-Attached Storage Devices Open to Attack](https://www.darkreading.com/vulnerabilities-threats/critical-vulnerabilities-qnap-synology-nas-rce)
+  - [Cloudflare Flags Largest HTTPS DDoS Attack It's Ever Recorded](https://www.darkreading.com/attacks-breaches/cloudflare-flags-largest-https-ddos-attack-it-s-ever-recorded)
+  - [Take a Diversified Approach to Encryption](https://www.darkreading.com/vulnerabilities-threats/take-a-diversified-approach-to-encryption)
+  - [Ambient.ai Expands Computer Vision Capabilities for Better Building Security](https://www.darkreading.com/emerging-tech/ambient-ai-expands-computer-vision-capabilities-for-better-building-security)
+- /r/netsec - Information Security News & Discussion
+  - [Introducting MutableSecurity: Seamlessly deployment and management of security solutions](https://www.reddit.com/r/netsec/comments/uenfla/introducting_mutablesecurity_seamlessly/)
+  - [Be aware of this trick: Python module hijacking leading to code execution](https://www.reddit.com/r/netsec/comments/ueimks/be_aware_of_this_trick_python_module_hijacking/)
+- Instapaper: Unread
+  - [Artifacts that you have never analyzed before… namely ETL files.](https://cyberdefnerd.com/2022/04/27/artifacts-that-you-have-never-analyzed-before-namely-etl-files/)
+  - [Does Deep Learning-Based Super-Resolution Help Humans With Face Recognition](https://blog.ampedsoftware.com/2022/04/27/does-deep-learning-based-super-resolution-help-humans-with-face-recognition/)
+  - [Defence Evasion Technique Timestomping Detection – NTFS Forensics](https://www.inversecos.com/2022/04/defence-evasion-technique-timestomping.html)
+  - [Behind the Curtains of the Ransomware Economy – The Victims and the Cybercriminals](https://research.checkpoint.com/2022/behind-the-curtains-of-the-ransomware-economy-the-victims-and-the-cybercriminals/)
+  - [It’s Called BadUSB for a Reason](https://securityaffairs.co/wordpress/130715/hacking/badusb.html)
+  - [WhatsApp, ecco come l’FBI lo sfrutta per spiare i suoi utenti](https://www.webnews.it/?p=1043304)
+  - [Informatici forensi bistrattati, serve una proposta di legge a tutela delle competenze](https://www.agendadigitale.eu/documenti/giustizia-digitale/informatici-forensi-bistrattati-serve-una-proposta-di-legge-a-tutela-delle-competenze/)
+  - [Cybersecurity, come eliminare le aziende russe dalle PA italiane le indicazioni dell’Agenzia cyber](https://www.agendadigitale.eu/sicurezza/cybersecurity-come-eliminare-le-aziende-russe-dalle-pa-italiane-le-indicazioni-dellagenzia-cyber/)
+- Threatpost
+  - [Security Turbulence in the Cloud: Survey Says…](https://threatpost.com/security-turbulence-in-the-cloud-survey-says/179437/)
+  - [Cyberespionage APT Now Identified as Three Separate Actors](https://threatpost.com/apt-id-3-separate-actors/179435/)
+- netsecstudents: Subreddit for students studying Network Security and its related subjects
+  - [Shodan vs Criminal ip](https://www.reddit.com/r/netsecstudents/comments/uecss8/shodan_vs_criminal_ip/)
+- NVISO Labs
+  - [Analyzing VSTO Office Files](https://blog.nviso.eu/2022/04/29/analyzing-vsto-office-files/)
+- Computer Forensics
+  - [Reverse Engineering PsExec for fun and knowledge](https://www.reddit.com/r/computerforensics/comments/uet79h/reverse_engineering_psexec_for_fun_and_knowledge/)
+  - [MacOS Forensics/ SANS FOR518](https://www.reddit.com/r/computerforensics/comments/ueftld/macos_forensics_sans_for518/)
+  - [Current free training?](https://www.reddit.com/r/computerforensics/comments/ue9kdu/current_free_training/)
+  - [DoD Contracting Digital Forensics](https://www.reddit.com/r/computerforensics/comments/uedqnp/dod_contracting_digital_forensics/)
+- KitPloit - PenTest Tools!
+  - [Osinteye - Username Enumeration And Reconnaisance Suite](http://www.kitploit.com/2022/04/osinteye-username-enumeration-and.html)
+  - [Lupo - Malware IOC Extractor. Debugging Module For Malware Analysis Automation](http://www.kitploit.com/2022/04/lupo-malware-ioc-extractor-debugging.html)
+- Deep Web
+  - [I used to use a sort of dark net news thing to surf tor. Can’t remember what it was called](https://www.reddit.com/r/deepweb/comments/ue9tio/i_used_to_use_a_sort_of_dark_net_news_thing_to/)
+- TG Soft Software House - News
+  - [<strong>Vir.IT eXplorer PRO</strong> certificato da Virus Bulletin per aver superato il test <strong>VB100 2022-04</strong> su Win 10 PRO](http://www.tgsoft.it/italy/news_archivio.asp?id=1303)
+- TorrentFreak
+  - [Bing Removed 143 Million ‘Pirate’ Site URLs Last Year](https://torrentfreak.com/bing-removed-143-million-pirate-site-urls-last-year-220429/)
+  - [Man Who Lost $90m Pirate IPTV Suit Slams DISH in Response to New Lawsuit](https://torrentfreak.com/man-who-lost-90m-pirate-iptv-suit-slams-dish-in-response-to-new-lawsuit-220429/)
+- The Register - Security
+  - [Data-wiper malware strains surge as Ukraine battles ongoing invasion](https://go.theregister.com/feed/www.theregister.com/2022/04/29/wiper_attacks_jump_500_percent/)
+  - [Microsoft Edge's 'Secure Network' sounds a lot like a built-in VPN](https://go.theregister.com/feed/www.theregister.com/2022/04/29/edge_vpn/)
+  - [Don’t expect to get your data back from the Onyx ransomware group](https://go.theregister.com/feed/www.theregister.com/2022/04/29/onyx-ransomware-destroy-files/)
+  - [Interpol: We can't arrest our way out of cybercrime](https://go.theregister.com/feed/www.theregister.com/2022/04/29/interpol_cybercrime_partnerships/)
+  - [India gives local techies 60 days to hit 6-hour deadline for infosec incident reporting](https://go.theregister.com/feed/www.theregister.com/2022/04/29/cert_in_directive/)
+  - [Sina Weibo, China's Twitter analog, reveals users' locations and IP addresses](https://go.theregister.com/feed/www.theregister.com/2022/04/29/weibo_location_services_default/)
+  - [Bumblebee malware loader emerges as Conti's BazarLoader fades](https://go.theregister.com/feed/www.theregister.com/2022/04/29/bumblee-malware-conti-malware/)
+- Your Hacking Tutorial by Zempirians
+  - [How to know who pinged me?](https://www.reddit.com/r/HowToHack/comments/uedden/how_to_know_who_pinged_me/)
+  - [Can a Nook Color be hacked in 2022?](https://www.reddit.com/r/HowToHack/comments/uej8f5/can_a_nook_color_be_hacked_in_2022/)
+  - ["hacking" in C](https://www.reddit.com/r/HowToHack/comments/uen1ec/hacking_in_c/)
+  - [well, this is a phishing page](https://www.reddit.com/r/HowToHack/comments/ue9wgk/well_this_is_a_phishing_page/)
+- Social Engineering
+  - [how can you identify someone's love language the first time you meet them?](https://www.reddit.com/r/SocialEngineering/comments/uexuli/how_can_you_identify_someones_love_language_the/)
+  - [Can this be a good strategy/look “savage”?](https://www.reddit.com/r/SocialEngineering/comments/uefzzl/can_this_be_a_good_strategylook_savage/)
+- Krebs on Security
+  - [You Can Now Ask Google to Remove Your Phone Number, Email or Address from Search Results](https://krebsonsecurity.com/2022/04/you-can-now-ask-google-to-remove-your-phone-number-email-or-address-from-search-results/)
+- Paul's Security Weekly
+  - [PSW #738 - Michael Aminov & Marcus Sachs](http://podcast.securityweekly.com/psw-738-michael-aminov-marcus-sachs)
+  - [NPM, Docker, Nimbuspwn, Edge, Emotet, & Owl Grease - Wrap Up - SWN #208](http://podcast.securityweekly.com/npm-docker-nimbuspwn-edge-emotet-owl-grease-wrap-up-swn-208)

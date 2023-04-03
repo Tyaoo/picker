@@ -1,0 +1,131 @@
+# 每日安全资讯（2022-12-25）
+
+- 先知安全技术社区
+  - [ ] [Apache Archiva 任意目录删除(CVE-2022-40309) 和 任意文件读取(CVE-2022-40308)](https://xz.aliyun.com/t/11979)
+  - [ ] [像fofa一样解析RDP信息，RDP提取操作系统，RDP登录截屏 （Golang实现）](https://xz.aliyun.com/t/11978)
+  - [ ] [API安全学习笔记](https://xz.aliyun.com/t/11977)
+- CXSECURITY Database RSS Feed - CXSecurity.com
+  - [ ] [Stock Management System 2022 1.0 From Erick Cesar SQL Injection](https://cxsecurity.com/issue/WLB-2022120045)
+  - [ ] [OpenTSDB 2.4.0 Command Injection](https://cxsecurity.com/issue/WLB-2022120044)
+  - [ ] [WordPress Yith WooCommerce Gift Cards Premium 3.19.0 Shell Upload](https://cxsecurity.com/issue/WLB-2022120043)
+- Sploitus.com Exploits RSS Feed
+  - [ ] [Senayan Library Management System 9.2.1 SQL Injection Vulnerability exploit](https://sploitus.com/exploit?id=1337DAY-ID-38119&utm_source=rss&utm_medium=rss)
+  - [ ] [macOS/x64 Execve Null-Free Shellcode (253 bytes) exploit](https://sploitus.com/exploit?id=1337DAY-ID-38121&utm_source=rss&utm_medium=rss)
+  - [ ] [Eclipse Business Intelligence Reporting Tool 4.11.0 Remote Code Execution Vulnerability exploit](https://sploitus.com/exploit?id=1337DAY-ID-38125&utm_source=rss&utm_medium=rss)
+  - [ ] [Senayan Library Management System 9.2.1 Cross Site Scripting Vulnerability exploit](https://sploitus.com/exploit?id=1337DAY-ID-38118&utm_source=rss&utm_medium=rss)
+  - [ ] [macOS/x64 Execve Caesar Cipher String Null-Free Shellcode (286 bytes) exploit](https://sploitus.com/exploit?id=1337DAY-ID-38122&utm_source=rss&utm_medium=rss)
+  - [ ] [WordPress Yith WooCommerce Gift Cards Premium 3.19.0 Shell Upload Vulnerability exploit](https://sploitus.com/exploit?id=1337DAY-ID-38127&utm_source=rss&utm_medium=rss)
+  - [ ] [4images 1.9 Remote Command Execution Vulnerability exploit](https://sploitus.com/exploit?id=1337DAY-ID-38123&utm_source=rss&utm_medium=rss)
+  - [ ] [Senayan Library Management System 9.2.2 SQL Injection Vulnerability exploit](https://sploitus.com/exploit?id=1337DAY-ID-38120&utm_source=rss&utm_medium=rss)
+  - [ ] [OpenTSDB 2.4.0 Command Injection Exploit exploit](https://sploitus.com/exploit?id=1337DAY-ID-38128&utm_source=rss&utm_medium=rss)
+  - [ ] [Stock Management System 2022 1.0 From Erick Cesar SQL Injection Vulnerability exploit](https://sploitus.com/exploit?id=1337DAY-ID-38126&utm_source=rss&utm_medium=rss)
+  - [ ] [Senayan Library Management System 9.1.1 Cross Site Scripting Vulnerability exploit](https://sploitus.com/exploit?id=1337DAY-ID-38115&utm_source=rss&utm_medium=rss)
+  - [ ] [Senayan Library Management System 9.2.0 Cross Site Scripting Vulnerability exploit](https://sploitus.com/exploit?id=1337DAY-ID-38116&utm_source=rss&utm_medium=rss)
+  - [ ] [Senayan Library Management System 9.1.1 SQL Injection Vulnerability exploit](https://sploitus.com/exploit?id=1337DAY-ID-38114&utm_source=rss&utm_medium=rss)
+  - [ ] [Senayan Library Management System 9.2.2 Cross Site Scripting Vulnerability exploit](https://sploitus.com/exploit?id=1337DAY-ID-38124&utm_source=rss&utm_medium=rss)
+  - [ ] [Senayan Library Management System 9.2.0 SQL Injection Vulnerability exploit](https://sploitus.com/exploit?id=1337DAY-ID-38117&utm_source=rss&utm_medium=rss)
+  - [ ] [Exploit for Missing Authentication for Critical Function in F5 Big-Ip Access Policy Manager exploit](https://sploitus.com/exploit?id=E2690F56-34D9-5735-A733-8193CE2B6DBE&utm_source=rss&utm_medium=rss)
+- l3yx's blog
+  - [ ] [Apache Archiva 任意目录删除(CVE-2022-40309) 和 任意文件读取(CVE-2022-40308)](https://l3yx.github.io/2022/12/24/Apache-Archiva-%E4%BB%BB%E6%84%8F%E7%9B%AE%E5%BD%95%E5%88%A0%E9%99%A4-CVE-2022-40309-%E5%92%8C-%E4%BB%BB%E6%84%8F%E6%96%87%E4%BB%B6%E8%AF%BB%E5%8F%96-CVE-2022-40308/)
+- Security Boulevard
+  - [ ] [Zambia Abolishes Death Penalty Citing End of Colonialism](https://securityboulevard.com/2022/12/zambia-abolishes-death-penalty-citing-end-of-colonialism/)
+  - [ ] [USENIX Security ’22 – Bailey Kacsmar, Kyle Tilbury, Miti Mazmudar, Florian Kerschbaum ‘Caring About Sharing: User Perceptions Of Multiparty Data Sharing’](https://securityboulevard.com/2022/12/usenix-security-22-bailey-kacsmar-kyle-tilbury-miti-mazmudar-florian-kerschbaum-caring-about-sharing-user-perceptions-of-multiparty-data-sharing/)
+  - [ ] [10 out of 10 “Driverless” Fatalities Were Caused by Tesla](https://securityboulevard.com/2022/12/10-out-of-10-driverless-fatalities-were-caused-by-tesla/)
+  - [ ] [Rivian Announces “Snow Mode”](https://securityboulevard.com/2022/12/rivian-announces-snow-mode/)
+- 嘶吼 RoarTalk – 回归最本质的信息安全,互联网安全新媒体,4hou.com
+  - [ ] [网络钓鱼和诈骗趋势分析](https://www.4hou.com/posts/ykj6)
+  - [ ] [网络攻击者分分钟可将流行的EDR工具变成极具破坏性的数据擦除工具](https://www.4hou.com/posts/oJ1Y)
+  - [ ] [360SRC年度白帽颁奖礼倒计时 1天](https://www.4hou.com/posts/4KB7)
+- Twitter @Nicolas Krassas
+  - [ ] [Convolutional Neural Network for Reverse Engineering](https://twitter.com/Dinosn/status/1606724740408029184)
+  - [ ] [Reverse Engineering Tiktok's VM Obfuscation (Part 1)](https://twitter.com/Dinosn/status/1606724711815479296)
+  - [ ] [Pythonic Malware Part-3: In-Memory Execution and Modern Evasion](https://twitter.com/Dinosn/status/1606709123399172096)
+  - [ ] [Raspberry Robin malware used in attacks against Telecom and Governments](https://twitter.com/Dinosn/status/1606708841235750912)
+  - [ ] [Expert found Backdoor credentials in ZyXEL LTE3301 M209](https://twitter.com/Dinosn/status/1606708802413273094)
+  - [ ] [APIKit：Discovery, Scan and Audit APIs Toolkit All In One.](https://twitter.com/Dinosn/status/1606648865809219586)
+  - [ ] [TikTok parent company ByteDance revealed the use of TikTok data to track journalists](https://twitter.com/Dinosn/status/1606648225267605505)
+  - [ ] [Apache Archiva Arbitrary Directory Delete (CVE-2022-40309) and Arbitrary File Read (CVE-2022-40308)](https://twitter.com/Dinosn/status/1606648180606734337)
+  - [ ] [Autobloody - Tool To Automatically Exploit Active Directory Privilege Escalation Paths Shown By BloodHound](https://twitter.com/Dinosn/status/1606647822035652610)
+  - [ ] [W4SP Stealer Discovered in Multiple PyPI Packages Under Various Names](https://twitter.com/Dinosn/status/1606647794646786051)
+  - [ ] [Re @scriptjunkie1 Not unpopular opinion. Microsoft also suggested the same and nist guidelines doesn’t require password rotation. Only archaic audito...](https://twitter.com/Dinosn/status/1606604273873260544)
+  - [ ] [L’art de l’évasion: How Shlayer hides its configuration inside Apple proprietary DMG files](https://twitter.com/Dinosn/status/1606546826005516292)
+- Recent Commits to cve:main
+  - [ ] [Update Sat Dec 24 13:45:51 UTC 2022](https://github.com/trickest/cve/commit/2bc7f779f06eccf56574370c16e735b9b6302c3e)
+- unSafe.sh - 不安全
+  - [ ] [Backdoor HackTheBox Walkthrough](https://buaq.net/go-141277.html)
+  - [ ] [Reverse Engineering Tiktok's VM Obfuscation (Part 1)](https://buaq.net/go-141281.html)
+  - [ ] [Autobloody - Tool To Automatically Exploit Active Directory Privilege Escalation Paths Shown By BloodHound](https://buaq.net/go-141265.html)
+  - [ ] [QuickViewPic – 将多张图片“钉”在屏幕边缘，快速切换查看[Windows]](https://buaq.net/go-141263.html)
+  - [ ] [Decrypt IPA Store](https://buaq.net/go-141261.html)
+  - [ ] [MoveDitto – 让 Ditto 出现在输入光标附近](https://buaq.net/go-141264.html)
+  - [ ] [找到基础与关键，让保持心流不再是难事](https://buaq.net/go-141267.html)
+  - [ ] [Apache Archiva 任意目录删除(CVE-2022-40309) 和 任意文件读取(CVE-2022-40308)](https://buaq.net/go-141257.html)
+  - [ ] [心动的信号：人的心脏为什么会跳动？​](https://buaq.net/go-141249.html)
+  - [ ] [像fofa一样解析RDP信息，RDP提取操作系统，RDP登录截屏 （Golang实现）](https://buaq.net/go-141258.html)
+  - [ ] [API安全学习笔记](https://buaq.net/go-141259.html)
+  - [ ] [网络钓鱼和诈骗趋势分析](https://buaq.net/go-141239.html)
+  - [ ] [网络攻击者分分钟可将流行的EDR工具变成极具破坏性的数据擦除工具](https://buaq.net/go-141240.html)
+  - [ ] [360SRC年度白帽颁奖礼倒计时 1天](https://buaq.net/go-141229.html)
+  - [ ] [Update: myjson-filter.py Version 0.0.3](https://buaq.net/go-141216.html)
+  - [ ] [Unicorn - CPU emulator framework (ARM, AArch64, M68K, Mips, Sparc, PowerPC, RiscV, S390x, TriCore, X86)](https://buaq.net/go-141206.html)
+  - [ ] [Convolutional Neural Network for Reverse Engineering](https://buaq.net/go-141199.html)
+- Twitter @bytehx
+  - [ ] [We are releasing our new finding about Remote Code Execution through log4j on Ad Manager Plus. It was nice collaboration with @mgthuramoemyint and tha...](https://twitter.com/bytehx343/status/1606658410258509824)
+  - [ ] [RT Osirys: How I missed this beautiful piece of research I have no idea, I’m sure I might not be the only one. TL;DR they had a “universal” WAF byp...](https://twitter.com/osiryszzz/status/1606470124344856576)
+- Didier Stevens
+  - [ ] [Update: myjson-filter.py Version 0.0.3](https://blog.didierstevens.com/2022/12/24/update-myjson-filter-py-version-0-0-3/)
+- Bug Bounty in InfoSec Write-ups on Medium
+  - [ ] [CRLF Injection — xxx$ — How was it possible for me to earn a bounty with the Cloudflare WAF?](https://infosecwriteups.com/crlf-injection-xxx-how-was-it-possible-for-me-to-earn-a-bounty-with-the-cloudflare-waf-f581506f97f5?source=rss----7b722bfd1b8d--bug_bounty)
+  - [ ] [Bypass Apple’s redirection process with the dot (“.”) character](https://infosecwriteups.com/bypass-apples-redirection-process-with-the-dot-character-c47d40537202?source=rss----7b722bfd1b8d--bug_bounty)
+- SAP Blogs
+  - [ ] [Easy way to perform Stock Buy And Sell algorithm in SAP BTP ABAP(Steampunk), JS & Python](https://blogs.sap.com/2022/12/24/easy-way-to-perform-stock-buy-and-sell-algorithm-in-sap-btp-abapsteampunk-js-python/)
+  - [ ] [Discovering SAP’s Grouping, Pegging, and Distribution(GPD) – Distribution](https://blogs.sap.com/2022/12/24/discovering-saps-grouping-pegging-and-distributiongpd-distribution/)
+- Reverse Engineering
+  - [ ] [Reverse Engineering Tiktok's VM Obfuscation (Part 1)](https://www.reddit.com/r/ReverseEngineering/comments/zubos7/reverse_engineering_tiktoks_vm_obfuscation_part_1/)
+- 奇客Solidot–传递最新科技情报
+  - [ ] [微软证实 Bethesda 即将发布的三款作品将是 PC 和 Xbox 独占](https://www.solidot.org/story?sid=73750)
+  - [ ] [美国国会通过拨款法案禁止政府设备安装 TikTok](https://www.solidot.org/story?sid=73749)
+  - [ ] [腾讯今年关闭逾 40 个项目](https://www.solidot.org/story?sid=73748)
+  - [ ] [华为与诺基亚延长技术授权协议](https://www.solidot.org/story?sid=73747)
+- KitPloit - PenTest & Hacking Tools
+  - [ ] [Autobloody - Tool To Automatically Exploit Active Directory Privilege Escalation Paths Shown By BloodHound](http://www.kitploit.com/2022/12/autobloody-tool-to-automatically.html)
+- Hacking就是好玩
+  - [ ] [用golang将nmap os finger功能实现了，扫描器轮子+1～ 只要开放了tcp端口，就能在五秒内识别出操作系统，手机，路由器系统也都能。](https://mp.weixin.qq.com/s?__biz=MzU2NzcwNTY3Mg==&mid=2247484628&idx=1&sn=bc49ebef8e160a51cd7eee0020dd27b9&chksm=fc986df3cbefe4e54c3deeb1648e31aa81a69d55109ff74944a9d71ad679ef0cdda8ed82fb07&scene=58&subscene=0#rd)
+- 网安寻路人
+  - [ ] [欧盟新近执法中所见的跨境传输和匿（假）名化](https://mp.weixin.qq.com/s?__biz=MzIxODM0NDU4MQ==&mid=2247497582&idx=1&sn=283a8cce070763340d46579117f5de5a&chksm=97e94a84a09ec392b71f52c753314ff7211bccb0959f014159ab27f24353945ed32fc60a3684&scene=58&subscene=0#rd)
+- ICT Security Magazine
+  - [ ] [Cybersecurity e P.A., i principali attacchi del 2022](https://www.ictsecuritymagazine.com/notizie/cybersecurity-e-p-a-i-principali-attacchi-del-2022/)
+  - [ ] [Guerra digitale: il gruppo russo Trident Ursa non interrompe le sue attività cyber](https://www.ictsecuritymagazine.com/notizie/guerra-digitale-il-gruppo-russo-trident-ursa-non-interrompe-le-sue-attivita-cyber/)
+- Il Disinformatico
+  - [ ] [Il Delirio del Giorno: energia dal nulla per creare “ecovillaggi indipendenti anarchici autogestiti”](http://attivissimo.blogspot.com/2022/12/il-delirio-del-giorno-energia-dal-nulla.html)
+  - [ ] [Twitterremoto (quarta puntata): compare il numero di visualizzazioni, #ThereIsHelp rimosso temporaneamente, giornalisti ancora bloccati e altro ancora](http://attivissimo.blogspot.com/2022/12/twitterremoto-quarta-puntata-compare-il.html)
+- SANS Internet Storm Center, InfoCON: green
+  - [ ] [DShield Sensor Setup in Azure, (Wed, Dec 21st)](https://isc.sans.edu/diary/rss/29370)
+- Daniel Miessler
+  - [ ] [My Philosophy and Recommendations Around the LastPass Breaches](https://danielmiessler.com/blog/my-philosophy-and-recommendations-around-the-lastpass-breaches/)
+- Instapaper: Unread
+  - [ ] [What Is Flipper Zero The Hacker Tool Going Viral on TikTok, Explained](https://www.wired.com/story/what-is-flipper-zero-tiktok/)
+  - [ ] [Spionaggio sulle piattaforme social gli spyware e le misure per proteggersi dalla cyber sorveglianza](https://www.cybersecurity360.it/nuove-minacce/spionaggio-sulle-piattaforme-social-gli-spyware-e-le-misure-per-proteggersi-dalla-cyber-sorveglianza/)
+  - [ ] [LastPass Hackers accessed and copied customers’ password vaults](https://www-therecord.recfut.com/lastpass-hackers-accessed-and-copied-customers-password-vaults/)
+- TorrentFreak
+  - [ ] [EU: Complex Pirate IPTV Networks Underpin a Parallel Black Market](https://torrentfreak.com/eu-complex-pirate-iptv-networks-underpin-a-parallel-black-market-221224/)
+- Blackhat Library: Hacking techniques and research
+  - [ ] [Twitter API vulnerability leads to 400,000,000 Twitter users database being sold online](https://www.reddit.com/r/blackhat/comments/zudbyd/twitter_api_vulnerability_leads_to_400000000/)
+  - [ ] [2023::Hacking::Adventures::With::Qubes-OS::2023](https://www.reddit.com/r/blackhat/comments/ztwx1o/2023hackingadventureswithqubesos2023/)
+- Your Hacking Tutorial by Zempirians
+  - [ ] [Best ip fetchig tool?](https://www.reddit.com/r/HowToHack/comments/zu8g92/best_ip_fetchig_tool/)
+  - [ ] [Someone's cracking my wifi again and again](https://www.reddit.com/r/HowToHack/comments/zucvce/someones_cracking_my_wifi_again_and_again/)
+- The Register - Security
+  - [ ] [Back to work, Linux admins: You have a CVSS 10 kernel bug to address](https://go.theregister.com/feed/www.theregister.com/2022/12/24/back_to_work_linux_admins/)
+- Deeplinks
+  - [ ] [Pivotal Year for the Metaverse and Extended Reality: 2022 in Review](https://www.eff.org/deeplinks/2022/12/pivotal-year-metaverse-and-extended-reality)
+  - [ ] [EFF’s Threat Lab Sharpens Its Knives: 2022 in Review](https://www.eff.org/deeplinks/2022/12/threat-lab-2022-year-review)
+- The Hacker News
+  - [ ] [W4SP Stealer Discovered in Multiple PyPI Packages Under Various Names](https://thehackernews.com/2022/12/w4sp-stealer-discovered-in-multiple.html)
+- Security Affairs
+  - [ ] [Expert found Backdoor credentials in ZyXEL LTE3301 M209](https://securityaffairs.co/wordpress/139974/hacking/backdoor-credentials-zyxel-lte3301-m209.html)
+  - [ ] [Raspberry Robin malware used in attacks against Telecom and Governments](https://securityaffairs.co/wordpress/139964/breaking-news/raspberry-robin-targets-telecom-governments.html)
+- Technical Information Security Content & Discussion
+  - [ ] [Linux kernel module generator for Hidden firewall that follows the rules in the external YAML file.](https://www.reddit.com/r/netsec/comments/zu3i3c/linux_kernel_module_generator_for_hidden_firewall/)
+- KitPloit - PenTest Tools!
+  - [ ] [Autobloody - Tool To Automatically Exploit Active Directory Privilege Escalation Paths Shown By BloodHound](http://www.kitploit.com/2022/12/autobloody-tool-to-automatically.html)

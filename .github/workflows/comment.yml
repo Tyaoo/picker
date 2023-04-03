@@ -1,0 +1,33 @@
+name: COMMENT
+
+on:
+  issue_comment:
+    types: [created]
+
+jobs:
+  push-comment:
+    runs-on: ubuntu-latest
+    if: contains(github.event.issue.labels.*.name, 'pick')
+    steps:
+      - uses: actions/checkout@v3
+      - id: title
+        run: |
+          title=`echo ${{ toJson(github.event.issue.title) }} | sed "s/\"/\\\'/g"`
+          echo "::set-output name=title::$title"
+      - id: body
+        run: |
+          body=`echo ${{ toJson(github.event.comment.body) }} | sed "s/\"/\\\'/g"`
+          echo "::set-output name=body::$body"
+      - name: Send dingding notify
+        uses: zcong1993/actions-ding@master
+        with:
+          dingToken: ${{ secrets.PICKER_DINGTALK_KEY }}
+          secret: ${{ secrets.PICKER_DINGTALK_SECRET }}
+          body: |
+            {
+              "msgtype": "markdown",
+              "markdown": {
+                  "text": " ${{ github.event.comment.user.login }} 评论了 [${{ steps.title.outputs.title }}](${{ github.event.comment.html_url }}): \n\n${{ steps.body.outputs.body }}",
+                  "title": "${{ steps.title.outputs.title }} 新增评论"
+              }
+            }

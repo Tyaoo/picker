@@ -1,0 +1,108 @@
+# 每日安全资讯（2022-12-18）
+
+- 先知安全技术社区
+  - [ ] [CVE-2022-39198 Apache Dubbo Hession Deserialization Vulnerability Gadgets Bypass](https://xz.aliyun.com/t/11961)
+- 嘶吼 RoarTalk – 回归最本质的信息安全,互联网安全新媒体,4hou.com
+  - [ ] [通过窃取Cookie发起的攻击越来越多](https://www.4hou.com/posts/QLKl)
+  - [ ] [PRoot漏洞可劫持Linux设备](https://www.4hou.com/posts/l6w1)
+- l3yx's blog
+  - [ ] [用CodeQL分析漏洞_CVE-2022-42889](https://l3yx.github.io/2022/12/17/%E7%94%A8CodeQL%E5%88%86%E6%9E%90%E6%BC%8F%E6%B4%9E-CVE-2022-42889/)
+- SecWiki News
+  - [ ] [SecWiki News 2022-12-17 Review](http://www.sec-wiki.com/?2022-12-17)
+- Sploitus.com Exploits RSS Feed
+  - [ ] [Exploit for CVE-2021-26258 exploit](https://sploitus.com/exploit?id=543340A5-A439-5EEB-ACB9-BAE329831DFA&utm_source=rss&utm_medium=rss)
+  - [ ] [Exploit for CVE-2022-46689 exploit](https://sploitus.com/exploit?id=DF2BD05F-C39C-5C4C-B4F3-C8056CAB2D1B&utm_source=rss&utm_medium=rss)
+- Security Boulevard
+  - [ ] [5 Things Every Organization Should Consider When It Comes to Cybersecurity Awareness Training](https://securityboulevard.com/2022/12/5-things-every-organization-should-consider-when-it-comes-to-cybersecurity-awareness-training/)
+  - [ ] [Ukrainian-born Israeli Living in America Arrested for Leaking Weapons Tech to Russia](https://securityboulevard.com/2022/12/ukrainian-born-israeli-living-in-america-arrested-for-leaking-weapons-tech-to-russia/)
+  - [ ] [Facebook Security Failures Fueled Hate-Speech That Exacerbated Violence and Ethiopian Civil War](https://securityboulevard.com/2022/12/facebook-security-failures-fueled-hate-speech-that-exacerbated-violence-and-ethiopian-civil-war/)
+  - [ ] [Why do cyber-attacks increase during holidays?](https://securityboulevard.com/2022/12/why-do-cyber-attacks-increase-during-holidays/)
+  - [ ] [USENIX Security ’22 – ‘Hertzbleed: Turning Power Side-Channel Attacks Into Remote Timing Attacks On x86’](https://securityboulevard.com/2022/12/usenix-security-22-hertzbleed-turning-power-side-channel-attacks-into-remote-timing-attacks-on-x86/)
+  - [ ] [Telegram App Scams & The Steps To Protect Against Them](https://securityboulevard.com/2022/12/telegram-app-scams-the-steps-to-protect-against-them/)
+- unSafe.sh - 不安全
+  - [ ] [本站已升级到PHP 8.0](https://buaq.net/go-140416.html)
+  - [ ] [Octosuite - Advanced Github OSINT Framework](https://buaq.net/go-140410.html)
+  - [ ] [CVE-2022-39198 Apache Dubbo Hession Deserialization Vulnerability Gadgets Bypass](https://buaq.net/go-140408.html)
+  - [ ] [VideoProc 限免：一站式视频处理工具：支持 GPU 加速，视频下载、视频编辑、格式转换、录屏等[Win/macOS]](https://buaq.net/go-140403.html)
+  - [ ] [解析动效设计原理，让你的 Keynote 也能「动」起来](https://buaq.net/go-140407.html)
+  - [ ] [cherry-snippet – 基于 CherryTree 的代码片段工具[Windows]](https://buaq.net/go-140394.html)
+  - [ ] [通过窃取Cookie发起的攻击越来越多](https://buaq.net/go-140383.html)
+  - [ ] [健康人也应该了解的血糖管理（上）：血糖监测方式概述](https://buaq.net/go-140389.html)
+  - [ ] [PRoot漏洞可劫持Linux设备](https://buaq.net/go-140384.html)
+  - [ ] [Detecting off The Land - Hash Lookups from Native Tooling](https://buaq.net/go-140438.html)
+  - [ ] [Update: virustotal-search.py Version 0.1.8](https://buaq.net/go-140346.html)
+  - [ ] [FLARE VM updated (v4): Improved installation, customization, and community support](https://buaq.net/go-140343.html)
+  - [ ] [VoceChat](https://buaq.net/go-140341.html)
+  - [ ] [Twitter Futures](https://buaq.net/go-140435.html)
+  - [ ] [GPS Live | December 16, 2022](https://buaq.net/go-140340.html)
+  - [ ] [IWCON2022 Networking Rooms Are Now Open + New Speaker Announcement](https://buaq.net/go-140339.html)
+- Twitter @Nicolas Krassas
+  - [ ] [I Hope This Sticks: Analyzing ClipboardEvent Listeners for Stored XSS](https://twitter.com/Dinosn/status/1604215829150990336)
+  - [ ] [RT Zhuowei Zhang: New blog post: Get root on macOS 13.0.1 with CVE-2022-46689, the macOS Dirty Cow bug % ./switcharoo /etc/pam.d/su overwrite_file.bin...](https://twitter.com/zhuowei/status/1604162670319796224)
+  - [ ] [HTB: Support](https://twitter.com/Dinosn/status/1604136531446607872)
+- cloud world
+  - [ ] [2022 51 Open source weekly report](https://cloudsjhan.github.io/2022/12/17/2022-51-Open-source-weekly-report/)
+- Dancho Danchev's Blog - Mind Streams of Information Security Knowledge
+  - [ ] [Official Complaint Against the Dark City of Troyan, Republic of Bulgaria and Local Law Enforcement Regarding Dancho Danchev's Disappearance and Kidnapping and Home Molestation Attempt Circa 2010 - An Analysis](https://ddanchev.blogspot.com/2022/12/official-complaint-against-dark-city-of.html)
+- Recent Commits to cve:main
+  - [ ] [Update Sat Dec 17 13:50:07 UTC 2022](https://github.com/trickest/cve/commit/91c89836a71465215abf129be5fe65b7ff17ff06)
+- Didier Stevens
+  - [ ] [Update: virustotal-search.py Version 0.1.8](https://blog.didierstevens.com/2022/12/17/update-virustotal-search-py-version-0-1-8/)
+- SAP Blogs
+  - [ ] [Walkthrough of S/4HANA Conversion Project Cycle](https://blogs.sap.com/2022/12/17/walkthrough-of-s-4hana-conversion-project-cycle/)
+  - [ ] [Hacks for Innovation 2022: Experience using SAP Build apps](https://blogs.sap.com/2022/12/17/hacks-for-innovation-2022-experience-using-sap-build-apps/)
+  - [ ] [PS Easy Cost Planning Integration with S/4HANA Financial Planning](https://blogs.sap.com/2022/12/17/ps-easy-cost-planning-integration-with-s-4hana-financial-planning/)
+  - [ ] [Create a sample CDS View and AMDP with ChatGPT](https://blogs.sap.com/2022/12/17/create-a-sample-cds-view-and-amdp-with-chatgpt/)
+  - [ ] [Down Payments in SAP Business ByDesign](https://blogs.sap.com/2022/12/17/down-payments-in-sap-business-bydesign/)
+  - [ ] [Transport and Deployment of Artifacts in WEB IDE : HANA XSA](https://blogs.sap.com/2022/12/17/transport-and-deployment-of-artifacts-in-web-ide-hana-xsa/)
+- text/plain
+  - [ ] [ProjectK.commit()](https://textslashplain.com/2022/12/17/projectk-commit/)
+- 奇客Solidot–传递最新科技情报
+  - [ ] [院士称抑郁症正成为负担最大的疾病](https://www.solidot.org/story?sid=73682)
+  - [ ] [隐士托马斯·品钦出售了他的个人档案集](https://www.solidot.org/story?sid=73681)
+  - [ ] [WordPress 测试支持 SQLite](https://www.solidot.org/story?sid=73680)
+  - [ ] [John Carmack 离开 Meta](https://www.solidot.org/story?sid=73679)
+- 黑海洋 - WIKI
+  - [ ] [免费领取国际信用卡（可充USDT）](https://blog.upx8.com/3087)
+- Over Security - Cybersecurity news aggregator
+  - [ ] [Google introduces end-to-end encryption for Gmail on the web](https://www.bleepingcomputer.com/news/security/google-introduces-end-to-end-encryption-for-gmail-on-the-web/)
+  - [ ] [Glupteba malware is back in action after Google disruption](https://www.bleepingcomputer.com/news/security/glupteba-malware-is-back-in-action-after-google-disruption/)
+  - [ ] [Guerre di Rete - Musk sospende vari giornalisti](https://guerredirete.substack.com/p/guerre-di-rete-musk-sospende-vari)
+  - [ ] [Update now! Apple patches active exploit vulnerability for iPhones](https://www.malwarebytes.com/blog/news/2022/12/update-now-apple-patches-active-exploit-vulnerability-for-iphones)
+  - [ ] [Worldwide law enforcement action takes down major DDoS booter services](https://www.malwarebytes.com/blog/news/2022/12/worldwide-law-enforcement-action-takes-down-major-ddos-booter-services)
+  - [ ] [Virtual kidnapping scam strikes again. Spot the signs](https://www.malwarebytes.com/blog/news/2022/12/virtual-kidnapping-scam-strikes-again-spot-the-signs)
+  - [ ] [InfraGard infiltrated by cybercriminal](https://www.malwarebytes.com/blog/news/2022/12/infragard-infiltrated-by-cybercriminal)
+- KitPloit - PenTest & Hacking Tools
+  - [ ] [Octosuite - Advanced Github OSINT Framework](http://www.kitploit.com/2022/12/octosuite-advanced-github-osint.html)
+- SANS Internet Storm Center, InfoCON: green
+  - [ ] [CyberChef &#x26; Entropy, (Sat, Dec 17th)](https://isc.sans.edu/diary/rss/29352)
+- Il Disinformatico
+  - [ ] [Soyuz in avaria, aggiornamento](http://attivissimo.blogspot.com/2022/12/soyuz-in-avaria-aggiornamento.html)
+- The Hacker News
+  - [ ] [Samba Issues Security Updates to Patch Multiple High-Severity Vulnerabilities](https://thehackernews.com/2022/12/samba-issues-security-updates-to-patch.html)
+- TorrentFreak
+  - [ ] [Z-Library Knockoffs Trigger Dubious DMCA Takedowns](https://torrentfreak.com/z-library-knockoffs-trigger-dubious-dmca-takedowns-221217/)
+- Your Hacking Tutorial by Zempirians
+  - [ ] [Are certification books like CompTIA Network+ Certification All-in-One Exam Guide, CEH Certified Ethical Hacker All-in-One Exam Guide good for someone using them to learn web application hacking and not interested in writing the exams?](https://www.reddit.com/r/HowToHack/comments/zoazyz/are_certification_books_like_comptia_network/)
+  - [ ] [How to setup beEF on Ubunto to watch a .onion address?](https://www.reddit.com/r/HowToHack/comments/zo7kd3/how_to_setup_beef_on_ubunto_to_watch_a_onion/)
+  - [ ] [OMG Cable But Backwards](https://www.reddit.com/r/HowToHack/comments/zoihok/omg_cable_but_backwards/)
+  - [ ] [Socat service running as a page exploit?](https://www.reddit.com/r/HowToHack/comments/zobu5b/socat_service_running_as_a_page_exploit/)
+- Computer Forensics
+  - [ ] [xplico](https://www.reddit.com/r/computerforensics/comments/zoct80/xplico/)
+  - [ ] [Link for Magnet Acquire?](https://www.reddit.com/r/computerforensics/comments/znvgbl/link_for_magnet_acquire/)
+- Information Security
+  - [ ] [Trojanized Windows 10 Installer Used in Cyberattacks](https://www.reddit.com/r/Information_Security/comments/zo2fx8/trojanized_windows_10_installer_used_in/)
+  - [ ] [Ex-Twitter employ Gets 3.5 Years Jail for Spying](https://www.reddit.com/r/Information_Security/comments/zo1l4t/extwitter_employ_gets_35_years_jail_for_spying/)
+- The Register - Security
+  - [ ] [Email hijackers scam food out of businesses, not just money](https://go.theregister.com/feed/www.theregister.com/2022/12/17/in_brief_security/)
+- Social Engineering
+  - [ ] [Is it ever beneficial to use aggressive domination/power moves?](https://www.reddit.com/r/SocialEngineering/comments/zo63mb/is_it_ever_beneficial_to_use_aggressive/)
+- KitPloit - PenTest Tools!
+  - [ ] [Octosuite - Advanced Github OSINT Framework](http://www.kitploit.com/2022/12/octosuite-advanced-github-osint.html)
+- Security Affairs
+  - [ ] [Samba addressed multiple high-severity vulnerabilities](https://securityaffairs.co/wordpress/139760/hacking/samba-multiple-flaws.html)
+- Technical Information Security Content & Discussion
+  - [ ] [OSCP guide 2022](https://www.reddit.com/r/netsec/comments/znwtht/oscp_guide_2022/)
+  - [ ] [Exploiting API Framework Flexibility](https://www.reddit.com/r/netsec/comments/zo3lts/exploiting_api_framework_flexibility/)
+- Paul's Security Weekly
+  - [ ] [ESW #300 - Parag Bajaria, Terry Barber](http://podcast.securityweekly.com/esw-300-parag-bajaria-terry-barber)

@@ -1,0 +1,92 @@
+# 每日安全资讯（2022-10-03）
+
+- CXSECURITY Database RSS Feed - CXSecurity.com
+  - [jCart For OpenCart 3.0.3.19 Cross Site Scripting](https://cxsecurity.com/issue/WLB-2022100010)
+  - [Backdoor.Win32.NTRC / Weak Hardcoded Credentials](https://cxsecurity.com/issue/WLB-2022100009)
+  - [Backdoor.Win32.Delf.eg / Unauthenticated Remote Command Execution](https://cxsecurity.com/issue/WLB-2022100008)
+  - [Authenticated Remote Code Execution in Composr-CMS Version < =10.0.39](https://cxsecurity.com/issue/WLB-2022100007)
+- Sploitus.com Exploits RSS Feed
+  - [Exploit for Incorrect Calculation in Moodle exploit](https://sploitus.com/exploit?id=CFCAFCA9-26CA-5B4D-B6B1-6C7FBCE7151D&utm_source=rss&utm_medium=rss)
+  - [Exploit for CVE-2022-41082 exploit](https://sploitus.com/exploit?id=9945D2DB-9314-5400-8C2B-94D4BD603DD9&utm_source=rss&utm_medium=rss)
+  - [Exploit for Out-of-bounds Write in Polkit Project Polkit exploit](https://sploitus.com/exploit?id=93997679-C259-5867-98F3-BE24C5A27450&utm_source=rss&utm_medium=rss)
+  - [Exploit for Improper Privilege Management in Canonical Ubuntu Linux exploit](https://sploitus.com/exploit?id=78F7E4FE-65A6-5F2E-89CC-FD468018CA49&utm_source=rss&utm_medium=rss)
+- Security Boulevard
+  - [BSidesLV 2022 Lucky13 GroundFloor – Omer Gil’s And Asaf Greenholts’ ‘Climbing The Production Mountain: Practical CI/CD Attacks Using CI/CD Goat’](https://securityboulevard.com/2022/10/bsideslv-2022-lucky13-groundfloor-omer-gils-and-asaf-greenholts-climbing-the-production-mountain-practical-ci-cd-attacks-using-ci-cd-goat/)
+  - [Dr. GRC: How You Can Learn to Stop Worrying and Love User Access Reviews (or Maybe Worry Less and Not Hate Them So Much)](https://securityboulevard.com/2022/10/dr-grc-how-you-can-learn-to-stop-worrying-and-love-user-access-reviews-or-maybe-worry-less-and-not-hate-them-so-much/)
+  - [Why We Should Make Time to Brainstorm New, Innovative Ideas](https://securityboulevard.com/2022/10/why-we-should-make-time-to-brainstorm-new-innovative-ideas/)
+  - [Zero-Day Microsoft Exchange Server Vulnerabilities Exposed Early Due to Limited Targeted Attacks](https://securityboulevard.com/2022/10/zero-day-microsoft-exchange-server-vulnerabilities-exposed-early-due-to-limited-targeted-attacks/)
+  - [Hiring Data Recycling Security Engineers Smart?](https://securityboulevard.com/2022/10/hiring-data-recycling-security-engineers-smart/)
+- SecWiki News
+  - [SecWiki News 2022-10-02 Review](http://www.sec-wiki.com/?2022-10-02)
+- 嘶吼 RoarTalk – 回归最本质的信息安全,互联网安全新媒体,4hou.com
+  - [驱动强制签名(DSE)是否还能起到安全防护的作用？](https://www.4hou.com/posts/pVBN)
+  - [攻击者通过水坑攻击传递ScanBox键盘记录器](https://www.4hou.com/posts/jJBR)
+- Twitter @Nicolas Krassas
+  - [RT Rio: After an unhealthy amount of hours put into this, I finally managed to get RCE on Cobalt Strike. I would recommend avoiding it for a while as ...](https://twitter.com/0x09AL/status/1576509338738634752)
+  - [BlackCat malware lashes out at US defense IT contractor](https://twitter.com/Dinosn/status/1576502857297059841)
+  - [RT Germán Fernández: I wrote a quick Nmap script to scan for servers potentially vulnerable to #ProxyNotShell (based on Microsoft's recommended URL ...](https://twitter.com/1ZRR4H/status/1576471006373613569)
+  - [Common Security Exploits and Protections on Solana](https://twitter.com/Dinosn/status/1576448267508150273)
+  - [Real-world infosec wordlists, updated regularly](https://twitter.com/Dinosn/status/1576448180325036034)
+- unSafe.sh - 不安全
+  - [Flare-On 9 Challenge Started This Weekend](https://buaq.net/go-129023.html)
+  - [awesome-rat](https://buaq.net/go-129019.html)
+  - [pupy安装与使用](https://buaq.net/go-129018.html)
+  - [Bayanay - Python Wardriving Tool](https://buaq.net/go-129013.html)
+  - [cvemon](https://buaq.net/go-129014.html)
+  - [没人用应用推荐 第五集](https://buaq.net/go-129065.html)
+  - [质感文件 – 开源、轻量、简洁的 Material Design 文件管理器[Android]](https://buaq.net/go-129011.html)
+  - [招生！2022年《安卓高级研修班》秋季班](https://buaq.net/go-129012.html)
+  - [box](https://buaq.net/go-129005.html)
+  - [alist](https://buaq.net/go-129006.html)
+  - [scan4all](https://buaq.net/go-129007.html)
+  - [CasaOS](https://buaq.net/go-129008.html)
+  - [趁着换季，给衣柜来一次断舍离](https://buaq.net/go-129004.html)
+  - [docker-flare](https://buaq.net/go-129003.html)
+  - [驱动强制签名(DSE)是否还能起到安全防护的作用？](https://buaq.net/go-128994.html)
+  - [6 个视频，3 万粉丝，少数派作者是怎么运营 B 站的？](https://buaq.net/go-128998.html)
+  - [Evernote2Onenote – 将笔记从 Evenote 迁移至 OneNote[2022 年可用，第三方工具]](https://buaq.net/go-128996.html)
+  - [攻击者通过水坑攻击传递ScanBox键盘记录器](https://buaq.net/go-128995.html)
+  - [Remote_ShellcodeLoader](https://buaq.net/go-128988.html)
+- SpiderLabs Blog from Trustwave
+  - [Trustwave Action Response: Zero Day Vulnerabilities in Microsoft Exchange Server 2013, 2016, and 2019](https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/trustwave-action-response-zero-day-vulnerabilities-in-microsoft-exchange-server-2013-2016-and-2019/)
+- Malwarebytes Labs
+  - [Why (almost) everything we told you about passwords was wrong](https://www.malwarebytes.com/blog/news/2022/10/why-almost-everything-we-told-you-about-passwords-was-wrong)
+- SAP Blogs
+  - [Migration of CRM one order transactions from SAP CRM 7.0 to SAP S/4 Hana Customer Engagement](https://blogs.sap.com/2022/10/02/migration-of-crm-one-order-transactions-from-sap-crm-7.0-to-sap-s-4-hana-customer-engagement/)
+  - [Pre-Migration Check Tool SMIGR_CHECK_DB6: Be Better Prepared for the Migration of Your Db2 LUW Database](https://blogs.sap.com/2022/10/02/pre-migration-check-tool-smigr_check_db6-be-better-prepared-for-the-migration-of-your-db2-luw-database/)
+  - [A Carrousel for your Learning Home Page](https://blogs.sap.com/2022/10/02/a-carrousel-for-your-learning-home-page/)
+  - [SAP Integration Suite: Resilient APIs using API Management, Event Mesh, and Cloud Integration](https://blogs.sap.com/2022/10/02/sap-integration-suite-resilient-apis-using-api-management-event-mesh-and-cloud-integration/)
+  - [Auto-Tracking with MLflow on SAP AI Core](https://blogs.sap.com/2022/10/02/auto-tracking-with-mlflow-on-sap-ai-core/)
+  - [SAP Data Services (SAP BODS) – Snapshot](https://blogs.sap.com/2022/10/02/sap-data-services-sap-bods-snapshot/)
+  - [TCS CPG SAP Innovation Hub now ready to inspire!](https://blogs.sap.com/2022/10/02/tcs-cpg-sap-innovation-hub-now-ready-to-inspire/)
+  - [H4S4 Vs SAP HCM Compatibility packs – High-level overview](https://blogs.sap.com/2022/10/02/h4s4-vs-sap-hcm-compatibility-packs-high-level-overview/)
+- KitPloit - PenTest & Hacking Tools
+  - [Bayanay - Python Wardriving Tool](http://www.kitploit.com/2022/10/bayanay-python-wardriving-tool.html)
+- Reverse Engineering
+  - [Flare-On 9 Challenge Started This Weekend](https://www.reddit.com/r/ReverseEngineering/comments/xtpcpd/flareon_9_challenge_started_this_weekend/)
+- 杨龙
+  - [分布式锁](https://www.yanglong.pro/%e5%88%86%e5%b8%83%e5%bc%8f%e9%94%81/)
+- 关注安全技术
+  - [网络安全未来启示录—云安全](https://mp.weixin.qq.com/s?__biz=MzA4MDMwMjQ3Mg==&mid=2651868384&idx=1&sn=791aee660a59e68b993a5e4737c20c03&chksm=8442b407b3353d114618de4c75dc84acf6d26715090d95f63de7af3011c02c3615dc26f8e60a&scene=58&subscene=0#rd)
+- 黑海洋 - WIKI
+  - [小米运动刷步数支持微信支付宝](https://blog.upx8.com/3006)
+  - [千帆搜索（网盘综合）+来搜一下（夸克云盘）](https://blog.upx8.com/3005)
+- 看雪学院
+  - [定制bcc/ebpf在android平台上实现基于dwarf的用户态栈回溯](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458473840&idx=1&sn=a823afd14e7381f3ab44880ac65beb00&chksm=b18e65fa86f9ecec0112aefe5871d63a976873fe9847e1d48dc3c17452871c67fac7f742372a&scene=58&subscene=0#rd)
+  - [招生！2022年《安卓高级研修班》秋季班](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458473840&idx=2&sn=5e02aab9f2ae482e10a9f51e7a33b6a6&chksm=b18e65fa86f9ececd94eb48ad82958842e516a6b635dd3972904b8d893915f3724bb36b4514b&scene=58&subscene=0#rd)
+- 博客园 - 郑瀚Andrew
+  - [旅游经济学 - 郑瀚Andrew](https://www.cnblogs.com/LittleHann/p/16746036.html)
+- 奇客Solidot–传递最新科技情报
+  - [商飞 C919 飞机获颁型号合格证](https://www.solidot.org/story?sid=72950)
+  - [Jingyao Liu 诉刘强东案达成庭外和解](https://www.solidot.org/story?sid=72949)
+  - [印尼足球场发生踩踏事故逾百人死亡](https://www.solidot.org/story?sid=72948)
+- 极客公园
+  - [失血、裁员、股价暴跌：Meta 正在成为硅谷的泰坦尼克](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2652969188&idx=1&sn=df2152e82a51560a86fdb1114e26cff2&chksm=7e5465524923ec446f921339842cf86b1e4743ff3480696fb35e240829dbfd048b1a5e51ad45&scene=58&subscene=0#rd)
+  - [库克：普通人很难理解元宇宙；马斯克：特斯拉机器人卖 2 万美元以下；传腾讯大举收购海外游戏公司 | 极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2652969174&idx=1&sn=71aa0eb2656e3a819518fd8dd28f8fe4&chksm=7e5465604923ec76788ea38e1d78598a15562f07f761d219294ea59ef399548c5dc5ea38b582&scene=58&subscene=0#rd)
+- 情报分析师
+  - [“末日情景”：如果俄罗斯与北约爆发核战争会怎么样？](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650517808&idx=1&sn=3929cd1d8b8c3680066efe754db8111e&chksm=87169f7bb061166df8a280fb6eb42792ed2daf9bd0a8675b7b8939b3cd288947391f8d5cfe62&scene=58&subscene=0#rd)
+  - [洛杉矶警长办公室启动实时监控中心以改善犯罪应对](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650517808&idx=3&sn=0e5a8c918378703bb5bb2aa94a43f175&chksm=87169f7bb061166dd810d75bae32e2fcb71e96fcdfae0bf607a3cb558785174a070a45d98bd6&scene=58&subscene=0#rd)
+- 山石网科安全技术研究院
+  - [信安标委发布《网络安全标准实践指南—健康码防伪技术指南》](https://mp.weixin.qq.com/s?__biz=MzUzMDUxNTE1Mw==&mid=2247496719&idx=1&sn=c359ce97550a43a67a21a30e5a6efb69&chksm=fa5221b1cd25a8a78e9461eaf0000b0018fbb649c8d8880efc237161d4858290a43776c29e52&scene=58&subscene=0#rd)
+- 吴鲁加
+  - [简单与长期](https://mp.weixin.qq.com/s?__biz=Mzg5NDY4ODM1MA==&mid=2247484209&idx=1&sn=25a661271a903d468e8fd0fd653a9139&chksm=c01a8e00f76d0716458df9ee5940def2ef45b7d03302e2024fea4754124f138ec749833c17c9&scene=58&subscene=0#rd)

@@ -1,0 +1,92 @@
+# 每日安全资讯（2022-06-19）
+
+- HackerOne Hacker Activity
+  - [Broken access control](https://hackerone.com/reports/1539426)
+- Sec-News 安全文摘
+  - [我自己博客的一个XSS的故事](https://wiki.ioin.in/url/MM0D)
+- Security Boulevard
+  - [USENIX Enigma 2022 – Dr. Gillian “Gus” Andrews’ ‘Can The Fight Against Disinformation Really Scale?’](https://securityboulevard.com/2022/06/usenix-enigma-2022-dr-gillian-gus-andrews-can-the-fight-against-disinformation-really-scale/)
+  - [IRA Financial versus Gemini – security questions to ponder from a crypto IRA hack](https://securityboulevard.com/2022/06/ira-financial-versus-gemini-security-questions-to-ponder-from-a-crypto-ira-hack/)
+  - [CommitStrip ‘GIT-LFS’](https://securityboulevard.com/2022/06/commitstrip-git-lfs/)
+  - [USENIX Enigma 2022 – Justin Brookman’s ‘The Global Privacy Control: Exercising Legal Rights At Scale’](https://securityboulevard.com/2022/06/usenix-enigma-2022-justin-brookmans-the-global-privacy-control-exercising-legal-rights-at-scale/)
+  - [Hackers Also Have Financial Reporting And Quotas :)](https://securityboulevard.com/2022/06/hackers-also-have-financial-reporting-and-quotas/)
+- 安全小飞侠的窝
+  - [关于BIS的《信息安全控制：网络安全条目》的解读及影响分析](http://avfisher.win/archives/1340)
+- Dancho Danchev's Blog - Mind Streams of Information Security Knowledge
+  - [Another Massive Embedded Malware Attack](http://ddanchev.blogspot.com/2007/11/another-massive-embedded-malware-attack.html)
+  - [209.1 Host Locked](http://ddanchev.blogspot.com/2007/12/2091-host-locked.html)
+  - [Fake Codec Serving Domains from Digg.com's Comment Spam Attack](http://ddanchev.blogspot.com/2009/02/fake-codec-serving-domains-from-diggcom.html)
+  - [Inside a Botnet's Phishing Activities](http://ddanchev.blogspot.com/2008/02/inside-botnet-phishing-activities.html)
+  - [How to Take Down the Conti Ransomware Gang - A Practical And Relevant Case Study on Taking Down Cybercriminal Infrastructure - A Practical Example](http://ddanchev.blogspot.com/2022/06/how-to-take-down-conti-ransomware-gang.html)
+- Didier Stevens
+  - [New Tool: sortcanon.py](https://blog.didierstevens.com/2022/06/18/new-tool-sortcanon-py/)
+- HAHWUL
+  - [EL(Expression Language) Injection](https://www.hahwul.com/cullinan/el-injection/)
+  - [OGNL(Object-Graph Navigation Language) Injection](https://www.hahwul.com/cullinan/ognl-injection/)
+- KitPloit - PenTest & Hacking Tools
+  - [Hunt-Sleeping-Beacons - Aims To Identify Sleeping Beacons](http://www.kitploit.com/2022/06/hunt-sleeping-beacons-aims-to-identify.html)
+  - [Nightingale - Docker Environment For Pentesting Which Having All The Required Tool For VAPT](http://www.kitploit.com/2022/06/nightingale-docker-environment-for.html)
+- Shubham Shah
+  - [The ugly side of collaboration in bug bounties](http://shubs.io/the-ugly-side-of-collaboration-in-bug-bounties/)
+- Shells.Systems
+  - [Protected: Oh my API, abusing TYK cloud API management to hide your malicious C2 traffic](https://shells.systems/oh-my-api-abusing-tyk-cloud-api-management-to-hide-your-malicious-c2-traffic/)
+- bellingcat
+  - [Inside the Secretive World of Irish Limited Partnerships](https://www.bellingcat.com/news/2022/06/18/inside-the-secretive-world-of-irish-limited-partnerships/)
+- SANS Internet Storm Center, InfoCON: green
+  - [Decoding Obfuscated BASE64 Statistically, (Sat, Jun 18th)](https://isc.sans.edu/diary/rss/28758)
+- The Register - Security
+  - [DeadBolt ransomware takes another shot at QNAP storage](https://go.theregister.com/feed/www.theregister.com/2022/06/18/deadlbolt-ransomware-qnap-nas/)
+- TorrentFreak
+  - [Anti-Piracy Jobs From £10/hr to ‘Let’s Talk ££’, There’s No Shortage in the UK](https://torrentfreak.com/anti-piracy-jobs-from-10-hr-to-lets-talk-theres-no-shortage-in-the-uk-220618/)
+- 0xFFFF@blog:~$
+  - [Protected: [PART 6] XSS Exploitation Series – Blind / out-of-band XSS scenarios](https://0x80dotblog.wordpress.com/2022/06/18/part-6-xss-exploitation-series-blind-out-of-band-xss-scenarios/)
+  - [Protected: [PART 5] XSS Exploitation Series – Advanced DOM XSS testing: Sources & Sinks](https://0x80dotblog.wordpress.com/2022/06/18/part-5-xss-exploitation-advanced-dom-xss-testing-sources-sinks/)
+  - [Protected: [PART 4] XSS Exploitation Series – Obfuscated/Stealth-based methods of testing for XSS](https://0x80dotblog.wordpress.com/2022/06/18/part-4-xss-exploitation-obfuscated-stealth-based-methods-of-testing-for-xss/)
+  - [Protected: [PART 3] XSS Exploitation Series – Building weaponized/advanced payloads](https://0x80dotblog.wordpress.com/2022/06/18/part-3-xss-exploitation-series-building-weaponized-advanced-payloads/)
+  - [Protected: [PART 2] XSS Exploitation Series – Filter Evasion](https://0x80dotblog.wordpress.com/2022/06/18/part-2-xss-exploitation-series-filter-evasion/)
+  - [Protected: [PART 1] XSS Exploitation Series – Introduction and Overview.](https://0x80dotblog.wordpress.com/2022/06/18/part-1-xss-exploitation-series-introduction-and-overview/)
+  - [Protected: An introduction to Quantum Computing](https://0x80dotblog.wordpress.com/2022/06/18/an-introduction-to-quantum-computing/)
+  - [Protected: (ab)using XSS protections to trigger XSS](https://0x80dotblog.wordpress.com/2022/06/18/abusing-xss-protections-to-trigger-xss/)
+  - [Protected: Technique of the week: HTTP/2 Smuggling + h2c Smuggling](https://0x80dotblog.wordpress.com/2022/06/18/technique-of-the-week-http-2-smuggling-h2c-smuggling/)
+  - [Protected: Exploring XS-Leaks and their exploitation potential](https://0x80dotblog.wordpress.com/2022/06/18/exploring-xs-leaks-and-their-exploitation-potential/)
+- Security Affairs
+  - [US DoJ announced to have shut down the Russian RSOCKS Botnet](https://securityaffairs.co/wordpress/132403/cyber-crime/police-dismantled-rsocks-bitnet.html)
+  - [MaliBot Android Banking Trojan targets Spain and Italy](https://securityaffairs.co/wordpress/132387/hacking/malibot-android-malware.html)
+- KitPloit - PenTest Tools!
+  - [Hunt-Sleeping-Beacons - Aims To Identify Sleeping Beacons](http://www.kitploit.com/2022/06/hunt-sleeping-beacons-aims-to-identify.html)
+  - [Nightingale - Docker Environment For Pentesting Which Having All The Required Tool For VAPT](http://www.kitploit.com/2022/06/nightingale-docker-environment-for.html)
+- 奇客Solidot–传递最新科技情报
+  - [中国天眼没有发现地外文明信号](https://www.solidot.org/story?sid=71873)
+  - [电子游戏助长大规模枪击的观点不再流行](https://www.solidot.org/story?sid=71872)
+  - [微软应用商店禁止第三方对免费的开源软件收费](https://www.solidot.org/story?sid=71871)
+  - [Scott Aaronson 将在 OpenAI 研究如何防止 AI 失控](https://www.solidot.org/story?sid=71870)
+- Your Hacking Tutorial by Zempirians
+  - [Been playing with computers since I was 16](https://www.reddit.com/r/HowToHack/comments/vfckob/been_playing_with_computers_since_i_was_16/)
+  - [Access old ipad 2 that was donated to an orphanage](https://www.reddit.com/r/HowToHack/comments/vf04p6/access_old_ipad_2_that_was_donated_to_an_orphanage/)
+  - [IoT Wecurity and Hacking Resources](https://www.reddit.com/r/HowToHack/comments/vf78x7/iot_wecurity_and_hacking_resources/)
+  - [Hide powershell / cmd.exe call.](https://www.reddit.com/r/HowToHack/comments/vf2ero/hide_powershell_cmdexe_call/)
+  - [Does anonsurf still come with Tor bridging? It’s no longer listed in documentation.](https://www.reddit.com/r/HowToHack/comments/vfbgxs/does_anonsurf_still_come_with_tor_bridging_its_no/)
+  - [MENTOR needed desperately](https://www.reddit.com/r/HowToHack/comments/vfgdcc/mentor_needed_desperately/)
+  - [Is it possible to deauth a device without knowing the network MAC, and only the device MAC?](https://www.reddit.com/r/HowToHack/comments/vey5wv/is_it_possible_to_deauth_a_device_without_knowing/)
+- Instapaper: Unread
+  - [Photos of kids taken from spyware-ridden phones found exposed on the internet](https://blog.malwarebytes.com/stalkerware/2022/06/photos-of-kids-taken-from-spyware-ridden-phones-found-exposed-on-the-internet/)
+  - [International operation takes down Russian RSOCKS botnet](https://www.theregister.com/2022/06/17/rsocks_russia_botnet/)
+  - [Interpol seizes $50 million, arrests 2000 social engineers](https://www.bleepingcomputer.com/news/security/interpol-seizes-50-million-arrests-2000-social-engineers/)
+  - [Experts link Hermit spyware to Italian surveillance firm RCS Lab and a front company](https://securityaffairs.co/wordpress/132363/malware/hermit-spyware-italian-surveillance-firm.html)
+- 看雪学院
+  - [Android Hook技术学习——常见的Hook技术方案总结](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458453552&idx=1&sn=6cb756be4634cacb0dbbe2814dd81098&chksm=b18e36ba86f9bfacfadce515c3247395fe1a1cd56b4f1a3fb78f25bb8d0ca72e70a7cc0dc2c5&scene=58&subscene=0#rd)
+  - [视频资讯|美国国防承包商计划收购间谍软件公司NSO](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458453552&idx=2&sn=e9dd37654c90af1204cbc41c46cea4fe&chksm=b18e36ba86f9bfac6c253eb2d08fca8a45e71d24286f46d0063ffb21456e0bc94b05df505c22&scene=58&subscene=0#rd)
+  - [如何利用高级查杀技术，通杀恶意程序？](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458453552&idx=3&sn=857e57698c121b04b4988ccc3e4d82eb&chksm=b18e36ba86f9bfac1496fe34df41762be91dd0ee1d1bab5355fb601716042b37b210bc690bfc&scene=58&subscene=0#rd)
+- /r/netsec - Information Security News & Discussion
+  - [I made a website can detect over 1000 extensions and shows you the percentage of users that share the same extensions.](https://www.reddit.com/r/netsec/comments/vffx2j/i_made_a_website_can_detect_over_1000_extensions/)
+  - [I have created a burp suite extension which allows pentester to keep track of each APIs, write test cases for individual APIs. Lastly the extension allows to map the vulnerable apis to the list of vulnerabilities using a custom checklist.](https://www.reddit.com/r/netsec/comments/vf365f/i_have_created_a_burp_suite_extension_which/)
+  - [Dangerous Repository of DoS, Red Teaming TTPs, and ICS Exploits](https://www.reddit.com/r/netsec/comments/vf7xsn/dangerous_repository_of_dos_red_teaming_ttps_and/)
+  - [Scheduled Scaling Up & Down Of EC2 Server](https://www.reddit.com/r/netsec/comments/vf47te/scheduled_scaling_up_down_of_ec2_server/)
+- 数世咨询
+  - [2021年中国数字安全百强报告](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247493845&idx=1&sn=0581384588d52c6108da712c0116289b&chksm=c1449a68f633137e753403e898529de425b43ce7c030cc1fa13ce407f2756fdbfff0fc8bae88&scene=58&subscene=0#rd)
+  - [数字时代——基于行业最佳实践的安全保护框架](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247493845&idx=2&sn=3507515eb0768c71ad8a6f4c677d31b1&chksm=c1449a68f633137e4c1c82e558b138500c8213354b5be42367dedffa28248f34b86ae4bb5d74&scene=58&subscene=0#rd)
+- 安全客
+  - [直击RSAC 2022：巧用ATT & CK框架应对具体威胁](https://mp.weixin.qq.com/s?__biz=MzA5ODA0NDE2MA==&mid=2649772409&idx=1&sn=52cdc4475583d46af72ddcc1ec45930b&chksm=88936116bfe4e8008daf12a158ea25d2b2723e1bd1b050ab7c915ff05f8e0df84c73b1efd22f&scene=58&subscene=0#rd)
+- 情报分析师
+  - [【反恐巨著1312页】恐怖主义预防和战备手册（预备防范篇）](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650506581&idx=1&sn=66300e22f7d75c53c3b9a86213effc9b&chksm=8716ab1eb061220895db6c15f9ad75d31a800fbe75236cfc8cf5207c179df8566a15e2ee3ae5&scene=58&subscene=0#rd)
+  - [大赛通知 | 第一届“智器云杯”数据情报分析大赛正式启动！](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650506581&idx=2&sn=24cf431569efac02dda92fdf8a175b96&chksm=8716ab1eb0612208d828395161e0d9f53f06727471b7b0a6a8f1dda968677c2109104b93b30e&scene=58&subscene=0#rd)

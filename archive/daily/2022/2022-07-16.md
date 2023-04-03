@@ -1,0 +1,141 @@
+# 每日安全资讯（2022-07-16）
+
+- CXSECURITY Database RSS Feed - CXSecurity.com
+  - [Sourcegraph gitserver sshCommand Remote Command Execution](https://cxsecurity.com/issue/WLB-2022070042)
+  - [WordPress Kaswara Modern WPBakery Page Builder 3.0.1 File Upload](https://cxsecurity.com/issue/WLB-2022070041)
+  - [Designed by VITECH IT Solutions - Sql Injection Vulnerability](https://cxsecurity.com/issue/WLB-2022070040)
+  - [Developed By : SOFTMAART - Sql Injection Vulnerability](https://cxsecurity.com/issue/WLB-2022070039)
+  - [Akaal WebSoft Pvt - Sql Injection Vulnerability](https://cxsecurity.com/issue/WLB-2022070038)
+- Der Flounder
+  - [Specifying shell commands to run when opening new Terminal windows from macOS’s Terminal settings](https://derflounder.wordpress.com/2022/07/15/specifying-shell-commands-to-run-when-opening-new-terminal-windows-from-macoss-terminal-settings/)
+- Files ≈ Packet Storm
+  - [Windows Kernel nt!MiRelocateImage Invalid Read](https://packetstormsecurity.com/files/167755/GS20220715145905.tgz)
+  - [Windows LSA Service LsapGetClientInfo Impersonation Level Check Privilege Escalation](https://packetstormsecurity.com/files/167754/GS20220715145633.tgz)
+- Twitter @Nicolas Krassas
+  - [Password recovery tool infects industrial systems with Sality malware](https://twitter.com/Dinosn/status/1548029960207470594)
+  - [Tenet Health Sued Over Health Data Theft Impacting 1.2M](https://twitter.com/Dinosn/status/1548029542731694080)
+  - [Netwrix Auditor Bug Could Lead to Active Directory Domain Compromise](https://twitter.com/Dinosn/status/1548029059770114053)
+  - [Windows Network File System flaw results in arbitrary code execution as SYSTEM](https://twitter.com/Dinosn/status/1548028997161717765)
+  - [Attackers scan 1.6 million WordPress sites for vulnerable plugin](https://twitter.com/Dinosn/status/1548021897283063813)
+  - [How Hackers Create Fake Personas for Social Engineering](https://twitter.com/Dinosn/status/1548007653871259648)
+  - [Tor Browser now bypasses internet censorship automatically](https://twitter.com/Dinosn/status/1548007604009324545)
+  - [An unconventional Windows reverse shell, currently undetected by Microsoft Defender and other AV solutions, solely based on http(s) traffic.](https://twitter.com/Dinosn/status/1548000080942092288)
+  - [CVE-2022-32224: Ruby on Rails Remote Code Execution Vulnerability](https://twitter.com/Dinosn/status/1547902946720894981)
+  - [RedAlert, LILITH, and 0mega, 3 new ransomware in the wild](https://twitter.com/Dinosn/status/1547895200663490561)
+  - [Knowledge Base for Cybersecurity Practitioners](https://twitter.com/Dinosn/status/1547829007537754115)
+  - [Re @floyd_ch Hehehe, it's the google translation sorry :)](https://twitter.com/Dinosn/status/1547827475408752642)
+  - [Introduction to Smart Contract Security and Decentralized Web Applications](https://twitter.com/Dinosn/status/1547826259857534984)
+  - [Mantis Botnet Behind the Largest HTTPS DDoS Attack Targeting Cloudflare Customers](https://twitter.com/Dinosn/status/1547826155868131330)
+  - [The modified version of ysoserial focuses on modifying ysoserial.payloads.util.Gadgets.createTemplatesImpl so that it can execute commands, memory hor...](https://twitter.com/Dinosn/status/1547825645807230976)
+  - [RT 张惠倩: CVE-2022-32119 - Arox-Unrestricted-File-Upload](https://twitter.com/momika233/status/1547809344200540160)
+  - [RT Daniel Küffer: Day 23 of 365 🎷🎸 Join us at the #365jazzgarage! A song a day. For one year. Featuring Daniel Küffer (saxophone) and Dani Sol...](https://twitter.com/oyecomova66/status/1547797511233945600)
+  - [API testing mindmap,](https://twitter.com/Dinosn/status/1547793737442463747)
+  - [A collection of awesome API Security tools and resources. The focus goes to open-source tools and resources that benefit all the community.](https://twitter.com/Dinosn/status/1547793308658724866)
+  - [RT Numen Cyber Technology: We detected that #SpaceGodzilla, a #BSC on-chain project ,was attacked by hackers on 14th July. The hacker gained $25K from...](https://twitter.com/numencyber/status/1547789912136503302)
+- Security Boulevard
+  - [Email Attack via a Recycled Domain](https://securityboulevard.com/2022/07/email-attack-via-a-recycled-domain/)
+  - [A Brief History of AWS S3](https://securityboulevard.com/2022/07/a-brief-history-of-aws-s3/)
+  - [SP 800-53 Makes Supply Chain and Firmware a Priority – But Are You Listening?](https://securityboulevard.com/2022/07/sp-800-53-makes-supply-chain-and-firmware-a-priority-but-are-you-listening/)
+  - [Why 8kun Went Offline During the January 6 Hearings](https://securityboulevard.com/2022/07/why-8kun-went-offline-during-the-january-6-hearings/)
+  - [Join us at Black Hat 2022](https://securityboulevard.com/2022/07/join-us-at-black-hat-2022/)
+  - [BSidesSF 2022 – Tony Loehr’s ‘Emerging Best Practices In Software Supply Chain Security: What We Can Learn From Google, The White House, OWASP And Gartner’](https://securityboulevard.com/2022/07/bsidessf-2022-tony-loehrs-emerging-best-practices-in-software-supply-chain-security-what-we-can-learn-from-google-the-white-house-owasp-and-gartner/)
+  - [What’s New in Q3 ’22?](https://securityboulevard.com/2022/07/whats-new-in-q3-22/)
+  - [Reap the Benefits of Data Classification & Tagging](https://securityboulevard.com/2022/07/reap-the-benefits-of-data-classification-tagging/)
+  - [Fake cricket, real betting – story of a not so deep fake](https://securityboulevard.com/2022/07/fake-cricket-real-betting-story-of-a-not-so-deep-fake/)
+  - [Offensive Security – Essentials Bundle Datasheet](https://securityboulevard.com/2022/07/offensive-security-essentials-bundle-datasheet/)
+- SecWiki News
+  - [SecWiki News 2022-07-15 Review](http://www.sec-wiki.com/?2022-07-15)
+- unSafe.sh - 不安全
+  - [Specifying shell commands to run when opening new Terminal windows from macOS’s Terminal settings](https://buaq.net/go-117625.html)
+  - [反-反蜜罐：以三个反蜜罐插件的缺陷为例](https://buaq.net/go-117632.html)
+  - [The Good, the Bad and the Ugly in Cybersecurity – Week 29](https://buaq.net/go-117630.html)
+  - [Lockdown Mode: Apple is shutting down spyware](https://buaq.net/go-117605.html)
+  - [为天链二号03星打造太空通信“扩音器”](https://buaq.net/go-117698.html)
+  - [中央企业系统（在京）选举产生出席党的二十大代表](https://buaq.net/go-117700.html)
+  - [中国电科召开2022年财务工作会议](https://buaq.net/go-117699.html)
+  - [不光没用，这次竟然完全没有意义...开发者算你狠](https://buaq.net/go-117604.html)
+  - [PortSwigginar - 13 July](https://buaq.net/go-117590.html)
+  - [子芽做客《安全说》：洞察DevSecOps发展新态势，探秘领航者背后的故事](https://buaq.net/go-117591.html)
+  - [徒手撸了个极简Golang ORM框架，体验了把sql如丝般顺滑](https://buaq.net/go-117637.html)
+  - [本周看什么丨最近值得一看的 8 部作品](https://buaq.net/go-117584.html)
+  - [空气投篮 – 一件完全没有意义的事情[Apple Watch]](https://buaq.net/go-117593.html)
+  - [【漏洞预警】Node.js DLL劫持漏洞](https://buaq.net/go-117587.html)
+- Sploitus.com Exploits RSS Feed
+  - [Exploit for OS Command Injection in Part-Db Project Part-Db exploit](https://sploitus.com/exploit?id=B1C625CB-B219-568A-B1E5-CE6F390C68EA&utm_source=rss&utm_medium=rss)
+  - [Exploit for Injection in Atlassian Confluence Data Center exploit](https://sploitus.com/exploit?id=C8C50EDF-39F5-5103-AC79-A8C7FA6A4B60&utm_source=rss&utm_medium=rss)
+- 跳跳糖 - 安全与分享社区
+  - [CobaltStrike Malleable PE](https://tttang.com/archive/1662/)
+- 嘶吼 RoarTalk – 回归最本质的信息安全,互联网安全新媒体,4hou.com
+  - [子芽做客《安全说》：洞察DevSecOps发展新态势，探秘领航者背后的故事](https://www.4hou.com/posts/50l8)
+  - [漏洞预警|Django框架SQL注入漏洞](https://www.4hou.com/posts/ZXW5)
+  - [邮件安全网关品牌有哪些？选择Coremail邮件安全，实力上榜嘶吼图谱13大赛道](https://www.4hou.com/posts/YXM2)
+  - [通过远程控制层检测和防御系统攻击](https://www.4hou.com/posts/DWVk)
+  - [Rolling-PWN 攻击可远程解锁Honda汽车](https://www.4hou.com/posts/oJOX)
+  - [十强出炉！ISC 2022创新独角兽沙盒大赛初审顺利收官](https://www.4hou.com/posts/XVMg)
+  - [海云安入围《2022网络安全产业图谱》九大细分领域](https://www.4hou.com/posts/WB8x)
+- Jiajun的编程随想
+  - [权限模型(RBAC/ABAC)](https://jiajunhuang.com/articles/2022_07_15-access_control.md.html)
+- 先知安全技术社区
+  - [记一次某系统的渗透测试](https://xz.aliyun.com/t/11526)
+  - [CPP 异常处理机制初探](https://xz.aliyun.com/t/11525)
+  - [某企业邮箱攻击面之密码喷洒](https://xz.aliyun.com/t/11529)
+- 安全脉搏
+  - [【漏洞预警】Node.js DLL劫持漏洞](https://www.secpulse.com/archives/183448.html)
+  - [JARM指纹随机化技术实现 | 高级攻防10](https://www.secpulse.com/archives/183370.html)
+- HackerOne Hacker Activity
+  - [Insecure Object Permissions for Guest User leads to access to internal documents!](https://hackerone.com/reports/1089583)
+  - [Add me email address Authentication bypass](https://hackerone.com/reports/1607645)
+  - [POST BASED REFLECTED XSS IN dailydeals.mtn.co.za](https://hackerone.com/reports/1451394)
+  - [[h1-2102] shopApps query from the graphql at /users/api returns all existing created apps, including private ones](https://hackerone.com/reports/1085332)
+- ElcomSoft blog
+  - [Building an Efficient Password Recovery Workstation: Power Savings and Waste Heat Management](https://blog.elcomsoft.com/2022/07/building-an-efficient-password-recovery-workstation-power-savings-and-waste-heat-management/)
+- 先知安全技术社区
+  - [记一次某系统的渗透测试](https://xz.aliyun.com/t/11526)
+  - [CPP 异常处理机制初探](https://xz.aliyun.com/t/11525)
+  - [某企业邮箱攻击面之密码喷洒](https://xz.aliyun.com/t/11529)
+- paper - Last paper
+  - [JARM 指纹混淆随机化技术实现](https://paper.seebug.org/1934/)
+- Tenable Blog
+  - [Cybersecurity Snapshot: 6 Things That Matter Right Now](https://www.tenable.com/blog/cybersecurity-snapshot-6-things-that-matter-right-now-july-15)
+- SAP Blogs
+  - [Fiori App For Breakdown Analysis F2812: EAM KPI App overview](https://blogs.sap.com/2022/07/15/fiori-app-for-breakdown-analysis-f2812-eam-kpi-app-overview/)
+  - [Synthetic User Monitoring (SUM) in SAP Cloud ALM in action](https://blogs.sap.com/2022/07/15/synthetic-user-monitoring-sum-in-sap-cloud-alm-in-action/)
+  - [SAPRouter Connectivity using AWS Site to Site VPN](https://blogs.sap.com/2022/07/15/saprouter-connectivity-using-aws-site-to-site-vpn/)
+  - [SAP 3D Visual Enterprise Generator Config File Best Practice](https://blogs.sap.com/2022/07/15/sap-3d-visual-enterprise-generator-config-file-best-practice/)
+  - [SAP BTP SuccessFactors Work Zone Setup with SuccessFactors Sales4Demo Instance Part 1](https://blogs.sap.com/2022/07/15/sap-btp-successfactors-work-zone-setup-with-successfactors-sales4demo-instance-part-1/)
+  - [Material price flow into the PO](https://blogs.sap.com/2022/07/15/material-price-flow-into-the-po/)
+  - [Environmental, Social and Governance and the Role of FP&A](https://blogs.sap.com/2022/07/15/environmental-social-and-governance-and-the-role-of-fpa/)
+  - [Path to SAP on AWS Specialty Certification](https://blogs.sap.com/2022/07/15/path-to-sap-on-aws-specialty-certification/)
+  - [ODATA API ‘Attachments’ Service in SAP S/4HANA Cloud](https://blogs.sap.com/2022/07/15/odata-api-attachments-service-in-sap-s-4hana-cloud/)
+  - [Provisioning and Scaling of the SAP Kyma Runtime](https://blogs.sap.com/2022/07/15/provisioning-and-scaling-of-the-sap-kyma-runtime/)
+- 安全客-有思想的安全新媒体
+  - [数字安全观察-每周简报 （2022.07.08 -2022.07.13）](https://www.anquanke.com/post/id/276588)
+  - [记一次失败的打点](https://www.anquanke.com/post/id/276425)
+  - [JARM指纹随机化技术实现](https://www.anquanke.com/post/id/276546)
+  - [基于主机的云原生安全建设-(Elkeid) 真实对抗案例分享](https://www.anquanke.com/post/id/276469)
+  - [代码审计实战](https://www.anquanke.com/post/id/276353)
+  - [万代南梦宫披露BlackCat勒索攻击事件](https://www.anquanke.com/post/id/276474)
+- Reverse Engineering
+  - [IDA Plugin to reconstruct .proto files used in the analyzed binary](https://www.reddit.com/r/ReverseEngineering/comments/vzipv6/ida_plugin_to_reconstruct_proto_files_used_in_the/)
+- PortSwigger Blog
+  - [PortSwigginar - 13 July](https://portswigger.net/blog/portswigginar-13-july)
+- PortSwigger Blog
+  - [PortSwigginar - 13 July](https://portswigger.net/blog/portswigginar-13-july)
+- The Daily Swig | Cybersecurity news and views
+  - [More than 4,000 individuals’ medical data left exposed for 16 years](https://portswigger.net/daily-swig/more-than-4-000-individuals-medical-data-left-exposed-for-16-years)
+  - [Fantasy Premier League football app introduces 2FA to tackle account takeover hacks](https://portswigger.net/daily-swig/fantasy-premier-league-football-app-introduces-2fa-to-tackle-account-takeover-hacks)
+  - [Crunch time for EU web authentication plan as Mozilla launches campaign to protect status quo](https://portswigger.net/daily-swig/crunch-time-for-eu-web-authentication-plan-as-mozilla-launches-campaign-to-protect-status-quo)
+- blog.avast.com EN
+  - [Lockdown Mode: Apple is shutting down spyware](https://blog.avast.com/lockdown-mode-apple-is-shutting-down-spyware)
+- SentinelOne
+  - [The Good, the Bad and the Ugly in Cybersecurity – Week 29](https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-29-4/)
+- Black Hills Information Security
+  - [Talkin’ About Infosec News – 7/11/2022](https://www.blackhillsinfosec.com/talkin-about-infosec-news-7-11-2022/)
+- Checkmarx.com
+  - [Unverified Commits: Are You Unknowingly Trusting Attackers’ Code?](https://checkmarx.com/blog/unverified-commits-are-you-unknowingly-trusting-attackers-code/)
+- KitPloit - PenTest & Hacking Tools
+  - [Dumpscan -  Tool To Extract And Dump Secrets From Kernel And Windows Minidump Formats](http://www.kitploit.com/2022/07/dumpscan-tool-to-extract-and-dump.html)
+- 极客公园
+  - [传直播禁提微信快手，抖音：不实消息；阿里「战投」裁员三分之一；盖茨向个人基金会捐出 200 亿美元｜极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2652960179&idx=1&sn=85aeb0ab391982578aa620c4d99845dd&chksm=7e55880549220113be1681f2fb2b163e54519509bb549f87c42958f26149ea150b87acf6485c&scene=58&subscene=0#rd)
+- Driver Tom's Blog
+  - [反-反蜜罐：以三个反蜜罐插件的缺陷为例](https://drivertom.blogspot.com/2022/07/blog-post.html)

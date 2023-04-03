@@ -1,0 +1,96 @@
+# 每日安全资讯（2022-07-11）
+
+- Security Boulevard
+  - [Security BSides Athens 2022 – Live Stream Part 2](https://securityboulevard.com/2022/07/security-bsides-athens-2022-live-stream-part-2/)
+  - [Rust CLI For Apple’s WeatherKit REST API](https://securityboulevard.com/2022/07/rust-cli-for-apples-weatherkit-rest-api/)
+  - [XKCD ‘Meta-Alternating Current’](https://securityboulevard.com/2022/07/xkcd-meta-alternating-current/)
+  - [Security BSides Athens 2022 – Live Stream Part 1](https://securityboulevard.com/2022/07/security-bsides-athens-2022-live-stream-part-1/)
+  - [North Korea Attacks Health Sector With Maui Ransomware](https://securityboulevard.com/2022/07/north-korea-attacks-health-sector-with-maui-ransomware/)
+  - [3 Access Security Lessons Learned from the Marriott Data Breach](https://securityboulevard.com/2022/07/3-access-security-lessons-learned-from-the-marriott-data-breach/)
+- Twitter @Nicolas Krassas
+  - [French telephone operator La Poste Mobile suffered a ransomware attack](https://twitter.com/Dinosn/status/1546215362794078208)
+  - [Experts demonstrate how to unlock several Honda models via Rolling-PWN attack](https://twitter.com/Dinosn/status/1546215280354988041)
+  - [Compromising a Domain With the Help of a Spooler](https://twitter.com/Dinosn/status/1546101139610935297)
+  - [CVE-2022-32212: Node.js arbitrary code execution vulnerability](https://twitter.com/Dinosn/status/1546086367620481024)
+  - [Hackers Used Fake LinkedIn Job Offer to Hack Off $625M from Axie Infinity](https://twitter.com/Dinosn/status/1545979976289325056)
+- HackerOne Hacker Activity
+  - [Homograph attack bypass cause redirection](https://hackerone.com/reports/1285245)
+  - [Blind SSRF at packagist.maximum.nl](https://hackerone.com/reports/1538056)
+- Recent Commits to cve:main
+  - [Update Sun Jul 10 11:28:35 UTC 2022](https://github.com/trickest/cve/commit/06d5fc50e80d86da32ae3ca548903e9461be729b)
+- SecWiki News
+  - [SecWiki News 2022-07-10 Review](http://www.sec-wiki.com/?2022-07-10)
+- 嘶吼 RoarTalk – 回归最本质的信息安全,互联网安全新媒体,4hou.com
+  - [NIST第3轮后量子密码算法进展](https://www.4hou.com/posts/PJQA)
+  - [Flubot演变史（上）](https://www.4hou.com/posts/ZX0Q)
+- CXSECURITY Database RSS Feed - CXSecurity.com
+  - [Exploit mktba 4.2 Arbitrary File Upload](https://cxsecurity.com/issue/WLB-2022070028)
+  - [Magnolia CMS 6.2.19 Cross Site Scripting](https://cxsecurity.com/issue/WLB-2022070027)
+  - [ผู้วิเคราะห์ :   ปัณฑารีย์ นงนุช  Admin Login Bypass](https://cxsecurity.com/issue/WLB-2022070026)
+- unSafe.sh - 不安全
+  - [分享 | 蚁剑RCE反制复现](https://buaq.net/go-116721.html)
+  - [渗透测试|[rust]shellcode免杀加载器【vt查杀1/67】|TRY博客](https://buaq.net/go-116713.html)
+  - [TryHello/DogCs4.4: cs4.4修改去特征狗狗版(美化ui,去除特征,自带bypass核晶截图等..)](https://buaq.net/go-116712.html)
+  - [fangzesheng/free-api: 收集免费的接口服务,做一个api的搬运工](https://buaq.net/go-116709.html)
+  - [各国开发者薪资水平：中国排名第19位](https://buaq.net/go-116775.html)
+  - [Secretflow - A Unified Framework For Privacy-Preserving Data Analysis And Machine Learning](https://buaq.net/go-116756.html)
+  - [[AHK＃52] 1.1.28新功能：Function Hotstring](https://buaq.net/go-116707.html)
+- gynvael.coldwind//vx.log (en)
+  - [Debug Log: Why is my M.2 SSD so slow?](https://gynvael.coldwind.pl/?id=749)
+- MaskRay
+  - [RISC-V linker relaxation in lld](https://maskray.me/blog/2022-07-10-riscv-linker-relaxation-in-lld)
+- SAP Blogs
+  - [SAP IBP Explained](https://blogs.sap.com/2022/07/10/sap-ibp-explained/)
+  - [SAP IBP Settings for TS Supply Planning – An Use Case](https://blogs.sap.com/2022/07/10/sap-ibp-settings-for-ts-supply-planning-an-use-case/)
+  - [SAP PP: Lot size Selection using Rounding Profile during MRP Run](https://blogs.sap.com/2022/07/10/sap-pp-lot-size-selection-using-rounding-profile-during-mrp-run/)
+  - [SAP S/4HANA Embedded Analytics – The End of Conventional Reporting and Analysis?](https://blogs.sap.com/2022/07/10/sap-s-4hana-embedded-analytics-the-end-of-conventional-reporting-and-analysis/)
+  - [Everything You Need to Know about the App Manage Payment Plans](https://blogs.sap.com/2022/07/10/everything-you-need-to-know-about-the-app-manage-payment-plans/)
+  - [SAP Cloud ALM – Integration & Exception Monitoring 機能概要・エラー分析方法について](https://blogs.sap.com/2022/07/10/sap-cloud-alm-integration-exception-monitoring-%e6%a9%9f%e8%83%bd%e6%a6%82%e8%a6%81%e3%83%bb%e3%82%a8%e3%83%a9%e3%83%bc%e5%88%86%e6%9e%90%e6%96%b9%e6%b3%95%e3%81%ab%e3%81%a4%e3%81%84%e3%81%a6/)
+  - [End to End AI/ML Scenario Configuration in SAP DMC](https://blogs.sap.com/2022/07/10/end-to-end-ai-ml-scenario-configuration-in-sap-dmc/)
+  - [How Can the Right Services and  Support Help Achieve a Successful Digital HR Transformation?](https://blogs.sap.com/2022/07/10/how-can-the-right-services-and-support-help-achieve-a-successful-digital-hr-transformation/)
+  - [Introduction to Basic building blocks of SAP IBP](https://blogs.sap.com/2022/07/10/introduction-to-basic-building-blocks-of-sap-ibp/)
+  - [Difference between Role, Authorization Object/s, and Profile](https://blogs.sap.com/2022/07/10/difference-between-role-authorization-object-s-and-profile/)
+- Sploitus.com Exploits RSS Feed
+  - [Exploit for Unrestricted Upload of File with Dangerous Type in Brandexponents Tatsu exploit](https://sploitus.com/exploit?id=C760F361-A0DB-5254-9F88-39953A9D4EDE&utm_source=rss&utm_medium=rss)
+  - [Exploit for Classic Buffer Overflow in Msi Dragon Center exploit](https://sploitus.com/exploit?id=5D99DEDA-7057-57E9-81AC-15FF40B62289&utm_source=rss&utm_medium=rss)
+  - [Exploit for CVE-2022-33980 exploit](https://sploitus.com/exploit?id=6D13552B-CA74-5F84-BC21-EFC2BB59FB93&utm_source=rss&utm_medium=rss)
+- Malwarebytes Labs
+  - [4 ways businesses can save money on cyber insurance](https://blog.malwarebytes.com/business/2022/07/4-ways-businesses-can-save-money-on-cyber-insurance/)
+  - [North Korean APT targets US healthcare sector with Maui ransomware](https://blog.malwarebytes.com/ransomware/2022/07/north-korean-apt-targets-us-healthcare-sector-with-maui-ransomware/)
+  - [How the FBI quietly added itself to criminals’ instant message conversations](https://blog.malwarebytes.com/reports/2022/07/how-the-fbi-quietly-added-itself-to-criminals-instant-message-conversations/)
+- Reverse Engineering
+  - [Compromising a Domain With the Help of a Spooler](https://www.reddit.com/r/ReverseEngineering/comments/vvp5rq/compromising_a_domain_with_the_help_of_a_spooler/)
+- KitPloit - PenTest & Hacking Tools
+  - [Secretflow - A Unified Framework For Privacy-Preserving Data Analysis And Machine Learning](http://www.kitploit.com/2022/07/secretflow-unified-framework-for.html)
+- HAHWUL
+  - [[Cullinan #40] How to Hack a X Series](https://www.hahwul.com/2022/07/10/cullinan-40/)
+- 微步在线研究响应中心
+  - [安全威胁情报周报（7.4~7.10）](https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247494236&idx=1&sn=09eec49c171f09d3d53059adbc2d99ec&chksm=cfca8948f8bd005e49d25fb858728229be9d5978dff87357f1dd6fe06a54af87dca9040e9c3d&scene=58&subscene=0#rd)
+- 长亭安全课堂
+  - [网络安全行业视角论——论质量既“品牌”（第二季）](https://mp.weixin.qq.com/s?__biz=MzIwMDk1MjMyMg==&mid=2247490021&idx=1&sn=91803c03eba66e5e3cb5ebd4e361e73e&chksm=96f40688a1838f9e278a0c8ae5b8eac803861b3681973ddc878589f15d9c19d40ae06b6a5f14&scene=58&subscene=0#rd)
+- ChaMd5安全团队
+  - [从黑灰产活动中学到的XSS技巧](https://mp.weixin.qq.com/s?__biz=MzIzMTc1MjExOQ==&mid=2247506364&idx=1&sn=664dfaae84676e086febe73bc38b8859&chksm=e89df164dfea787286c0083f65f3fa19d7d0294da5b4ef7c28e3946e550b5b58e7f8679a470b&scene=58&subscene=0#rd)
+- 奇客Solidot–传递最新科技情报
+  - [墨西哥提议终止夏令时](https://www.solidot.org/story?sid=72082)
+  - [微软推迟执行禁止第三方对免费的开源软件收费的政策](https://www.solidot.org/story?sid=72081)
+- 黑海洋 - WIKI
+  - [Apktool M v2.4.0-220709 | 安卓反编译神器](https://blog.upx8.com/2900)
+  - [Win系统提权工具NSudo v8.2](https://blog.upx8.com/2898)
+  - [Google Chrome 奔跑的奶酪定制版（103.0 稳定版）](https://blog.upx8.com/2897)
+- 情报分析师
+  - [【实战技法】如何使用OSINT根据旧来源判断地点的地理位置](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650510088&idx=1&sn=e403917087367579d17de6ee215a3993&chksm=8716bd43b0613455380e5656fdeca202c9233a140bc56bcdbd9af1e595af9a809c5844c3834b&scene=58&subscene=0#rd)
+  - [【智库报告】俄罗斯军事预测与分析](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650510088&idx=2&sn=0ac717abaf103db1feea7b8e7789885f&chksm=8716bd43b06134553680aafb8f3aa2eee0889c049b3324b15c98582453a341ee6c42f90ffdba&scene=58&subscene=0#rd)
+  - [【反恐巨著1312页】恐怖主义预防和战备手册（后果篇）](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650510088&idx=3&sn=bdcde6e32a55bdb26d5741c49771231f&chksm=8716bd43b06134558517934d1fccc46ad0aac888cb368e72ad41a69e3372b68f5940a97dafad&scene=58&subscene=0#rd)
+- 网安寻路人
+  - [尘埃终落定，对我国数据出境安全评估制度的观察和理解](https://mp.weixin.qq.com/s?__biz=MzIxODM0NDU4MQ==&mid=2247495515&idx=1&sn=e105412932077b973b0e9cc0b02167c0&chksm=97e952b1a09edba73855fab9240086f703bb5bb8d4b015f6119951e928afbb18a5f25d0c5ff1&scene=58&subscene=0#rd)
+  - [也谈《数据出境安全评估办法》涉及到的几个问题](https://mp.weixin.qq.com/s?__biz=MzIxODM0NDU4MQ==&mid=2247495507&idx=1&sn=de522cda22bcc95584df966b927da88f&chksm=97e952b9a09edbaf0ec628b7e6857ee7463aa0702f858ceab4096db0d3c39644b7fded515a34&scene=58&subscene=0#rd)
+- 中国信息安全
+  - [招聘 | 《中国信息安全》杂志新媒体 期待你的加入！](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664161655&idx=1&sn=2ec69aa7c6c81c1368b58a7dec83740c&chksm=8b5ee38ebc296a98b76f40ea094013df51b8114ff49424631ea289e1e3777bcb70d73d3270c3&scene=58&subscene=0#rd)
+- 落日间
+  - [Julian Klein 什么是用艺术的方法做研究？ What is Artistic Research? (2011)](https://mp.weixin.qq.com/s?__biz=MzIzMjM0NDk1NQ==&mid=2247487921&idx=1&sn=9041018f7bf3f2b35731fef10a9bf63d&chksm=e8970da5dfe084b3d8359c29378647abd2252c11243e3ff0b1436071365b2640a918c9e174f4&scene=58&subscene=0#rd)
+- 海边的西赛罗
+  - [你有幸灾乐祸的权利，我有删你好友的权利](https://mp.weixin.qq.com/s?__biz=MzI1NzE1ODc1MA==&mid=2247514968&idx=1&sn=71bdfa6fd905303f609a7edbddc3e460&chksm=ea194069dd6ec97faca2ccff962635d527f3f1dc3fd83ac6bd3d16064dfe9a5c21a2bf181d1b&scene=58&subscene=0#rd)
+  - [30集BBC，看完英语水平或超越大多数国人！](https://mp.weixin.qq.com/s?__biz=MzI1NzE1ODc1MA==&mid=2247514968&idx=2&sn=eaed7ef2a856fa7df5bc128ff631bbb4&chksm=ea194069dd6ec97fb6d71cc5e6b0bfd50153fe6c91abb38a11b6a3699d8090faea80cfdcb132&scene=58&subscene=0#rd)
+  - [我们对于未来的不安，20世纪早有答案](https://mp.weixin.qq.com/s?__biz=MzI1NzE1ODc1MA==&mid=2247514968&idx=3&sn=e2d6fa4edba9b5778c2187d89d69e480&chksm=ea194069dd6ec97fa4ae3089324c3846c3217dfeb30b55019a3b84816a92344d6c5cd431a472&scene=58&subscene=0#rd)
+- 且听安全
+  - [CVE-2022-26135 Atlassian Jira Mobile Plugin SSRF 漏洞](https://mp.weixin.qq.com/s?__biz=Mzg3MTU0MjkwNw==&mid=2247491168&idx=1&sn=a60329486e0d46ac9d23639e734013d0&chksm=cefda774f98a2e623b90c03ae35f4d8048450f2c6877d1379339e7ed061f2a9c900ae089a04d&scene=58&subscene=0#rd)
