@@ -86,7 +86,7 @@ bot:
     key: MAIL_KEY
 pick_bot:
   dingtalk:
-    enabled: true
+    enabled: false
     secrets: DINGTALK_KEY
     key: DINGTALK_KEY
     secret: DINGTALK_SECRET
