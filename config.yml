@@ -74,7 +74,7 @@ bot:
       - '-799557100'
     key: xxxxxxxxxx
   mail:
-    enabled: true
+    enabled: false
     secrets: MAIL_KEY
     # secrets: psrwunccozstddif
     secrets_receiver: MAIL_RECEIVER
