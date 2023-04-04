@@ -286,6 +286,8 @@ class mailBot:
         except Exception as e:
             Color.print_failed('[+] mailBot 发送失败')
             print(e)
+        finally:
+            self.smtp.quit()
 
     def send_raw(self, title, text):
         pass
