@@ -74,7 +74,7 @@ bot:
       - '-799557100'
     key: xxxxxxxxxx
   mail:
-    enabled: true
+    enabled: false
     secrets: MAIL_KEY
     secrets_receiver: MAIL_RECEIVER
     address: tyao27@qq.com
