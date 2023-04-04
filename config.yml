@@ -75,13 +75,13 @@ bot:
     key: xxxxxxxxxx
   mail:
     enabled: true
-    secrets: njtawpsixofkffba
-    key: njtawpsixofkffba
-    secrets_receiver: tyaookk@gmail.com
-    receiver: tyaookk@gmail.com
+    secrets: MAIL_KEY
+    secrets_receiver: MAIL_RECEIVER
     address: tyao27@qq.com
     server: smtp.qq.com
     from: security-bot <tyao27@qq.com>
+    receiver: MAIL_RECEIVER
+    key: MAIL_KEY
 pick_bot:
   dingtalk:
     enabled: false
