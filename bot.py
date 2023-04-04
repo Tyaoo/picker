@@ -240,13 +240,13 @@ class mailBot:
         self.fromwho = fromwho or sender
         server = server or self.get_server(sender)
 
-        self.smtp = smtplib.SMTP_SSL(server)
+        self.smtp = smtplib.SMTP_SSL(*server)
         self.smtp.login(sender, passwd)
 
     def get_server(self, sender: str):
         key = sender.rstrip('.com').split('@')[-1]
         server = {
-            'qq': 'smtp.qq.com',
+            'qq': ['smtp.qq.com','465'],
             'foxmail': 'smtp.qq.com',
             '163': 'smtp.163.com',
             'sina': 'smtp.sina.com',
@@ -286,8 +286,6 @@ class mailBot:
         except Exception as e:
             Color.print_failed('[+] mailBot 发送失败')
             print(e)
-        finally:
-            self.smtp.quit()
 
     def send_raw(self, title, text):
         pass
