@@ -76,12 +76,12 @@ bot:
   mail:
     enabled: true
     secrets: njtawpsixofkffba
-    secrets_receiver:
+    secrets_receiver: ''
     address: tyao27@qq.com
     server: smtp.qq.com
     from: security-bot <tyao27@qq.com>
     receiver: tyaookk@gmail.com
-    key:
+    key: ''
 pick_bot:
   dingtalk:
     enabled: false
