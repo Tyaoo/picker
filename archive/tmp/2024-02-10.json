@@ -1,0 +1,384 @@
+{
+    "NDSS": {
+        "Enhancing Security Event Detection on Twitter with Graph-based Tweet Embedding": "https://www.ndss-symposium.org/ndss2024/co-located-events/aiscc/accepted-papers/#Enhancing%20Security%20Event%20Detection%20on%20Twitter%20with%20Graph-based%20Tweet%20Embedding",
+        "Differentially Private Dataset Condensation": "https://www.ndss-symposium.org/ndss2024/co-located-events/aiscc/accepted-papers/#Differentially%20Private%20Dataset%20Condensation",
+        "Heterogeneous Graph Pre-training Based Model for Secure and Efficient Prediction of Default Risk Propagation among Bond Issuers": "https://www.ndss-symposium.org/ndss2024/co-located-events/aiscc/accepted-papers/#Heterogeneous%20Graph%20Pre-training%20Based%20Model%20for%20Secure%20and%20Efficient%20Prediction%20of%20Default%20Risk%20Propagation%20among%20Bond%20Issuers",
+        "Towards a Certifiably Robust Defense for Multi-label Classifiers Against Adversarial Patches": "https://www.ndss-symposium.org/ndss2024/co-located-events/aiscc/accepted-papers/#Towards%20a%20Certifiably%20Robust%20Defense%20for%20Multi-label%20Classifiers%20Against%20Adversarial%20Patches",
+        "Auditing Artist Style Pirate in Text-to-image Generation Models": "https://www.ndss-symposium.org/ndss2024/co-located-events/aiscc/accepted-papers/#Auditing%20Artist%20Style%20Pirate%20in%20Text-to-image%20Generation%20Models",
+        "Opinion Manipulation of Controversial Topics Based on Adversarial Ranking Attacks": "https://www.ndss-symposium.org/ndss2024/co-located-events/aiscc/accepted-papers/#Opinion%20Manipulation%20of%20Controversial%20Topics%20Based%20on%20Adversarial%20Ranking%20Attacks",
+        "Strengthening Privacy in Robust Federated Learning through Secure Aggregation": "https://www.ndss-symposium.org/ndss2024/co-located-events/aiscc/accepted-papers/#Strengthening%20Privacy%20in%20Robust%20Federated%20Learning%20through%20Secure%20Aggregation",
+        "Aligning Confidential Computing with Cloud-native ML Platforms": "https://www.ndss-symposium.org/ndss2024/co-located-events/aiscc/accepted-papers/#Aligning%20Confidential%20Computing%20with%20Cloud-native%20ML%20Platforms",
+        "Exploring the Influence of Prompts in LLMs for Security-Related Tasks": "https://www.ndss-symposium.org/ndss2024/co-located-events/aiscc/accepted-papers/#Exploring%20the%20Influence%20of%20Prompts%20in%20LLMs%20for%20Security-Related%20Tasks",
+        "Facilitating Threat Modeling by Leveraging Large Language Models": "https://www.ndss-symposium.org/ndss2024/co-located-events/aiscc/accepted-papers/#Facilitating%20Threat%20Modeling%20by%20Leveraging%20Large%20Language%20Models",
+        "Benchmarking transferable adversarial attacks": "https://www.ndss-symposium.org/ndss2024/co-located-events/aiscc/accepted-papers/#Benchmarking%20transferable%20adversarial%20attacks",
+        "PANDORA: Jailbreak GPTs by Retrieval Augmented Generation Poisoning": "https://www.ndss-symposium.org/ndss2024/co-located-events/aiscc/accepted-papers/#PANDORA:%20Jailbreak%20GPTs%20by%20Retrieval%20Augmented%20Generation%20Poisoning"
+    },
+    "Doonsec's feed": {
+        "初一｜喜庆新春 龙祐千载": "https://mp.weixin.qq.com/s?__biz=MzU1MzE3Njg2Mw==&mid=2247507385&idx=1&sn=9833222fab8f639b92763c03de9f833e",
+        "2024，龙行大运": "https://mp.weixin.qq.com/s?__biz=MzU1OTUxNTI1NA==&mid=2247568929&idx=1&sn=71d6674d3cb82221b140c8b5bc056b2e",
+        "《自然资源数字化治理能力提升总体方案》全文": "https://mp.weixin.qq.com/s?__biz=MjM5OTk4MDE2MA==&mid=2655226939&idx=1&sn=b20104c06d67e1369ecaaa7b898040c7",
+        "大学生网络安全尖锋训练营给您拜年": "https://mp.weixin.qq.com/s?__biz=MzUzODkwMDMxNA==&mid=2247574802&idx=1&sn=6b7a7dcebea4bb7fa3189a8bca27c133",
+        "《网信自主创新调研报告》编委会给您拜年": "https://mp.weixin.qq.com/s?__biz=MzkxMzI3MzMwMQ==&mid=2247519641&idx=1&sn=97f46dcdab59c76d957f1b0fc318ee5c",
+        "龙腾盛世贺新春 网安事业续华章": "https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664204895&idx=2&sn=2955224083c8b86d75c1369dd6edbd22",
+        "龙行龘龘 | 大年初一，网安行业贺新春，给您拜年了！": "https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664204895&idx=1&sn=7ae9d861d8f29ed9baa5c04e32126249",
+        "什么是数字信任": "https://mp.weixin.qq.com/s?__biz=MzI1NjQxMzIzMw==&mid=2247491139&idx=1&sn=d5a24a5aa39e4f495e51ebb4b5ae170a",
+        "【IoT安全】H3C新华三路由器命令执行0day漏洞挖掘": "https://mp.weixin.qq.com/s?__biz=Mzg3NjkxNTE4Mg==&mid=2247484485&idx=1&sn=15539d3dce4a8864919e84f1b836e544",
+        "新的一年步步高": "https://mp.weixin.qq.com/s?__biz=MzkzMzQxODU3Mg==&mid=2247487371&idx=1&sn=186e0c0d3dc937e07c778cc2268e99d7",
+        "年初一 │ 龙行大运": "https://mp.weixin.qq.com/s?__biz=MzU0NDk0NTAwMw==&mid=2247607124&idx=1&sn=e763bf05d1029650903155b0868d75e2",
+        "初一": "https://mp.weixin.qq.com/s?__biz=MzUyMjAyODU1NA==&mid=2247491354&idx=1&sn=4ef94d6ab6934349fae347314161b74d",
+        "分享图片": "https://mp.weixin.qq.com/s?__biz=MzI3Njc1MjcxMg==&mid=2247490850&idx=1&sn=4702d80dd3bacab877240813b0abe6b6",
+        "安天AVL SDK反病毒引擎升级通告（20240210）": "https://mp.weixin.qq.com/s?__biz=MjM5MTA3Nzk4MQ==&mid=2650204082&idx=2&sn=a5b920c1c0c5a13c1649cb991c23811e",
+        "大年初一 龙年大吉丨安天智甲给您拜年了": "https://mp.weixin.qq.com/s?__biz=MjM5MTA3Nzk4MQ==&mid=2650204082&idx=1&sn=a4386122905cfbb772eb5460dc1af328",
+        "墨云科技 | 金龙献瑞，龘吉大利": "https://mp.weixin.qq.com/s?__biz=MzU5ODE2NDA3NA==&mid=2247495927&idx=1&sn=1b569ecdbdaad1f11b3ce342e51bea03",
+        "星云安全给您拜年啦！": "https://mp.weixin.qq.com/s?__biz=MzkxODA4NjQwNQ==&mid=2247495287&idx=1&sn=3ffc08197681bfd639a6638a47148ceb",
+        "大年初一 ｜一帆风顺": "https://mp.weixin.qq.com/s?__biz=MzkyNDUxNTQ2Mw==&mid=2247484808&idx=1&sn=86e074153399e8bff96c790cea01ebab",
+        "查拼音和五笔编码的小工具": "https://mp.weixin.qq.com/s?__biz=Mzk0MTI4NTIzNQ==&mid=2247490615&idx=1&sn=84152bf9b18a8b0c78ea2418b2d92c32",
+        "大年初一拜大年！知白学院祝您新的一年龙运亨通，吉祥如意": "https://mp.weixin.qq.com/s?__biz=MzUzNDg0NTc1NA==&mid=2247508506&idx=1&sn=bbc697d8e960d806c53508c94144b90e",
+        "每周文章分享-145": "https://mp.weixin.qq.com/s?__biz=MzI1MTQwMjYwNA==&mid=2247499711&idx=1&sn=f501b3cd181838f576e67948a61c6f7f",
+        "初一｜迎新春万事兴“龍”，护安全民富国强": "https://mp.weixin.qq.com/s?__biz=MzkyNzE5MDUzMw==&mid=2247539325&idx=1&sn=89a85f7975a7f358999d5f0f24fe29fd",
+        "新年快乐！给大家包了个红包": "https://mp.weixin.qq.com/s?__biz=MzAwNTc5MTMyNg==&mid=2247499269&idx=1&sn=6e034929456d7004e8d389cfb8e914cc",
+        "恭贺新春": "https://mp.weixin.qq.com/s?__biz=MzU3NTQwNDYyNA==&mid=2247487012&idx=1&sn=c41c0fdb76591dc06460a56dd4f9934d",
+        "愿新年，胜旧年。祝大家新年快乐！": "https://mp.weixin.qq.com/s?__biz=MzU1Nzc4MDc3NQ==&mid=2247492045&idx=1&sn=11d6afc9d179f92b53c2b0709df318a5",
+        "2024龙年大吉，祝各位新年快乐！": "https://mp.weixin.qq.com/s?__biz=Mzg5MDQyMzg3NQ==&mid=2247483905&idx=1&sn=9a28cb2209f965d2ee1c66788cd24429",
+        "安全绘景祝您新年快乐，龙年大吉！": "https://mp.weixin.qq.com/s?__biz=MzkyNzYxMDQ2MQ==&mid=2247484423&idx=1&sn=943df52a0f63ca00d96dd075d24efff9",
+        "有度安全恭祝大家龙年大吉，万事顺意！": "https://mp.weixin.qq.com/s?__biz=Mzg3NTEyMzU4OA==&mid=2247513004&idx=1&sn=564fa0cb1a299093abefc482a5ac3b7a",
+        "愿新年，胜旧年，HackingClub祝大家龙腾四海耀新春，事事顺遂平安健康～": "https://mp.weixin.qq.com/s?__biz=MzkxMzE4MTc5Ng==&mid=2247498881&idx=1&sn=f4bb45b3e3aa2b1e0a8ea0ce711df4f2",
+        "春节快乐": "https://mp.weixin.qq.com/s?__biz=MzI3NzI4OTkyNw==&mid=2247489121&idx=1&sn=1d702a780ea42a731ed91b66e245f7a9",
+        "祝大家新年快乐，新年行大运": "https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247512386&idx=1&sn=41f9bc8750dd482a02c5d61a94b92262",
+        "EDI安全团队祝大家新年快乐（内附红包）": "https://mp.weixin.qq.com/s?__biz=MzIzMTQ4NzE2Ng==&mid=2247494707&idx=1&sn=958648f983f61fc38fa43edc2107f8f6",
+        "360漏洞云祝大家新春大吉！": "https://mp.weixin.qq.com/s?__biz=Mzg5MTc5Mzk2OA==&mid=2247498718&idx=1&sn=42dc6917c5f5d1268b3010fecb1fd748",
+        "小黑祝大家龙年大吉，输入口令有红包，第二发！": "https://mp.weixin.qq.com/s?__biz=MzkxNjQyMjcwMw==&mid=2247485820&idx=1&sn=a0e0496627c1592801774c6a01ce61b4",
+        "2024年新春寄语：让我们一起超越一流、奔赴伟大": "https://mp.weixin.qq.com/s?__biz=MzAxOTk3NTg5OQ==&mid=2247490031&idx=1&sn=993570964bba661432d5fd098913a23f",
+        "新年快乐！": "https://mp.weixin.qq.com/s?__biz=MzkxMzQzMDY3MQ==&mid=2247483953&idx=1&sn=ad4f04f42c773411b23c382d03464ef6",
+        "U0001f9e8新年快乐 红包封面第四弹U0001f9e8": "https://mp.weixin.qq.com/s?__biz=MjM5Nzk3MjMzMA==&mid=2650570133&idx=1&sn=5d97bee0af00b6eb89d6cef112e101d6",
+        "新年快乐鸭～": "https://mp.weixin.qq.com/s?__biz=MzkwMzMwODg2Mw==&mid=2247503487&idx=1&sn=bc0df827f49ed0718d346f5260d26447",
+        "离2025年还有365天": "https://mp.weixin.qq.com/s?__biz=Mzg2NTk4MTE1MQ==&mid=2247484587&idx=1&sn=ddf598263ba457f6fa884a551e54ea94",
+        "网络安全等级保护知识汇总-春节辑": "https://mp.weixin.qq.com/s?__biz=Mzg2NjY2MTI3Mg==&mid=2247494025&idx=1&sn=5054149fee9e45d718e80a463bd99cb3",
+        "恭贺新禧，龙年大吉": "https://mp.weixin.qq.com/s?__biz=MzA3NjU5MTIxMg==&mid=2650573603&idx=1&sn=5bda12c52c6addacb09647ab466f23d5",
+        "过年好！融信人新春大拜年来喽~": "https://mp.weixin.qq.com/s?__biz=MzA3OTMxNTcxNA==&mid=2650906173&idx=1&sn=140d885b382636c1bf740ec88cad16fb",
+        "暗魂攻防实验室祝大家新春快乐": "https://mp.weixin.qq.com/s?__biz=MzkyMjE1NzQ2MA==&mid=2247488898&idx=1&sn=ea193aa7426ef6a9926ec635e07b02e2",
+        "龙年新年快乐！": "https://mp.weixin.qq.com/s?__biz=MzIwODc2NjgxNA==&mid=2247483992&idx=1&sn=2e9e9a3de19fbbd957244b69d5fd0584",
+        "2024新年快乐！祝大家幸福安康！万事如意~！": "https://mp.weixin.qq.com/s?__biz=MzkwNzMzMjIyNg==&mid=2247487758&idx=1&sn=5f6b7506766460d0d8957026b0228fbf",
+        "大年初一 在前沿信安资讯阵地 与千位星友共话信安": "https://mp.weixin.qq.com/s?__biz=MzA3MTM0NTQzNA==&mid=2455770823&idx=1&sn=ae8b168552b4eae804e8312f26a8404f",
+        "拜年啦": "https://mp.weixin.qq.com/s?__biz=MjM5MTYxNjQxOA==&mid=2652903835&idx=1&sn=e4647538868e613378a65ff2b1610017",
+        "恭贺新禧": "https://mp.weixin.qq.com/s?__biz=MjM5NDI4ODU5OQ==&mid=2684314321&idx=1&sn=4dd32dca65d39db883d0c048700f7b35",
+        "写给网安人员的新春祝福!": "https://mp.weixin.qq.com/s?__biz=MzI3NzM5NDA0NA==&mid=2247485521&idx=1&sn=83da11164eaeb96fa0d9d5d81c4f5841",
+        "迪普科技祝您新春快乐，龙年大吉！": "https://mp.weixin.qq.com/s?__biz=MzA4NzE5MzkzNA==&mid=2650351474&idx=1&sn=dff193284eea2130adc0d11728906785",
+        "福满乾坤 龙年大吉！": "https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247573573&idx=1&sn=23bdcc94945ce45d1c9d202610d687da",
+        "龙年到！": "https://mp.weixin.qq.com/s?__biz=MzkzOTIyMzYyMg==&mid=2247492603&idx=1&sn=ef18f7ef8660648aca6520955199c53d",
+        "2024 | 恭祝大家新春快乐,龙年大吉!": "https://mp.weixin.qq.com/s?__biz=MzIzNDE0Mzk0NA==&mid=2649595150&idx=1&sn=582153d64b53dcdc3b9b0a2e16b1b4ca",
+        "迎春纳福  龙腾睿气": "https://mp.weixin.qq.com/s?__biz=MzAwNjc0MDA1NA==&mid=2650139904&idx=1&sn=67e92eb29455d95268758408e9d7ca8b",
+        "天地和兴恭祝大家新年快乐，龙年大吉！": "https://mp.weixin.qq.com/s?__biz=MjM5Mzk0MDE2Ng==&mid=2649607031&idx=1&sn=62b192aa6ea0fc0c27f41160b6edba80",
+        "恭贺新春·龙年大吉": "https://mp.weixin.qq.com/s?__biz=MzkwODMzOTA2NA==&mid=2247494015&idx=1&sn=326b9497cd7984466951fb45fcd30008",
+        "win权限提升？看这一篇就够了": "https://mp.weixin.qq.com/s?__biz=Mzg4MzkwNzI1OQ==&mid=2247484462&idx=1&sn=4c37db426acf525f127de3aa8149962a",
+        "恭贺新春 | 律回春晖渐,万象始更新": "https://mp.weixin.qq.com/s?__biz=MzU5OTQ0NzY3Ng==&mid=2247495980&idx=1&sn=30377a41e0201cb212097cb0ddd4b9bc",
+        "祝大家龍行龘龘，前程朤朤、新春多福、欣欣向荣": "https://mp.weixin.qq.com/s?__biz=MzA5MzU5MzQzMA==&mid=2652104765&idx=1&sn=079760ded6e5a4674912d5e10820c7bf",
+        "知道创宇祝您新年快乐，龙年大吉！": "https://mp.weixin.qq.com/s?__biz=MjM5NzA3Nzg2MA==&mid=2649867820&idx=1&sn=f80cf621f05a0a9bc319eece81a70a11",
+        "新年启封u3000万象更新": "https://mp.weixin.qq.com/s?__biz=MzkyMTMwMzc1Mw==&mid=2247484899&idx=1&sn=745c201a2e695bb143f1366063ab8475",
+        "龙年大吉 | 可爱人间烟火，平安喜乐万朵": "https://mp.weixin.qq.com/s?__biz=MzkwODMxMjcyMQ==&mid=2247487310&idx=1&sn=623848e483f786cc18b025564cfd9b29",
+        "龙腾贺新春，欢喜迎新年！云弈科技祝您新年快乐！龙年大吉！": "https://mp.weixin.qq.com/s?__biz=MzU2ODY0ODk2Nw==&mid=2247488222&idx=1&sn=11f7f33f7d92dc613aaf16745a99636e",
+        "Mac下的windows双机调试环境配置pd+vm": "https://mp.weixin.qq.com/s?__biz=MzAwMDQwNTE5MA==&mid=2650247356&idx=1&sn=696d5f17dc774bfbe83406db59cb736a",
+        "WK安全祝各位师傅们新年快乐！": "https://mp.weixin.qq.com/s?__biz=Mzg2ODg3NzExNw==&mid=2247488064&idx=1&sn=f32a2d31c96b3e8d122480afc382d419",
+        "湘安无事团队祝各位师傅们新年快乐！": "https://mp.weixin.qq.com/s?__biz=MzU3Mjk2NDU2Nw==&mid=2247490721&idx=1&sn=1e7bcdb68c3a2e6b49bc2be5d2b5bbe9",
+        "新春佳节，赛博研究院祝您阖家团圆！": "https://mp.weixin.qq.com/s?__biz=MzUzODYyMDIzNw==&mid=2247507923&idx=1&sn=563f3a25edb4809f8ec5571e4ff6c1fc",
+        "新春大吉": "https://mp.weixin.qq.com/s?__biz=MzAwMTU3NTcwMg==&mid=2650274177&idx=1&sn=7d8b03fa4ff76839a28d115d6949223a",
+        "新年快乐": "https://mp.weixin.qq.com/s?__biz=Mzg2NDcwNjkzNw==&mid=2247486785&idx=1&sn=dd3148d2ee6ec7f7e7ca033f55ec16d3",
+        "祝师傅们龙年快乐，0day拿到手软！": "https://mp.weixin.qq.com/s?__biz=MzkyMzYwNTEyNg==&mid=2247485338&idx=1&sn=9e7d20a678ab1d5c6175a3a0296fe19c",
+        "祝大家新年快乐！": "https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247493517&idx=1&sn=1a2029bb5d9933c7c39336c1516c0b00",
+        "世界之最，超级并发抢票平台-----深入解析12306购票系统(上)": "https://mp.weixin.qq.com/s?__biz=Mzg4NDY4Mzk3Mw==&mid=2247485286&idx=1&sn=5806c001ad3f558d87123d0f38a48fc5",
+        "新年快乐，龙年大吉": "https://mp.weixin.qq.com/s?__biz=MzU0NDI5NTY4OQ==&mid=2247484994&idx=1&sn=5a4f8aec84b2ce54fc44645bc1fc826c",
+        "祝大家2024年心想事成": "https://mp.weixin.qq.com/s?__biz=MzI5MjEyOTE4MA==&mid=2648519992&idx=1&sn=60ffcbfefb66cdcf962749a473c91144",
+        "【新年快乐】利刃信安攻防实验室祝您新年快乐": "https://mp.weixin.qq.com/s?__biz=MzU1Mjk3MDY1OA==&mid=2247510169&idx=1&sn=deb0ab63be97058246e27e24007b6d7a",
+        "《锐安全》定制红包发放：2024我们得偿所愿，风云化龙！": "https://mp.weixin.qq.com/s?__biz=MzAxOTk3NTg5OQ==&mid=2247490040&idx=1&sn=b7da7995c3866fae78cd3ad1064bd0ed",
+        "《我是一条小河》": "https://mp.weixin.qq.com/s?__biz=MjM5NDcxMDQzNA==&mid=2247488316&idx=1&sn=ed95482059ccc494c19daf5adf143852",
+        "情报分析师和你一期奔赴美好的2024！": "https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650545727&idx=1&sn=26636c1bde426fd4fcaf069e7b28f3df",
+        "新年快乐-内附福利": "https://mp.weixin.qq.com/s?__biz=Mzg2MzYzNjEyMg==&mid=2247487161&idx=1&sn=acfde7aed07646ec2b351fa7fedef7ff",
+        "亿人安全祝大家龙年大吉！": "https://mp.weixin.qq.com/s?__biz=Mzk0MTIzNTgzMQ==&mid=2247513273&idx=1&sn=a90989de78c682643fbaa9d84560da27",
+        "2024第一弹，重点不错过~": "https://mp.weixin.qq.com/s?__biz=MzkzMjQ0MTk1OQ==&mid=2247483942&idx=1&sn=6a3e0d904c675b4fe225f6def33e86d6",
+        "非正常人类研究中心的下一代": "https://mp.weixin.qq.com/s?__biz=MzUzMjQyMDE3Ng==&mid=2247487137&idx=1&sn=b36f90e99cfc42a7757e4c346472eaa9",
+        "浅谈虚假父进程下的免杀、提权": "https://mp.weixin.qq.com/s?__biz=MzkyNTUyNDMyOA==&mid=2247486923&idx=1&sn=5ecfa9f57d8ac3f57b9b58146ce44569",
+        "除夕 | 有一种味道，是年夜饭": "https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247517501&idx=1&sn=5865fdbc3a62b68e0a881351e12166a4",
+        "十万火急！！今晚不开红包挂你还怎么买房子？": "https://mp.weixin.qq.com/s?__biz=MzkxNjQyODY5MA==&mid=2247486161&idx=1&sn=d0a9a7097d8896479774b724fd45c983",
+        "小黑祝大家龙年大吉，输入口令有红包！": "https://mp.weixin.qq.com/s?__biz=MzkxNjQyMjcwMw==&mid=2247485818&idx=1&sn=f23dfbb5b86d19fb07d7423c8d79bc54",
+        "老五说网络祝大家新春快乐，龙年大吉，龙年行大运！！！": "https://mp.weixin.qq.com/s?__biz=MzUxNzg5MzM2Mg==&mid=2247486641&idx=1&sn=1f0403484f31454986e6b31695b34a10",
+        "u200b甲辰龙年，春节快乐！": "https://mp.weixin.qq.com/s?__biz=MzkxNDAyNTY2NA==&mid=2247514732&idx=1&sn=e6c38dd52cad5a0eba1f3e150a3d7204",
+        "锦岳智慧 | 恭祝新大家新春快乐,龙年大吉!": "https://mp.weixin.qq.com/s?__biz=MzkxMzQwNDcxNg==&mid=2247486323&idx=1&sn=83e744e05bfaa9b70020d5dd6542607d",
+        "除夕快乐": "https://mp.weixin.qq.com/s?__biz=MjM5MTYxNjQxOA==&mid=2652903826&idx=1&sn=2cd6f116ff2a07f788edb894ed318ee0",
+        "r3kapig祝大家龙年大吉": "https://mp.weixin.qq.com/s?__biz=MzI2MDE4MzkzMQ==&mid=2247484534&idx=1&sn=dfeb2bd2871d468abc682f183bb1e57f",
+        "威零安全祝各位新年快乐🎉": "https://mp.weixin.qq.com/s?__biz=Mzg4Mzg4OTIyMA==&mid=2247485437&idx=1&sn=47241c763b7ee6e31cc86adedc9c081c",
+        "新年快乐，感谢大家一直支持🎆": "https://mp.weixin.qq.com/s?__biz=MzIwOTMzMzY0Ng==&mid=2247487585&idx=1&sn=714dedc5fbd201a9e60d9d40b428c59b",
+        "天权信安网络安全团队祝大家新年快乐！": "https://mp.weixin.qq.com/s?__biz=Mzg5NzY0OTQ2Mg==&mid=2247494367&idx=1&sn=cc45079d8a2b0c0e588e73dc3c770df4",
+        "猎洞时刻 祝各位新年快乐！！！": "https://mp.weixin.qq.com/s?__biz=MzkyNTUyNTE5OA==&mid=2247484968&idx=1&sn=7a8730206edeac8fbc60727bfa50ea12",
+        "不懂安全的果仁，祝大家新春快乐": "https://mp.weixin.qq.com/s?__biz=Mzg4NDg3NjE5MQ==&mid=2247484813&idx=1&sn=082e092cac409815eedd9c671895aa45",
+        "红红火火过大年，黑客祝您新春快乐": "https://mp.weixin.qq.com/s?__biz=MzkwODI1ODgzOA==&mid=2247502527&idx=1&sn=7b5f092eb0e642f0c3ffa7a8b79edfdb",
+        "Gcow安全团队祝大家龙年大吉（内含红包）": "https://mp.weixin.qq.com/s?__biz=MzUyNzk2NDcwMw==&mid=2247488585&idx=1&sn=5639b6895b8e5817fde5d8678f2b60e3",
+        "藏剑安全祝各位师傅龙年大吉万事如意！(红包封面第二弹！)": "https://mp.weixin.qq.com/s?__biz=Mzg5MDA5NzUzNA==&mid=2247486391&idx=1&sn=0e3a13e6aac9247c7e9eb1320753c458",
+        "除 夕 夜 【 红 包 来 】": "https://mp.weixin.qq.com/s?__biz=MzkyODMxODUwNQ==&mid=2247493283&idx=1&sn=fe60a129a9d655456d8d730b43e4bab5",
+        "过年好！昂楷祝您新春快乐，龙年大吉！": "https://mp.weixin.qq.com/s?__biz=MzIyMTAwOTE5Mw==&mid=2651859431&idx=1&sn=7f104141d98241f185ba10baceb2884c",
+        "Vidar-Team 微信红包封面大放送！": "https://mp.weixin.qq.com/s?__biz=MzIxNDU2ODg3Mw==&mid=2247485728&idx=1&sn=5a046fd631500a5ab24852d2667f1833",
+        "2024，心怀美好，奋斗常行！": "https://mp.weixin.qq.com/s?__biz=MzA4NjMwMzI3Mg==&mid=2247497817&idx=1&sn=a9803a31ae9a0f5323ffa13c9038e6e2",
+        "祥龙昂首，万象启新 | 安世加祝您除夕快乐，龙年大吉": "https://mp.weixin.qq.com/s?__biz=MzU2MTQwMzMxNA==&mid=2247536996&idx=1&sn=262b635bd2beb551ef6e550962356787",
+        "龙腾盛世，瑞气盈门，T00ls给您拜年了，祝福大家新春快乐，所想皆如愿，所盼皆实现": "https://mp.weixin.qq.com/s?__biz=Mzg3NzYzODU5NQ==&mid=2247484522&idx=1&sn=a795fd52375bca3b1f8afa2b9d7d5786",
+        "新春有奖 | 一封跨越时间的寄语，致未来的自己": "https://mp.weixin.qq.com/s?__biz=MzU5OTg4MTIxMw==&mid=2247502230&idx=1&sn=9af0cd20bcecfd06715238cbe61e0c65",
+        "东方隐侠祝您新春快乐，让我们一起有龙的精气神！": "https://mp.weixin.qq.com/s?__biz=Mzg2NTkwODU3Ng==&mid=2247508882&idx=1&sn=ae11e167dd7a4dd33e203e252cf77e0f",
+        "星尘安全祝大家新年快乐": "https://mp.weixin.qq.com/s?__biz=Mzg3NTY0MjIwNg==&mid=2247484231&idx=1&sn=81cd43066345699b743304e72abca48e",
+        "Linux 更新与安装命令yum和apt-get": "https://mp.weixin.qq.com/s?__biz=MzU1NDg4MjY1Mg==&mid=2247487010&idx=1&sn=340669bea6fd471ae34e232ddf814d8a",
+        "除夕欢乐": "https://mp.weixin.qq.com/s?__biz=MzU3OTIxNzk4Ng==&mid=2247487322&idx=1&sn=606e9529c79de485e201e09acd8226a4",
+        "SOME/IP 详解 —— 通信方式": "https://mp.weixin.qq.com/s?__biz=MzIzOTc2OTAxMg==&mid=2247533198&idx=1&sn=a6a2651506baba242a2c977095727351",
+        "【年终献礼-文末福利】蛇矛实验室2023年年度总结": "https://mp.weixin.qq.com/s?__biz=MzkwMjI1NzY4Ng==&mid=2247524177&idx=1&sn=9a11b80a0936072ca7a8475dd56d26a6",
+        "安全脉脉团队祝大家新年快乐！": "https://mp.weixin.qq.com/s?__biz=Mzk0MzQzNzMxOA==&mid=2247486151&idx=1&sn=8e46731e593d1df1c9c7f230ef96bbb5",
+        "【除夕】祝大家除夕快乐，龙年大吉！！！": "https://mp.weixin.qq.com/s?__biz=MzI2MTUwNjI4Mw==&mid=2247487526&idx=1&sn=4eabed4c60493633249b39e10b404800",
+        "新发展|米好信安入选《CCSIP 2023 中国网络安全行业全景册（第六版）》": "https://mp.weixin.qq.com/s?__biz=MzU1NTYxMjA5MA==&mid=2247500417&idx=2&sn=5d568b98f65c511ca243650f8e7cd23c",
+        "米好信安祝您除夕快乐！（内含红包封面）": "https://mp.weixin.qq.com/s?__biz=MzU1NTYxMjA5MA==&mid=2247500417&idx=1&sn=f544a62784b70cce6baf2b0c936b5bee",
+        "佳佳": "https://mp.weixin.qq.com/s?__biz=MzkxMDYwNDI0MA==&mid=2247484183&idx=1&sn=4a34f8a61129b49bd64d616b3c28bf6e",
+        "dotNet安全矩阵团队  祝您除夕快乐！": "https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247490676&idx=1&sn=f534648141e6288164ad6c7502fa1ffc",
+        "许个愿｜祝大家2024年快快乐乐的渡过！": "https://mp.weixin.qq.com/s?__biz=MzkxNzIzNDExMA==&mid=2247486418&idx=1&sn=58bd32db11edb953c59e1060a12c2aa7",
+        "安全威胁情报周报（2024/02/03-2024/02/09）": "https://mp.weixin.qq.com/s?__biz=Mzg4NjYyMzUyNg==&mid=2247488994&idx=1&sn=1a4093044064c8a144fe2d3b0eabd93b",
+        "YAK给您拜年啦|龙年行大运，祥瑞照门庭": "https://mp.weixin.qq.com/s?__biz=Mzk0MTM4NzIxMQ==&mid=2247519321&idx=1&sn=29ef32c6ee3349f13c609680ae33b99e",
+        "辞旧岁，迎龙年|恭祝大家龙年大吉！": "https://mp.weixin.qq.com/s?__biz=MzIwMzI1MDg2Mg==&mid=2649944005&idx=1&sn=457c500d89c4ed4b11394540695e8fa0",
+        "除夕快乐！福启新岁·万事顺遂": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458542078&idx=3&sn=ca47c3170f253f2ae4dccdcd7554e32e",
+        "CVE-2022-0847 dirtypipe漏洞复现": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458542078&idx=2&sn=22aca750989aae8fbb450c1e1766314a",
+        "预付全款新模式上线！欢迎高质量课程及优秀讲师入驻看雪课程平台": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458542078&idx=1&sn=5acdde6271f4013e24a20474b9a0ea60",
+        "砥砺前行 胜景可期 │ 老齐农历甲辰年新春贺词": "https://mp.weixin.qq.com/s?__biz=MzU0NDk0NTAwMw==&mid=2247607123&idx=1&sn=14d287de007717961459853b454fd4ea",
+        "HACKTHEBOX通关笔记——mango（退役）": "https://mp.weixin.qq.com/s?__biz=Mzg2NTcyNjU4Nw==&mid=2247485130&idx=1&sn=5e500eab4c5966e7cd0095cab08ba859",
+        "休假通知 | 春节优惠不打烊，自助购买更方便！": "https://mp.weixin.qq.com/s?__biz=MzI2MjcwMTgwOQ==&mid=2247490510&idx=1&sn=b55622dbb33473181f26b17e1ecd414a",
+        "除夕 | 辞暮尔尔，烟火年年": "https://mp.weixin.qq.com/s?__biz=MzkwODMxMjcyMQ==&mid=2247487306&idx=1&sn=48e24446710ca9f1f61445d60814610c",
+        "《网络空间安全科学学报》祝您龙行龘龘，前程朤朤": "https://mp.weixin.qq.com/s?__biz=MzI0NjU2NDMwNQ==&mid=2247497731&idx=2&sn=ae173e7723d05b124cb5fa532aba3931",
+        "《网络空间安全科学学报》致谢编委、审稿专家": "https://mp.weixin.qq.com/s?__biz=MzI0NjU2NDMwNQ==&mid=2247497731&idx=1&sn=05bd51cac35ff45d0ed4dd954abf7abd",
+        "酒后胡思乱想": "https://mp.weixin.qq.com/s?__biz=MzkyOTU5MTQwMg==&mid=2247483799&idx=1&sn=c6ad2a594fda757171bd31c6f19c55b9",
+        "复旦白泽祝大家龙年快乐！": "https://mp.weixin.qq.com/s?__biz=MzU4NzUxOTI0OQ==&mid=2247488729&idx=1&sn=f3a491886ae8702005192265a2583c13",
+        "网络靖安司CSIZ恭祝大家新春快乐！": "https://mp.weixin.qq.com/s?__biz=Mzg2MTU5ODQ2Mg==&mid=2247506604&idx=1&sn=13755dd681f337c3e984a2eda1174cb5",
+        "BurpSuite v2024最新版本破解！！": "https://mp.weixin.qq.com/s?__biz=MzkxMTUwOTY1MA==&mid=2247484951&idx=1&sn=c4ca92597ad6d2da20178370990e966b",
+        "美国众议员团体敦促商务部将字节跳动公司列入出口管制名单": "https://mp.weixin.qq.com/s?__biz=MzI1OTExNDY1NQ==&mid=2651610508&idx=2&sn=5ac608b5666861d92ad100aeb29b7dc9",
+        "美智库视角下的中美量子技术工业基础和军事部署比较": "https://mp.weixin.qq.com/s?__biz=MzI1OTExNDY1NQ==&mid=2651610508&idx=1&sn=0a83dd1666ac8c335b1af1fee0711ae5",
+        "SAINTSEC wishing you happy New Year\\'s Eve": "https://mp.weixin.qq.com/s?__biz=MjM5MjEyMTcyMQ==&mid=2651036905&idx=1&sn=13742f89f3c4bf50c704dc7388d546d9",
+        "安天2024甲辰龙年原创春联拜大年": "https://mp.weixin.qq.com/s?__biz=MjM5MTA3Nzk4MQ==&mid=2650204081&idx=1&sn=170b439da63b56c54d21a8dca00fbab4",
+        "墨云科技 | 烟火年年，新年胜旧年": "https://mp.weixin.qq.com/s?__biz=MzU5ODE2NDA3NA==&mid=2247495926&idx=1&sn=082b93e29d8f0383fbc306a6602129ef",
+        "提升安全态势能力必备的“三要素”": "https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247508824&idx=1&sn=199f31893d21ee1af3454f06b0fd8834",
+        "国家信息安全服务资质恭祝大家新春快乐！": "https://mp.weixin.qq.com/s?__biz=MzI0NDg4MTIyNQ==&mid=2247485584&idx=1&sn=e73617370a1d792a1af3a71fc4ab78d2",
+        "欢迎大家添加微信&微信交流群": "https://mp.weixin.qq.com/s?__biz=MzUxMzQ2NTM2Nw==&mid=2247492232&idx=1&sn=7d8ca333248f6a0a650b1f94ec333a5a",
+        "龙贺新春|贵州大数据安全工程研究中心祝大家新春快乐！": "https://mp.weixin.qq.com/s?__biz=MjM5Nzg0NzUxOQ==&mid=2247486919&idx=1&sn=d417b54b80206261603abe1aacae1b7d",
+        "拜年了！龙行龘龘、前程朤朤、生活䲜䲜！": "https://mp.weixin.qq.com/s?__biz=Mzg2NDYwMDA1NA==&mid=2247536352&idx=1&sn=7664e6fd9fb9b99b44794d6fe4185ba9",
+        "稀里糊涂又一年": "https://mp.weixin.qq.com/s?__biz=Mzk0MDMyNjUxNw==&mid=2247484429&idx=1&sn=eb35f8b35ad3483a1bfc0e8d044e17a3",
+        "晨曦安全团队祝大家除夕快乐 | 龙年大吉~": "https://mp.weixin.qq.com/s?__biz=MzkzNDU5OTg3Mw==&mid=2247485329&idx=1&sn=27f98dfb02a06afa3620c3333506f6a1",
+        "【知识整理】内网渗透之目标不出网上线思路（2）": "https://mp.weixin.qq.com/s?__biz=Mzk0ODM0NDExMg==&mid=2247484421&idx=1&sn=62d0d62bebc69bf272de19e93f004a61",
+        "人间逢除夕 | 岁岁皆欢愉，万事尽可期": "https://mp.weixin.qq.com/s?__biz=Mzg4MDU0NTQ4Mw==&mid=2247516446&idx=1&sn=b09f1c5b2f01919e1dc7df525b079a7b",
+        "家人齐欢聚 守岁庆团圆": "https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664204894&idx=2&sn=2c6d641bd7cd47b7b67a8e12e33ad4d3",
+        "龙行龘龘 | 除夕大年夜，网安行业贺新春，给您拜年了！": "https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664204894&idx=1&sn=9354ad9c8e2c239f49f3f2881b9c9854",
+        "无可执行权限加载 ShellCode": "https://mp.weixin.qq.com/s?__biz=Mzg2NDY2MTQ1OQ==&mid=2247516629&idx=1&sn=9c0da9280e4d7277cee42f5feb932d4f",
+        "回首2023，展望2024！文末福利！": "https://mp.weixin.qq.com/s?__biz=MzkxMTIyMjg0NQ==&mid=2247494254&idx=1&sn=9ee020152bd6ce7198446f506e3e10d4",
+        "One-Fox安全团队祝大家新年快乐！": "https://mp.weixin.qq.com/s?__biz=MzUzMDQ1MTY0MQ==&mid=2247504963&idx=1&sn=32468d00d77ef4cde2661ad6907dceee",
+        "[0209] 一周重点威胁情报｜天际友盟情报站": "https://mp.weixin.qq.com/s?__biz=MzIwNjQ4OTU3NA==&mid=2247507738&idx=1&sn=4b6d2e8eb0b9db06cbd15aef506df79c",
+        "除夕快乐，龙年大吉！": "https://mp.weixin.qq.com/s?__biz=MzAxNjM0MDA3NQ==&mid=2451412979&idx=1&sn=e030acdd831ef27ee5d27976a73a08cc",
+        "【红包封面第二波~】瑞龙迎春  守岁纳福": "https://mp.weixin.qq.com/s?__biz=MzkwNzI1NDk0MQ==&mid=2247491016&idx=1&sn=e37ac083038aa1164ea420c9f6a4fd1a"
+    },
+    "Hacking Articles": {
+        "A Detailed Guide on Ligolo-Ng": "https://www.hackingarticles.in/a-detailed-guide-on-ligolo-ng/"
+    },
+    "Hacking Dream": {
+        "Future of Generative AI and The Dark Side of Advanced AI Systems": "https://www.hackingdream.net/2024/02/future-of-generative-ai-and-dark-side-of-advanced-ai-systems.html"
+    },
+    "Trustwave Blog": {
+        "10 Key Steps to Enhance Mobile Application Security in 2024": "https://www.trustwave.com/en-us/resources/blogs/trustwave-blog/10-key-steps-to-enhance-mobile-application-security-in-2024/"
+    },
+    "Sploitus.com Exploits RSS Feed": {
+        "Rail Pass Management System 1.0 - Time-Based SQL Injection exploit": "https://sploitus.com/exploit?id=EDB-ID:51790&utm_source=rss&utm_medium=rss",
+        "WordPress Augmented-Reality Remote Code Execution exploit": "https://sploitus.com/exploit?id=PACKETSTORM:177038&utm_source=rss&utm_medium=rss",
+        "Rail Pass Management System 1.0 SQL Injection exploit": "https://sploitus.com/exploit?id=PACKETSTORM:177043&utm_source=rss&utm_medium=rss",
+        "Online Nurse Hiring System 1.0 SQL Injection exploit": "https://sploitus.com/exploit?id=PACKETSTORM:177044&utm_source=rss&utm_medium=rss",
+        "Zyxel zysh - Format string exploit": "https://sploitus.com/exploit?id=EDB-ID:51786&utm_source=rss&utm_medium=rss",
+        "Wordpress Seotheme - Remote Code Execution Unauthenticated exploit": "https://sploitus.com/exploit?id=EDB-ID:51789&utm_source=rss&utm_medium=rss",
+        "WordPress Seotheme Shell Upload exploit": "https://sploitus.com/exploit?id=PACKETSTORM:177037&utm_source=rss&utm_medium=rss",
+        "Online Nurse Hiring System 1.0 - Time-Based SQL Injection exploit": "https://sploitus.com/exploit?id=EDB-ID:51791&utm_source=rss&utm_medium=rss",
+        "Wordpress Augmented-Reality - Remote Code Execution Unauthenticated exploit": "https://sploitus.com/exploit?id=EDB-ID:51788&utm_source=rss&utm_medium=rss",
+        "Advanced Page Visit Counter 1.0 Cross Site Scripting exploit": "https://sploitus.com/exploit?id=PACKETSTORM:177052&utm_source=rss&utm_medium=rss",
+        "Zyxel zysh Format String Proof Of Concept exploit": "https://sploitus.com/exploit?id=PACKETSTORM:177036&utm_source=rss&utm_medium=rss",
+        "IBM i Access Client Solutions Remote Credential Theft exploit": "https://sploitus.com/exploit?id=PACKETSTORM:177069&utm_source=rss&utm_medium=rss",
+        "Elasticsearch - StackOverflow DoS exploit": "https://sploitus.com/exploit?id=EDB-ID:51787&utm_source=rss&utm_medium=rss",
+        "Advanced Page Visit Counter 1.0 - Admin+ Stored Cross-Site Scripting (XSS) (Authenticated) exploit": "https://sploitus.com/exploit?id=EDB-ID:51785&utm_source=rss&utm_medium=rss",
+        "Exploit for CVE-2024-22024 exploit": "https://sploitus.com/exploit?id=152171E7-A974-534C-81EB-E0BCFF3B4C15&utm_source=rss&utm_medium=rss"
+    },
+    "Exploit-DB.com RSS Feed": {
+        "[webapps] Online Nurse Hiring System 1.0 - Time-Based SQL Injection": "https://www.exploit-db.com/exploits/51791",
+        "[webapps] Rail Pass Management System 1.0 - Time-Based SQL Injection": "https://www.exploit-db.com/exploits/51790",
+        "[webapps] Wordpress Seotheme - Remote Code Execution Unauthenticated": "https://www.exploit-db.com/exploits/51789",
+        "[webapps] Wordpress Augmented-Reality - Remote Code Execution Unauthenticated": "https://www.exploit-db.com/exploits/51788",
+        "[dos] Elasticsearch - StackOverflow DoS": "https://www.exploit-db.com/exploits/51787",
+        "[remote] Zyxel zysh - Format string": "https://www.exploit-db.com/exploits/51786",
+        "[webapps] Advanced Page Visit Counter 1.0 - Admin+ Stored Cross-Site Scripting (XSS) (Authenticated)": "https://www.exploit-db.com/exploits/51785"
+    },
+    "Tenable Blog": {
+        "CVE-2024-21762: Critical Fortinet FortiOS Out-of-Bound Write SSL VPN Vulnerability": "https://www.tenable.com/blog/cve-2024-21762-critical-fortinet-fortios-out-of-bound-write-ssl-vpn-vulnerability",
+        "Shoring Up Water Security: Industry Leaders Testify Before Congress": "https://www.tenable.com/blog/shoring-up-water-security-industry-leaders-testify-before-congress",
+        "Cybersecurity Snapshot: Critical Infrastructure Orgs Must Beware of China-backed Volt Typhoon, Cyber Agencies Warn": "https://www.tenable.com/blog/cybersecurity-snapshot-critical-infrastructure-orgs-must-beware-of-china-backed-volt-typhoon"
+    },
+    "Data Breach": {
+        "Black Basta ransomware gang hacked Hyundai Motor Europe": "https://securityaffairs.com/158916/data-breach/black-basta-ransomware-hyundai-motor-europe.html"
+    },
+    "Files ≈ Packet Storm": {
+        "Gentoo Linux Security Advisory 202402-11": "https://packetstormsecurity.com/files/177072/glsa-202402-11.txt",
+        "Debian Security Advisory 5618-1": "https://packetstormsecurity.com/files/177071/dsa-5618-1.txt",
+        "Faraday 5.1.0": "https://packetstormsecurity.com/files/177070/faraday-5.1.0.tar.gz",
+        "IBM i Access Client Solutions Remote Credential Theft": "https://packetstormsecurity.com/files/177069/IBMI_ACCESS_CLIENT_REMOTE_CREDENTIAL_THEFT_CVE-2024-22318.txt",
+        "Ubuntu Security Notice USN-6628-1": "https://packetstormsecurity.com/files/177068/USN-6628-1.txt",
+        "Red Hat Security Advisory 2024-0764-03": "https://packetstormsecurity.com/files/177067/RHSA-2024-0764-03.txt",
+        "Red Hat Security Advisory 2024-0760-03": "https://packetstormsecurity.com/files/177066/RHSA-2024-0760-03.txt",
+        "Red Hat Security Advisory 2024-0759-03": "https://packetstormsecurity.com/files/177065/RHSA-2024-0759-03.txt",
+        "Ubuntu Security Notice USN-6625-2": "https://packetstormsecurity.com/files/177064/USN-6625-2.txt",
+        "Red Hat Security Advisory 2024-0758-03": "https://packetstormsecurity.com/files/177063/RHSA-2024-0758-03.txt",
+        "Red Hat Security Advisory 2024-0757-03": "https://packetstormsecurity.com/files/177062/RHSA-2024-0757-03.txt",
+        "Red Hat Security Advisory 2024-0756-03": "https://packetstormsecurity.com/files/177061/RHSA-2024-0756-03.txt",
+        "Red Hat Security Advisory 2024-0755-03": "https://packetstormsecurity.com/files/177060/RHSA-2024-0755-03.txt",
+        "Red Hat Security Advisory 2024-0754-03": "https://packetstormsecurity.com/files/177059/RHSA-2024-0754-03.txt",
+        "Ubuntu Security Notice USN-6627-1": "https://packetstormsecurity.com/files/177058/USN-6627-1.txt",
+        "Red Hat Security Advisory 2024-0753-03": "https://packetstormsecurity.com/files/177057/RHSA-2024-0753-03.txt",
+        "Red Hat Security Advisory 2024-0752-03": "https://packetstormsecurity.com/files/177056/RHSA-2024-0752-03.txt",
+        "Red Hat Security Advisory 2024-0751-03": "https://packetstormsecurity.com/files/177055/RHSA-2024-0751-03.txt",
+        "Red Hat Security Advisory 2024-0750-03": "https://packetstormsecurity.com/files/177054/RHSA-2024-0750-03.txt",
+        "Red Hat Security Advisory 2024-0749-03": "https://packetstormsecurity.com/files/177053/RHSA-2024-0749-03.txt",
+        "Advanced Page Visit Counter 1.0 Cross Site Scripting": "https://packetstormsecurity.com/files/177052/apvc10-xss.txt",
+        "Red Hat Security Advisory 2024-0748-03": "https://packetstormsecurity.com/files/177051/RHSA-2024-0748-03.txt",
+        "Red Hat Security Advisory 2024-0746-03": "https://packetstormsecurity.com/files/177050/RHSA-2024-0746-03.txt",
+        "Red Hat Security Advisory 2024-0745-03": "https://packetstormsecurity.com/files/177049/RHSA-2024-0745-03.txt",
+        "Red Hat Security Advisory 2024-0728-03": "https://packetstormsecurity.com/files/177048/RHSA-2024-0728-03.txt"
+    },
+    "Security Boulevard": {
+        "USENIX Security ’23 – Hyungseok Kim, Soomin Kim, Junoh Lee, Kangkook Jee, Sang Kil Cha – Reassembly is Hard: A Reflection on Challenges and Strategies": "https://securityboulevard.com/2024/02/usenix-security-23-hyungseok-kim-soomin-kim-junoh-lee-kangkook-jee-sang-kil-cha-reassembly-is-hard-a-reflection-on-challenges-and-strategies/",
+        "Checkmarx Report Surfaces Software Supply Chain Compromises": "https://securityboulevard.com/2024/02/checkmarx-report-surfaces-software-supply-chain-compromises/",
+        "Daniel Stori’s ‘jr developer vs machine learning’": "https://securityboulevard.com/2024/02/daniel-storis-jr-developer-vs-machine-learning/",
+        "QR Code Phishing Attacks Target High-Level Executives: Report": "https://securityboulevard.com/2024/02/qr-code-phishing-attacks-target-high-level-executives-report/",
+        "Introducing notification rules: You can now tailor your alerts with precision": "https://securityboulevard.com/2024/02/introducing-notification-rules-you-can-now-tailor-your-alerts-with-precision/",
+        "The Hacker News: Critical Boot Loader Vulnerability in Shim Impacts Nearly All Linux DistrosThe Hacker News:": "https://securityboulevard.com/2024/02/the-hacker-news-critical-boot-loader-vulnerability-in-shim-impacts-nearly-all-linux-distrosthe-hacker-news/",
+        "Least Privilege for Data: A Balancing Act": "https://securityboulevard.com/2024/02/least-privilege-for-data-a-balancing-act/",
+        "USENIX Security ’23 – Soumyakant Priyadarshan, Huan Nguyen, Rohit Chouhan, and R. Sekar – SAFER: Efficient and Error-Tolerant Binary Instrumentation": "https://securityboulevard.com/2024/02/usenix-security-23-soumyakant-priyadarshan-huan-nguyen-rohit-chouhan-and-r-sekar-safer-efficient-and-error-tolerant-binary-instrumentation/",
+        "SOC 1 vs SOC 2: Everything you need to know about the SOC attestations": "https://securityboulevard.com/2024/02/soc-1-vs-soc-2-everything-you-need-to-know-about-the-soc-attestations/",
+        "US Offers $10 Million Reward for Info About Hive Ransomware Leaders": "https://securityboulevard.com/2024/02/us-offers-10-million-reward-for-info-about-hive-ransomware-leaders/"
+    },
+    "Trail of Bits Blog": {
+        "Master fuzzing with our new Testing Handbook chapter": "https://blog.trailofbits.com/2024/02/09/master-fuzzing-with-our-new-testing-handbook-chapter/"
+    },
+    "HackerNoon": {
+        "Hibernate 5 and Entities Duplication: Let’s Dive Under the Hood": "https://hackernoon.com/hibernate-5-and-entities-duplication-lets-dive-under-the-hood?source=rss",
+        "Bitcoin Dogs Set To Make History With First Ever ICO On Bitcoin Blockchain": "https://hackernoon.com/bitcoin-dogs-set-to-make-history-with-first-ever-ico-on-bitcoin-blockchain?source=rss",
+        "How to Build an Agent With an OpenAI Assistant in Python - Part 1: Conversational": "https://hackernoon.com/how-to-build-an-agent-with-an-openai-assistant-in-python-part-1-conversational?source=rss",
+        "To Automate or Not: Navigating Manual and Automated Testing Paradigms": "https://hackernoon.com/to-automate-or-not-navigating-manual-and-automated-testing-paradigms?source=rss",
+        "Meet HarperDB, Winner of the Startups of the Year in Denver": "https://hackernoon.com/meet-harperdb-winner-of-the-startups-of-the-year-in-denver?source=rss",
+        "Meet not8, Winner of the Startups of the Year in Amsterdam": "https://hackernoon.com/meet-not8-winner-of-the-startups-of-the-year-in-amsterdam?source=rss",
+        "Points Guard": "https://hackernoon.com/points-guard?source=rss",
+        "Have a Chance To Win $888k With Option2Trade (O2T), Whilst Kaspa (KAS) Skyrockets 18% In 24 Hours": "https://hackernoon.com/have-a-chance-to-win-$888k-with-option2trade-o2t-whilst-kaspa-kas-skyrockets-18percent-in-24-hours?source=rss",
+        "Android Autotesting With Kaspresso": "https://hackernoon.com/android-autotesting-with-kaspresso?source=rss",
+        "Proxies, VPNs: Your Online Privacy, Anonymity and More": "https://hackernoon.com/proxies-vpns-your-online-privacy-anonymity-and-more?source=rss",
+        "Meet Steer Health, Runner-up of the Startups of the Year in Dallas": "https://hackernoon.com/meet-steer-health-runner-up-of-the-startups-of-the-year-in-dallas?source=rss",
+        "The Noonification: Coding Interview Prep: Algorithmic Puzzles and Cube Surface Mastery (2/9/2024)": "https://hackernoon.com/2-9-2024-noonification?source=rss",
+        "States Seek Relief Against Meta for COPPA Violations": "https://hackernoon.com/states-seek-relief-against-meta-for-coppa-violations?source=rss",
+        "Washington Pursues Meta for Violating Consumer Protection Act": "https://hackernoon.com/washington-pursues-meta-for-violating-consumer-protection-act?source=rss",
+        "Wisconsin Targets Meta Under Trade Practices Act": "https://hackernoon.com/wisconsin-targets-meta-under-trade-practices-act?source=rss",
+        "Introducing Ola's Pre-Alpha Testnet: Empowering Data Ownership and ZK Smart Contract Innovation": "https://hackernoon.com/introducing-olas-pre-alpha-testnet-empowering-data-ownership-and-zk-smart-contract-innovation?source=rss",
+        "77 Stories To Learn About Newsletter": "https://hackernoon.com/77-stories-to-learn-about-newsletter?source=rss",
+        "581 Stories To Learn About Non Fiction": "https://hackernoon.com/581-stories-to-learn-about-non-fiction?source=rss",
+        "105 Stories To Learn About Moby Dick Or The Whale": "https://hackernoon.com/105-stories-to-learn-about-moby-dick-or-the-whale?source=rss",
+        "Addressing OpenHarmony Development Challenges: Insights and Solutions": "https://hackernoon.com/addressing-openharmony-development-challenges-insights-and-solutions?source=rss"
+    },
+    "darkreading": {
+        "Ransomware Groups Claim Hits on Hyundai Motor Europe and a California Union": "https://www.darkreading.com/cyberattacks-data-breaches/ransomware-groups-black-basta-lockbit-hit-hyundai-california-seiu-union",
+        "CISO Corner: DoD Regs, Neurodiverse Talent &amp; Tel Aviv's Light Rail": "https://www.darkreading.com/cybersecurity-operations/ciso-corner-dod-regs-neurodiverse-talent-tel-aviv-light-rail",
+        "MacOS Targeted by New Backdoor Linked to ALPHV Ransomware": "https://www.darkreading.com/threat-intelligence/macos-targeted-by-new-backdoor-linked-to-alphv-ransomware",
+        "Deepfake Democracy: AI Technology Complicates Election Security": "https://www.darkreading.com/application-security/deepfake-democracy-ai-technology-election-security",
+        "Middle East Cybersecurity Teams Want More Budget": "https://www.darkreading.com/cybersecurity-operations/middle-east-cybersecurity-teams-face-insufficient-budgets",
+        "Kenya Detected Over 1B Cyber Threats in Q4": "https://www.darkreading.com/cyberattacks-data-breaches/kenya-detected-over-one-billion-cyber-threats-in-q4",
+        "How 'Big 4' Nations' Cyber Capabilities Threaten the West": "https://www.darkreading.com/vulnerabilities-threats/how-big-4-nations-cyber-capabilities-threaten-the-west"
+    },
+    "obaby@mars": {
+        "祝大家新年快乐": "https://h4ck.org.cn/2024/02/15438"
+    },
+    "白帽100安全攻防实验室": {
+        "白帽100祝大家除夕快乐🎉": "https://mp.weixin.qq.com/s?__biz=MzIxMDYyNTk3Nw==&mid=2247514820&idx=1&sn=deb705c93267be13cd32f1cca13ba641&chksm=97634e12a014c7047a0bb1edd2badb385acc68dcdf4467a3d295ce1cd3fa3da0ca2b7ac84feb&scene=58&subscene=0#rd"
+    },
+    "奇安信威胁情报中心": {
+        "每周高级威胁情报解读(2024.02.02~02.08)": "https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247509555&idx=1&sn=61e108bdad3bc5207bae00fa6d2d6b04&chksm=ea665144dd11d852c21a231b257a33f6020eb550491f1f5fab506d94da89b686e47360833f68&scene=58&subscene=0#rd"
+    },
+    "吾爱破解论坛": {
+        "​（图作者 | @Aoemax）": "https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651140060&idx=1&sn=1d05f5239378b38896b9758ee68b229f&chksm=bd50bf888a27369e646358a1eb2ece650a6433480894482f4d8323a350e07d138b419d391f43&scene=58&subscene=0#rd"
+    },
+    "奇客Solidot–传递最新科技情报": {
+        "研究发现政治扭曲了道德判断和宽容": "https://www.solidot.org/story?sid=77339",
+        "Windows 版 iTunes 被分拆成多个应用": "https://www.solidot.org/story?sid=77338",
+        "巴基斯坦在选举日断网断手机": "https://www.solidot.org/story?sid=77337"
+    },
+    "丁爸 情报分析师的工具箱": {
+        "【技巧】开源情报调查从哪里开始-10个切入点": "https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651142082&idx=1&sn=ad3330cece510bc9a7f0bf2b01b1f825&chksm=f1af40f8c6d8c9eed1a5b119cb454e1544a899b42d07a13e0a58e34cbc6746675cc9288c915a&scene=58&subscene=0#rd",
+        "【生活】有记忆的互联网-云南游记": "https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651142082&idx=2&sn=5e5c79481da4c7064be8ed8bf34abb5e&chksm=f1af40f8c6d8c9eea0798cd11e33695b85632ae907be8d2b3d3c3a0a2cb72b830af17a801c76&scene=58&subscene=0#rd"
+    },
+    "看雪学苑": {
+        "预付全款新模式上线！欢迎高质量课程及优秀讲师入驻看雪课程平台": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458542078&idx=1&sn=5acdde6271f4013e24a20474b9a0ea60&chksm=b18d6f7486fae6624b71950bde26ac0a2a68f5407583f4ac34d4233e5dbcc1c969ebd4558c51&scene=58&subscene=0#rd",
+        "CVE-2022-0847 dirtypipe漏洞复现": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458542078&idx=2&sn=22aca750989aae8fbb450c1e1766314a&chksm=b18d6f7486fae66295e12b94038872a1bf2bf01daefd7bcbcd8d908724482e46cc23b554d1da&scene=58&subscene=0#rd",
+        "除夕快乐！福启新岁·万事顺遂": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458542078&idx=3&sn=ca47c3170f253f2ae4dccdcd7554e32e&chksm=b18d6f7486fae662f2d3f81348f3651497fb1b67fc4cc057a7cb881e59226111ed232f654d58&scene=58&subscene=0#rd"
+    },
+    "网络空间安全科学学报": {
+        "《网络空间安全科学学报》致谢编委、审稿专家": "https://mp.weixin.qq.com/s?__biz=MzI0NjU2NDMwNQ==&mid=2247497731&idx=1&sn=05bd51cac35ff45d0ed4dd954abf7abd&chksm=e9bfecbddec865aba961f01dda513905cc686f1c45763ec9ca132150e7220b17f0094c03a221&scene=58&subscene=0#rd",
+        "《网络空间安全科学学报》祝您龙行龘龘，前程朤朤": "https://mp.weixin.qq.com/s?__biz=MzI0NjU2NDMwNQ==&mid=2247497731&idx=2&sn=ae173e7723d05b124cb5fa532aba3931&chksm=e9bfecbddec865ab4d47010daf6f74ac0c0b3d4dad59aad1e46a8b7e86b37a8f9744d095d103&scene=58&subscene=0#rd"
+    },
+    "山石网科安全技术研究院": {
+        "🐲瑞龙贺岁，恭贺新春🐲": "https://mp.weixin.qq.com/s?__biz=MzUzMDUxNTE1Mw==&mid=2247504888&idx=1&sn=6dbf46e274ac9a44671c6a8baaac444d&chksm=fa520646cd258f50e9bb58467c70f96741dfeb17c0b2401f38baacea9e0d5fb547760bb3db2b&scene=58&subscene=0#rd"
+    },
+    "星阑科技": {
+        "龙舞乾坤，星阑科技恭贺大家新春大吉": "https://mp.weixin.qq.com/s?__biz=Mzg5NjEyMjA5OQ==&mid=2247498966&idx=1&sn=13a64e6255cdd57306ee44716f2b6cec&chksm=c007514af770d85c856d5519299c506a7c47cf6c0afdd46ea272c0d599fa91d7b9d744dce001&scene=58&subscene=0#rd"
+    },
+    "网安寻路人": {
+        "法国CNIL：可公开获取的数据开放与再利用（全文翻译）": "https://mp.weixin.qq.com/s?__biz=MzIxODM0NDU4MQ==&mid=2247501135&idx=1&sn=8093957b7d14779e5714c88743f96437&chksm=97e978a5a09ef1b31b7742e3e2d9cd4c17e24d5280a3e483bf928ca42d4b2e4f6572a9d220fd&scene=58&subscene=0#rd"
+    },
+    "复旦白泽战队": {
+        "复旦白泽祝大家龙年快乐！": "https://mp.weixin.qq.com/s?__biz=MzU4NzUxOTI0OQ==&mid=2247488729&idx=1&sn=f3a491886ae8702005192265a2583c13&chksm=fdeb90a7ca9c19b16d4d3a20e494fff20302b4f9456898d0772208b20c913b8abc6f8f733025&scene=58&subscene=0#rd"
+    },
+    "极客公园": {
+        "用过 Vision Pro 的投资人，说苹果会让元宇宙「再次伟大」": "https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653033190&idx=1&sn=4995771eb618b810714d3d104fe292b8&chksm=7e576f504920e64641fbe790e023953e90bd4c1c6e5b93db19ca56e7892c4d1dc12f7a2dff1c&scene=58&subscene=0#rd",
+        "传字节春节红包最高 3688 元；可口可乐推「香辣味」；谷歌 Bard 更名 Gemini，推独立 App 开始收费｜极客早知道": "https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653033158&idx=1&sn=4f9d17b37e44171d58a78cbccb03dcab&chksm=7e576f704920e666d4e5d0ac009b4e5596be3e1568dd673137149cccdb928e054a7e445160ab&scene=58&subscene=0#rd"
+    },
+    "卢昌海个人主页": {
+        "最新微博：2024 年 2 月 8 日": "https://www.changhai.org/articles/miscellaneous/blog/202402.php#latest"
+    },
+    "中国信息安全": {
+        "龙行龘龘 | 除夕大年夜，网安行业贺新春，给您拜年了！": "https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664204894&idx=1&sn=9354ad9c8e2c239f49f3f2881b9c9854&chksm=8b5988a7bc2e01b1281ddc2e62bb1204536e088faa333dd33f10b43cef0568e4e3253f13c7b6&scene=58&subscene=0#rd",
+        "家人齐欢聚 守岁庆团圆": "https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664204894&idx=2&sn=2c6d641bd7cd47b7b67a8e12e33ad4d3&chksm=8b5988a7bc2e01b135e48599a35cb9bdb51e53cc1cc67204d3bf9201b7035fbba4494952ea15&scene=58&subscene=0#rd"
+    },
+    "鸟窝": {
+        "一些笔记工具工具以及memos介绍": "https://colobu.com/2024/02/10/some-note-taking-tools-and-memos/"
+    },
+    "维基萌": {
+        "除夕夜更新了一下博客的代码，非常激进的增加了页面缓存功能，结果差点起不来博客程序了...😂": "https://www.wikimoe.com/post/65c62cddd015c023f40f3d83"
+    },
+    "Eltrac's": {
+        "我的思绪像河流": "https://www.guhub.cn/blog/i-think-like-a-river"
+    },
+    "二丫讲梵": {
+        "学习周刊-总第145期-2024年第06周": "https://wiki.eryajf.net/pages/bcdf69/"
+    },
+    "61’s life": {
+        "20240209 除夕": "http://61.life/2024/0209"
+    },
+    "中文博客 on 范叶亮 | Leo Van": {
+        "我们需要多少种编程语言 (How Many Programming Languages do We Need)": "https://leovan.me/cn/2024/02/how-many-programming-languages-do-we-need/"
+    },
+    "JustZht's EchoChamber": {
+        "2024.2.9": "https://www.justzht.com/2024-2-9/"
+    },
+    "游研社": {
+        "30万销量，没能让这家国产开发商撑过新年": "https://www.yystv.cn/p/11522",
+        "零宣发做到Steam新品节双榜第一，这款“奇幻塔科夫”成了新黑马": "https://www.yystv.cn/p/11521"
+    },
+    "Markon Review": {
+        "很主观的春节游玩推荐，以及分享我们找游戏的习惯": "https://markonreview.com/2024/02/09/our-very-first-podcast-talked-about-what-to-play-this-holiday/"
+    },
+    "ROYWANG": {
+        "癸卯年度总结": "https://roy.wang/renyin-year/"
+    },
+    "初之音": {
+        "《孤独摇滚！》一揽子开箱": "https://www.himiku.com/archives/bocchi-the-rock-3-discs.html"
+    },
+    "戴兜的小屋": {
+        "Hi! 2024": "https://daidr.me/archives/website-1150.html"
+    },
+    "乔克叔叔的床边故事": {
+        "君の名は希望": "https://lifeodyssey.github.io/posts/8c33e681.html"
+    }
+}
