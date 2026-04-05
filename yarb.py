@@ -40,20 +40,33 @@ def update_today(data: dict= {}):
             for title, url in articles.items():
                 content += f'  - [ ] [{title}]({url})\n'
         f1.write(content)
-        f2.write(content)
-
-
 def update_rss(rss: dict, proxy_url=''):
-    """更新订阅源文件"""
+    """更新订阅源件"""
+    if proxy_url and not isinstance(proxy_url, str) or not proxy_url.startswith('http'):
+        raise ValueError('Invalid proxy_url')
     proxy = {'http': proxy_url, 'https': proxy_url} if proxy_url else {'http': None, 'https': None}
-
     (key, value), = rss.items()
     rss_path = root_path.joinpath(f'rss/{value["filename"]}')
-
     result = None
     if url := value.get('url'):
-        r = requests.get(value['url'], proxies=proxy)
-        if r.status_code == 200:
+        try:
+            r = requests.get(value['url'], proxies=proxy, timeout=10)
+            if r.status_code == 200:
+                with open(rss_path, 'w+', encoding="utf-8") as f:
+                    f.write(r.text)
+                print(f'[+] 更新完成：{key}')
+                result = {key: rss_path}
+            elif rss_path.exists():
+                print(f'[-] 更新失败，使用旧文件：{key}')
+                result = {key: rss_path}
+            else:
+                print(f'[-] 更新失败，跳过：{key}')
+        except requests.exceptions.RequestException as e:
+            print(f'[-] 连接资源失败：{key}')
+            print(e)
+    else:
+        print(f'[+] 本地文件：{key}')
+    return result
             with open(rss_path, 'w+', encoding="utf-8") as f:
                 f.write(r.text)
             print(f'[+] 更新完成：{key}')
