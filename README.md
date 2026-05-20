@@ -1,74 +1,69 @@
-# picker 
+# picker
 
-一个方便获取每日安全资讯的爬虫和推送程序。支持导入 opml 文件，因此也可以订阅其他任何 RSS 源。
+[![GitHub stars](https://img.shields.io/github/stars/Tyaoo/picker?style=flat-square)](https://github.com/Tyaoo/picker/stargazers)
+[![GitHub last commit](https://img.shields.io/github/last-commit/Tyaoo/picker?style=flat-square)](https://github.com/Tyaoo/picker/commits/main)
+[![License](https://img.shields.io/github/license/Tyaoo/picker?style=flat-square)](https://github.com/Tyaoo/picker/blob/main/LICENSE)
 
-基于github action 实现的自动化推送系统
+一个面向安全资讯场景的 RSS 抓取与推送工具。它基于 GitHub Actions 定时拉取订阅源，生成每日信息流、精选内容和评论提醒，适合个人安全信息跟踪或小团队协作分发。
 
-目前有四个不同的推送信息类型
+## Table of Contents
 
-* 每日信息流,  默认为每天早上9点30分推送昨天新增文章列表.
-* 每日精选, 默认为每天下午1点半推送昨日精选
-* 精选推送, 在每天生成的issue中, 点击convert to issue生成新的issue并推送到钉钉群
-* 精选文章的评论区推送, 当有人评论了改文章, 自动推送到钉钉
+- [Why picker](#why-picker)
+- [Features](#features)
+- [Project Structure](#project-structure)
+- [Installation](#installation)
+- [Configuration](#configuration)
+- [Usage](#usage)
+- [Subscription Sources](#subscription-sources)
+- [Workflow Output](#workflow-output)
+- [License](#license)
 
-## 使用
-### 信息流
-每日会在issue中生成昨日信息流
+## Why picker
 
-![img.png](img/信息流.png)
+现有 RSS 工具通常只负责订阅，不处理“筛选、沉淀、协作推送”这条链路。picker 把以下几个动作串在一起：
 
-### 精选
-如果认为某篇文章质量较好, 值得其他人阅读可以点击convert to issue 自动添加到精选文章列表.
+- 自动抓取多个 RSS / OPML 订阅源
+- 按天整理成信息流与精选内容
+- 通过 Issue + 标签协作管理内容
+- 将精选和评论变更推送到钉钉
 
-![img.png](img/精选.png)
+## Features
 
-如果需要多人合作, 普通的read权限并没有convert to issue的功能, 需要triage权限
+- **每日信息流**: 默认每天早上生成前一天新增文章列表
+- **每日精选**: 默认每天下午汇总昨日精选内容
+- **Issue 协作**: 支持把信息流中的条目转换为精选 Issue
+- **评论通知**: 对精选文章的评论会自动推送到钉钉
+- **自定义订阅源**: 支持本地或远程 OPML / RSS 配置
+- **标签管理**: 通过 `daily`、`dailypick`、`pick` 等标签做分类运营
 
-![img.png](img/权限.png)
+## Project Structure
 
-或手动new issue, 也会自动添加到issue中
+- `bot.py`: 推送与通知逻辑
+- `yarb.py`: 采集与内容处理主流程
+- `rss/`: 默认订阅源配置
+- `config.yml`: RSS 源与推送配置
+- `today.md` / `today_pick.md`: 每日输出示例
+- `install.sh`: 本地环境安装脚本
 
-![img.png](img/手动添加.png)
+## Installation
 
-每天下午13:30, 会将昨日的精选汇总进行一次推送.
+```bash
+git clone https://github.com/Tyaoo/picker.git
+cd picker
+python3 -m venv .venv
+source .venv/bin/activate
+pip install -r requirements.txt
+```
 
-### 标签
+如果需要完整跑通本地推送链路，还可以执行仓库自带脚本：
 
-每日信息流会自动添加标签daily, 每日精选会自动添加标签dailypick. 精选文章会添加标签pick.
+```bash
+bash install.sh
+```
 
-一些文章的细分领域可以通过手动添加不同的标签进行管理.
+## Configuration
 
-![img.png](img/标签.png)
-
-已经给主要用户都添加了写权限, 可以自行创建标签.
-
-### 评论
-
-对精选文章的评论将会自动推送到钉钉群
-
-### 订阅源
-
-推荐订阅源：
-
-- [CustomRSS](rss/CustomRSS.opml)
-
-其他订阅源：
-
-- [CyberSecurityRSS](https://github.com/zer0yu/CyberSecurityRSS)
-- [Chinese-Security-RSS](https://github.com/zhengjim/Chinese-Security-RSS)
-- [awesome-security-feed](https://github.com/mrtouch93/awesome-security-feed)
-- [SecurityRSS](https://github.com/Han0nly/SecurityRSS)
-- [安全技术公众号](https://github.com/ttttmr/wechat2rss)
-- [SecWiki 安全聚合](https://www.sec-wiki.com/opml/index)
-- [Hacking8 安全信息流](https://i.hacking8.com/)
-
-非安全订阅源：
-
-- [中文独立博客列表](https://github.com/timqian/chinese-independent-blogs)
-
-**添加自定义订阅源**
-
-1. 在 `config.json` 中添加本地或远程仓库：
+在 `config.yml` 中启用或关闭订阅源，并为每个订阅源配置本地文件或远程 URL，例如：
 
 ```yaml
 rss:
@@ -77,81 +72,54 @@ rss:
     filename: CustomRSS.opml
   CyberSecurityRSS:
     enabled: true
-    url: >-
-      https://raw.githubusercontent.com/zer0yu/CyberSecurityRSS/master/CyberSecurityRSS.opml
+    url: https://raw.githubusercontent.com/zer0yu/CyberSecurityRSS/master/CyberSecurityRSS.opml
     filename: CyberSecurityRSS.opml
-  CyberSecurityRSS-tiny:
-    enabled: false
-    url: 'https://raw.githubusercontent.com/zer0yu/CyberSecurityRSS/master/tiny.opml'
-    filename: CyberSecurityRSS-tiny.opml
-  Chinese-Security-RSS:
-    enabled: true
-    url: >-
-      https://raw.githubusercontent.com/zhengjim/Chinese-Security-RSS/master/Chinese-Security-RSS.opml
-    filename: Chinese-Security-RSS.opml
-  awesome-security-feed:
-    enabled: true
-    url: >-
-      https://raw.githubusercontent.com/mrtouch93/awesome-security-feed/main/security_feeds.opml
-    filename: awesome-security-feed.opml
-  SecurityRSS:
-    enabled: true
-    url: 'https://github.com/Han0nly/SecurityRSS/blob/master/SecureRss.opml'
-    filename: SecureRss.opml
-  wechatRSS:
-    enabled: true
-    url: 'https://wechat2rss.xlab.app/opml/sec.opml'
-    filename: wechatRSS.opml
-  chinese-independent-blogs:
-    enabled: false
-    url: >-
-      https://raw.githubusercontent.com/timqian/chinese-independent-blogs/master/feed.opml
-    filename: chinese-independent-blogs.opml
 ```
 
-2.
+如果你要接入钉钉或其他推送目标，建议把敏感配置放在 GitHub Actions Secrets 或本地环境变量中管理。
 
-自定义rss源位于`rss/CustomRSS.opml`中, 需要添加请提交pr, 次日自动加入到推送列表
+## Usage
 
-非rss源可以使用rsshub转发
-## 部署
-推荐使用github action部署
+### 1. 生成每日信息流
 
-### github部署
-因为fork可能自动关闭issue, 并且导致issue指向原仓库, 所以建议脱离fork关系. 
+仓库会在定时任务中抓取前一天新增文章，并输出到 Issue / Markdown 文件。
 
-操作比较简单, clone本仓库, 然后创建一个空项目, 将该仓库push即可.
+### 2. 标记精选内容
 
-issue需要通过标签管理, 所以需要先创建`daily`与`dailypick`标签. 否则会报错
+在每日信息流中把高质量条目转换为 Issue，或手动新建 Issue，进入精选池。
 
-在secret中配置`MY_GITHUB_TOKEN`, 点击这里[生成](https://github.com/settings/tokens/new), 只需要给repo权限即可.
+### 3. 协作打标签
 
-当前只支持钉钉推送, 需要先[注册钉钉机器人](https://open.dingtalk.com/document/robots/custom-robot-access), 选择加签的方式. 
+通过 `daily`、`dailypick`、`pick` 等标签区分不同内容阶段，也可以增加细分标签做主题管理。
 
-然后在github secret中配置`DINGTALK_KEY` , `DINGTALK_SECRET`, `PICKER_DINGTALK_KEY`, `PICKER_DINGTALK_SECRET`
+### 4. 接收评论提醒
 
-可以配置两个不同的钉钉机器人, 也可以只配置一个, 如果只有一个所有消息均通过同一个机器人推送.
+对精选文章的评论会触发后续推送，适合团队跟踪高价值讨论。
 
-### 本地搭建
-需要在本地安装 github-cli ,并登录.
+## Subscription Sources
 
-```sh
-$ git clone https://github.com/chainreactors/picker
-$ cd picker && ./install.sh
-```
+默认 README 已列出多组安全资讯源，包括：
 
-编辑配置文件 `config.json`，启用所需的订阅源和机器人（key 也可以通过环境变量传入），最好启用代理。
+- CyberSecurityRSS
+- Chinese-Security-RSS
+- awesome-security-feed
+- SecurityRSS
+- SecWiki
+- wechat2rss
 
-```sh
-$ ./picker.py --help                            
-usage: picker.py [-h] [--update] [--cron CRON] [--config CONFIG] [--test]
-optional arguments:
-  -h, --help       show this help message and exit
-  --update         Update RSS config file
-  --cron CRON      Execute scheduled tasks every day (eg:"11:00")
-  --config CONFIG  Use specified config file
-  --test           Test bot
+此外也支持导入非安全主题订阅源，例如中文独立博客列表。
 
-# 单次任务
-$ ./picker.py
-```
+## Workflow Output
+
+picker 当前覆盖四类结果：
+
+1. 每日信息流
+2. 每日精选
+3. 精选推送
+4. 精选评论区推送
+
+如果后续补一张简单的流程图，维护者和新用户会更容易理解整条链路。
+
+## License
+
+See [LICENSE](LICENSE).
