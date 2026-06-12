@@ -1,0 +1,53 @@
+{
+  "rss": {
+    "CustomRSS": {
+      "enabled": true,
+      "filename": "CustomRSS.opml"
+    },
+    "CyberSecurityRSS": {
+      "enabled": true,
+      "url": "https://raw.githubusercontent.com/zer0yu/CyberSecurityRSS/master/CyberSecurityRSS.opml",
+      "filename": "CyberSecurityRSS.opml"
+    },
+    "CyberSecurityRSS-tiny": {
+      "enabled": false,
+      "url": "https://raw.githubusercontent.com/zer0yu/CyberSecurityRSS/master/tiny.opml",
+      "filename": "CyberSecurityRSS-tiny.opml"
+    },
+    "Chinese-Security-RSS": {
+      "enabled": true,
+      "url": "https://raw.githubusercontent.com/zhengjim/Chinese-Security-RSS/master/Chinese-Security-RSS.opml",
+      "filename": "Chinese-Security-RSS.opml"
+    },
+    "awesome-security-feed": {
+      "enabled": true,
+      "url": "https://raw.githubusercontent.com/mrtouch93/awesome-security-feed/master/awesome-security-feed.opml",
+      "filename": "awesome-security-feed.opml"
+    },
+    "SecurityRSS": {
+      "enabled": true,
+      "url": "https://raw.githubusercontent.com/Han0nly/SecurityRSS/master/SecurityRSS.opml",
+      "filename": "SecurityRSS.opml"
+    },
+    "安全技术公众号": {
+      "enabled": true,
+      "url": "https://github.com/ttttmr/wechat2rss",
+      "filename": "安全技术公众号.opml"
+    },
+    "SecWiki 安全聚合": {
+      "enabled": true,
+      "url": "https://www.sec-wiki.com/opml/index",
+      "filename": "SecWiki 安全聚合.opml"
+    },
+    "Hacking8 安全信息流": {
+      "enabled": true,
+      "url": "https://i.hacking8.com/",
+      "filename": "Hacking8 安全信息流.opml"
+    },
+    "中文独立博客列表": {
+      "enabled": true,
+      "url": "https://github.com/timqian/chinese-independent-blogs",
+      "filename": "中文独立博客列表.opml"
+    }
+  }
+}
