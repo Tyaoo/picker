@@ -1,0 +1,386 @@
+"""
+SRT Subtitle Parser and Validator with Production-Grade Quality.
+
+This module provides robust parsing, validation, and representation of SRT subtitle files.
+It includes comprehensive error handling, logging, type annotations, input validation,
+and performance optimizations suitable for production environments.
+"""
+
+import re
+import logging
+from dataclasses import dataclass, field
+from typing import List, Optional, Sequence
+from functools import lru_cache
+
+# Configure logger for this module
+logger = logging.getLogger(__name__)
+logger.addHandler(logging.NullHandler())  # Prevent propagation if no handler set
+
+# Constants for validation
+MAX_LINE_LENGTH = 2000  # Max characters per subtitle block
+MAX_TEXT_LENGTH = 500  # Max characters per subtitle text line
+MAX_SUBTITLE_ENTRIES = 100_000  # Safety limit to prevent memory exhaustion
+VALID_TIMESTAMP_PATTERN = re.compile(
+    r'^(\d{2}):(\d{2}):(\d{2}),(\d{3})$'
+)
+SRT_BLOCK_SEPARATOR = re.compile(r'\n\s*\n')  # Two newlines with possible spaces
+
+
+@dataclass(frozen=True)
+class Timestamp:
+    """Represents a timestamp in SRT format (HH:MM:SS,mmm)."""
+    hours: int
+    minutes: int
+    seconds: int
+    milliseconds: int
+
+    def __post_init__(self) -> None:
+        """Validate timestamp components after initialization."""
+        if not (0 <= self.hours <= 99):
+            raise ValueError(f"Hours out of range: {self.hours}")
+        if not (0 <= self.minutes <= 59):
+            raise ValueError(f"Minutes out of range: {self.minutes}")
+        if not (0 <= self.seconds <= 59):
+            raise ValueError(f"Seconds out of range: {self.seconds}")
+        if not (0 <= self.milliseconds <= 999):
+            raise ValueError(f"Milliseconds out of range: {self.milliseconds}")
+
+    def to_srt_string(self) -> str:
+        """Return formatted SRT timestamp string."""
+        return f"{self.hours:02d}:{self.minutes:02d}:{self.seconds:02d},{self.milliseconds:03d}"
+
+    def total_milliseconds(self) -> int:
+        """Return total time in milliseconds."""
+        return (self.hours * 3600 + self.minutes * 60 + self.seconds) * 1000 + self.milliseconds
+
+
+@dataclass(frozen=True)
+class SubtitleEntry:
+    """Represents a single SRT subtitle entry with index, timestamps, and text."""
+    index: int
+    start: Timestamp
+    end: Timestamp
+    text: str = field(hash=False)
+
+    def __post_init__(self) -> None:
+        """Validate entry after initialization."""
+        if self.index < 1:
+            raise ValueError(f"Subtitle index must be positive: {self.index}")
+        if self.start.total_milliseconds() >= self.end.total_milliseconds():
+            raise ValueError(
+                f"Start time ({self.start}) must be before end time ({self.end})"
+            )
+        if not self.text.strip():
+            raise ValueError("Subtitle text cannot be empty")
+        if len(self.text) > MAX_TEXT_LENGTH:
+            raise ValueError(f"Subtitle text exceeds max length of {MAX_TEXT_LENGTH}")
+
+    def to_srt_block(self) -> str:
+        """Return full SRT block string for this entry."""
+        lines = [str(self.index), f"{self.start.to_srt_string()} --> {self.end.to_srt_string()}", self.text]
+        return '\n'.join(lines)
+
+
+class SRTParseError(Exception):
+    """Custom exception for SRT parsing failures."""
+
+
+class SRTValidator:
+    """
+    Validates and parses SRT subtitle content.
+    Implements rules from the SRT specification and adds additional safety checks.
+    """
+
+    @staticmethod
+    def parse_timestamp(timestamp_str: str) -> Timestamp:
+        """
+        Parse a timestamp string into a Timestamp object.
+
+        Args:
+            timestamp_str: Timestamp in HH:MM:SS,mmm format.
+
+        Returns:
+            Parsed Timestamp object.
+
+        Raises:
+            ValueError: If format is invalid.
+        """
+        match = VALID_TIMESTAMP_PATTERN.match(timestamp_str)
+        if not match:
+            raise ValueError(f"Invalid timestamp format: {timestamp_str!r}")
+        groups = match.groups()
+        return Timestamp(
+            hours=int(groups[0]),
+            minutes=int(groups[1]),
+            seconds=int(groups[2]),
+            milliseconds=int(groups[3])
+        )
+
+    @classmethod
+    def parse_block(cls, block_text: str) -> SubtitleEntry:
+        """
+        Parse a single SRT block into a SubtitleEntry.
+
+        Args:
+            block_text: Raw text of one SRT block (index + timestamps + text).
+
+        Returns:
+            Parsed SubtitleEntry.
+
+        Raises:
+            SRTParseError: If block cannot be parsed.
+        """
+        lines = block_text.strip().split('\n')
+        if len(lines) < 3:
+            raise SRTParseError(f"Block too few lines ({len(lines)}). Need at least 3.")
+
+        # Pad lines if text spans multiple lines (join with newline)
+        index_line = lines[0]
+        time_line = lines[1]
+        text_lines = lines[2:]
+
+        # Parse index
+        try:
+            idx = int(index_line.strip())
+        except ValueError as exc:
+            raise SRTParseError(f"Invalid subtitle index: {index_line!r}") from exc
+
+        if idx < 1:
+            raise SRTParseError(f"Subtitle index must be positive: {idx}")
+
+        # Parse timestamps
+        # Expected format: "00:00:02,000 --> 00:00:07,000"
+        if ' --> ' not in time_line:
+            raise SRTParseError(f"Invalid timestamp line: {time_line!r}")
+        parts = time_line.split(' --> ', maxsplit=1)
+        if len(parts) != 2:
+            raise SRTParseError(f"Invalid timestamp separator: {time_line!r}")
+
+        start_str, end_str = parts
+        try:
+            start = cls.parse_timestamp(start_str.strip())
+            end = cls.parse_timestamp(end_str.strip())
+        except ValueError as exc:
+            raise SRTParseError(f"Timestamp parse error: {exc}") from exc
+
+        # Combine text lines
+        text = '\n'.join(text_lines).strip()
+        if not text:
+            raise SRTParseError("Empty text after timestamps")
+
+        # Truncate text if too long (security) but log warning
+        if len(text) > MAX_TEXT_LENGTH:
+            logger.warning(
+                "Text too long in entry %d (%d chars). Truncating to %d.",
+                idx, len(text), MAX_TEXT_LENGTH
+            )
+            text = text[:MAX_TEXT_LENGTH]
+
+        return SubtitleEntry(index=idx, start=start, end=end, text=text)
+
+    @classmethod
+    def parse_srt(cls, content: str) -> List[SubtitleEntry]:
+        """
+        Parse a complete SRT content string into a list of SubtitleEntry objects.
+
+        Args:
+            content: Full SRT subtitle text.
+
+        Returns:
+            List of parsed subtitle entries, in order.
+
+        Raises:
+            SRTParseError: If content is empty or contains invalid blocks.
+            ValueError: If content exceeds safety limits.
+        """
+        if not content or not content.strip():
+            raise SRTParseError("SRT content is empty")
+
+        # Security: limit maximum input size to prevent DoS
+        if len(content) > MAX_LINE_LENGTH * MAX_SUBTITLE_ENTRIES:  # approx 200MB
+            raise ValueError(f"SRT content too large ({len(content)} chars)")
+
+        # Split into blocks using blank lines as separator
+        raw_blocks = SRT_BLOCK_SEPARATOR.split(content.strip())
+        entries: List[SubtitleEntry] = []
+        seen_indices: set = set()
+
+        for idx, block in enumerate(raw_blocks, start=1):
+            if not block.strip():
+                continue
+            try:
+                entry = cls.parse_block(block)
+            except (SRTParseError, ValueError) as exc:
+                logger.error("Failed to parse block %d: %s", idx, exc)
+                continue  # Skip malformed blocks (configurable: could raise)
+
+            # Duplicate index check
+            if entry.index in seen_indices:
+                logger.warning("Duplicate subtitle index %d detected. Using first occurrence.", entry.index)
+                continue
+            seen_indices.add(entry.index)
+
+            entries.append(entry)
+
+        # Sort by index (optional but good practice)
+        entries.sort(key=lambda e: e.index)
+
+        if not entries:
+            raise SRTParseError("No valid subtitle entries found in content")
+
+        # Safety limit on number of entries
+        if len(entries) > MAX_SUBTITLE_ENTRIES:
+            raise ValueError(f"Too many subtitle entries ({len(entries)} > {MAX_SUBTITLE_ENTRIES})")
+
+        return entries
+
+
+def srt_to_clean_text(entries: Sequence[SubtitleEntry]) -> str:
+    """
+    Convert list of SubtitleEntry to a clean text representation (plain text).
+
+    Args:
+        entries: Sequence of SubtitleEntry objects.
+
+    Returns:
+        Text content with timestamps removed.
+    """
+    return '\n'.join(entry.text for entry in entries)
+
+
+# Example usage with the provided SRT content
+if __name__ == "__main__":
+    # Configure logging for demonstration
+    logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(name)s - %(levelname)s - %(message)s')
+    logger.info("Starting SRT parsing demo")
+
+    # Sample SRT content from security news (as given)
+    sample_srt = (
+        "1\n"
+        "00:00:02,000 --> 00:00:07,000\n"
+        "欢迎收看每日安全资讯，\n"
+        "今天是2026年5月30日。\n"
+        "\n"
+        "2\n"
+        "00:00:07,000 --> 00:00:10,000\n"
+        "我是您的主持人，\n"
+        "今天为您带来最新安全动态。\n"
+        "\n"
+        "3\n"
+        "00:00:10,000 --> 00:00:16,000\n"
+        "首先，Oracle发布2026年\n"
+        "5月关键安全补丁更新，\n"
+        "\n"
+        "4\n"
+        "00:00:16,000 --> 00:00:20,000\n"
+        "修复了35个CVE漏洞，\n"
+        "涉及多个产品线。\n"
+        "\n"
+        "5\n"
+        "00:00:20,000 --> 00:00:26,000\n"
+        "其次是关于BLAST后门攻击，\n"
+        "针对协作多智能体强化学习系统。\n"
+        "\n"
+        "6\n"
+        "00:00:26,000 --> 00:00:31,000\n"
+        "这种新型攻击手法\n"
+        "利用隐蔽后门操纵智能体行为。\n"
+        "\n"
+        "7\n"
+        "00:00:31,000 --> 00:00:35,000\n"
+        "接下来我们进行\n"
+        "30秒的深度解析。\n"
+        "\n"
+        "8\n"
+        "00:00:35,000 --> 00:00:39,000\n"
+        "BLAST攻击由知道创宇\n"
+        "404实验室揭露，\n"
+        "\n"
+        "9\n"
+        "00:00:39,000 --> 00:00:43,000\n"
+        "它通过植入恶意时间触发器，\n"
+        "在特定条件下激活后门。\n"
+        "\n"
+        "10\n"
+        "00:00:43,000 --> 00:00:47,000\n"
+        "攻击者可在不破坏\n"
+        "系统正常运行的前提下，\n"
+        "\n"
+        "11\n"
+        "00:00:47,000 --> 00:00:51,000\n"
+        "诱导智能体做出\n"
+        "有利于攻击者的决策。\n"
+        "\n"
+        "12\n"
+        "00:00:51,000 --> 00:00:55,000\n"
+        "这对自动驾驶、金融交易\n"
+        "等领域的多智能体系统构成威胁。\n"
+        "\n"
+        "13\n"
+        "00:00:55,000 --> 00:00:59,000\n"
+        "防御建议包括动态\n"
+        "信任评分和异构验证。\n"
+        "\n"
+        "14\n"
+        "00:00:59,000 --> 00:01:04,000\n"
+        "深度解析结束，\n"
+        "继续其他资讯。\n"
+        "\n"
+        "15\n"
+        "00:01:04,000 --> 00:01:10,000\n"
+        "GuidePoint Security发布\n"
+        "CMMC合规三步骤指南，\n"
+        "\n"
+        "16\n"
+        "00:01:10,000 --> 00:01:14,000\n"
+        "帮助国防供应链企业\n"
+        "降低网络安全合规门槛。\n"
+        "\n"
+        "17\n"
+        "00:01:14,000 --> 00:01:20,000\n"
+        "绿盟科技在资本市场论坛\n"
+        "解读AI智能体安全治理新范式，\n"
+        "\n"
+        "18\n"
+        "00:01:20,000 --> 00:01:25,000\n"
+        "并发布智能体安全创新成果，\n"
+        "应对高自主执行时代的挑战。\n"
+        "\n"
+        "19\n"
+        "00:01:25,000 --> 00:01:30,000\n"
+        "此外，STAR Labs详细分析了\n"
+        "LiteLLM中四个漏洞链的演变。\n"
+        "\n"
+        "20\n"
+        "00:01:30,000 --> 00:01:35,000\n"
+        "这些漏洞允许攻击者\n"
+        "绕过认证并执行远程代码。\n"
+        "\n"
+        "21\n"
+        "00:01:35,000 --> 00:01:40,000\n"
+        "今天的每日安全资讯\n"
+        "到这里就结束了。\n"
+        "\n"
+        "22\n"
+        "00:01:40,000 --> 00:01:45,000\n"
+        "感谢收看，请订阅我们\n"
+        "获取更多安全动态。\n"
+        "\n"
+        "23\n"
+        "00:01:45,000 --> 00:01:48,000\n"
+        "保护系统，从了解威胁开始。\n"
+        "我们明天再见。"
+    )
+
+    try:
+        parsed_entries = SRTValidator.parse_srt(sample_srt)
+        logger.info("Successfully parsed %d subtitle entries.", len(parsed_entries))
+        for entry in parsed_entries[:3]:
+            logger.debug("Entry %d: %s -> %s", entry.index, entry.start, entry.end)
+        # Export clean text
+        clean = srt_to_clean_text(parsed_entries)
+        print("=== CLEAN TEXT EXTRACTION ===")
+        print(clean[:200] + "..." if len(clean) > 200 else clean)
+    except (SRTParseError, ValueError) as exc:
+        logger.critical("Fatal SRT parsing error: %s", exc)
+        raise
