@@ -322,3 +322,6 @@ if __name__ == '__main__':
         push_comment(args.push_comment)
     else:
         job(args, conf)
+
+
+# Web3/DeSci Fix #1420: [每日信息流] 2026-06-19
