@@ -1,77 +1,114 @@
-# 每日安全资讯（2026-10-18）
+# 每日安全资讯（2026-10-19）
 
 - SecWiki News
-  - [ ] [SecWiki News 2026-10-17 Review](http://www.sec-wiki.com/?2026-10-17)
-- Blog on STAR Labs
-  - [ ] [Two Hawks in a Pod: one Android RAT behind a flock of fake Japanese brands](https://starlabs.sg/blog/2026/10-two-hawks-in-a-pod-one-android-rat-behind-a-flock-of-fake-japanese-brands/)
-- Verne in GitHub
-  - [ ] [呆呆面板 daidai-panel：轻量级青龙面板替代品介绍与 Docker 部署教程](https://blog.einverne.info/post/2026/10/daidai-panel.html)
+  - [ ] [SecWiki News 2026-10-18 Review](http://www.sec-wiki.com/?2026-10-18)
+- ArthurChiao's Blog
+  - [ ] [When AI Amplifies the Upstream: An Organizational Shift Underway (2026)](https://arthurchiao.art/blog/when-ai-amplifies-the-upstream/)
 - 白帽Wiki - 一个简单的wiki
-  - [ ] [[2026]sub6api -前AI时代的OldSchool手艺人打造,无OpenAI降智,无Claude封号](https://key08.com/index.php/2026/10/17/3365.html)
+  - [ ] [[2026]ClaudeCode 2.1.30x版本风控-Anthropic的追踪中转站的技术 x2](https://key08.com/index.php/2026/10/19/3369.html)
+- Doonsec's feed
+  - [ ] [第一把用人工智能全流程生成的3D打印手枪](https://mp.weixin.qq.com/s/OZeCrlg9ZAoXZRzJfH4xtA)
+  - [ ] [手机归属地离线查询](https://mp.weixin.qq.com/s/OL7Uy4-CIRqOVVfJYldgnQ)
+  - [ ] [AI挖漏洞项目ARTEX，密码重置漏洞与命令执行漏洞分析复现](https://mp.weixin.qq.com/s/Txv0z4-XTQhibdQsc-iaYQ)
+  - [ ] [【一个人的SOC】(07) 数据可靠性——源健康/同步死信/对账差异三层聚合](https://mp.weixin.qq.com/s/m6NwXSfG76Mr7CYfqiH9Yg)
+  - [ ] [跨工具数据流污染与污点分析](https://mp.weixin.qq.com/s/6yBjOMzKuJgZnSTBYkiRug)
+  - [ ] [新能源场站解惑 | 有日志审计+入侵检测，为啥还要装网络安全监测？态势感知又是什么](https://mp.weixin.qq.com/s/hp4trWOEaNH0KMQYYceg5w)
+  - [ ] [触屏 MacBook Pro 月底亮相，最快 11 月 6 日开卖](https://mp.weixin.qq.com/s/_IYGFxNSe_7QjclqzaNQzg)
+  - [ ] [Teloa 社区版 0.2.2 发布：构建自己的 AI 团队](https://mp.weixin.qq.com/s/xgN0ol_16fDvMXtgU3u3xg)
+  - [ ] [2026年第十二届“美亚杯”案情资料解读](https://mp.weixin.qq.com/s/vY5gToqOsewOfutJSEs81w)
+  - [ ] [印第安纳大学 Bloomington｜系统与安全方向全奖博士招生（2027 Fall）](https://mp.weixin.qq.com/s/OVVcj5BymkXvoaqSw7V72w)
+  - [ ] [GitHub星数疯涨的10款AI安全工具：全部开源免费，最后一款新手必备](https://mp.weixin.qq.com/s/aqLVMHO83cgPRAlOY4edMQ)
+  - [ ] [【工具更新】EasyShell v2.8.3 &amp; MoreLian v1.2.4 &amp; CyberStrickAI二开版1.0 小小全家桶现在终于齐活啦](https://mp.weixin.qq.com/s/KEG85BlA_5l-WJYIfk6Xqg)
+  - [ ] [收到重阳短信](https://mp.weixin.qq.com/s/DMuLRzu1rhZu_oJRzCVCXA)
+  - [ ] [终于讲清楚了，Kali Linux 从入门到进阶：14大类，108款工具万字全解析](https://mp.weixin.qq.com/s/NObSt8vv1FpqXsOqnqNiaA)
 - Cybernews News
-  - [ ] [Who cut Ukraine's Starshield access, disrupting drone defense? New report points to White House](https://cybernews.com/news/ukraine-starshield-access-restrictions-white-house/)
-  - [ ] [Rogue AI agents hacked into Indian companies without anyone noticing](https://cybernews.com/ai-news/rogue-ai-agents-hacked-into-indian-companies/)
-  - [ ] [Ransomware gang puts 2.6TB of sensitive Maryland government data up for sale](https://cybernews.com/news/rhysida-maryland-government-data-breach/)
-  - [ ] [Millions of California students' data exposed after hackers lurk in third-party testing system for months](https://cybernews.com/news/california-student-data-breach-millions-records-ets-hack/)
+  - [ ] [Ukrainian drones hit VK data center and Ozon warehouse near St. Petersburg](https://cybernews.com/news/ukrainian-drones-hit-vk-data-center-and-ozon-warehouse/)
+  - [ ] [China moves to tighten controls on AI exports, citing national security risks](https://cybernews.com/ai-news/china-moves-to-tighten-controls-on-ai-exports/)
+  - [ ] [Elon Musk says AI and robots are the only way to fix US debt](https://cybernews.com/ai-news/musk-ai-and-robots-us-debt-fix/)
 - HackerNoon
-  - [ ] [500 Blog Posts To Learn About Github](https://hackernoon.com/500-blog-posts-to-learn-about-github?source=rss)
-  - [ ] [Mastercard Launches Stablecoin Platform: How Crypto Turns into Card Swipes and Bank Payouts](https://hackernoon.com/mastercard-launches-stablecoin-platform-how-crypto-turns-into-card-swipes-and-bank-payouts?source=rss)
-  - [ ] [Inside GoodRec's Matching Engine for Pickup Sports](https://hackernoon.com/inside-goodrecs-matching-engine-for-pickup-sports?source=rss)
-  - [ ] [170 Blog Posts To Learn About Github Copilot](https://hackernoon.com/170-blog-posts-to-learn-about-github-copilot?source=rss)
-  - [ ] [The TechBeat: AI Coding Tip 039 - Write Your Own Zeroth Law (10/17/2026)](https://hackernoon.com/10-17-2026-techbeat?source=rss)
-  - [ ] [How to Spend Six Months Changing a Light Bulb](https://hackernoon.com/how-to-spend-six-months-changing-a-light-bulb?source=rss)
-  - [ ] [119 Blog Posts To Learn About Github Actions](https://hackernoon.com/119-blog-posts-to-learn-about-github-actions?source=rss)
-- 黑鸟
-  - [ ] [iOS 27.0.1完整攻击链：从消息一键RCE到Chollima持久化越狱](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451189367&idx=1&sn=44342bec2538bd6384c4b87bf94b62f7)
-- 全频带阻塞干扰
-  - [ ] [OpenAI 的商业反窃密策略，你做到了吗？](https://mp.weixin.qq.com/s?__biz=MzIzMzE2OTQyNA==&mid=2648959586&idx=1&sn=ce1524fa50dbf0caf7c8d7c31f7e1268)
-- 看雪学苑
-  - [ ] [SDC2026议题预告 | 物理世界自动化攻防：Agent 小队无人值守 IoT 漏洞挖掘实践](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458622904&idx=1&sn=89006d52e87c01402146d6b270efaa9f)
-  - [ ] [一台"锁死"的 Pixel 7 自救记：把 GhostLock 内核漏洞移植到真机 root](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458622904&idx=2&sn=36915887042b42ce81d9a8043bc026e4)
-- 我的安全视界观
-  - [ ] [我的读书笔记：写作是留给自己的吸管](https://mp.weixin.qq.com/s?__biz=MzI3Njk2OTIzOQ==&mid=2247488123&idx=1&sn=11f0969c1d668339096059d4e0bba9d1)
-- 青衣十三楼飞花堂
-  - [ ] [小小四的日常](https://mp.weixin.qq.com/s?__biz=MzUzMjQyMDE3Ng==&mid=2247490018&idx=1&sn=10e1754abec32a5f72e6d57f73d3696b)
-- 安全圈
-  - [ ] [【安全圈】程序员为女友抢号搞瘫医院挂号系统](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652079381&idx=1&sn=62452dec7ffbb0c77a86ee1e051297e4)
-  - [ ] [【安全圈】Linux内核爆出9.3分超高危漏洞，可“越狱”虚拟机攻击宿主机](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652079381&idx=2&sn=870c96014815465341569810ecc94d94)
-  - [ ] [【安全圈】黑客利用 Collabora RCE 漏洞为 Nextcloud 服务器植入后门](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652079381&idx=3&sn=83fe8f1d0aa273a7e5c0ca6d4a83d64e)
-- 安全分析与研究
-  - [ ] [工具调用最小权限与能力降级](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247497309&idx=1&sn=0fda6be23644c8689ee83758a770b443)
-- 丁爸 情报分析师的工具箱
-  - [ ] [【开源报告】近30日全球安全态势-美国视角下的中美竞争](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651157755&idx=1&sn=36680e1c628784fe51c2b779f0e81843)
-- 极客公园
-  - [ ] [硅谷爆火的两万块智能床，是智商税吗？我睡了 100 天](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653114942&idx=1&sn=32f71803ef5f17fd47e9204d1af7a652)
-  - [ ] [1 分钟售罄、发货排到明年，iPhone Duo 卖爆背后的真相](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653114935&idx=1&sn=5362ed733992d5f4edf9ad22b1e66d23)
-  - [ ] [iPhone Duo 一秒售罄，发货排到明年；马斯克：考虑自建电商平台；谷歌创始人：AI 正开始自己造自己 | 极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653114930&idx=1&sn=daf3b75be76942ea891dc4a8ef24cc70)
+  - [ ] [A Three-Checkpoint Framework for Testing Website Contact Forms](https://hackernoon.com/a-three-checkpoint-framework-for-testing-website-contact-forms?source=rss)
+  - [ ] [Adversarial Testing for Browser E2EE: Authentication, Replay, and State Recovery](https://hackernoon.com/adversarial-testing-for-browser-e2ee-authentication-replay-and-state-recovery?source=rss)
+  - [ ] [51 Blog Posts To Learn About Hacker](https://hackernoon.com/51-blog-posts-to-learn-about-hacker?source=rss)
+  - [ ] [The TechBeat: Muse, Instinct, Wajo, and OpenAI's Dots: Four AI Assistants That Do the Work for You (10/18/2026)](https://hackernoon.com/10-18-2026-techbeat?source=rss)
+  - [ ] [85 Blog Posts To Learn About Hackathon](https://hackernoon.com/85-blog-posts-to-learn-about-hackathon?source=rss)
+  - [ ] [How Much GPU Memory Do You Really Need to Run an Open LLM Locally?](https://hackernoon.com/how-much-gpu-memory-do-you-really-need-to-run-an-open-llm-locally?source=rss)
+  - [ ] [The "Agentic" Personal Car vs. The Fleet Robotaxi](https://hackernoon.com/the-agentic-personal-car-vs-the-fleet-robotaxi?source=rss)
+  - [ ] [Demystifying Python Asyncio: When to Use Concurrency vs. Multiprocessing in Production.](https://hackernoon.com/demystifying-python-asyncio-when-to-use-concurrency-vs-multiprocessing-in-production?source=rss)
+  - [ ] [Lessons from Paxos Made Live for Reliable AI Infrastructure](https://hackernoon.com/lessons-from-paxos-made-live-for-reliable-ai-infrastructure?source=rss)
+  - [ ] [Stop Sending Every AI Request to Your Most Expensive Model!](https://hackernoon.com/stop-sending-every-ai-request-to-your-most-expensive-model?source=rss)
+  - [ ] [How Fortune 500 Companies Build Data Platforms](https://hackernoon.com/how-fortune-500-companies-build-data-platforms?source=rss)
+  - [ ] [Stop Using For-Loops for Everything: Advanced Python Iteration Patterns You Should Know.](https://hackernoon.com/stop-using-for-loops-for-everything-advanced-python-iteration-patterns-you-should-know?source=rss)
+  - [ ] [Understanding Rogue-Key Attacks in BLS Signature Aggregation](https://hackernoon.com/understanding-rogue-key-attacks-in-bls-signature-aggregation?source=rss)
+  - [ ] [Measuring Lead Response SLAs With Verifiable CRM Events](https://hackernoon.com/measuring-lead-response-slas-with-verifiable-crm-events?source=rss)
+  - [ ] [Your Smart Home Is a Remote Control. A Home AI Would Actually Run the House](https://hackernoon.com/your-smart-home-is-a-remote-control-a-home-ai-would-actually-run-the-house?source=rss)
+  - [ ] [Designing a Deletion Propagation Contract for Distributed CRM Data](https://hackernoon.com/designing-a-deletion-propagation-contract-for-distributed-crm-data?source=rss)
+  - [ ] [Engineering Trustworthy AI for Healthcare: From Medical Data to Clinical Intelligence](https://hackernoon.com/engineering-trustworthy-ai-for-healthcare-from-medical-data-to-clinical-intelligence?source=rss)
+  - [ ] [The Biggest Mistake Beginners Make With AI Filmmaking (It's Not What You'd Guess)](https://hackernoon.com/the-biggest-mistake-beginners-make-with-ai-filmmaking-its-not-what-youd-guess?source=rss)
+  - [ ] [From Collars to Cameras: How AI Is Rewiring Livestock Monitoring in 2026](https://hackernoon.com/from-collars-to-cameras-how-ai-is-rewiring-livestock-monitoring-in-2026?source=rss)
+  - [ ] [500 Blog Posts To Learn About H.g. Wells](https://hackernoon.com/500-blog-posts-to-learn-about-hg-wells?source=rss)
+- Dancho Danchev's Blog - Mind Streams of Information Security Knowledge
+  - [ ] [A Portfolio of Personally Identifiable Email Address Accounts from the Exploit.in Cybercrime-Friendly Forum Community - An Analysis](https://ddanchev.blogspot.com/2026/10/a-portfolio-of-personally-identifiable.html)
 - 奇客Solidot–传递最新科技情报
-  - [ ] [游戏逆向工程网站宣布关闭因为 AI 让反编译游戏变得非常容易](https://www.solidot.org/story?sid=85638)
-  - [ ] [天文学家发现第一颗绿色恒星](https://www.solidot.org/story?sid=85637)
-  - [ ] [GNOME 面向普通用户发布 GNOME OS Preview](https://www.solidot.org/story?sid=85636)
+  - [ ] [指纹显示秦始皇兵马俑的制作者有男有女有儿童](https://www.solidot.org/story?sid=85643)
+  - [ ] [退休教授因阻止 Uber Eats 机器人送货被捕](https://www.solidot.org/story?sid=85642)
+  - [ ] [内核开发者递交代码无需声明是否 AI 辅助编写](https://www.solidot.org/story?sid=85641)
+  - [ ] [Meta 新增条款允许其抓取客户内容并用于训练 AI](https://www.solidot.org/story?sid=85640)
+- 黑鸟
+  - [ ] [第一把用人工智能全流程生成的3D打印手枪](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451189379&idx=1&sn=57d64142c172c16c345f61ba9dfaa174)
+- 安全客
+  - [ ] [3.5万次请求、翻找泄露密钥：失控AI智能体围猎高德地图，运营者却毫不知情](https://mp.weixin.qq.com/s?__biz=MzA5ODA0NDE2MA==&mid=2649790587&idx=1&sn=38aa20efb77571be0a0fed789da1789f)
+- 我的安全视界观
+  - [ ] [影子端点专项扫描：AI "用进"安全的一次实践](https://mp.weixin.qq.com/s?__biz=MzI3Njk2OTIzOQ==&mid=2247488142&idx=1&sn=53f068608266cd4d018cf465f22facae)
+- 青衣十三楼飞花堂
+  - [ ] [收到重阳短信](https://mp.weixin.qq.com/s?__biz=MzUzMjQyMDE3Ng==&mid=2247490022&idx=1&sn=c0168c9e1d354b4c6862186bd1d34caa)
+- 天御攻防实验室
+  - [ ] [a16z举办AI网络研究员晚宴](https://mp.weixin.qq.com/s?__biz=MzU0MzgyMzM2Nw==&mid=2247487256&idx=1&sn=6681a55373dbec39b3d23b322a347e6d)
+- 非尝咸鱼贩
+  - [ ] [在尼科西亚“速通”南北塞浦路斯](https://mp.weixin.qq.com/s?__biz=Mzk0NDE3MTkzNQ==&mid=2247486133&idx=1&sn=25fd5af12cc9a7223274dcd901e4e052)
+- 安全圈
+  - [ ] [【安全圈】Skyticket 旅行预订网站遭黑客攻击，6140 名平台用户信用卡信息外泄](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652079392&idx=1&sn=21e75e487b508bd20850baafe3114343)
+  - [ ] [【安全圈】OpenCode披露安全漏洞，控制台用户第三方API密钥或遭泄露](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652079392&idx=2&sn=065ddfcf11b031a8c154f04a0a06866e)
+  - [ ] [【安全圈】伪造的 Arch Linux 软件包以 root 权限推送恶意软件](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652079392&idx=3&sn=dc161ca3b5c81ea4e70e4d51d84b02c0)
+- 安全研究GoSSIP
+  - [ ] [印第安纳大学 Bloomington｜系统与安全方向全奖博士招生（2027 Fall）](https://mp.weixin.qq.com/s?__biz=Mzg5ODUxMzg0Ng==&mid=2247502313&idx=1&sn=e4d78636c46449f0f5ab7ffb2554838e)
+- 极客公园
+  - [ ] [造物 100 #10｜百万众筹的和弦合成器、52kHz 超声波去污笔、能打电话的奥特曼 AI 玩具](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653114962&idx=1&sn=6cda27fb6674cc8166cba49dfa3cf25d)
+  - [ ] [DeepSeek 新模型上线，价格更低能力更强；传华为将推新品牌「星芒」主打性价比；天文学家发现第一颗绿色恒星｜极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653114955&idx=1&sn=3381a43b5e47c14fba8bbaa298bf0dbe)
+- 丁爸 情报分析师的工具箱
+  - [ ] [【工具】开源免费视频分析平台-rebucca](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651157767&idx=1&sn=8310485ed4fdd6a047948fce8f0f73cc)
+  - [ ] [【开源报告】美军徒步行军组织与实施研究](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651157767&idx=2&sn=f2b73eecdc394b7e3e748484b73b254b)
+- 火绒安全
+  - [ ] [重阳节 | 九九登高望 岁岁又重阳](https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247538288&idx=1&sn=c22c7c7fade00a90a05d455b4bef3198)
+  - [ ] [诚邀渠道合作伙伴共启新征程](https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247538288&idx=2&sn=adaedfd0c53a333bcf52ac5abf0ed3ce)
+- 代码家
+  - [ ] [抑郁了](https://daimajia.com/2026/10/18/depression/)
+- 安全分析与研究
+  - [ ] [跨工具数据流污染与污点分析](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247497310&idx=1&sn=8a685d64df4fb54e9f917d91f9233f38)
+- 老范讲故事｜AI、大模型与商业世界的故事
+  - [ ] [Agent流量怎么抢：谁有流量谁定新标准](https://lukefan.com/2026/10/18/agent-traffic-new-scenarios-transactions-standards/)
+- Yiran's Blog
+  - [ ] [Weekly Issue-《奔跑吧，爸爸》](https://zdyxry.github.io/2026/10/18/Weekly-Issue-Run-Dad/)
 - xulihang's blog
-  - [ ] [番号的背后](https://blog.xulihang.me/japanese-av-industry/)
-- KAIX.IN
-  - [ ] [AI 为什么总是惹人议论](https://kaix.in/2026/1017/)
-- 土木坛子
-  - [ ] [Starryblu：跨境资金管理平台Wise的平替？](https://tumutanzi.com/archives/17648)
-- SEISAMUSE
-  - [ ] [为什么？](https://www.seis-jun.xyz/blog/2026-10-17-why.html)
-  - [ ] [基于长周期面波的全球震动事件检测](https://www.seis-jun.xyz/blog/2026-10-17-surface-wave-event-detection.html)
-- @Lenciel
-  - [ ] [Fragments 0x0014](https://lenciel.com/2026/10/fragments-0x0014/)
+  - [ ] [日常生活中遇到的虫子](https://blog.xulihang.me/bugs-you-may-meet-in-daily-life/)
+- 维基萌
+  - [ ] [箱根之旅](https://www.wikimoe.com/post/b-tn3backb)
 - 左素生
-  - [ ] [入蜀记 day507 做饭与附近、哼鸣、紫美石榴](https://z.arlmy.me/posts/BBBPandINSW/INSW-deep/INSW_507/)
-  - [ ] [入蜀记 day506 悖论感、油泼面、MM](https://z.arlmy.me/posts/BBBPandINSW/INSW-deep/INSW_506/)
-  - [ ] [入蜀记 day505 游新都桂湖宝光](https://z.arlmy.me/posts/BBBPandINSW/INSW-deep/INSW_505/)
-- 非学·派'
-  - [ ] [为什么没有尊界 v800 车主亲自出来测试刹车踏板](https://fxpai.com/article/weishenmemeiyouzunjie-v800-chezhuqinzichulaiceshishachetaban)
-- JustZht's EchoChamber
-  - [ ] [2026.10.17](https://www.justzht.com/2026-10-17/)
-- Lei Mao's Log Book
-  - [ ] [坑爹的 Campbell Oktoberfest Fun Run](https://leimao.github.io/essay/%E5%9D%91%E7%88%B9%E7%9A%84-Campbell-Oktoberfest-Fun-Run/)
-- 卡瓦邦噶！
-  - [ ] [网络问题排查的思路和技巧](https://www.kawabangga.com/posts/7431)
-- 如有乐享
-  - [ ] [博客三个月连续被黑三次！WP后门木马排查与安全加固记录](https://51.ruyo.net/19757.html)
+  - [ ] [Toots 441 2026 Oct.11 - Oct.17](https://z.arlmy.me/posts/MastodonArchives/2026/MastodonTootsArchives_20261017/)
+  - [ ] [最近惦念 20261002](https://z.arlmy.me/posts/TILs/thoughts/20261002_Recently/)
+- SEISAMUSE
+  - [ ] [会飞的汽车](https://www.seis-jun.xyz/blog/2026-10-18-roadster.html)
+- 墙外看
+  - [ ] [【PrivateVPN怎么样】PrivateVPN中国详细使用测评](https://qiangwaikan.com/private-review/)
+  - [ ] [【蓝灯怎么样】蓝灯还能用吗？蓝灯中国测评](https://qiangwaikan.com/lantern/)
+  - [ ] [【NordVPN怎么样】NordVPN中国详细使用测评](https://qiangwaikan.com/nord-review/)
+  - [ ] [【Surfshark怎么样】Surfshark中国详细使用测评](https://qiangwaikan.com/surfshark-review/)
+  - [ ] [【PureVPN怎么样】PureVPN中国详细使用测评](https://qiangwaikan.com/pure-review/)
+- Louis C Deng's Blog
+  - [ ] [質疑莊子](https://blog.aeilot.top/2026/10/18/asking-chuangzi/)
+  - [ ] [北海之北](https://blog.aeilot.top/2026/10/18/northern-ocean/)
+- 频率
+  - [ ] [国庆出游之景德镇](https://pinlyu.com/life/jiangxi-jingdezhen/)
+- 拾月的博客
+  - [ ] [2026W42：桂博园和良渚遗址公园](https://www.skyue.com/26101822.html)
 - 网安寻路人
-  - [ ] [人工智能技术出口管制的基本逻辑：保护特定技术，保留开放通道](https://mp.weixin.qq.com/s?__biz=MzIxODM0NDU4MQ==&mid=2247508907&idx=1&sn=c87718bf838f13ac7a88acde820df044)
+  - [ ] [人工智能技术出口管理的分级逻辑：禁止与限制](https://mp.weixin.qq.com/s?__biz=MzIxODM0NDU4MQ==&mid=2247508931&idx=1&sn=792ffc9938ab3bf00f8bc6835a24ebe5)
