@@ -1,201 +1,278 @@
-# 每日安全资讯（2026-10-23）
+# 每日安全资讯（2026-10-24）
 
-- SecWiki News
-  - [ ] [SecWiki News 2026-10-22 Review](http://www.sec-wiki.com/?2026-10-22)
-- Doonsec's feed
-  - [ ] [工联安全大讲堂第四十二期即将开讲！](https://mp.weixin.qq.com/s/730dGRZSmFcyF8bYjcL8rA)
-  - [ ] [潜伏两月突然发难：Tor 近10%出口中继被黑客控制](https://mp.weixin.qq.com/s/KH5vXxyOZ6N6-ZYhoxNpLA)
-  - [ ] [27届网安校招进度同步篇：一名互联网大厂实习，SRC年榜top的双非本科](https://mp.weixin.qq.com/s/R9W1Y3rZ7BYFaXoX7blODw)
-  - [ ] [讲解一下这次PHP核弹级别漏洞的原理](https://mp.weixin.qq.com/s/kBrtZrQzq_EpF8DvnivokA)
-  - [ ] [穷举后台与phpMyAdmin getshell：从弱口令爆破到绕过杀软拿Shell的完整实战](https://mp.weixin.qq.com/s/62Nyzt0p7ECwAYUxyp3Vxg)
-  - [ ] [对暗网某10TB数据泄露事件的简单分析](https://mp.weixin.qq.com/s/DvCs1xdsaUnKeDG6OuPLeQ)
-  - [ ] [好靶场杯第一届综合赛-古法赛道-流量分析webshell3-上](https://mp.weixin.qq.com/s/53Z48tB8wbFw3i2h6klMCw)
-  - [ ] [【漏洞复现】PHP Core 远程代码执行漏洞（CVE-2026-109618/109619）](https://mp.weixin.qq.com/s/T9WNT1BMJNBoGRcS6kjOUA)
-  - [ ] [PHP2Shell 紧急预警：两枚 9.2 分 RCE 藏在 PHP 内核，补丁已发布](https://mp.weixin.qq.com/s/NgcArHRCC2XMVfnW3kEgGQ)
-  - [ ] [关于PHP远程代码执行漏洞分析及修复建议的安全公告](https://mp.weixin.qq.com/s/0pz73RAqoliAPYhM6MASbg)
-  - [ ] [第十届“强网杯”全国网络安全挑战赛竞赛规程](https://mp.weixin.qq.com/s/e4uyy2gTZLvCM6me6yZp2g)
 - Paper - 知道创宇404实验室
-  - [ ] [MAS-Guard：从单体智能体到多智能体 LLM 系统的统一防护栏](https://paper.seebug.org/3527)
+  - [ ] [基于小语言模型的 RAG 流水线上下文感知提示注入检测：nokast-secureRAG](https://paper.seebug.org/3529)
+  - [ ] [讲解一下这次PHP核弹级别漏洞的原理](https://paper.seebug.org/3528)
+- SecWiki News
+  - [ ] [SecWiki News 2026-10-23 Review](http://www.sec-wiki.com/?2026-10-23)
+- Doonsec's feed
+  - [ ] [【风险提示】天融信关于Node.js Brotli解码器远程代码执行漏洞(CVE-2026-111497)的风险提示](https://mp.weixin.qq.com/s/WXXzCKXOfekha7Gel422YQ)
+  - [ ] [PHP2Shell：一个漏洞，让全球近七成网站紧张了三天](https://mp.weixin.qq.com/s/hY5jhtxkFaIDteGSQW6ntw)
+  - [ ] [每个企业都应该有一套AI自动化渗透测试系统](https://mp.weixin.qq.com/s/L9w-GUMF7w3b5EJF8UKO1w)
+  - [ ] [1024 还有谁没领到 Zcode 送的300亿 GLM-5.3 Token？](https://mp.weixin.qq.com/s/cpqZe_p_iX5QXZJ-8UiLiQ)
+  - [ ] [一部被监听的iPhoneX，牵出横跨三国的二十亿美元秘密资金网](https://mp.weixin.qq.com/s/vkFgqcb6mK4WemyWDkQ_RQ)
+  - [ ] [PHP中的关键RCE漏洞(CVE-2026-109618, CVE-2026-109619)](https://mp.weixin.qq.com/s/IxyvQHSh55aY94TjaOhK4A)
+  - [ ] [2026年网络空间安全学术会议在成都成功召开](https://mp.weixin.qq.com/s/-ubcHFWY0rpkh2k3tR33SQ)
+  - [ ] [PHP又爆未修复xa0RCExa0漏洞？别慌！没那么严重](https://mp.weixin.qq.com/s/vrfmeC_EOs2rg_o1OwtGYg)
+  - [ ] [【开源报告】美国国务院2026年度对外援助项目清单深度解析与中国的应对](https://mp.weixin.qq.com/s/zjLtLwWwngEKRialbkK2uQ)
+  - [ ] [【竞赛】第四届全国大学生开源情报数据采集与分析大赛火热进行中](https://mp.weixin.qq.com/s/2xifEwHwIx0jemm7pdDjAg)
+  - [ ] [u200bCNNVD关于Oracle多个安全漏洞的通报](https://mp.weixin.qq.com/s/OYl1pp0Kt0mPwUkHvww-UQ)
+  - [ ] [信息安全漏洞周报（2026年第42期）](https://mp.weixin.qq.com/s/-FYaOTj_pwDQHPfu50o7sg)
+  - [ ] [26精武杯服务器](https://mp.weixin.qq.com/s/8BfUlNTRFnI0lrRwhesyPg)
+  - [ ] [PHP 中的高危远程代码执行漏洞](https://mp.weixin.qq.com/s/TmIj_b5yiNCjlNzcXR-LKg)
+  - [ ] [高危漏洞复盘｜从公开学号到脱库，某高校平台双重安全隐患剖析](https://mp.weixin.qq.com/s/Q-7h5j6gtRcQHwW-iKZQWQ)
+  - [ ] [CarMore 无线连接教程：安卓走 CarLife，苹果走 CarPlay](https://mp.weixin.qq.com/s/bufqmGK5uYs1e1i2k4tQQA)
+  - [ ] [2026年渗透测试双线基础：Windows命令与PHP文件/网络函数，从Shell到RCE的实战拆解](https://mp.weixin.qq.com/s/RGp953KeEtUp6IAQRmPGKg)
+  - [ ] [PHP2Shell 不是核弹，也不是玩具：把利用链拆成两段就看懂了](https://mp.weixin.qq.com/s/SBRI0ZXU8Ag5uiBb-sM99w)
+  - [ ] [Node.js 双高危漏洞预警：CVE-2026-105482｜CVE-2026-105481](https://mp.weixin.qq.com/s/xPnoLobopTonIb6RMYUEhQ)
+  - [ ] [南京大学 | SPAR：用对抗式LLM交互从RFC中萃取精确的网络协议格式规范](https://mp.weixin.qq.com/s/pw9FxLNg4qU6pgwcfHjI_g)
+  - [ ] [PHP2Shell 漏洞席卷全球：当未知漏洞来袭，安全防护能否不再依赖规则更新？](https://mp.weixin.qq.com/s/7NPSX7EFzRjuusxN42Sz-g)
+  - [ ] [三星 Galaxy Z Fold 9 爆料汇总：3.9 毫米是目标，落地还早](https://mp.weixin.qq.com/s/OY2JnHIWrShe4Dp643zEIg)
+  - [ ] [【工业行业】解读｜GB/T41400-2026《网络安全技术 工业控制系统网络安全防护能力成熟度模型》](https://mp.weixin.qq.com/s/loUmezjvR_gwfbtFvNC5xQ)
+  - [ ] [我学了2个月，拿了1.5w](https://mp.weixin.qq.com/s/xn0jsagtuym6Iqp--0jSJA)
+  - [ ] [速修！Node.js曝RCE漏洞，CVSS评分9.2](https://mp.weixin.qq.com/s/ErTZBWvpqkImsaMBBH3r4g)
+  - [ ] [寰球密码简报（2026年乙本第31期）丨德国后量子密码迁移指南——量子时代的生存法则](https://mp.weixin.qq.com/s/guZGK6HE16AAzyHuoVjgGw)
+  - [ ] [KCon 2026 议题抢先看：当 AI 开始行动，安全如何以更高标准重画边界？](https://mp.weixin.qq.com/s/MYJU8bVitjiPVBrL350tkw)
+  - [ ] [更新WordPress也没用：PHP2Shell之后，比打补丁更要紧的7件事](https://mp.weixin.qq.com/s/FpTOYRaTu1G6mb21qVgIzw)
+  - [ ] [河北镌远百日奋战第一阶段成果检视（9.23-10.23）](https://mp.weixin.qq.com/s/nxfmZEQy4-MfSAia2Lf1XA)
+  - [ ] [某互联网大厂安全工程师实习面经](https://mp.weixin.qq.com/s/CwGXlpFwgliFZsHMmsWxcA)
+  - [ ] [赛迪党委书记、副院长刘文强：以碳排放双控为抓手 确保工业和信息化领域碳达峰目标如期实现](https://mp.weixin.qq.com/s/6cqhrMC-d012wwrLX5fMGw)
+  - [ ] [鸿蒙系统下首款截图贴图录屏工具](https://mp.weixin.qq.com/s/FYyDDw_9uB4zKg8-tBXngw)
+  - [ ] [鸿蒙系统首款跳过开屏广告神器](https://mp.weixin.qq.com/s/Y6aoRmP6A_9MjBKMRQEbew)
+  - [ ] [一条 POST 伪装任意用户：Bytebase 未认证登录绕过（CVSS 9.8）](https://mp.weixin.qq.com/s/MgBuSP9faDQ91AbiziIFdw)
+  - [ ] [不止PHP，Node.js曝出4项高危漏洞，排查处置指南来了！](https://mp.weixin.qq.com/s/W_5tI_9NQvwkiX0H52huOg)
+  - [ ] [PHP2Shell 之后，Imperva 又拿 Node.js 开刀](https://mp.weixin.qq.com/s/YURJgMvQT_fxGT4Q2_hkAw)
+  - [ ] [PHP2Shell 的「最终兵器」被解剖了：ChaCha20 加密配置的 Mirai 变种](https://mp.weixin.qq.com/s/R_rMD6wroCNC0TRDWaYyJw)
+  - [ ] [那位2017年阻止了WannaCry的黑客对php2shell的看法](https://mp.weixin.qq.com/s/Gja5uR7W3tLnYxEAgfukew)
+  - [ ] [发布 | 中央网信委印发《国家信息化“十五五”规划》（附全文）](https://mp.weixin.qq.com/s/EhXHqFk1d1eNDmgq91mWmQ)
+  - [ ] [发布 | 国务院办公厅关于适应人工智能技术发展助力构建就业友好型发展方式的意见](https://mp.weixin.qq.com/s/eKNhgQ6CKJZgSAZo_hZLgQ)
+  - [ ] [CNCERT | 关于“银狐”木马“镜昙（G02）”团伙攻击态势深入分析报告](https://mp.weixin.qq.com/s/hqHHze7WoNYwQRNLc7fThA)
+  - [ ] [信息化\"十五五\"规划发布，智能体与端侧大模型纳入评估备案](https://mp.weixin.qq.com/s/3zKVWQ3Zbd0O7EGq0T69_A)
+  - [ ] [清华大学 x 中国信通院「BigModelGym 大模型安全评测体系」联合发布](https://mp.weixin.qq.com/s/knWiYCuuJT8sFZGFqTMN1g)
+  - [ ] [直播回顾｜FDE岗位一年增长729%，安全人的下一个能力层在哪里？](https://mp.weixin.qq.com/s/RJ8OJv4rMDQwgeX3n94g4A)
+  - [ ] [PHP 被曝严重远程代码执行漏洞，阿里云快速防护指南速览](https://mp.weixin.qq.com/s/FSy1fc6dnfAVoGayCMisRQ)
+  - [ ] [未来CSO · FDE启学营 | 首期即将开课，课表正式公开](https://mp.weixin.qq.com/s/j_aBQEm2c9a4DN869p9iJw)
+  - [ ] [秦安：太狡猾了，突然转向！特朗普支持内塔尼亚胡，很可能是让以色列再次打击伊朗，要高度警惕！](https://mp.weixin.qq.com/s/kCFg2LCqAILw7lO6wjz4OA)
+  - [ ] [视频监控被境外盯上了：南昌网信办处罚某电缆公司，等保、日志、技术措施三项全缺](https://mp.weixin.qq.com/s/GRysOZpRU6sra0yDfJF9Ng)
+  - [ ] [OpenViking 网关：让任意客户端用上 Agentic 记忆](https://mp.weixin.qq.com/s/odoGjnnUwzAwppQXv08F0A)
+  - [ ] [【处置手册】PHP远程代码执行漏洞（CVE-2026-109618/CVE-2026-109619）](https://mp.weixin.qq.com/s/0Xz8Ty1SovNzjc6jAoFbFA)
+  - [ ] [NMG - .NET 内存壳生成器](https://mp.weixin.qq.com/s/G7XDZ5M9k7HbvtsTzocRwA)
+  - [ ] [第十八届大学生学术科技创新节暨2026年CTF新生杯网络安全大赛正式开启！](https://mp.weixin.qq.com/s/5CKFHg4pF3U9dlwXRkdXSA)
+  - [ ] [AiPy Pro 2.1.1 更新：更省 Token，运行更稳定](https://mp.weixin.qq.com/s/JjrbSVtcFFHfN1znsXrBSw)
+  - [ ] [crAPI 靶场实战：OWASP API Top 10 的越权与逻辑缺陷](https://mp.weixin.qq.com/s/RnPJ2b8tUtfpwvOLH0Cunw)
+  - [ ] [自进化长效智能体：Prime Agent 项目全方位解析](https://mp.weixin.qq.com/s/bMqeoIZ-PFB7l5SAhYtjzA)
+  - [ ] [再再再次通过CMMI5级评估！渊亭科技持续提升研发与交付能力](https://mp.weixin.qq.com/s/pRgBc2K-7qg-uErpwDk6Dg)
+  - [ ] [专题·网暴治理 | 网络暴力的治理难点与立法回应](https://mp.weixin.qq.com/s/BMI-UYXPVU4YDva9LkpT1g)
+  - [ ] [前沿 | 自甘风险规则在智能体安全责任中的适用](https://mp.weixin.qq.com/s/ddJTiw1hj7jjhQdE0TfvWw)
+  - [ ] [行业 | 端云一体讯飞星火X2.6大模型正式发布——让敏感数据留在端，把复杂任务交给云](https://mp.weixin.qq.com/s/84uoIUQJlkThS9hu8tTikA)
+  - [ ] [观点 | 构建人工智能赋能社会治理的风险防范体系](https://mp.weixin.qq.com/s/pawAIa0vRSIFM_qNx9Smsw)
+  - [ ] [评论 | 智能体犯错，谁来承担责任？](https://mp.weixin.qq.com/s/Llb5xhDg_7ps1qvGfJQJlA)
+  - [ ] [ZeroFall——面向攻防测试与情报分析场景的 Windows AI工作台](https://mp.weixin.qq.com/s/dAz_qqVtJlnHLPwrD_8b3A)
+  - [ ] [【在野利用】PHP Core 远程代码执行漏洞（CVE-2026-109618/109619）](https://mp.weixin.qq.com/s/iHSmgI7t6GsMsuF3t6DBUw)
+  - [ ] [关于“银狐”木马“镜昙（G02）”团伙攻击态势深入分析报告](https://mp.weixin.qq.com/s/wbQlp9D3VusutrEfoxAxeQ)
+  - [ ] [多重风险或加剧PHP高危漏洞威胁，360图龙锋开放免费安全体检](https://mp.weixin.qq.com/s/KRvLZsPIuW8ZXTHAGhkLNg)
+  - [ ] [Mac 只能用 4K / 5K 屏？180 元副屏接上后，才发现……](https://mp.weixin.qq.com/s/EZPBfunL542l_XQHH1oRbQ)
+  - [ ] [上新日 | 文件夹、代码、压缩包、3D 模型……一键全预览，Unfold 上架！](https://mp.weixin.qq.com/s/MmjJYmP6aQ6oIkQP30blRw)
+  - [ ] [2026中国海博会丨盛邦安全带你探秘“船—海—港”安全底座](https://mp.weixin.qq.com/s/qWiOrn1lh0TkbwrSRHsLdA)
+  - [ ] [威胁情报｜警惕！Web3 面试题暗藏盗窃后门](https://mp.weixin.qq.com/s/LdgE0MHKgYR7x8KO77RnfA)
+  - [ ] [Crypt0xa0资金行情日报2026-10-23](https://mp.weixin.qq.com/s/h5TiYDbuunpaa24SUjbpvA)
+  - [ ] [AI暴露数字世界的安全欠账，加速安全企业分化](https://mp.weixin.qq.com/s/HqG6tvGXsQy1fDRW4XWZDQ)
+  - [ ] [黑客劫持公网暴露AI模型发起攻击，算力成本由受害者承担](https://mp.weixin.qq.com/s/bp3MSYGjM6E74yYrA0zG2Q)
+- Microsoft Security Blog
+  - [ ] [Inside the LiteLLM 1.107.0 supply chain compromise: Credential theft through Python startup hooks](https://www.microsoft.com/en-us/security/blog/2026/10/23/inside-the-litellm-1-107-0-supply-chain-compromise-credential-theft-through-python-startup-hooks/)
 - Cybernews News
-  - [ ] [Vibe coding platform Zeabur collapses after back-to-back breaches expose 3.2M records](https://cybernews.com/news/zeabur-cloud-provider-shutdown-two-breaches-3-million-records/)
-  - [ ] [Orange denies PHP link following outage and doubles data for affected customers](https://cybernews.com/security/orange-outage-compensation-php-security-warning/)
-  - [ ] [iPhone Duo review leaves some users second-guessing their preorders](https://cybernews.com/tech/iphone-duo-review-users-second-guessing-preorders/)
-  - [ ] [Police warned to watch people opposing Flock cameras at public meetings](https://cybernews.com/security/flock-police-deflock-surveillance-intelligence/)
-  - [ ] [PHP was just the beginning: Node.js unveils dangerous flaws threatening millions of sites](https://cybernews.com/security/php-node-js-vulnerabilities-patch-exploit/)
-  - [ ] [Silicon Valley billionaires weigh exit strategies as California votes on new tax](https://cybernews.com/news/california-billionaire-tax/)
-  - [ ] [SpaceX investor “disgusted” with Elon Musk over Starlink limitations in Ukraine](https://cybernews.com/tech/starlink-ross-gerber/)
-  - [ ] [Dozens of universities in the blast zone after hackers exploit QuickLaunch](https://cybernews.com/security/hackers-universities-login-data-leak/)
-  - [ ] [Signal’s sneaky bug: mic and camera eavesdropping on you post-call](https://cybernews.com/security/signal-bug-microphone-camera-eavesdropping/)
-  - [ ] [Airbnb bans checkout chores as furious guests threaten to stay elsewhere](https://cybernews.com/news/airbnb-cleaning-fees-checkout-chores/)
-  - [ ] [Amazon and Cloudflare report PHP2Shell cyberattack attempts as millions of websites race to patch](https://cybernews.com/security/php2shell-wordpress-amazon-cloudflare-ai-cyberattacks/)
-  - [ ] [Free pass for US data requests? Seizure of far-left activist server sparks concerns in Europe](https://cybernews.com/tech/dutch-server-seize/)
-  - [ ] [Users want the YouTube dislike button to be left in peace](https://cybernews.com/tech/youtube-dislike-button-backlash/)
-  - [ ] [Meta’s broken privacy promises cost it a whopping $25 billion in New Mexico](https://cybernews.com/news/meta-facebook-new-mexico-25-billions-penalty/)
-  - [ ] [This AI aggregator leaked nearly 18 million files, including sex doll makers’ customer support chats](https://cybernews.com/security/302-ai-data-leak-exposed-millions-files/)
-  - [ ] [Nigerian gets 8 years for phishing tax firms and stealing identities](https://cybernews.com/security/nigerian-gets-8-years-for-phishing-tax-firms-and-stealing-identities/)
-  - [ ] [SafePay ransomware gang hits at least 600 organizations worldwide](https://cybernews.com/security/safepay-ransomware-gang-hits-at-least-600-organizations-worldwide/)
-  - [ ] [EU launches probe into Booking.com over fake listings and phishing scams](https://cybernews.com/eu-launches-probe-into-booking-com/)
-  - [ ] [Hackers knock Richmond schools offline, deface teachers laptops with ransom threats](https://cybernews.com/news/richmond-schools-ransomware-attack-ransom-note/)
-- 安全客-有思想的安全新媒体
-  - [ ] [你的对手不是人了：Claude+Grok组队，400家金融机构被AI全自动攻破](https://www.anquanke.com/post/id/316272)
-- 绿盟科技技术博客
-  - [ ] [2026 TechWorld | 让智能更安全·AI自身安全专题论坛精彩回顾](https://blog.nsfocus.net/2026-techworld-%e8%ae%a9%e6%99%ba%e8%83%bd%e6%9b%b4%e5%ae%89%e5%85%a8%c2%b7ai%e8%87%aa%e8%ba%ab%e5%ae%89%e5%85%a8%e4%b8%93%e9%a2%98%e8%ae%ba%e5%9d%9b%e7%b2%be%e5%bd%a9%e5%9b%9e%e9%a1%be/)
-  - [ ] [2026 TechWorld | 让安全更智能·AI赋能安全专题论坛精彩回顾](https://blog.nsfocus.net/2026-techworld-%e8%ae%a9%e5%ae%89%e5%85%a8%e6%9b%b4%e6%99%ba%e8%83%bd%c2%b7ai%e8%b5%8b%e8%83%bd%e5%ae%89%e5%85%a8%e4%b8%93%e9%a2%98%e8%ae%ba%e5%9d%9b%e7%b2%be%e5%bd%a9%e5%9b%9e%e9%a1%be/)
-  - [ ] [越对抗·越智能·越进化：绿盟科技”智慧安全4.0″如何重写 AI 时代的安全范式](https://blog.nsfocus.net/%e8%b6%8a%e5%af%b9%e6%8a%97%c2%b7%e8%b6%8a%e6%99%ba%e8%83%bd%c2%b7%e8%b6%8a%e8%bf%9b%e5%8c%96%ef%bc%9a%e7%bb%bf%e7%9b%9f%e7%a7%91%e6%8a%80%e6%99%ba%e6%85%a7%e5%ae%89%e5%85%a84-0%e5%a6%82%e4%bd%95/)
-  - [ ] [绿盟科技入选“中国‘银狐’木马专项防护解决方案市场洞察”，把银狐当“攻击组织”来治理](https://blog.nsfocus.net/%e7%bb%bf%e7%9b%9f%e7%a7%91%e6%8a%80%e5%85%a5%e9%80%89%e4%b8%ad%e5%9b%bd%e9%93%b6%e7%8b%90%e6%9c%a8%e9%a9%ac%e4%b8%93%e9%a1%b9%e9%98%b2%e6%8a%a4%e8%a7%a3%e5%86%b3%e6%96%b9/)
-  - [ ] [PHP远程代码执行漏洞（CVE-2026-109618/CVE-2026-109619）通告](https://blog.nsfocus.net/php%e8%bf%9c%e7%a8%8b%e4%bb%a3%e7%a0%81%e6%89%a7%e8%a1%8c%e6%bc%8f%e6%b4%9e%ef%bc%88cve-2026-109618-cve-2026-109619%ef%bc%89%e9%80%9a%e5%91%8a/)
-- Shell is Only the Beginning
-  - [ ] [Enabling Passkeys Is Not the Same as Enforcing Them](https://www.darkoperator.com/blog/2026/10/22/enabling-passkeys-is-not-the-same-as-enforcing-them)
-- Intigriti
-  - [ ] [Understanding PHP2Shell: Everything you need to know about CVE-2026-109618 & CVE-2026-109619](https://www.intigriti.com/blog/news/php2shell)
-- Exploit-DB.com RSS Feed
-  - [ ] [[remote] PHP2Shell (CVE-2026-109618) - PHP core versions after v5.4 - RCE](https://www.exploit-db.com/exploits/52704)
-- Wallarm
-  - [ ] [Stop Reviewing Your AI Agents. Start Governing Them.](https://lab.wallarm.com/stop-reviewing-your-ai-agents-start-governing-them/)
-- Tenable Blog
-  - [ ] [The adversary economy: How threat actors are reacting to PHP2Shell](https://www.tenable.com/blog/php2shell-vulnerability-threat-actor-response)
-  - [ ] [How to contain shadow AI, as it takes on multiple forms and spreads throughout your environment](https://www.tenable.com/blog/how-to-contain-shadow-ai-as-it-takes-on-multiple-forms-and-spreads-throughout-your-environment)
-- darkreading
-  - [ ] [Microsoft Links Storm-0940 to ConnectWise Supply Chain Attack](https://www.darkreading.com/cyberattacks-data-breaches/microsoft-storm-0940-connectwise-supply-chain-attack)
-  - [ ] [What We Missed: Feds Lasso Texas Laptop Farms](https://www.darkreading.com/insider-threats/texas-laptop-farms-north-korean-it-workers)
-  - [ ] [Les supermarchés de l'UE paient d'un firmware de réfrigérateur non mis à jour](https://www.darkreading.com/ics-ot-security/eu-grocers-unpatched-fridge-firmware-french)
-  - [ ] [UAE Transitions 50% of Gov't Services to Agentic AI](https://www.darkreading.com/cybersecurity-operations/uae-transitions-50-government-services-agentic-ai)
+  - [ ] [Microsoft partner PwC is facing data breach claim](https://cybernews.com/security/microsoft-partner-pwc-data-breach-claim/)
+  - [ ] [PHP’s nightmare is far from over: new unpatched vulnerability found](https://cybernews.com/security/php2shell-attacks-php-new-vulnerabilities-found/)
+  - [ ] [Resident Evil Maker says no game disruptions after breach, but users should stay vigilant](https://cybernews.com/security/resident-evil-capcom-data-breach/)
+  - [ ] [Giving away your old TV? You should wipe it just like you would your phone](https://cybernews.com/security-hub/old-tv-wipe/)
+  - [ ] [eMudhra quits issuing trust certificates after blunder triggers Java and Python updates](https://cybernews.com/security/emudhra-quits-certificate-business-java-python-flaw/)
+  - [ ] [Musk's $1B stake at Skydance raises questions for CNN](https://cybernews.com/news/musk-cnn-skydance/)
+  - [ ] [Nokia partners with Ukraine to build a Starlink alternative as Trump asks Musk to ditch limits](https://cybernews.com/tech/nokia-ukraine-starlink/)
+  - [ ] [Hundreds of thousands of trees chopped down to make space for Google data centers](https://cybernews.com/news/google-finland-data-center-trees/)
+  - [ ] [AI godfather Geoffrey Hinton says we’re toast if we’re not nice to bots](https://cybernews.com/ai-news/geoffrey-hinton-be-nice-to-ai-chatbots/)
+  - [ ] [Samsung One UI 9 update leaves some phones stuck in setup mode or with a drained battery](https://cybernews.com/tech/samsung-one-ui-9-update-bugs/)
+  - [ ] [Morgan Stanley, Bank of America, Citi have started blocking AI agents](https://cybernews.com/ai-news/banks-blocking-ai-agents/)
+  - [ ] [French lawmakers propose tagging rioters with invisible markers to track them down later](https://cybernews.com/news/invisible-markers-france/)
+  - [ ] [GRU hacked Kushner’s iPhone, but the Dutch flipped a Russian spy and took a look themselves](https://cybernews.com/security/jared-kushner-hacked-iphone-gru-russia/)
+  - [ ] [Europol investigators identify 51 potential human trafficking victims online](https://cybernews.com/news/europol-investigators-identify-51-potential-human-trafficking-victims-online/)
+  - [ ] [Scammer admits to fraud scheme targeting US military personnel with stolen PII](https://cybernews.com/privacy/fraud-scheme-targeting-us-military/)
+  - [ ] [Russia seeks to sow chaos ahead of US midterms, lawmakers warn](https://cybernews.com/russia-seeks-to-sow-chaos-ahead-of-us-midterms/)
+  - [ ] [Quest Diagnostics confirms breach of lab systems, patient data now at risk](https://cybernews.com/news/quest-diagnostics-patient-data-breach/)
+  - [ ] [Fortinet says patch now, details later, but experts warn of hacks before Nov 10 disclosure](https://cybernews.com/security/fortinet-critical-flaws-patches-november-disclosure/)
 - HackerNoon
-  - [ ] ["Ohhh, It Was Made by AI! I Knew It!"... Or Do You?](https://hackernoon.com/ohhh-it-was-made-by-ai-i-knew-it-or-do-you?source=rss)
-  - [ ] [How Airflow Handles Dynamic Task Executions with Immutable Dynamic Regions](https://hackernoon.com/how-airflow-handles-dynamic-task-executions-with-immutable-dynamic-regions?source=rss)
-  - [ ] [Will That Sofa Fit? Validate Your Furniture Layout With JavaScript Rectangles](https://hackernoon.com/will-that-sofa-fit-validate-your-furniture-layout-with-javascript-rectangles?source=rss)
-  - [ ] [500 Blog Posts To Learn About Hackernoon Top Story](https://hackernoon.com/500-blog-posts-to-learn-about-hackernoon-top-story?source=rss)
-  - [ ] [The Trap Of Endless Upskilling](https://hackernoon.com/the-trap-of-endless-upskilling?source=rss)
-  - [ ] [Travala Introduces AVA Buyback Multiplier, Scaling Buybacks Up to 4x Member Rewards](https://hackernoon.com/travala-introduces-ava-buyback-multiplier-scaling-buybacks-up-to-4x-member-rewards?source=rss)
-  - [ ] [Gcore Makes Enterprise Security Bundle Free for Public Agencies Until End of the Year](https://hackernoon.com/gcore-makes-enterprise-security-bundle-free-for-public-agencies-until-end-of-the-year?source=rss)
-  - [ ] [Building End-to-End Cypress Tests Across Browser, API, and Worker Boundaries](https://hackernoon.com/building-end-to-end-cypress-tests-across-browser-api-and-worker-boundaries?source=rss)
-  - [ ] [NSA Says Patch PHP or Go Offline as AI-Found PHP2Shell Flaws Reach ~70% of the Web](https://hackernoon.com/nsa-says-patch-or-go-offline-as-ai-found-php2shell-flaws-reach-70percent-of-the-web?source=rss)
-  - [ ] [How to Get More Value From a Hackathon Partnership](https://hackernoon.com/how-to-get-more-value-from-a-hackathon-partnership?source=rss)
-  - [ ] [The Optimization Integrity Framework for Product Experiments](https://hackernoon.com/the-optimization-integrity-framework-for-product-experiments?source=rss)
-  - [ ] [Claude Designed 211 Proteins in Two Days. The Memes-in-Slack Phase Took Two Months](https://hackernoon.com/claude-designed-211-proteins-in-two-days-the-memes-in-slack-phase-took-two-months?source=rss)
-  - [ ] [500 Blog Posts To Learn About Hackernoon Ru](https://hackernoon.com/500-blog-posts-to-learn-about-hackernoon-ru?source=rss)
-  - [ ] [The TechBeat: GPT-6 Astra: How to Write Better Prompts and Skills (10/22/2026)](https://hackernoon.com/10-22-2026-techbeat?source=rss)
-  - [ ] [Bloom Security Adds Cyera DSPM Context to Rank AI Risk by Data Sensitivity](https://hackernoon.com/bloom-security-adds-cyera-dspm-context-to-rank-ai-risk-by-data-sensitivity?source=rss)
-  - [ ] [AEREDIUM Introduces AI Guardrails to Keep Autonomous Agents in Check When Handling Payments and Code](https://hackernoon.com/aeredium-introduces-ai-guardrails-to-keep-autonomous-agents-in-check-when-handling-payments-and-code?source=rss)
-  - [ ] [Implementing the OWASP API Security Top 10 in Node.js and PostgreSQL](https://hackernoon.com/implementing-the-owasp-api-security-top-10-in-nodejs-and-postgresql?source=rss)
-  - [ ] [How Teams Burn Budgets Testing with Claude and Playwright Without a Harness](https://hackernoon.com/how-teams-burn-budgets-testing-with-claude-and-playwright-without-a-harness?source=rss)
-  - [ ] [Check Point’s New AI Firewall Reflects Changes in How Enterprises Approach AI Security](https://hackernoon.com/check-points-new-ai-firewall-reflects-changes-in-how-enterprises-approach-ai-security?source=rss)
-  - [ ] [Flare Lets XRP Holders Borrow Without Selling as Nearly 90% of FXRP Goes to Work in DeFi](https://hackernoon.com/flare-lets-xrp-holders-borrow-without-selling-as-nearly-90percent-of-fxrp-goes-to-work-in-defi?source=rss)
-- 风雪之隅
-  - [ ] [讲解一下这次PHP核弹级别漏洞的原理](https://www.laruence.com/2026/10/22/7686.html)
-- HackerNews
-  - [ ] [Lazarus 黑客利用后量子密码学投递恶意软件](http://0.0.0.0:8080/post/64820)
-  - [ ] [日本 Onamae Desktop Cloud 遭黑客入侵，多达 27,000 台服务器受影响](http://0.0.0.0:8080/post/64819)
-  - [ ] [OpenAI 的 GPT-6 智能体移除了安全监控，随后谎称未这样做](http://0.0.0.0:8080/post/64818)
-  - [ ] [LiteLLM 遭供应链攻击，投递凭证窃取器和后门](http://0.0.0.0:8080/post/64817)
-  - [ ] [GitLab 严重漏洞（CVSS 10.0）可允许未经身份验证的 RCE，波及 12 年来的所有版本](http://0.0.0.0:8080/post/64816)
-  - [ ] [PHP 为两个严重 PHP2Shell RCE 漏洞发布紧急补丁，利用尝试已出现](http://0.0.0.0:8080/post/64815)
-- Black Hills Information Security
-  - [ ] [Detection Engineering: Stop Drowning in Alerts and Start Catching Bad Guys](https://www.blackhillsinfosec.com/detection-engineering/)
-- obaby 𝐢‍𝐧⃝ void
-  - [ ] [狂欢](https://zhongxiaojie.cn/2026/10/2281/)
-- Telekom Security
-  - [ ] [Honeypot Observations on PHP Vulnerabilities CVE-2026-109618 and CVE-2026-109619 (php2shell)](https://github.security.telekom.com/2026/10/php2shell-honeypot-observations.html)
-- 长亭安全应急响应中心
-  - [ ] [【已复现 RCE】php2shell：PHP Core 远程代码执行漏洞（CVE-2026-109618/109619）](https://mp.weixin.qq.com/s?__biz=MzIwMDk1MjMyMg==&mid=2247493471&idx=1&sn=f25d2e82b40d9c695b94ff2f140b2502)
-- 安全内参
-  - [ ] [知名上市公司因泄露用户数据将赔偿5.3亿元](https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247516763&idx=1&sn=9d9dbbf83d424e23078496666730e65a)
-  - [ ] [CNCERT：关于PHP存在远程代码执行漏洞的安全公告](https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247516763&idx=2&sn=6d5b7b6719e344ae5575811ba0decc7f)
-- 代码卫士
-  - [ ] [GitLab 存在满分未认证RCE漏洞，影响12年来发布的所有版本](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247527484&idx=1&sn=7537f27f49b677186d5e7c04cff03f8b)
-  - [ ] [LiteLLM 被纳入供应链攻击，传播凭据窃取器和后门](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247527484&idx=2&sn=52b2f8dc8c7e7d5c9f53564aacfb52a4)
-- 奶牛安全
-  - [ ] [数据泄露情报2026.10.22 - 5万名美国CEO、C](https://mp.weixin.qq.com/s?__biz=MzU4NjY0NTExNA==&mid=2247489937&idx=1&sn=aafa2793e1e4ab5d662f3874e57b88ee)
-  - [ ] [数据泄露情报2026.10.22 - 5万名美国CEO、CFO数据](https://mp.weixin.qq.com/s?__biz=MzU4NjY0NTExNA==&mid=2247489927&idx=1&sn=5588f4fdc8e3643fd8682160df561946)
+  - [ ] [Five SEO “Errors” on My Static Site That Weren’t Errors](https://hackernoon.com/five-seo-errors-on-my-static-site-that-werent-errors?source=rss)
+  - [ ] [Event-Driven CI at Enterprise Scale: Decoupling Webhook Ingestion with Kafka](https://hackernoon.com/event-driven-ci-at-enterprise-scale-decoupling-webhook-ingestion-with-kafka?source=rss)
+  - [ ] [Hunting Replication Lag: A Queue-by-Queue Method for Diagnosing Oracle GoldenGate](https://hackernoon.com/hunting-replication-lag-a-queue-by-queue-method-for-diagnosing-oracle-goldengate?source=rss)
+  - [ ] [Type a Formula, Render Art: Build an Interactive Fractal Generator in 2026](https://hackernoon.com/type-a-formula-render-art-build-an-interactive-fractal-generator-in-2026?source=rss)
+  - [ ] [256 Blog Posts To Learn About Hackernoon Writers](https://hackernoon.com/256-blog-posts-to-learn-about-hackernoon-writers?source=rss)
+  - [ ] [Stop Leaving Quality to QA Alone: Shipping Features Customers Actually Adopt in 2026](https://hackernoon.com/stop-leaving-quality-to-qa-alone-shipping-features-customers-actually-adopt-in-2026?source=rss)
+  - [ ] [The AI Model That Promised to Crush GPT-6 Has a Surprising Weakness](https://hackernoon.com/the-ai-model-that-promised-to-crush-gpt-6-has-a-surprising-weakness?source=rss)
+  - [ ] [The High-Stakes Paddock: Why Enterprise Giants Are Gathering in Austin to Tame Agentic AI](https://hackernoon.com/the-high-stakes-paddock-why-enterprise-giants-are-gathering-in-austin-to-tame-agentic-ai?source=rss)
+  - [ ] [Don’t Let AI Steal Your Personality](https://hackernoon.com/dont-let-ai-steal-your-personality?source=rss)
+  - [ ] [500 Blog Posts To Learn About Hackernoon Vi](https://hackernoon.com/500-blog-posts-to-learn-about-hackernoon-vi?source=rss)
+  - [ ] [The TechBeat: Gemini 4 Argon: How Does It Do Against GPT-6 Astra and Claude? (10/23/2026)](https://hackernoon.com/10-23-2026-techbeat?source=rss)
+  - [ ] [Agent Guardrails Belong in Config, and Config Needs Tests](https://hackernoon.com/agent-guardrails-belong-in-config-and-config-needs-tests?source=rss)
+  - [ ] [How an iOS Update Broke Chinese Text in War Robots (And How We Fixed It)](https://hackernoon.com/how-an-ios-update-broke-chinese-text-in-war-robots-and-how-we-fixed-it?source=rss)
+  - [ ] [Using Cypress Cloud CLI and Test Replay for AI-Assisted CI Debugging](https://hackernoon.com/using-cypress-cloud-cli-and-test-replay-for-ai-assisted-ci-debugging?source=rss)
+  - [ ] [Agent Security & Identity (Part 2): Who Are
+You, Who's Your Agent, And What
+Should They Be Allowed?](https://hackernoon.com/agent-security-and-identity-part-2-who-are-you-whos-your-agent-and-what-should-they-be-allowed?source=rss)
+  - [ ] [1Claw Builds the Security Layer for the Day AI Agents Run Wallets and Sign Trades Autonomously](https://hackernoon.com/1claw-builds-the-security-layer-for-the-day-ai-agents-run-wallets-and-sign-trades-autonomously?source=rss)
+  - [ ] [We Were Never Asked to Write Code. We Were Asked to Solve Problems.](https://hackernoon.com/we-were-never-asked-to-write-code-we-were-asked-to-solve-problems?source=rss)
+  - [ ] [StealC Is Back, and This Time It's a RAT](https://hackernoon.com/stealc-is-back-and-this-time-its-a-rat?source=rss)
+  - [ ] [MEXC Account Types Explained: A Guide to Spot, Futures, RealStocks, Fiat, and Copy Trade Accounts](https://hackernoon.com/mexc-account-types-explained-a-guide-to-spot-futures-realstocks-fiat-and-copy-trade-accounts?source=rss)
+  - [ ] [Your Agent Workflow Is Mostly Code and People](https://hackernoon.com/your-agent-workflow-is-mostly-code-and-people?source=rss)
+- 绿盟科技技术博客
+  - [ ] [针对PHP高危漏洞，绿盟科技更新8类安全产品规则，守护用户业务安全](https://blog.nsfocus.net/%e9%92%88%e5%af%b9php%e9%ab%98%e5%8d%b1%e6%bc%8f%e6%b4%9e%ef%bc%8c%e7%bb%bf%e7%9b%9f%e7%a7%91%e6%8a%80%e6%9b%b4%e6%96%b08%e7%b1%bb%e5%ae%89%e5%85%a8%e4%ba%a7%e5%93%81%e8%a7%84%e5%88%99%ef%bc%8c/)
+  - [ ] [PHP远程代码执行漏洞（CVE-2026-109618/CVE-2026-109619）通告](https://blog.nsfocus.net/php%e8%bf%9c%e7%a8%8b%e4%bb%a3%e7%a0%81%e6%89%a7%e8%a1%8c%e6%bc%8f%e6%b4%9e%ef%bc%88cve-2026-109618-cve-2026-109619%ef%bc%89%e9%80%9a%e5%91%8a-2/)
+  - [ ] [前端在 AI Coding 的应用实践：把 AI 用成日常编码搭档](https://blog.nsfocus.net/%e5%89%8d%e7%ab%af%e5%9c%a8-ai-coding-%e7%9a%84%e5%ba%94%e7%94%a8%e5%ae%9e%e8%b7%b5%ef%bc%9a%e6%8a%8a-ai-%e7%94%a8%e6%88%90%e6%97%a5%e5%b8%b8%e7%bc%96%e7%a0%81%e6%90%ad%e6%a1%a3/)
+- 奇客Solidot–传递最新科技情报
+  - [ ] [梵高名画《The Starry Night》可能描绘的是真实的夜空](https://www.solidot.org/story?sid=85697)
+  - [ ] [希腊通过法案禁止 15 岁以下儿童使用社媒](https://www.solidot.org/story?sid=85696)
+  - [ ] [宫本茂成为首位获得日本文化勋章的游戏从业者](https://www.solidot.org/story?sid=85695)
+  - [ ] [联合国警告厄尔尼诺可能导致数千万人粮食短缺](https://www.solidot.org/story?sid=85694)
+  - [ ] [mRNA 癌症疫苗将死亡复发风险减少 42%](https://www.solidot.org/story?sid=85693)
+  - [ ] [浏览器 Arc 将于 12 月关闭](https://www.solidot.org/story?sid=85692)
+  - [ ] [Switch 2 越狱能运行自制程序](https://www.solidot.org/story?sid=85691)
+  - [ ] [KeePassXC 2.8.0 释出](https://www.solidot.org/story?sid=85690)
+  - [ ] [eMudhra 退出全球 CA 业务](https://www.solidot.org/story?sid=85689)
+  - [ ] [趋势科技在公开的内核邮件列表上披露内核漏洞](https://www.solidot.org/story?sid=85688)
+  - [ ] [科学家揭示低温延缓衰老的机制](https://www.solidot.org/story?sid=85687)
+  - [ ] [逾半数美国人认为 AI 对社会有害](https://www.solidot.org/story?sid=85686)
+  - [ ] [研究识别出第一位企业心理病态者](https://www.solidot.org/story?sid=85685)
+  - [ ] [毅力号行使距离超机遇号刷新历史记录](https://www.solidot.org/story?sid=85684)
+  - [ ] [因加州考虑征收亿万富翁税扎克伯格有意离开](https://www.solidot.org/story?sid=85683)
+  - [ ] [OpenClaw 作者称他上个月花掉了千万美元的 Tokens](https://www.solidot.org/story?sid=85682)
+  - [ ] [美光桃园厂员工罢工一天](https://www.solidot.org/story?sid=85681)
+  - [ ] [EA 关闭 BioWare 工作室，取消《质量效应》新作开发](https://www.solidot.org/story?sid=85680)
+- 黑海洋Wiki | AI机器人硬件开发 | 网络安全攻防实战 | 区块链技术文档教程 - 免费资源平台
+  - [ ] [技能制造技能的skill](https://blog.upx8.com/skill)
+  - [ ] [C盘清理神器 (Skills)](https://blog.upx8.com/C-Skills)
 - 黑鸟
-  - [ ] [潜伏两月突然发难：Tor 近10%出口中继被黑客控制](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451189455&idx=1&sn=2f3400ec37331f83da856c18d442fcca)
-- 天御攻防实验室
-  - [ ] [中央情报局将国内人工智能企业列为情报目标](https://mp.weixin.qq.com/s?__biz=MzU0MzgyMzM2Nw==&mid=2247487269&idx=1&sn=c7ad18052d33e23b5345363dad3b3c67)
+  - [ ] [一部被监听的iPhoneX，牵出横跨三国的二十亿美元秘密资金网](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451189487&idx=1&sn=5663e7b2632f94382e55d17b480f4e7a)
+- 长亭安全应急响应中心
+  - [ ] [【在野利用】PHP Core 远程代码执行漏洞（CVE-2026-109618/109619）](https://mp.weixin.qq.com/s?__biz=MzIwMDk1MjMyMg==&mid=2247493488&idx=1&sn=b73f0826551149f36dfe65369ec64281)
+- NVISO Labs
+  - [ ] [PHP2Shell Operational Guidance](https://blog.nviso.eu/2026/10/23/php2shell-operational-guidance/)
+- 代码卫士
+  - [ ] [思科修复 Expressway 严重漏洞，可用于 RCE 攻击](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247527504&idx=1&sn=8e7175cc4854eb2e71a497ff5bbcf412)
+  - [ ] [Node2Shell：Node.js 修复严重的 RCE 漏洞](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247527504&idx=2&sn=030c1ac0d75994a886f32e1d67735f9f)
 - 安全客
-  - [ ] [75%的网站都该警惕了！PHP「php2shell」高危漏洞深度解析与修复指南](https://mp.weixin.qq.com/s?__biz=MzA5ODA0NDE2MA==&mid=2649790606&idx=1&sn=143aa778ebfd3d88d84926430d4a9727)
-- 信息安全国家工程研究中心
-  - [ ] [联合国独立科学小组提示AI失控风险加剧，老办法可能不够用了](https://mp.weixin.qq.com/s?__biz=MzU5OTQ0NzY3Ng==&mid=2247505431&idx=1&sn=4d217f6bc487ef4ab2dc683911b477c2)
-- 安全研究GoSSIP
-  - [ ] [G.O.S.S.I.P 阅读推荐 2026-10-22 如何对抗 AI 黑客的攻击 ？港科大团队最新研究 RedHerring](https://mp.weixin.qq.com/s?__biz=Mzg5ODUxMzg0Ng==&mid=2247502333&idx=1&sn=0218148870b5c36c9073f59fc8636008)
-- 微步在线
-  - [ ] [威胁情报下半场，不能只有IOC！](https://mp.weixin.qq.com/s?__biz=MzI5NjA0NjI5MQ==&mid=2650188512&idx=1&sn=ea72d55c3c0837ab71a22cf3c987f03e)
+  - [ ] [你的对手不是人了：Claude+Grok组队，400家金融机构被AI全自动攻破](https://mp.weixin.qq.com/s?__biz=MzA5ODA0NDE2MA==&mid=2649790612&idx=1&sn=bd189312c5882e6f90847903ad4866d7)
+- darkreading
+  - [ ] [Trust Is Not What It Seems — And Fraudsters Are Counting on It](https://www.darkreading.com/cyber-risk/trust-is-not-what-it-seems-and-fraudsters-are-counting-on-it)
+  - [ ] [Exposed to PHP2Shell? Cyber Experts Weigh in With Advice](https://www.darkreading.com/application-security/exposed-php2shell-cyber-experts-advice)
+  - [ ] [AI Tools Are Generating Massive Attacks for Little Cost](https://www.darkreading.com/cybersecurity-operations/ai-tools-massive-attacks-little-cost)
+  - [ ] [Why Caribbean Threats Cascade Into Global Cyber-Risk](https://www.darkreading.com/cyber-risk/why-caribbean-threats-cascade-global-cyber-risk)
+  - [ ] [Cyber Insurance's New Reality: Underwriting Isn't Enough](https://www.darkreading.com/cyber-risk/cyber-insurances-underwriting-isnt-enough)
+  - [ ] [AI Agents as Insider Threats: Inside Microsoft's Bet on a Unified Security Stack](https://www.darkreading.com/cybersecurity-operations/ai-agents-insider-threats-inside-microsoft-unified-security-stack)
+  - [ ] [State Bank of India Suffers a Customer PII Data Leak](https://www.darkreading.com/cyberattacks-data-breaches/state-bank-india-customer-pii-data-leak)
+- 奶牛安全
+  - [ ] [数据泄露情报2026.10.23 - 美国大型数字健](https://mp.weixin.qq.com/s?__biz=MzU4NjY0NTExNA==&mid=2247489951&idx=1&sn=b666a1e47832a9f7da5ea674e58ee5f5)
+  - [ ] [数据泄露情报2026.10.23 - 美国大型数字健康企业sharecare 25G数据泄露](https://mp.weixin.qq.com/s?__biz=MzU4NjY0NTExNA==&mid=2247489945&idx=1&sn=3d9a184afb26be0b8d8be693c4cb01aa)
+- 君哥的体历
+  - [ ] [广州期货交易所科技有限公司诚招安全人才！｜总第69期](https://mp.weixin.qq.com/s?__biz=MzI2MjQ1NTA4MA==&mid=2247492606&idx=1&sn=5fd8f03f433ca0ceea0914235c742c95)
+- HackerNews
+  - [ ] [OpenCode 漏洞允许恶意 MCP 服务器在 Windows 和 WSL 上于登录期间执行代码](http://0.0.0.0:8080/post/64826)
+  - [ ] [Amazon 称 PHP2Shell 利用始于补丁发布前 4 天](http://0.0.0.0:8080/post/64825)
+  - [ ] [执法机构在非洲捣毁近 11,000 个网络犯罪网络](http://0.0.0.0:8080/post/64824)
+  - [ ] [Railway 在潜在泄露后警告开发者轮换机密](http://0.0.0.0:8080/post/64823)
+  - [ ] [Capcom 确认数据泄露影响 1,170 万个账户](http://0.0.0.0:8080/post/64822)
+  - [ ] [Arista 警告 VeloCloud 严重 SQL 注入零日漏洞已被利用攻击](http://0.0.0.0:8080/post/64821)
+- 天御攻防实验室
+  - [ ] [俄罗斯GRU黑客入侵特朗普女婿手机，荷兰国](https://mp.weixin.qq.com/s?__biz=MzU0MzgyMzM2Nw==&mid=2247487285&idx=1&sn=55f088fdda44ab5cefc016ce532d90b0)
+  - [ ] [俄罗斯GRU黑客入侵特朗普女婿手机，荷兰国防情报与安全局随后获得访问权限](https://mp.weixin.qq.com/s?__biz=MzU0MzgyMzM2Nw==&mid=2247487280&idx=1&sn=e52ac43342e260f30e187eb70134fb70)
+- 安全内参
+  - [ ] [主机遭远控造成危害后果，内蒙古两家企业被约谈整改](https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247516769&idx=1&sn=5380f484b019e9789c2b8037a8970533)
+  - [ ] [史上最高罚款！Meta因“剑桥分析”数据泄露案被罚1780亿元](https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247516769&idx=2&sn=12117c6fe796faaf32c18c8cad2e1641)
+- 360 Netlab Blog - Network Security Research Lab at 360
+  - [ ] [AI安全专题周报（20261023）](https://blog.netlab.360.com/aian-quan-zhuan-ti-zhou-bao-10/)
 - 奇安信威胁情报中心
-  - [ ] [补丁未至，攻击先行：PHP2Shell 在野攻击全记录](https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247521009&idx=1&sn=45841c97d342011631156787322a6e8d)
-- ChaMd5安全团队
-  - [ ] [EtherHiding 后门样本分析](https://mp.weixin.qq.com/s?__biz=MzIzMTc1MjExOQ==&mid=2247514508&idx=1&sn=c952b8745658e3d90d1192430e48fc67)
-- VLab安全实验室
-  - [ ] [PHP远程代码执行漏洞分析：漏洞预警](https://mp.weixin.qq.com/s?__biz=MzkwNzIxMDUyNg==&mid=2247485283&idx=1&sn=9828430f24778f5010aec60ded45e045)
-- 滴滴安全应急响应中心
-  - [ ] [DSRC｜26年第三季度奖励发放公告](https://mp.weixin.qq.com/s?__biz=MzA3Mzk1MDk1NA==&mid=2651909532&idx=1&sn=9596c40646ce9094c7dfe689d6a17780)
-- 青藤云安全
-  - [ ] [基于RASP技术的应用内生安全构建与实践](https://mp.weixin.qq.com/s?__biz=MzAwNDE4Mzc1NA==&mid=2650851997&idx=1&sn=dca107ce23a7fdcbd3f174aed9e874ca)
-- 安全学术圈
-  - [ ] [征稿通知 | 第六届全国开源情报技术大会（COSINT 2026）](https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247496022&idx=1&sn=dde0f3636b91dca58cfb34fc175550d5)
+  - [ ] [每周高级威胁情报解读(2026.10.16~10.22)](https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247521011&idx=1&sn=033a8d339775d9a200037a94fa2b43b9)
+- 威努特安全网络
+  - [ ] [从泵站到调度，威努特四层防护筑牢城市排水工控安全防线](https://mp.weixin.qq.com/s?__biz=MzAwNTgyODU3NQ==&mid=2651144745&idx=1&sn=feabd0ed4a1eb957bf1d14409d4cfb4e)
+- M01N Team
+  - [ ] [每周蓝军技术推送（2026.10.17-10.23）](https://mp.weixin.qq.com/s?__biz=MzkyMTI0NjA3OA==&mid=2247495611&idx=1&sn=99c0f88569da3d11bbd3da8a4697996b)
+- 网络空间安全科学学报
+  - [ ] [2026年网络空间安全学术会议在成都成功召开](https://mp.weixin.qq.com/s?__biz=MzI0NjU2NDMwNQ==&mid=2247510497&idx=1&sn=069815bcdb45625cf35476944d1d199d)
+- 安全圈
+  - [ ] [【安全圈】老乡鸡小程序又崩了](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652079459&idx=1&sn=9bbd43e57a372693618b7ed16c3c2af4)
 - 复旦白泽战队
-  - [ ] [Skill Trojan Horse：二进制文件实现隐蔽的恶意代码注入](https://mp.weixin.qq.com/s?__biz=MzU4NzUxOTI0OQ==&mid=2247500084&idx=1&sn=428c6b2766b7e44efa5cf17307688dea)
-- 补天平台
-  - [ ] [补天校园 GROW 计划9月榜单公布，蓄力冲刺年度榜单！](https://mp.weixin.qq.com/s?__biz=MzI2NzY5MDI3NQ==&mid=2247511272&idx=1&sn=f35a82facb87ffa6b90abf961acab3a7)
-- 极客公园
-  - [ ] [宇树 10 周年，王兴兴：我劝你相信 AI](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653115318&idx=1&sn=077be7922aa9a208953adab6dfc8c209)
-  - [ ] [AI 到处挖漏洞一整年，终于给人类爆了个大的](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653115304&idx=1&sn=4430a37c19df1aa3532d1e073b63dd63)
-  - [ ] [微软员工数十年来首次下降；沃尔玛/山姆推出 Agent 购物接口；推动 SpaceX 和特斯拉合并，马斯克财富有望暴涨 | 极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653115218&idx=1&sn=d85adce659993d0788bdc584231d32a7)
-- 中国信息安全
-  - [ ] [专题·网暴治理 | 李晓东：以多元主体协同推进网络暴力治理](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664267986&idx=1&sn=ff19d96c8724f314d1a2633d985567cb)
-  - [ ] [快卸载！艾米聊、飞舟……这27款App涉诈情况突出](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664267986&idx=2&sn=7a50e0d74be2f4edffe7891af852bc8d)
-  - [ ] [观点 | 词元交易市场规范运行的现实需求与法治路径](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664267986&idx=3&sn=9d9cbcceb2f326aea4f264e6e84b9aec)
-  - [ ] [评论 | 不容虚假人设污染网络空间](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664267986&idx=4&sn=c438cdc0f5b4072a2f0b67d6c71342d1)
-  - [ ] [CNNVD | 关于PHP资源管理错误漏洞的通报](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664267978&idx=1&sn=7630b152f515d36b9bd2d8fb7b8d22c6)
-- 数世咨询
-  - [ ] [MITRE ATT&CK v20 重磅更新：AI 攻击、MFA 绕过及工控威胁全面扩展](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247544271&idx=1&sn=3bc43ef00e359eec7da16f6d4bfd3767)
-  - [ ] [直播预约：网络谣言的危害与治理](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247544271&idx=2&sn=fc57121e809dabbab2aecbae32a02993)
-- 默安科技
-  - [ ] [从“人海战术”到“智能对抗”：默安科技CEO聂万泉为发展中国家考察团授课](https://mp.weixin.qq.com/s?__biz=MzIzODQxMjM2NQ==&mid=2247502134&idx=1&sn=f0f44f9482ddb5e32becd696c5d85aa8)
-- 国家互联网应急中心CNCERT
-  - [ ] [关于对PHP2Shell漏洞开展修复的风险提示](https://mp.weixin.qq.com/s?__biz=MzIwNDk0MDgxMw==&mid=2247502396&idx=1&sn=c5b83982e6eacdbdaf97d39d936a43ad)
-- 安全牛
-  - [ ] [工具报错后，Claude竟利用漏洞执行命令？4类真实案例揭示AI Agent越界风险](https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651143027&idx=1&sn=47e0aa9dfa9bf5b336cc15c834ff6d95)
-  - [ ] [Windows更新乌龙：Always On VPN漏洞被误标记修复；250亿美元天价罚单落地，Meta因数据误导行为面临司法重罚| 牛览](https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651143027&idx=2&sn=e00577bb5f6951b868d5152918afd2c6)
-- 慢雾科技
-  - [ ] [PHP 爆出"互联网级"高危漏洞，Web3 的"链下软肋"该怎么补？](https://mp.weixin.qq.com/s?__biz=MzU4ODQ3NTM2OA==&mid=2247506392&idx=1&sn=58f4da7624aea0bf2aacc181bc6df3c0)
+  - [ ] [USENIX Security 2026 | 复旦大学 × 上海创智学院提出 MATE：用可编辑规则审计整条执行轨迹](https://mp.weixin.qq.com/s?__biz=MzU4NzUxOTI0OQ==&mid=2247500085&idx=1&sn=0f6d5329a4823300c36eae1850db735a)
+- 字节跳动安全中心
+  - [ ] [金秋护航，来字节跳动安全与风控收获你的专属 Offer！](https://mp.weixin.qq.com/s?__biz=MzUzMzcyMDYzMw==&mid=2247496398&idx=1&sn=9e334a6f0e34d5ba23744a46e2c63877)
+- 微步在线
+  - [ ] [从单人提效到团队起飞，安全运营如何超进化](https://mp.weixin.qq.com/s?__biz=MzI5NjA0NjI5MQ==&mid=2650188513&idx=1&sn=ca1a08a21f0cdf5d21905e2210e5e598)
+- 火绒安全
+  - [ ] [火绒小问答——「企业版」水印设置](https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247538443&idx=1&sn=7b77e1ba2a87a9e42024136da23cbf10)
+  - [ ] [霜降 | 一霜知秋暮 一念护网安](https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247538443&idx=2&sn=bc8bb61fe43e9baf49e5ce9940fb8986)
+  - [ ] [【火绒安全周报】国家计算机病毒应急处理中心发文/日本汉堡王1118万条客户信息遭泄露](https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247538443&idx=3&sn=ec549c0f5e10c7630362161ae308a71b)
+  - [ ] [诚邀渠道合作伙伴共启新征程](https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247538443&idx=4&sn=ef8ac2449e54682a80a7adbd393e5e80)
 - 字节跳动技术团队
-  - [ ] [火山引擎云数据库 Lakebase 正式发布：让 Agent 高效访问库、湖数据](https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247523456&idx=1&sn=33fb7c4c1b2c914c92ab3bd1ae11a117)
-- 威胁猎人Threat Hunter
-  - [ ] [威胁猎人黑灰产黑话词典3.0，免费分享！](https://mp.weixin.qq.com/s?__biz=MzI3NDY3NDUxNg==&mid=2247505424&idx=1&sn=0e7ed14b31326da1fc28aa059415889b)
-- 美团技术团队
-  - [ ] [从LOOP到图探索 - 算法模型的AutoResearch自进化系统架构演进之路](https://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&mid=2651783546&idx=1&sn=23cd32a43243cd53e4e571a73a38a160)
-  - [ ] [报名 | 美团创新论坛 - 具身智能与大模型：技术演进与商业化进程](https://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&mid=2651783546&idx=2&sn=bd16e270970c378779ee3202fede3c51)
-  - [ ] [EMNLP 2026 | 来和美团研究员聊聊物理世界 AI（附晚餐会报名链接）](https://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&mid=2651783546&idx=3&sn=ced3d5b628469c8548a0caa714ba3e93)
-- 丁爸 情报分析师的工具箱
-  - [ ] [【开源报告】莫迪执政以来印度网络情报力量体系的 建设原则、运用机制与发展趋势](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651157803&idx=1&sn=b8546e55606118026cf0795f2e9e24e4)
-  - [ ] [【征稿通知】第六届全国开源情报技术大会（COSINT 2026）](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651157803&idx=2&sn=29beda20c4b7a85afd2ba40588b349d5)
-- 天融信阿尔法实验室
-  - [ ] [【漏洞复现】天融信关于PHP远程代码执行漏洞CVE-2026-109618/CVE-2026-109619(PHP2Shell)的风险提示](https://mp.weixin.qq.com/s?__biz=Mzg3MDAzMDQxNw==&mid=2247497082&idx=1&sn=47ea0886e806ca0cc3553a9bcec601ef)
-- CNVD漏洞平台
-  - [ ] [关于对PHP2Shell漏洞开展修复的风险提示](https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247497449&idx=1&sn=cfee892431137c34fc5150b5666ac5ce)
-- 老范讲故事｜AI、大模型与商业世界的故事
-  - [ ] [去年5万嫌贵的英伟达算力卡今年9万抢：抢的是产能](https://lukefan.com/2026/10/22/rtx-pro-5500-china-ai-chip-capacity-rush/)
-- 第七星尘的独立博客
-  - [ ] [记一次PHP安全漏洞的马拉松式修复](https://blog.star7th.com/2026/10/2643.html)
-- 61’s life
-  - [ ] [20261022](https://61.life/2026/1022)
-- SEISAMUSE
-  - [ ] [而立不惑](https://www.seis-jun.xyz/blog/2026-10-23-confucious-words.html)
-- 懒得勤快的博客_互联网分享精神
-  - [ ] [虚拟磁盘工具 SoftPerfect RAM Disk v26.10中文注册版](https://masuit.net/1937)
-  - [ ] [PDF-XChangeEditorPlus 11.1.1简体中文学习版](https://masuit.net/1484)
+  - [ ] [OpenViking 网关：让任意客户端用上 Agentic 记忆](https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247523647&idx=1&sn=f96a64e413be6cdbaf0936f0a2a69f23)
 - 深信服千里目安全技术中心
-  - [ ] [【已复现】PHP远程代码执行漏洞(CVE-2026-109618/CVE-2026-109619)](https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247526257&idx=1&sn=2d111f3c59ab931f6bfd16d1cec9083d)
+  - [ ] [【漏洞通告】Node.js 多个安全漏洞(CVE-2026-105482 / CVE-2026-111497)](https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247526285&idx=1&sn=1a277192a85ab850df14484d6436587c)
+  - [ ] [【漏洞通告】GitLab未认证远程代码执行漏洞(CVE-2026-110264)](https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247526285&idx=2&sn=cb7cf0a10ef1a0db0c12509407c364a0)
+- 阮一峰的网络日志
+  - [ ] [科技爱好者周刊（第 416 期）：编程已经面目全非](http://www.ruanyifeng.com/blog/2026/10/weekly-issue-416.html)
+- 中国信息安全
+  - [ ] [专题·网暴治理 | 网络暴力的治理难点与立法回应](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664267999&idx=1&sn=7132c1be690906832d2aa1265a127ed5)
+  - [ ] [前沿 | 自甘风险规则在智能体安全责任中的适用](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664267999&idx=2&sn=43dfa6dd1fa4e2205f326ea089e19624)
+  - [ ] [行业 | 端云一体讯飞星火X2.6大模型正式发布——让敏感数据留在端，把复杂任务交给云](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664267999&idx=3&sn=c8db277c84c8fcfa0a14d735ca870970)
+  - [ ] [观点 | 构建人工智能赋能社会治理的风险防范体系](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664267999&idx=4&sn=b442ee42ec5bdc513bd5e1407abd677d)
+  - [ ] [评论 | 智能体犯错，谁来承担责任？](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664267999&idx=5&sn=ea6c4396ee74d975c6ef5b709ce559fc)
+- 奇安信 CERT
+  - [ ] [安全热点周报：黑客在 PHP2Shell 漏洞公开披露前4天就试图利用该漏洞](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247507917&idx=1&sn=c0266b07d6a78bf955e592bdfd4b1846)
+- 奇安信病毒响应中心
+  - [ ] [每周勒索威胁摘要](https://mp.weixin.qq.com/s?__biz=MzI5Mzg5MDM3NQ==&mid=2247498653&idx=1&sn=2a8b794a50724a59c76b4a0179b09140)
+- 安全牛
+  - [ ] [同一个 AI Agent，凭什么既能查张三的工资又能看李四的订单？——OAuth 令牌在 AI 时代的三个致命缺口](https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651143034&idx=1&sn=6cf52dd249de2583a8f7f3eeb3241cbc)
+  - [ ] [【调研启动】《医疗行业数据安全能力建设应用指南（2026版）》](https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651143034&idx=2&sn=41e8b1810a9ab695f39839bb309177e0)
+- 慢雾科技
+  - [ ] [威胁情报｜警惕！Web3 面试题暗藏盗窃后门](https://mp.weixin.qq.com/s?__biz=MzU4ODQ3NTM2OA==&mid=2247506403&idx=1&sn=9eebfd36706b74c2e1e3ac01f32a9a2b)
+- 天融信阿尔法实验室
+  - [ ] [【风险提示】天融信关于Node.js Brotli解码器远程代码执行漏洞(CVE-2026-111497)的风险提示](https://mp.weixin.qq.com/s?__biz=Mzg3MDAzMDQxNw==&mid=2247497087&idx=1&sn=8dcdf5d20033d43ab0ae6337b7ae0905)
+- Jimmy Song – Jimmy Song's Blog
+  - [ ] [From Cloud Native to AI Native: Do We Really Need to Reinvent the Wheel?](https://jimmysong.io/blog/ai-native-reinvent-wheels/)
+- 墨菲安全
+  - [ ] [四项入选｜墨菲安全上榜数说安全《2026年中国网络安全市场全景图》](https://mp.weixin.qq.com/s?__biz=MzkwOTM0MjI5NQ==&mid=2247488762&idx=1&sn=d623ed2de7b80140eb16bc07cbc3dabe)
+- KAIX.IN
+  - [ ] [移除了 webmention 功能](https://kaix.in/2026/1023/)
+- 电子物证
+  - [ ] [【以电子数据为主导，多维度构建完整证据链条】](https://mp.weixin.qq.com/s?__biz=MzAwNDcwMDgzMA==&mid=2651049242&idx=1&sn=e96794083d00083f785dd4cf498e48f3)
+  - [ ] [吴洪淇 | 刑事电子数据规范的体系化反思](https://mp.weixin.qq.com/s?__biz=MzAwNDcwMDgzMA==&mid=2651049242&idx=2&sn=2f69b38fd40a9c4b1883168a2f273ad8)
+- 陈沙克日志
+  - [ ] [显示器购买 HP S27Q](https://www.chenshake.com/2026/10/23/HP-monitor-S27Q/)
+- 信息安全国家工程研究中心
+  - [ ] [PHP 曝两个"满分级"漏洞，多国政府网站连夜下线](https://mp.weixin.qq.com/s?__biz=MzU5OTQ0NzY3Ng==&mid=2247505438&idx=1&sn=173d513da9a3e2cb851daaf35f1a9bb9)
+- 卢昌海个人主页
+  - [ ] [Latest post on Threads：2026.10.23](https://www.changhai.org/articles/miscellaneous/eblog/202609.php#latest)
+- 极客公园
+  - [ ] [DeepSeek 据悉完成 1000 亿元新一轮融资；特斯拉三季度利润大跌 43%；微信称已完成适配 iPhone Duo | 极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653115337&idx=1&sn=babf9df6bcdac4c459bdeb99074adc3e)
+- 刘拾柒的个人博客
+  - [ ] [盘了 4986 篇生财文章后，我把 28 个已验证项目画成了一棵决策树](https://blog.diqigan.cn/posts/money/project-selection-decision-tree.html)
+- Yak Project
+  - [ ] [网络安全 Harness 的悲歌](https://mp.weixin.qq.com/s?__biz=Mzk0MTM4NzIxMQ==&mid=2247530485&idx=1&sn=5fe2257c15891a7286294d9ccf3080b2)
 - 绿盟科技CERT
-  - [ ] [【已复现验证】PHP远程代码执行漏洞（CVE-2026-109618/CVE-2026-109619）](https://mp.weixin.qq.com/s?__biz=Mzk0MjE3ODkxNg==&mid=2247493689&idx=1&sn=41df1c8ea9a6c7a3153d744d876e1903)
+  - [ ] [【处置手册】PHP远程代码执行漏洞（CVE-2026-109618/CVE-2026-109619）](https://mp.weixin.qq.com/s?__biz=Mzk0MjE3ODkxNg==&mid=2247493721&idx=1&sn=0e73454d53812475a4f22b4317551980)
+- OPPO安全中心
+  - [ ] [OSRC发布《AI辅助挖洞提交与测试规范》及违规白帽处罚公告](https://mp.weixin.qq.com/s?__biz=MzUyNzc4Mzk3MQ==&mid=2247495087&idx=1&sn=fa940fb8fc529a82379b3f07b1c83d7d)
+- 老范讲故事｜AI、大模型与商业世界的故事
+  - [ ] [手机卖不动了：超级APP困住换机理由](https://lukefan.com/2026/10/23/smartphone-sales-super-apps-upgrade-cycle/)
+- 嘶吼专业版
+  - [ ] [KCon 2026开幕在即｜以100%的AI浓度，期待你的赴约](https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247587851&idx=1&sn=f021cd580b3a9a71af5b1b3eed89a59d)
+- 懒得勤快的博客_互联网分享精神
+  - [ ] [WiseCare 365 8.0.7专业学习版](https://masuit.net/36)
+  - [ ] [EmEditor 26.4专业学习版](https://masuit.net/1241)
+  - [ ] [本站千星开源项目——.NET万能工具：Masuit.Tools_2026.3.4版本发布，支持.NET4.5~.NET10](https://masuit.net/55)
+  - [ ] [赛博朋克2077.SGAMES-Cyberpunk.2077 v2.25+DLCs集成中文语音包+修改器](https://masuit.net/1923)
+- KP
+  - [ ] [100 个 VibeCoding 项目之 AI 接管小红书](https://zkpeace.com/blog-cn/posts/73051/)
 - 游研社
-  - [ ] [来看看《赛博朋克 2077》｜“边缘行者 2” 版本更新 2.5 为夜之城带来了哪些内容！](https://www.yystv.cn/p/14536)
-- JustZht's EchoChamber
-  - [ ] [2026.10.21](https://www.justzht.com/2026-10-21/)
-- 让小产品的独立变现更简单 - ezindie.com
-  - [ ] [独立开发变现周刊（第162期） : 5招反常识策略狂揽90万美元MRR](https://www.ezindie.com/weekly/issue-162)
+  - [ ] [2026北京亦庄·未来游戏电竞科技大会 成功举办](https://www.yystv.cn/p/14539)
+- Lei Mao's Log Book
+  - [ ] [California San Francisco 自驾游](https://leimao.github.io/life/California-San-Francisco-2026-Trip/)
+- 愆伏
+  - [ ] [2007，1906室](https://www.tortorse.com/archives/room-1906-2007/)
 - 张洪Heo
-  - [ ] [华为云200块钱能用多少 DeepSeek-V4.1-Flash ？](https://blog.zhheo.com/p/ij44odfx.html)
-- 如有乐享
-  - [ ] [华为云3000积分领取：沙箱+ECS部署，兑换云服务代金券](https://51.ruyo.net/19764.html)
-- Tw93 Blog
-  - [ ] [你不知道的客户端开发：选型、原生、多端与借力](https://tw93.fun/2026-10-22/desktop.html)
+  - [ ] [给 AI 编程限个上下文：把窗口砍到 300k 反而更省](https://blog.zhheo.com/p/rdxftsp4.html)
