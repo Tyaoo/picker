@@ -1,92 +1,120 @@
-# 每日安全资讯（2026-11-22）
+# 每日安全资讯（2026-11-23）
 
+- Taxodium
+  - [ ] [Album#53 - For Emma, Forever Ago](https://taxodium.ink/album-53.html)
+- MaskRay
+  - [ ] [Moving LLVM's llvm::cl options to TableGen](https://maskray.me/blog/moving-llvm-cl-options-to-tablegen)
+- 白帽Wiki - 一个简单的wiki
+  - [ ] [[2026]不要追踪我 浏览器插件](https://key08.com/index.php/2026/11/23/3407.html)
 - HackerNoon
-  - [ ] [162 Blog Posts To Learn About Blockchain Adoption](https://hackernoon.com/162-blog-posts-to-learn-about-blockchain-adoption?source=rss)
-  - [ ] [The HackerNoon Newsletter: Fridges, Hackers, AI and La Flemme (11/21/2026)](https://hackernoon.com/11-21-2026-newsletter?source=rss)
-  - [ ] [500 Blog Posts To Learn About Bitcoin](https://hackernoon.com/500-blog-posts-to-learn-about-bitcoin?source=rss)
-  - [ ] [The TechBeat: The Ghost of Columbia Still Haunts Starship's Heat Shield (11/21/2026)](https://hackernoon.com/11-21-2026-techbeat?source=rss)
-  - [ ] [Setting Up AWS Control Tower? These SCP and Networking Mistakes Can Cost You Hours](https://hackernoon.com/setting-up-aws-control-tower-these-scp-and-networking-mistakes-can-cost-you-hours?source=rss)
-  - [ ] [AI Made Us Faster. So Why Do Designers Have Less Time?](https://hackernoon.com/ai-made-us-faster-so-why-do-designers-have-less-time?source=rss)
-  - [ ] [Six Password Reset Vulnerabilities and How to Prevent Them](https://hackernoon.com/six-password-reset-vulnerabilities-and-how-to-prevent-them?source=rss)
-  - [ ] [Benchmarking AWS Amplify, Lambda, Web Functions, and ECS for Next.js](https://hackernoon.com/benchmarking-aws-amplify-lambda-web-functions-and-ecs-for-nextjs?source=rss)
-  - [ ] [Your Win Rate Is Wrong Because of the Denominator](https://hackernoon.com/your-win-rate-is-wrong-because-of-the-denominator?source=rss)
-  - [ ] [Fledge Launches World Connection Day on November 21 to Fight Loneliness](https://hackernoon.com/fledge-launches-world-connection-day-on-november-21-to-fight-loneliness?source=rss)
-  - [ ] [No Journalist? No Problem. Meet Journalistic Tech 🎤](https://hackernoon.com/no-journalist-no-problem-meet-journalistic-tech?source=rss)
-  - [ ] [Your CRM Stage Probabilities Were Made Up - Calibrate Them in an Afternoon](https://hackernoon.com/your-crm-stage-probabilities-were-made-up-calibrate-them-in-an-afternoon?source=rss)
-  - [ ] [367 Blog Posts To Learn About Bitcoin Spotlight](https://hackernoon.com/367-blog-posts-to-learn-about-bitcoin-spotlight?source=rss)
-  - [ ] [The Shortest Games in a Game Backlog Are the Ones People Finish Least](https://hackernoon.com/the-shortest-games-in-a-game-backlog-are-the-ones-people-finish-least?source=rss)
-  - [ ] [Voice Biometrics: The Night Identity Finally Learned to Speak](https://hackernoon.com/voice-biometrics-the-night-identity-finally-learned-to-speak?source=rss)
-  - [ ] [Fridges, Hackers, AI and La Flemme](https://hackernoon.com/fridges-hackers-ai-and-la-flemme?source=rss)
+  - [ ] [352 Blog Posts To Learn About Blockchain Gaming](https://hackernoon.com/352-blog-posts-to-learn-about-blockchain-gaming?source=rss)
+  - [ ] [Diagnosing Slow SQL Server Queries: A Practical Guide to Query Store and Execution Plans](https://hackernoon.com/diagnosing-slow-sql-server-queries-a-practical-guide-to-query-store-and-execution-plans?source=rss)
+  - [ ] [What Happens to Your Digital Accounts After a Chargeback?](https://hackernoon.com/what-happens-to-your-digital-accounts-after-a-chargeback?source=rss)
+  - [ ] [How to Modernize Bank Without Taking Its Payment Systems Offline](https://hackernoon.com/how-to-modernize-bank-without-taking-its-payment-systems-offline?source=rss)
+  - [ ] [How to Install Claude Code on Android With Termux](https://hackernoon.com/how-to-install-claude-code-on-android-with-termux?source=rss)
+  - [ ] [The Benefits and Risks of Updating Multiple Programs Through a Shared Handler](https://hackernoon.com/the-benefits-and-risks-of-updating-multiple-programs-through-a-shared-handler?source=rss)
+  - [ ] [The HackerNoon Newsletter: Comparing Qini, IPW, and Doubly Robust Metrics for Uplift Modeling (11/22/2026)](https://hackernoon.com/11-22-2026-newsletter?source=rss)
+  - [ ] [Every Forward-Deployed Engineer Is a Bug Report About Your Infrastructure](https://hackernoon.com/every-forward-deployed-engineer-is-a-bug-report-about-your-infrastructure?source=rss)
+  - [ ] [500 Blog Posts To Learn About Blockchain Development](https://hackernoon.com/500-blog-posts-to-learn-about-blockchain-development?source=rss)
+  - [ ] [The TechBeat: Proof of Usefulness Hackathon Final Winners Announced 🎉 (11/22/2026)](https://hackernoon.com/11-22-2026-techbeat?source=rss)
+  - [ ] [Comparing Qini, IPW, and Doubly Robust Metrics for Uplift Modeling](https://hackernoon.com/comparing-qini-ipw-and-doubly-robust-metrics-for-uplift-modeling?source=rss)
+  - [ ] [Building a Local-First Collaborative Editor With Yjs, Lexical, and IndexedDB](https://hackernoon.com/building-a-local-first-collaborative-editor-with-yjs-lexical-and-indexeddb?source=rss)
+  - [ ] [91 Blog Posts To Learn About Blockchain Application](https://hackernoon.com/91-blog-posts-to-learn-about-blockchain-application?source=rss)
 - InfoSec Write-ups - Medium
-  - [ ] [14/14 on HTB CPTS, First Attempt: What Actually Mattered](https://infosecwriteups.com/14-14-on-htb-cpts-first-attempt-what-actually-mattered-34ab2910551b?source=rss----7b722bfd1b8d---4)
-  - [ ] [AI Red Teaming: Persistent Injection](https://infosecwriteups.com/ai-red-teaming-persistent-injection-f1f5c8aeffcf?source=rss----7b722bfd1b8d---4)
-  - [ ] [Bypassing the Frontend Obfuscation: How I Uncovered a Company’s Entire Internal Architecture…](https://infosecwriteups.com/bypassing-the-frontend-obfuscation-how-i-uncovered-a-companys-entire-internal-architecture-da95e27668c9?source=rss----7b722bfd1b8d---4)
-  - [ ] [admin:admin123 — How Default Keycloak Credentials on a Cargo Training Environment Exposed 766…](https://infosecwriteups.com/admin-admin123-how-default-keycloak-credentials-on-a-cargo-training-environment-exposed-766-f026dcf45023?source=rss----7b722bfd1b8d---4)
-  - [ ] [How a Silent Websocket Led Me to Unauthenticated Uploads on a University’s Exam Platform](https://infosecwriteups.com/the-anonymous-5-gb-file-host-that-almost-wasnt-how-a-silent-websocket-led-me-to-unauthenticated-c34120be1492?source=rss----7b722bfd1b8d---4)
-  - [ ] [PHP2Shell: Practical RCE Reproduction in a Docker Lab](https://infosecwriteups.com/php2shell-practical-rce-reproduction-in-a-docker-lab-fc00fb2a8cf8?source=rss----7b722bfd1b8d---4)
-  - [ ] [The Bare LLM: Manipulating the CloudBank Chatbot (Part 2)](https://infosecwriteups.com/inside-the-bare-llm-manipulating-the-cloudbank-chatbot-part-2-8efbc92666a7?source=rss----7b722bfd1b8d---4)
-  - [ ] [The Bare LLM: Attacking and Securing the FruitMart Chatbot (Part 1)](https://infosecwriteups.com/inside-the-bare-llm-attacking-and-securing-the-fruitmart-chatbot-part-1-4eabe9ad5bbe?source=rss----7b722bfd1b8d---4)
-  - [ ] [Passing the OSEP: Course Review and Exam Preparation tips](https://infosecwriteups.com/passing-the-osep-course-review-and-exam-preparation-tips-167f987251f4?source=rss----7b722bfd1b8d---4)
-  - [ ] [My Journey To Conquering The OSCE3](https://infosecwriteups.com/my-journey-to-conquering-the-osce3-e4cb5d68467b?source=rss----7b722bfd1b8d---4)
-- 奇客Solidot–传递最新科技情报
-  - [ ] [地球 28 光年外发现一个三星系统](https://www.solidot.org/story?sid=85955)
-  - [ ] [人类免疫系统衰老在 40 岁和 60 岁后会加速](https://www.solidot.org/story?sid=85954)
-  - [ ] [夜空中的人造卫星轨迹](https://www.solidot.org/story?sid=85953)
-  - [ ] [人类数学家匆忙发布广义黎曼猜想的证明手稿](https://www.solidot.org/story?sid=85952)
-  - [ ] [GTA 6 首日销售额达到创纪录的 37.9 亿美元](https://www.solidot.org/story?sid=85951)
-  - [ ] [为勒索软件受害者提供解密服务的公司只是付钱给勒索软件组织](https://www.solidot.org/story?sid=85950)
+  - [ ] [How I Cracked the Burp Suite Certified Practitioner (BSCP) Exam — And How You Can Too!](https://infosecwriteups.com/how-i-cracked-the-burp-suite-certified-practitioner-bscp-exam-and-how-you-can-too-90ffa87b3097?source=rss----7b722bfd1b8d---4)
+  - [ ] [The Ultimate Guide to SSRF: Hunting, Bypassing and Exploiting in Modern Bug Bounty](https://infosecwriteups.com/the-ultimate-guide-to-ssrf-hunting-bypassing-and-exploiting-in-modern-bug-bounty-a43fa34ba324?source=rss----7b722bfd1b8d---4)
 - Bug Bounty in InfoSec Write-ups on Medium
-  - [ ] [Bypassing the Frontend Obfuscation: How I Uncovered a Company’s Entire Internal Architecture…](https://infosecwriteups.com/bypassing-the-frontend-obfuscation-how-i-uncovered-a-companys-entire-internal-architecture-da95e27668c9?source=rss----7b722bfd1b8d--bug_bounty)
-  - [ ] [How a Silent Websocket Led Me to Unauthenticated Uploads on a University’s Exam Platform](https://infosecwriteups.com/the-anonymous-5-gb-file-host-that-almost-wasnt-how-a-silent-websocket-led-me-to-unauthenticated-c34120be1492?source=rss----7b722bfd1b8d--bug_bounty)
-  - [ ] [How a Simple Login Gave Me $4,000 After I Found Their Entire 760 GB+ PII Exposed!](https://infosecwriteups.com/how-a-simple-login-gave-me-4-000-after-i-found-their-entire-760-gb-pii-exposed-bc39ad5281d1?source=rss----7b722bfd1b8d--bug_bounty)
-  - [ ] [Apple HOF (August 2026): Unmasking a Blind SSRF in Podcasts Connect](https://infosecwriteups.com/apple-hof-august-2026-unmasking-a-blind-ssrf-in-podcasts-connect-e86689990bab?source=rss----7b722bfd1b8d--bug_bounty)
-  - [ ] [️ Apple HOF (May 2026): Stopping Podcast Hijacking](https://infosecwriteups.com/%EF%B8%8F-apple-hof-may-2026-stopping-podcast-hijacking-5baf19fae4f4?source=rss----7b722bfd1b8d--bug_bounty)
-- 青衣十三楼飞花堂
-  - [ ] [一款单文件静态链接版Web Terminal](https://mp.weixin.qq.com/s?__biz=MzUzMjQyMDE3Ng==&mid=2247490095&idx=1&sn=3021374c9c6d54645f2dff88abdea78c)
+  - [ ] [How I Cracked the Burp Suite Certified Practitioner (BSCP) Exam — And How You Can Too!](https://infosecwriteups.com/how-i-cracked-the-burp-suite-certified-practitioner-bscp-exam-and-how-you-can-too-90ffa87b3097?source=rss----7b722bfd1b8d--bug_bounty)
+  - [ ] [The Ultimate Guide to SSRF: Hunting, Bypassing and Exploiting in Modern Bug Bounty](https://infosecwriteups.com/the-ultimate-guide-to-ssrf-hunting-bypassing-and-exploiting-in-modern-bug-bounty-a43fa34ba324?source=rss----7b722bfd1b8d--bug_bounty)
+- 奇客Solidot–传递最新科技情报
+  - [ ] [Anthropic 到 2028 年使用的电力 98% 来自化石燃料](https://www.solidot.org/story?sid=85959)
+  - [ ] [Waymo 无人驾驶出租车因旧金山洪水而陷入困境](https://www.solidot.org/story?sid=85958)
+  - [ ] [地球捕获了一颗迷你月球](https://www.solidot.org/story?sid=85957)
+  - [ ] [丰田尼桑本田同意标准化零部件以降低成本](https://www.solidot.org/story?sid=85956)
 - 黑鸟
-  - [ ] [一场专挑iPhone下手的恶意广告行动](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451190006&idx=1&sn=83db193b27264e4becfc1408c81f0822)
-- Data Breach
-  - [ ] [Cyberattack on Austrian Foreign Ministry Exposes Diplomatic Staff Data](https://securityaffairs.com/203680/hacking/cyberattack-on-austrian-foreign-ministry-exposes-diplomatic-staff-data.html)
-- 安全研究GoSSIP
-  - [ ] [ACM CCS 2026 参会小记（4）：微信小程序的密码学安全问题](https://mp.weixin.qq.com/s?__biz=Mzg5ODUxMzg0Ng==&mid=2247502602&idx=1&sn=e1711bef9b7d43c0a00d021df58528bd)
-- 看雪学苑
-  - [ ] [检测大全：Android 检测对抗源码级实战（配套3大自研工具）](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458624361&idx=2&sn=2800d8886b3a066443eebb5968737646)
-  - [ ] [PHP2Shell（CVE-2026-109618）UAF 路径分析与隔离环境复现记录](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458624361&idx=1&sn=35c1bfcaa62d03b1ebed692d70c5a7f0)
+  - [ ] [Windows 11 记录你用什么AI写代码](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451190020&idx=1&sn=2ad989b653616f2f77826889c1ec0081)
+- 青衣十三楼飞花堂
+  - [ ] [新定义--无常数项整式的跨度、距离(传说是海淀2026初一上期中)](https://mp.weixin.qq.com/s?__biz=MzUzMjQyMDE3Ng==&mid=2247490099&idx=1&sn=6358146be73725639f91fe27c1a707f2)
+- 长亭安全应急响应中心
+  - [ ] [【已复现】无需凭据获取管理员会话——VMware vCenter 认证绕过漏洞（CVE-2026-123890）](https://mp.weixin.qq.com/s?__biz=MzIwMDk1MjMyMg==&mid=2247493574&idx=2&sn=fa6556997dc76f69e9fe5503d753a9fe)
+  - [ ] [【已复现】帆软 FineReport FVS 插件复用资源导入未授权远程代码执行漏洞](https://mp.weixin.qq.com/s?__biz=MzIwMDk1MjMyMg==&mid=2247493574&idx=1&sn=c30ca613b32361daac820495c188a69c)
 - 安全圈
-  - [ ] [【安全圈】安卓恶意框架Bazuka曝光：截屏假锁屏掩护盗窃集成AI评分](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652079967&idx=3&sn=97d432e3da143b3dec3677290d6a03eb)
-  - [ ] [【安全圈】黑客部署自主AI智能体：11分钟自挖0day攻陷服务器夺Root](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652079967&idx=2&sn=85167f3d14ddd041423b52b5fed14503)
-  - [ ] [【安全圈】Linux KVM曝高危逃逸漏洞：虚机跨租户直读宿主机127GB内存](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652079967&idx=1&sn=38dfa6a339d62a690035a68d6f9dad4c)
+  - [ ] [【安全圈】AI工具打进欧盟委员会，HR系统停摆10天](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652080017&idx=3&sn=e011a548515da4f906b2a03b32765abd)
+  - [ ] [【安全圈】UAC被曝蠢到离谱的绕过，微软不分配CVE](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652080017&idx=2&sn=c4ef9c02feb49f867d9b5e707a06405a)
+  - [ ] [【安全圈】单月1130起勒索，3.11亿条数据被挂牌](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652080017&idx=1&sn=70d92ae03f620a7ace3b8888d687816a)
 - 极客公园
-  - [ ] [清华博士做了一款 AI 懒人办公神器，30 天众筹 130 万美元](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653116927&idx=1&sn=fccb701b697ab4282ed4d231f42b677b)
-  - [ ] [关于混元 4 模型、算力、刷榜与 RSI，姚顺雨回应一切](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653116908&idx=1&sn=db1021bcba9e5f9a21ab494798b8ebd1)
-  - [ ] [林俊旸新公司估值升至 50 亿美元；丁磊：短剧爆发冲击游戏产业；华为新品牌星芒发布首款阔直板手机 | 极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653116901&idx=1&sn=5a5337f17993468b99814a63203b38d3)
+  - [ ] [造物 100 #14｜给狗买个机器人保姆、在手机背后偷偷养宠物、键盘鼠标合二为一](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653116957&idx=1&sn=3e1f22fdfd08a37e67878bde367c14d9)
+  - [ ] [黄仁勋遭董事会罢免主要原因曝光；《GTA6》首发收入 37.9 亿美元，超《复联 4》总票房；马斯克收到上海工厂员工特制边角料手办](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653116938&idx=1&sn=7fe7f91d43bbb5ac2d41b802166748cb)
 - 安全分析与研究
-  - [ ] [Agent凭证生命周期与轮换安全](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247497354&idx=1&sn=92b88319326f66cc65b982509f1843e5)
+  - [ ] [跨域间接提示注入形式化建模](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247497355&idx=1&sn=ddfb08256c271d8101aa6b540ff17472)
+- 我的安全视界观
+  - [ ] [AI渗透：没拿到 shell，数据面反而更值钱](https://mp.weixin.qq.com/s?__biz=MzI3Njk2OTIzOQ==&mid=2247488284&idx=1&sn=9b6424ab05a91ce286ea6c9fead83c98)
+- 梦之光芒的电子梦
+  - [ ] [安全可控蓝军Agents体系建设](https://mp.weixin.qq.com/s?__biz=MzUyODQ0MTE2MQ==&mid=2247483816&idx=1&sn=c451b03c3aec357e4bd5211312682269)
+- 丁爸 情报分析师的工具箱
+  - [ ] [【资料】情报研究指南](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651158088&idx=2&sn=09ddf1079aae1d34f92fd2a7b1b1bc20)
+  - [ ] [【开源报告】开源情报基金会（OSINT Foundation）机构调研报告](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651158088&idx=1&sn=9be5e0d37772aba97c0f0f48607d3933)
+  - [ ] [【开源报告】全球开源情报（OSINT） 活动生态与区域发展 调研报告](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651158080&idx=1&sn=52660aba601a781b5993e385aa14a172)
+- 火绒安全
+  - [ ] [诚邀渠道合作伙伴共启新征程](https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247538929&idx=2&sn=50f68f07d5a53a29279168033cdf2b8d)
+  - [ ] [小雪 | 小雪至 天渐寒 火绒守护不降温](https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247538929&idx=1&sn=fa0d86ffa8aa28d7057393ae2902eb34)
+- 奇安信 CERT
+  - [ ] [【已复现】Artifex Ghostscript -dSAFER 沙箱绕过漏洞(CVE-2026-125396)安全风险通告](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247508224&idx=1&sn=2ab11be61822d4389080836c4f6663af)
+- Nicksxs's Blog
+  - [ ] [Remote Codex 0.2.0：一套手机界面同时控制本机 Codex 与 Antigravity](https://nicksxs.me/2026/11/22/Remote-Codex%E5%8F%8C%E5%90%8E%E7%AB%AF%E6%BC%94%E8%BF%9B-%E6%89%8B%E6%9C%BA%E5%90%8C%E6%97%B6%E6%8E%A7%E5%88%B6Codex%E4%B8%8EAntigravity/)
+- 老范讲故事｜AI、大模型与商业世界的故事
+  - [ ] [科技股暴跌：这次芯片脱钩难等TACO](https://lukefan.com/2026/11/22/us-china-chip-decoupling-taco-tech-selloff/)
 - 卢昌海个人主页
-  - [ ] [最新微博：2026 年 11 月 20 日](https://www.changhai.org/articles/miscellaneous/blog/202611.php#latest)
-- KAIX.IN
-  - [ ] [图书的插画](https://kaix.in/2026/1121/)
-- Jimmy Song – Jimmy Song's Blog
-  - [ ] [Turning Two Macs into an AI Workspace: Is T3 Code the Right Control Plane?](https://jimmysong.io/blog/t3-code-mac-agent-control-plane/)
-- 种瓜
-  - [ ] [The Machinery of Life](http://wwj718.github.io/post/%E8%AF%BB%E4%B9%A6/the-machinery-of-life/)
+  - [ ] [最新微博：2026 年 11 月 22 日](https://www.changhai.org/articles/miscellaneous/blog/202611.php#latest)
+  - [ ] [Latest post on Threads：2026.11.21](https://www.changhai.org/articles/miscellaneous/eblog/202609.php#latest)
+- Yiran's Blog
+  - [ ] [Weekly Issue-《跑步救我千千万万遍》](https://zdyxry.github.io/2026/11/22/Weekly-Issue-Running-has-saved-me/)
+- Lu Shuyu's NoteBook
+  - [ ] [我与LLM · 其一](https://blog.lushuyu.site/624.html)
 - SEISAMUSE
-  - [ ] [你站哪边？](https://www.seis-jun.xyz/blog/2026-11-21-what-place-to-you-prefer-to-stand.html)
-- 欧雷流
-  - [ ] [杭州最热那几个月，我在家里暗无天日度过](https://ourai.ws/posts/concluding-the-first-software-outsourcing-project-collaboration/)
-- I'm OWenT
-  - [ ] [一文从零手搓大语言模型训练和推理](//owent.net/2026/2613.html)
+  - [ ] [风骚律师s02e06](https://www.seis-jun.xyz/blog/2026-11-22-better-call-saul-s02e06.html)
+  - [ ] [一二三乘三](https://www.seis-jun.xyz/blog/2026-11-22-levels-and-social-class.html)
+- CodeChina · Tinyfool
+  - [ ] [黄仁勋会回来吗？英伟达仍需要有远见的领导者](https://codechina.org/2026/11/jensen-huang-nvidia-leadership)
+- 左素生
+  - [ ] [我的文竹已入冬](https://z.arlmy.me/posts/Poems/2026/20261117_WoDeWenZhuYiRuDong/)
+  - [ ] [Toots 444 2026 Nov.1 - Nov.7](https://z.arlmy.me/posts/MastodonArchives/2026/MastodonTootsArchives_20261107/)
+  - [ ] [最近惦念 20261114](https://z.arlmy.me/posts/TILs/thoughts/20261114_Recently/)
+  - [ ] [最近惦念 20261030](https://z.arlmy.me/posts/TILs/thoughts/20261030_Recently/)
+- 墙外看
+  - [ ] [【PrivateVPN怎么样】PrivateVPN中国详细使用测评](https://qiangwaikan.com/private-review/)
+  - [ ] [【蓝灯怎么样】蓝灯还能用吗？蓝灯中国测评](https://qiangwaikan.com/lantern/)
+  - [ ] [【NordVPN怎么样】NordVPN中国详细使用测评](https://qiangwaikan.com/nord-review/)
+  - [ ] [【Surfshark怎么样】Surfshark中国详细使用测评](https://qiangwaikan.com/surfshark-review/)
+  - [ ] [【PureVPN怎么样】PureVPN中国详细使用测评](https://qiangwaikan.com/pure-review/)
+- @Lenciel
+  - [ ] [Fragments 0x0025](https://lenciel.com/2026/11/fragments-0x0025/)
+- 懒得勤快的博客_互联网分享精神
+  - [ ] [AdGuard Premium v4.16 for Android广告拦截器学习版](https://masuit.net/1591)
+  - [ ] [安卓系统清理SD Maid SE 2.2.3学习版](https://masuit.net/1984)
+- 游研社
+  - [ ] [Bioware正式关闭：31年历史的“RPG之王”，如何书写自己的衰亡？](https://www.yystv.cn/p/14662)
+  - [ ] [拿了五个TGA提名后，我想聊聊《影之刃零》“又土又燃”的前身](https://www.yystv.cn/p/14660)
+  - [ ] [终于能“拉客”的欧卡，在线人数创了12年新高](https://www.yystv.cn/p/14661)
 - 祝融说。
-  - [ ] [市场与互联网通常只有由成员代理执行且间断发生的认出，故无稳定统一的「我」；大脑的统一主体，本身就是低层收敛被「再收敛」的既成结果。](https://zhurongshuo.com/posts/2026/11/2203/)
-  - [ ] [他人的「主体性」同样无法被第三方检测，有限秩序得以成立，是由「观察共识」持续维持的实践预设。](https://zhurongshuo.com/posts/2026/11/2202/)
-  - [ ] [每一次「观察锁定」都有其内侧面向，内侧只能从该次收敛自身通达，任何第三方的检验本身已是新的收敛，所能检验的只是「外侧」。](https://zhurongshuo.com/posts/2026/11/2201/)
+  - [ ] [观察收敛与确定实在的生成：一种无目的论的尺度索引过程形而上学](https://zhurongshuo.com/papers/process-metaphysics/)
+  - [ ] [代锁、评估异化与修订过载：认知权力与制度韧性的观察收敛阐释](https://zhurongshuo.com/papers/proxy-lockin/)
+  - [ ] [回环、层级与体验禁运：组合问题的一个范畴错误解](https://zhurongshuo.com/papers/third-path/)
+  - [ ] [存续保障即保持可用余量，路径多样即防单一收敛路径被锁死，持续修正即保修订通道，最小投入即限制不可逆锁定的规模。](https://zhurongshuo.com/posts/2026/11/2218/)
+  - [ ] [回应代锁的行动，均受限于主体所处的收敛条件、协作门槛与切换成本。](https://zhurongshuo.com/posts/2026/11/2217/)
+  - [ ] [评估的能力是分层的，即直接评估对象，或经复核、更换与替代路径，评估评估者本身。](https://zhurongshuo.com/posts/2026/11/2216/)
+  - [ ] [归属常难单点剥离，须经多主体、多路径的对照观察逼近，并防范归因被单方独占。](https://zhurongshuo.com/posts/2026/11/2215/)
+  - [ ] [不存在仍可修正的失败路径时，行动在事前即不合格。](https://zhurongshuo.com/posts/2026/11/2214/)
+  - [ ] [检验不替任何一方裁决。](https://zhurongshuo.com/posts/2026/11/2213/)
+  - [ ] [预期也能经由行动，把自身预期的结果锁定为现实，例如挤兑与恐慌。](https://zhurongshuo.com/posts/2026/11/2212/)
+  - [ ] [修订成本持续高于锁定收益时，共识趋于碎片，协调成本累积，主体可能自愿让渡评估权以换取确定性，此即「修订过载」。](https://zhurongshuo.com/posts/2026/11/2211/)
+  - [ ] [以代锁占有他人的再收敛通道，以转嫁免除自身决策的成本，动用的都是他人的余量。](https://zhurongshuo.com/posts/2026/11/2210/)
+  - [ ] [制度上的敞开并不等于通道的有效，有效性取决于修订输出是否随偏差信号的积累而变化，以及偏差信号及其归因解释是否不由被评估框架单方定义。](https://zhurongshuo.com/posts/2026/11/2209/)
+  - [ ] [「内化代锁」是代锁的深层形态，修订通道在制度上敞开，而主体的评估已被前置于判断之前的认知结构所预设，他人设定的框架被体验为自身的意愿。](https://zhurongshuo.com/posts/2026/11/2208/)
+  - [ ] [在有限的秩序层级，物理强制可使特定主体的可用余量归零。](https://zhurongshuo.com/posts/2026/11/2207/)
+- 中文博客 on 范叶亮 | Leo Van
+  - [ ] [AMD Ryzen AI Max+ 395 主机本地 AI 环境配置](https://leovan.me/cn/2026/11/amd-ryzen-ai-max-plus-local-ai-env/)
 - Louis C Deng's Blog
-  - [ ] [雨夜生存指南](https://blog.aeilot.top/2026/11/20/rain-survival/)
-- 愆伏
-  - [ ] [2010，瓢虫工作室](https://www.tortorse.com/archives/ladybird-studio-2010/)
-- ShineKid
-  - [ ] [密码保护：呪いの王と、血に飢えた医療隊長](https://shinekid.com/2026/11/unohana-retsu-in-jujutsu-kaisen/)
-- 如有乐享
-  - [ ] [2026年黑色星期五和网络星期一主机/域名/服务类活动收集](https://51.ruyo.net/19783.html)
-- 叶寻的博客
-  - [ ] [薅羊毛：边花钱边省钱](https://cyrusyip.org/zh-cn/posts/2026/11/22/hao-yang-mao/)
+  - [ ] [Sam Gilliam：變化、抽象藝術與自由](https://blog.aeilot.top/2026/11/22/sam-gilliam-art/)
+- 逸思杂陈
+  - [ ] [在 PikaOS 的 COSMIC Wayland 虚拟机上配置 Lamco RDP](https://blog.ponder.work/2026/11/22/cosmic-rdp-setup/)
